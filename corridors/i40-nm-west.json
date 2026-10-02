@@ -1,0 +1,46 @@
+{
+  "name": "I-40 New Mexico west: Arizona state line to Acoma",
+  "road": "Interstate 40",
+  "directions": ["eastbound", "westbound"],
+  "start": { "name": "Arizona–New Mexico state line, near Lupton", "lat": 35.330, "lon": -109.046 },
+  "end": { "name": "Acoma (Sky City) exit, exit 102", "lat": 35.085, "lon": -107.585 },
+  "lengthMiles": 106,
+  "states": ["NM"],
+  "counties": [
+    { "name": "McKinley County", "fips": "35031" },
+    { "name": "Cibola County", "fips": "35006" }
+  ],
+  "edgeCounties": [
+    { "name": "Apache County, Arizona", "fips": "04001", "note": "Only the first mile at Lupton; region and county cards not needed for the pilot." }
+  ],
+  "places": [
+    "Lupton, Arizona", "Manuelito", "Gallup", "Williams Acres", "Jamestown", "Purty Rock",
+    "Continental Divide", "Thoreau", "Prewitt", "Bluewater Village", "Milan", "Grants", "McCartys Village"
+  ],
+  "tribalLands": [
+    "Navajo Nation (Lupton, Manuelito, Red Rock, and Baca chapters; off-reservation trust land)",
+    "Acoma Pueblo"
+  ],
+  "managedLands": [
+    "Cibola National Forest (Forest Service)",
+    "El Malpais National Monument (National Park Service)",
+    "Fort Wingate Depot Activity (Defense)",
+    "Farmington and Rio Puerco field offices (Bureau of Land Management)",
+    "State Trust Land (New Mexico State Land Office)"
+  ],
+  "leadsToResearch": [
+    "Mount Taylor (Tsoodził), one of the four sacred mountains of the Navajo; Mount Taylor volcanic field",
+    "Haystack Mountain and the 1950 uranium discovery; Grants Mining District",
+    "Continental Divide: highest point on I-40",
+    "El Malpais lava flows, Bandera Volcano and the ice cave",
+    "Route 66 alignments and roadside history; the Santa Fe Railway (BNSF Transcon) alongside",
+    "Gallup: El Rancho Hotel and Hollywood westerns; Navajo Code Talkers; historic downtown",
+    "Red Rock Park, Church Rock, Navajo Church rock formation; Fort Wingate",
+    "Zuni Mountains; Bluewater Lake",
+    "Acoma Sky City: one of the oldest continuously inhabited communities in North America"
+  ],
+  "budget": {
+    "calibration": "McKinley County at every level first; record cost before continuing.",
+    "targetCards": "550 to 650 including the New Mexico region deck"
+  }
+}

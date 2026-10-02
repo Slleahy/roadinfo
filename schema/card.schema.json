@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Slleahy/roadinfo/schema/card.schema.json",
+  "title": "roadinfo card",
+  "type": "object",
+  "required": ["id", "level", "anchor", "title", "text", "sentences", "sources", "topics", "scores", "sensitive", "asOf", "themeKeys"],
+  "additionalProperties": false,
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "level": { "enum": ["sight", "stretch", "town", "county", "landscape", "region"] },
+    "anchor": {
+      "type": "object",
+      "required": ["type"],
+      "properties": {
+        "type": { "enum": ["point", "segment", "place", "county", "unit", "state", "region"] },
+        "lat": { "type": "number" },
+        "lon": { "type": "number" },
+        "reachMeters": { "type": "number", "description": "How far from the road this still matters (points)." },
+        "path": { "type": "array", "items": { "type": "array", "items": { "type": "number" }, "minItems": 2, "maxItems": 2 }, "description": "[lon, lat] pairs (segments)." },
+        "placeGeoid": { "type": "string", "description": "Census place GEOID (places)." },
+        "fips": { "type": "string", "description": "County FIPS (counties) or state FIPS (states)." },
+        "unitId": { "type": "string", "description": "Landscape unit id, e.g. ecoregion or watershed code." },
+        "name": { "type": "string" }
+      }
+    },
+    "title": { "type": "string" },
+    "text": { "type": "string" },
+    "sentences": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 5,
+      "items": {
+        "type": "object",
+        "required": ["text", "sources"],
+        "properties": {
+          "text": { "type": "string" },
+          "sources": { "type": "array", "minItems": 1, "items": { "type": "string" } }
+        }
+      }
+    },
+    "sources": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["title", "url", "retrieved", "quote"],
+        "properties": {
+          "title": { "type": "string" },
+          "url": { "type": "string" },
+          "publisher": { "type": "string" },
+          "retrieved": { "type": "string" },
+          "revision": { "type": "string" },
+          "table": { "type": "string", "description": "Dataset and year for numeric facts." },
+          "quote": { "type": "string" }
+        }
+      }
+    },
+    "topics": { "type": "array", "items": { "type": "string" } },
+    "scores": {
+      "type": "object",
+      "required": ["relevance", "interest", "confidence"],
+      "properties": {
+        "relevance": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "interest": { "type": "integer", "minimum": 1, "maximum": 5 },
+        "confidence": { "type": "integer", "minimum": 3, "maximum": 5 }
+      }
+    },
+    "sensitive": { "type": "array", "items": { "enum": ["crime", "voting", "demographics", "tragedy"] } },
+    "asOf": { "type": ["string", "null"] },
+    "themeKeys": { "type": "array", "items": { "type": "string" } },
+    "pronunciations": { "type": "object", "additionalProperties": { "type": "string" } },
+    "followOn": { "type": "array", "items": { "type": "string" } },
+    "direction": { "type": ["string", "null"], "enum": ["eastbound", "westbound", "northbound", "southbound", null] },
+    "checked": {
+      "type": "object",
+      "properties": {
+        "by": { "type": "string" },
+        "date": { "type": "string" },
+        "removed": { "type": "integer" }
+      }
+    }
+  }
+}
