@@ -1,8 +1,9 @@
-STATUS: HALT
+STATUS: GO
 
 # Budget
 
 **Hard ceiling for the pilot: $250 of Claude cloud usage, total. Never exceed it.**
+The credit expires 11:59 PM PST, November 4, 2026. Account extra usage is off ($0 spend limit).
 
 Every research or checking session reads this file first. If the first line says
 `STATUS: HALT`, the session does nothing and exits. Sessions run only when the first line
@@ -12,7 +13,7 @@ says `STATUS: GO` and the phase they were given is marked open below.
 
 | Phase | Batch | Cap | Status | Actual |
 |---|---|---|---|---|
-| 1 | Calibration: McKinley County, county deck only | $15 | not started | |
+| 1 | Calibration: McKinley County, county deck only | $15 | **open** | |
 | 2 | McKinley County: towns, sights, road stretches | $55 | not started | |
 | 3 | Cibola County: all levels | $55 | not started | |
 | 4 | Landscape decks along the corridor (shared statewide) | $40 | not started | |
