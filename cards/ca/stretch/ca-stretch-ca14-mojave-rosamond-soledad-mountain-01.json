@@ -1,0 +1,165 @@
+{
+  "id": "ca-stretch-ca14-mojave-rosamond-soledad-mountain-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-mojave-rosamond",
+    "path": [
+      [
+        -118.173695,
+        35.052543
+      ],
+      [
+        -118.17033,
+        35.04213
+      ],
+      [
+        -118.16834,
+        35.03198
+      ],
+      [
+        -118.1626,
+        35.01425
+      ],
+      [
+        -118.16044,
+        35.00506
+      ],
+      [
+        -118.15978,
+        34.99358
+      ],
+      [
+        -118.15919,
+        34.98047
+      ],
+      [
+        -118.16039,
+        34.96477
+      ],
+      [
+        -118.16131,
+        34.95203
+      ],
+      [
+        -118.16219,
+        34.94053
+      ],
+      [
+        -118.16295,
+        34.9305
+      ],
+      [
+        -118.16373,
+        34.92019
+      ],
+      [
+        -118.16459,
+        34.90887
+      ],
+      [
+        -118.16532,
+        34.89915
+      ],
+      [
+        -118.16608,
+        34.88914
+      ],
+      [
+        -118.16676,
+        34.88013
+      ],
+      [
+        -118.17159,
+        34.87179
+      ],
+      [
+        -118.17216,
+        34.86426
+      ],
+      [
+        -118.16328,
+        34.86418
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Soledad Mountain",
+  "text": "Soledad Mountain rises just south of Mojave, and gold was first found there in 1894, when prospectors chased the Queen Esther and other veins. In 1933, George Holmes struck the Silver Queen vein, which revived mining across the district and drew in investors from South Africa. The Golden Queen Mining Company was organized in 1935 to consolidate four of the mountain's mines. The mines produced more than 10 million dollars from 1894 to 1942, before a federal wartime order shut down gold mining. By 2016, the mountain had reopened as a modern open-pit, heap-leach mine.",
+  "sentences": [
+    {
+      "text": "Soledad Mountain rises just south of Mojave, and gold was first found there in 1894, when prospectors chased the Queen Esther and other veins.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1933, George Holmes struck the Silver Queen vein, which revived mining across the district and drew in investors from South Africa.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Golden Queen Mining Company was organized in 1935 to consolidate four of the mountain's mines.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The mines produced more than 10 million dollars from 1894 to 1942, before a federal wartime order shut down gold mining.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "By 2016, the mountain had reopened as a modern open-pit, heap-leach mine.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Soledad Mountain (Digital-Desert)",
+      "url": "https://mojavedesert.net/desert-fever/soledad-mountain.html",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "On Soledad Mountain, richest of the four mineral-bearing mountains, the Queen Esther and Echo mines were originally located during the excitement created by George Bowers in 1894. ... George Holmes, along with Bruce Minard, discovered the Silver Queen Mine in December of that year which revived mining activity throughout the district. ... The Golden Queen Mining Company was organized in 1935 to consolidate and mine the Queen Esther, Silver Queen, Echo and Golden Queen mines. ... The mines from 1894 to 1942 produced more than $10,000,000"
+    },
+    "s2": {
+      "title": "Soledad Mountain (Digital-Desert blog)",
+      "url": "https://digital-desert.com/blog/?p=8689",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "Soledad Mountain rises just south of the Mojave ... Gold was first found here in 1894, when prospectors chased the Queen Esther and other veins. ... In 1933, George Holmes struck the Silver Queen vein, drawing in investors from South Africa. ... until a federal wartime order shut down all gold mining. ... by 2016 reopened Soledad as a modern open-pit, heap-leach mine."
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "gold"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "soledad mountain",
+    "golden queen mine",
+    "queen esther",
+    "gold mining"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

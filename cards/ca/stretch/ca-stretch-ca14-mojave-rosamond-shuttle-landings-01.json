@@ -1,0 +1,168 @@
+{
+  "id": "ca-stretch-ca14-mojave-rosamond-shuttle-landings-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-mojave-rosamond",
+    "path": [
+      [
+        -118.173695,
+        35.052543
+      ],
+      [
+        -118.17033,
+        35.04213
+      ],
+      [
+        -118.16834,
+        35.03198
+      ],
+      [
+        -118.1626,
+        35.01425
+      ],
+      [
+        -118.16044,
+        35.00506
+      ],
+      [
+        -118.15978,
+        34.99358
+      ],
+      [
+        -118.15919,
+        34.98047
+      ],
+      [
+        -118.16039,
+        34.96477
+      ],
+      [
+        -118.16131,
+        34.95203
+      ],
+      [
+        -118.16219,
+        34.94053
+      ],
+      [
+        -118.16295,
+        34.9305
+      ],
+      [
+        -118.16373,
+        34.92019
+      ],
+      [
+        -118.16459,
+        34.90887
+      ],
+      [
+        -118.16532,
+        34.89915
+      ],
+      [
+        -118.16608,
+        34.88914
+      ],
+      [
+        -118.16676,
+        34.88013
+      ],
+      [
+        -118.17159,
+        34.87179
+      ],
+      [
+        -118.17216,
+        34.86426
+      ],
+      [
+        -118.16328,
+        34.86418
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Where the shuttle came home",
+  "text": "Edwards Air Force Base, which Highway 14 passes close to at Rosamond, was often one of the main landing strips for NASA's Space Shuttle. On April 14, 1981, the shuttle Columbia touched down on Rogers Dry Lake at Edwards, ending the first shuttle mission after more than two days in space. Astronauts John Young and Robert Crippen were aboard. Crowds of well over 200,000 people watched the landing.",
+  "sentences": [
+    {
+      "text": "Edwards Air Force Base, which Highway 14 passes close to at Rosamond, was often one of the main landing strips for NASA's Space Shuttle.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "On April 14, 1981, the shuttle Columbia touched down on Rogers Dry Lake at Edwards, ending the first shuttle mission after more than two days in space.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Astronauts John Young and Robert Crippen were aboard.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Crowds of well over 200,000 people watched the landing.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California State Route 14",
+      "url": "https://en.wikipedia.org/wiki/California_State_Route_14",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In Rosamond, the highway passes close to Edwards Air Force Base, which was often used as one of the main landing strips for NASA's Space Shuttle.",
+      "revision": "1364873558"
+    },
+    "s2": {
+      "title": "April 14, 1981: Landing of First Space Shuttle Mission",
+      "url": "https://www.nasa.gov/image-article/april-14-1981-landing-of-first-space-shuttle-mission",
+      "publisher": "NASA",
+      "retrieved": "2026-10-03",
+      "quote": "The rear wheels of the space shuttle orbiter Columbia touched down on Rogers dry lake at Edwards Air Force Base ... a stay in space of more than two days ... Astronauts John W. Young, STS-1 commander, and Robert L. Crippen, pilot, were aboard the vehicle. ... Crowds numbered well over 200,000 people"
+    },
+    "s3": {
+      "title": "Edwards Air Force Base",
+      "url": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "After Space Shuttle Columbia became the first shuttle launched into orbit on 12 April 1981, it returned to Edwards for landing.",
+      "revision": "1377275078"
+    }
+  },
+  "topics": [
+    "aerospace",
+    "history",
+    "space shuttle"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1981",
+  "themeKeys": [
+    "space shuttle",
+    "columbia",
+    "edwards air force base",
+    "sts-1"
+  ],
+  "followOn": [
+    "ca-kern-county-edwards-yeager-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
