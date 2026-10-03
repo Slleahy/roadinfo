@@ -1,0 +1,219 @@
+{
+  "id": "ca-stretch-ca178-ridgecrest-trona-trona-road-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca178-ridgecrest-trona",
+    "path": [
+      [
+        -117.67083,
+        35.622488
+      ],
+      [
+        -117.6593,
+        35.62243
+      ],
+      [
+        -117.64817,
+        35.62246
+      ],
+      [
+        -117.63515,
+        35.6225
+      ],
+      [
+        -117.62312,
+        35.62255
+      ],
+      [
+        -117.60876,
+        35.62259
+      ],
+      [
+        -117.59761,
+        35.62275
+      ],
+      [
+        -117.58191,
+        35.63089
+      ],
+      [
+        -117.57224,
+        35.63608
+      ],
+      [
+        -117.56151,
+        35.63945
+      ],
+      [
+        -117.54611,
+        35.64274
+      ],
+      [
+        -117.53388,
+        35.64439
+      ],
+      [
+        -117.52266,
+        35.64566
+      ],
+      [
+        -117.51056,
+        35.64701
+      ],
+      [
+        -117.49899,
+        35.64795
+      ],
+      [
+        -117.4879,
+        35.64871
+      ],
+      [
+        -117.4762,
+        35.64931
+      ],
+      [
+        -117.46561,
+        35.65267
+      ],
+      [
+        -117.45551,
+        35.65522
+      ],
+      [
+        -117.44442,
+        35.65647
+      ],
+      [
+        -117.43438,
+        35.66037
+      ],
+      [
+        -117.42695,
+        35.66649
+      ],
+      [
+        -117.41652,
+        35.67042
+      ],
+      [
+        -117.40631,
+        35.67505
+      ],
+      [
+        -117.39477,
+        35.68016
+      ],
+      [
+        -117.38495,
+        35.68461
+      ],
+      [
+        -117.38281,
+        35.69447
+      ],
+      [
+        -117.3901,
+        35.69994
+      ],
+      [
+        -117.39577,
+        35.70707
+      ],
+      [
+        -117.39929,
+        35.71563
+      ],
+      [
+        -117.4013,
+        35.72445
+      ],
+      [
+        -117.40132,
+        35.73388
+      ],
+      [
+        -117.39708,
+        35.74314
+      ],
+      [
+        -117.38994,
+        35.74899
+      ],
+      [
+        -117.38132,
+        35.75576
+      ],
+      [
+        -117.37884,
+        35.76219
+      ],
+      [
+        -117.38827,
+        35.76032
+      ],
+      [
+        -117.38301,
+        35.76556
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Trona Road becomes Highway 178",
+  "text": "About 7.8 miles of Trona Road became part of the state highway system in 1947, with the addition of Legislative Route 212. That portion runs from Poison Canyon westward and is now part of State Route 178. Pinnacle Road, which meets the highway here, is the entrance to the Trona Pinnacles, five miles away.",
+  "sentences": [
+    {
+      "text": "About 7.8 miles of Trona Road became part of the state highway system in 1947, with the addition of Legislative Route 212.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That portion runs from Poison Canyon westward and is now part of State Route 178.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Pinnacle Road, which meets the highway here, is the entrance to the Trona Pinnacles, five miles away.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Trona Wildrose Road and Trona Road (Gribble Nation)",
+      "url": "https://www.gribblenation.org/2025/05/trona-wildrose-road-and-trona-road.html",
+      "publisher": "Gribble Nation (California Highways)",
+      "retrieved": "2026-10-03",
+      "quote": "Trona Road from Poison Canyon westward approximately 7.8 miles is carried as part of California State Route 178. ... An approximately 7.8-mile portion of Trona Road would become part of the State Highway System in 1947 following the addition of Legislative Route Number 212. ... Pinnacle Road serves as the entrance to the Trona Pinnacles located five miles to the south."
+    }
+  },
+  "topics": [
+    "roads",
+    "history",
+    "highways"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1947",
+  "themeKeys": [
+    "trona road",
+    "highway 178",
+    "legislative route 212",
+    "trona pinnacles"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

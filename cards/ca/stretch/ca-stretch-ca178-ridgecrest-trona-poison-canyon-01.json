@@ -1,0 +1,233 @@
+{
+  "id": "ca-stretch-ca178-ridgecrest-trona-poison-canyon-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca178-ridgecrest-trona",
+    "path": [
+      [
+        -117.67083,
+        35.622488
+      ],
+      [
+        -117.6593,
+        35.62243
+      ],
+      [
+        -117.64817,
+        35.62246
+      ],
+      [
+        -117.63515,
+        35.6225
+      ],
+      [
+        -117.62312,
+        35.62255
+      ],
+      [
+        -117.60876,
+        35.62259
+      ],
+      [
+        -117.59761,
+        35.62275
+      ],
+      [
+        -117.58191,
+        35.63089
+      ],
+      [
+        -117.57224,
+        35.63608
+      ],
+      [
+        -117.56151,
+        35.63945
+      ],
+      [
+        -117.54611,
+        35.64274
+      ],
+      [
+        -117.53388,
+        35.64439
+      ],
+      [
+        -117.52266,
+        35.64566
+      ],
+      [
+        -117.51056,
+        35.64701
+      ],
+      [
+        -117.49899,
+        35.64795
+      ],
+      [
+        -117.4879,
+        35.64871
+      ],
+      [
+        -117.4762,
+        35.64931
+      ],
+      [
+        -117.46561,
+        35.65267
+      ],
+      [
+        -117.45551,
+        35.65522
+      ],
+      [
+        -117.44442,
+        35.65647
+      ],
+      [
+        -117.43438,
+        35.66037
+      ],
+      [
+        -117.42695,
+        35.66649
+      ],
+      [
+        -117.41652,
+        35.67042
+      ],
+      [
+        -117.40631,
+        35.67505
+      ],
+      [
+        -117.39477,
+        35.68016
+      ],
+      [
+        -117.38495,
+        35.68461
+      ],
+      [
+        -117.38281,
+        35.69447
+      ],
+      [
+        -117.3901,
+        35.69994
+      ],
+      [
+        -117.39577,
+        35.70707
+      ],
+      [
+        -117.39929,
+        35.71563
+      ],
+      [
+        -117.4013,
+        35.72445
+      ],
+      [
+        -117.40132,
+        35.73388
+      ],
+      [
+        -117.39708,
+        35.74314
+      ],
+      [
+        -117.38994,
+        35.74899
+      ],
+      [
+        -117.38132,
+        35.75576
+      ],
+      [
+        -117.37884,
+        35.76219
+      ],
+      [
+        -117.38827,
+        35.76032
+      ],
+      [
+        -117.38301,
+        35.76556
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Why it's called Poison Canyon",
+  "text": "Salt Wells Canyon, commonly called Poison Canyon, lies on Highway 178 about 10 miles out of Ridgecrest. It earned the name because the small stream at its west end contains toxic levels of several minerals. Rocks in the canyon known as the Fish Head Rocks were originally called the Whale Heads. They were originally painted sometime in the late 1930s or early 1940s.",
+  "sentences": [
+    {
+      "text": "Salt Wells Canyon, commonly called Poison Canyon, lies on Highway 178 about 10 miles out of Ridgecrest.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It earned the name because the small stream at its west end contains toxic levels of several minerals.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Rocks in the canyon known as the Fish Head Rocks were originally called the Whale Heads.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They were originally painted sometime in the late 1930s or early 1940s.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Salt Wells Canyon, California: Fish Rocks",
+      "url": "https://www.roadsideamerica.com/tip/22979",
+      "publisher": "Roadside America",
+      "retrieved": "2026-10-03",
+      "quote": "In Salt Wells Canyon, Commonly called 'Poison Canyon' are the 'Fish Head Rocks,' originally called 'Whale Heads.' ... Highway 178, about 10 miles out of Ridgecrest ... The rocks were originally painted sometime in the late 1930s or early 1940s. ... the small stream at its west end contains naturally occurring arsenic, selenium and other minerals at toxic levels."
+    },
+    "s2": {
+      "title": "Welcome to Ridgecrest: Poison Canyon",
+      "url": "http://welcometoridgecrest.blogspot.com/2011/02/poison-canyon.html",
+      "publisher": "Welcome to Ridgecrest (blog)",
+      "retrieved": "2026-10-03",
+      "quote": "Poison Creek is called Poison Creek because it contains toxic levels of several different minerals."
+    }
+  },
+  "topics": [
+    "geography",
+    "oddities",
+    "water"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "poison canyon",
+    "salt wells canyon",
+    "fish head rocks",
+    "arsenic"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
