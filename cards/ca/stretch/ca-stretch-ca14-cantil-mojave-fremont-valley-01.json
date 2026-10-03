@@ -1,0 +1,204 @@
+{
+  "id": "ca-stretch-ca14-cantil-mojave-fremont-valley-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-cantil-mojave",
+    "path": [
+      [
+        -117.968217,
+        35.308781
+      ],
+      [
+        -117.97772,
+        35.30293
+      ],
+      [
+        -117.98586,
+        35.29878
+      ],
+      [
+        -117.98594,
+        35.30845
+      ],
+      [
+        -117.9906,
+        35.30857
+      ],
+      [
+        -117.99904,
+        35.30151
+      ],
+      [
+        -118.00747,
+        35.29446
+      ],
+      [
+        -118.01659,
+        35.28736
+      ],
+      [
+        -118.02859,
+        35.27569
+      ],
+      [
+        -118.03473,
+        35.26787
+      ],
+      [
+        -118.03856,
+        35.25745
+      ],
+      [
+        -118.04296,
+        35.24555
+      ],
+      [
+        -118.04765,
+        35.23268
+      ],
+      [
+        -118.05123,
+        35.22293
+      ],
+      [
+        -118.05466,
+        35.21437
+      ],
+      [
+        -118.06573,
+        35.19996
+      ],
+      [
+        -118.07249,
+        35.19129
+      ],
+      [
+        -118.08119,
+        35.18012
+      ],
+      [
+        -118.08822,
+        35.17109
+      ],
+      [
+        -118.09635,
+        35.16063
+      ],
+      [
+        -118.10279,
+        35.153
+      ],
+      [
+        -118.11168,
+        35.14159
+      ],
+      [
+        -118.11801,
+        35.13328
+      ],
+      [
+        -118.12386,
+        35.12562
+      ],
+      [
+        -118.13122,
+        35.11614
+      ],
+      [
+        -118.13755,
+        35.10799
+      ],
+      [
+        -118.14343,
+        35.1003
+      ],
+      [
+        -118.14935,
+        35.0927
+      ],
+      [
+        -118.15766,
+        35.08504
+      ],
+      [
+        -118.16485,
+        35.07816
+      ],
+      [
+        -118.17249,
+        35.07112
+      ],
+      [
+        -118.17725,
+        35.06356
+      ],
+      [
+        -118.17445,
+        35.05486
+      ],
+      [
+        -118.17369,
+        35.05254
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "The Fremont Valley",
+  "text": "The Fremont Valley stretches from the town of Mojave about 70 kilometers northeast to the foothills of the Lava Mountains and Summit Range. The Rand Mountains lie at its eastern edge, the southern Sierra Nevada form its western border, and the Tehachapi Mountains border it from the southwest. Koehn Dry Lake lies in the valley, along with the communities of California City and Cantil.",
+  "sentences": [
+    {
+      "text": "The Fremont Valley stretches from the town of Mojave about 70 kilometers northeast to the foothills of the Lava Mountains and Summit Range.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Rand Mountains lie at its eastern edge, the southern Sierra Nevada form its western border, and the Tehachapi Mountains border it from the southwest.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Koehn Dry Lake lies in the valley, along with the communities of California City and Cantil.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Fremont Valley",
+      "url": "https://en.wikipedia.org/wiki/Fremont_Valley",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "stretches from the town of Mojave approximately 70 km northeast to the foothills of the Lava Mountains and Summit Range. ... The Rand Mountains are at the eastern edge of the Fremont Valley. ... The valley is home to Koehn Dry Lake and the Desert Tortoise Natural Area, as well as the communities of California City and Cantil, California.",
+      "revision": "1285231001"
+    }
+  },
+  "topics": [
+    "geography",
+    "valley",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "fremont valley",
+    "rand mountains",
+    "tehachapi mountains",
+    "koehn dry lake"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

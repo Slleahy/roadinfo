@@ -1,0 +1,226 @@
+{
+  "id": "ca-stretch-ca14-cantil-mojave-california-city-plan-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-cantil-mojave",
+    "path": [
+      [
+        -117.968217,
+        35.308781
+      ],
+      [
+        -117.97772,
+        35.30293
+      ],
+      [
+        -117.98586,
+        35.29878
+      ],
+      [
+        -117.98594,
+        35.30845
+      ],
+      [
+        -117.9906,
+        35.30857
+      ],
+      [
+        -117.99904,
+        35.30151
+      ],
+      [
+        -118.00747,
+        35.29446
+      ],
+      [
+        -118.01659,
+        35.28736
+      ],
+      [
+        -118.02859,
+        35.27569
+      ],
+      [
+        -118.03473,
+        35.26787
+      ],
+      [
+        -118.03856,
+        35.25745
+      ],
+      [
+        -118.04296,
+        35.24555
+      ],
+      [
+        -118.04765,
+        35.23268
+      ],
+      [
+        -118.05123,
+        35.22293
+      ],
+      [
+        -118.05466,
+        35.21437
+      ],
+      [
+        -118.06573,
+        35.19996
+      ],
+      [
+        -118.07249,
+        35.19129
+      ],
+      [
+        -118.08119,
+        35.18012
+      ],
+      [
+        -118.08822,
+        35.17109
+      ],
+      [
+        -118.09635,
+        35.16063
+      ],
+      [
+        -118.10279,
+        35.153
+      ],
+      [
+        -118.11168,
+        35.14159
+      ],
+      [
+        -118.11801,
+        35.13328
+      ],
+      [
+        -118.12386,
+        35.12562
+      ],
+      [
+        -118.13122,
+        35.11614
+      ],
+      [
+        -118.13755,
+        35.10799
+      ],
+      [
+        -118.14343,
+        35.1003
+      ],
+      [
+        -118.14935,
+        35.0927
+      ],
+      [
+        -118.15766,
+        35.08504
+      ],
+      [
+        -118.16485,
+        35.07816
+      ],
+      [
+        -118.17249,
+        35.07112
+      ],
+      [
+        -118.17725,
+        35.06356
+      ],
+      [
+        -118.17445,
+        35.05486
+      ],
+      [
+        -118.17369,
+        35.05254
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "A city planned for the desert",
+  "text": "California City dates to 1958, when developers bought 82,000 acres of desert to build a metropolis. The plan came from Nat Mendelsohn, a real estate developer and sociology professor, who wanted a community that would join the ranks of America's great cities. Streets were named after top universities and car makers, such as Stanford, Yale, Pontiac, and Cadillac. Vacant lots sold for 990 dollars. By 1962, only 175 homes had been built, and the grid of paved roads still has little construction.",
+  "sentences": [
+    {
+      "text": "California City dates to 1958, when developers bought 82,000 acres of desert to build a metropolis.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The plan came from Nat Mendelsohn, a real estate developer and sociology professor, who wanted a community that would join the ranks of America's great cities.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Streets were named after top universities and car makers, such as Stanford, Yale, Pontiac, and Cadillac.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Vacant lots sold for 990 dollars.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "By 1962, only 175 homes had been built, and the grid of paved roads still has little construction.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California City, California",
+      "url": "https://en.wikipedia.org/wiki/California_City,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The city was formed in 1958, when developers purchased 82,000 acres ... real estate developer and sociology professor Nat Mendelsohn ... a grid of paved roads with thousands of landowners, but with little construction activity",
+      "revision": "1373390557"
+    },
+    "s2": {
+      "title": "A California Dream",
+      "url": "https://www.mentalfloss.com/article/584564/california-dream",
+      "publisher": "Mental Floss",
+      "retrieved": "2026-10-03",
+      "quote": "In 1958 Mendelsohn, working with investors, bought 82,000 acres of land in the desert to develop a metropolis. ... The idea was to build a community that would join the ranks of America's great cities, even outdo them. ... Streets were named after the country's best universities, its biggest car manufacturers: Stanford, Yale, Pontiac, Cadillac. ... People could buy a vacant lot for $990. ... By 1962, only 175 homes had been constructed."
+    }
+  },
+  "topics": [
+    "history",
+    "planned cities",
+    "land"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1962",
+  "themeKeys": [
+    "california city",
+    "nat mendelsohn",
+    "planned city",
+    "grid of roads"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

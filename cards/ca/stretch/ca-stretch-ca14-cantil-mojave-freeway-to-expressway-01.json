@@ -1,0 +1,204 @@
+{
+  "id": "ca-stretch-ca14-cantil-mojave-freeway-to-expressway-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-cantil-mojave",
+    "path": [
+      [
+        -117.968217,
+        35.308781
+      ],
+      [
+        -117.97772,
+        35.30293
+      ],
+      [
+        -117.98586,
+        35.29878
+      ],
+      [
+        -117.98594,
+        35.30845
+      ],
+      [
+        -117.9906,
+        35.30857
+      ],
+      [
+        -117.99904,
+        35.30151
+      ],
+      [
+        -118.00747,
+        35.29446
+      ],
+      [
+        -118.01659,
+        35.28736
+      ],
+      [
+        -118.02859,
+        35.27569
+      ],
+      [
+        -118.03473,
+        35.26787
+      ],
+      [
+        -118.03856,
+        35.25745
+      ],
+      [
+        -118.04296,
+        35.24555
+      ],
+      [
+        -118.04765,
+        35.23268
+      ],
+      [
+        -118.05123,
+        35.22293
+      ],
+      [
+        -118.05466,
+        35.21437
+      ],
+      [
+        -118.06573,
+        35.19996
+      ],
+      [
+        -118.07249,
+        35.19129
+      ],
+      [
+        -118.08119,
+        35.18012
+      ],
+      [
+        -118.08822,
+        35.17109
+      ],
+      [
+        -118.09635,
+        35.16063
+      ],
+      [
+        -118.10279,
+        35.153
+      ],
+      [
+        -118.11168,
+        35.14159
+      ],
+      [
+        -118.11801,
+        35.13328
+      ],
+      [
+        -118.12386,
+        35.12562
+      ],
+      [
+        -118.13122,
+        35.11614
+      ],
+      [
+        -118.13755,
+        35.10799
+      ],
+      [
+        -118.14343,
+        35.1003
+      ],
+      [
+        -118.14935,
+        35.0927
+      ],
+      [
+        -118.15766,
+        35.08504
+      ],
+      [
+        -118.16485,
+        35.07816
+      ],
+      [
+        -118.17249,
+        35.07112
+      ],
+      [
+        -118.17725,
+        35.06356
+      ],
+      [
+        -118.17445,
+        35.05486
+      ],
+      [
+        -118.17369,
+        35.05254
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "From freeway to expressway",
+  "text": "Between 1963 and 1975, significant portions of US 6, now Highway 14, were moved to a freeway alignment. The last interchange near California City is California City Boulevard, and the road's character changes there. The former routing south of Mojave and the current routing to the north are both still known as Sierra Highway.",
+  "sentences": [
+    {
+      "text": "Between 1963 and 1975, significant portions of US 6, now Highway 14, were moved to a freeway alignment.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The last interchange near California City is California City Boulevard, and the road's character changes there.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The former routing south of Mojave and the current routing to the north are both still known as Sierra Highway.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California State Route 14",
+      "url": "https://en.wikipedia.org/wiki/California_State_Route_14",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Between 1963 and 1975, significant portions of US 6/SR 14 were moved to a freeway alignment. ... The character of the highway changes as it leaves California City with the last interchange located at California City Boulevard. ... The former routing south of Mojave (and the current routing to the north) is still known as Sierra Highway.",
+      "revision": "1364873558"
+    }
+  },
+  "topics": [
+    "roads",
+    "history",
+    "highways"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1975",
+  "themeKeys": [
+    "highway 14",
+    "freeway",
+    "sierra highway",
+    "california city boulevard"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
