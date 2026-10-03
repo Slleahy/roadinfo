@@ -1,0 +1,78 @@
+{
+  "id": "nm-mckinley-county-chaco-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "A piece of Chaco Canyon",
+  "text": "McKinley County contains part of Chaco Culture National Historical Park. The National Park Service says Chaco's cultural flowering began in the mid 800s and lasted more than 300 years. By the year 1050, it was the administrative and economic center of the San Juan Basin. The Park Service also says Chaco is central to the origins of several Navajo clans.",
+  "sentences": [
+    {
+      "text": "McKinley County contains part of Chaco Culture National Historical Park.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The National Park Service says Chaco's cultural flowering began in the mid 800s and lasted more than 300 years.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "By the year 1050, it was the administrative and economic center of the San Juan Basin.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Park Service also says Chaco is central to the origins of several Navajo clans.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "History and Culture - Chaco Culture National Historical Park",
+      "url": "https://www.nps.gov/chcu/learn/historyculture/index.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-03",
+      "quote": "The cultural flowering of the Chacoan people began in the mid 800s and lasted more than 300 years. ... By 1050, Chaco had become the ceremonial, administrative, and economic center of the San Juan Basin. ... Chaco is central to the origins of several Navajo clans and ceremonies."
+    },
+    "s2": {
+      "title": "McKinley County, New Mexico",
+      "url": "https://en.wikipedia.org/wiki/McKinley_County,_New_Mexico",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The county contains parts of \"Chaco Culture National Historical Park\" and \"Cibola National Forest.\""
+    }
+  },
+  "topics": [
+    "history",
+    "archaeology",
+    "parks"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "chaco",
+    "san juan basin"
+  ],
+  "followOn": [],
+  "direction": null,
+  "pronunciations": {
+    "Chaco": "CHAH-koh"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

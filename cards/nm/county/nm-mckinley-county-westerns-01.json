@@ -1,0 +1,55 @@
+{
+  "id": "nm-mckinley-county-westerns-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Hollywood westerns",
+  "text": "Hollywood crews filmed westerns around McKinley County in the 1940s and 1950s. The New Mexico Association of Counties says the area's rugged terrain made it a popular location.",
+  "sentences": [
+    {
+      "text": "Hollywood crews filmed westerns around McKinley County in the 1940s and 1950s.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The New Mexico Association of Counties says the area's rugged terrain made it a popular location.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "McKinley County",
+      "url": "https://www.nmcounties.org/counties/mckinley-county/",
+      "publisher": "New Mexico Association of Counties",
+      "retrieved": "2026-10-03",
+      "quote": "the region's rugged terrain made it \"a popular location in the 1940's and 1950's to film Hollywood westerns.\""
+    }
+  },
+  "topics": [
+    "history",
+    "film"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "westerns",
+    "film"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "nm-mckinley-county-navajo-homeland-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Diné Bikéyah",
+  "text": "The Navajo Nation calls its homeland Diné Bikéyah, or Navajoland. Part of that homeland lies in McKinley County. The nation says it covers over 27,000 square miles across Utah, Arizona and New Mexico, and is larger than 10 of the 50 states.",
+  "sentences": [
+    {
+      "text": "The Navajo Nation calls its homeland Diné Bikéyah, or Navajoland.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Part of that homeland lies in McKinley County.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The nation says it covers over 27,000 square miles across Utah, Arizona and New Mexico, and is larger than 10 of the 50 states.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "History",
+      "url": "https://www.navajo-nsn.gov/History",
+      "publisher": "Navajo Nation",
+      "retrieved": "2026-10-03",
+      "quote": "The Navajo people refer to themselves and their homeland as \"Diné Bikéyah, or Navajoland.\" ... \"The Navajo Nation extends into the states of Utah, Arizona and New Mexico, covering over 27,000 square miles\" and is \"larger than 10 of the 50 states in America.\""
+    },
+    "s2": {
+      "title": "McKinley County, New Mexico",
+      "url": "https://en.wikipedia.org/wiki/McKinley_County,_New_Mexico",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The county contains portions of \"Navajo Nation\" and \"Zuni Indian Reservation\""
+    }
+  },
+  "topics": [
+    "people",
+    "navajo nation",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "navajo nation",
+    "diné bikéyah"
+  ],
+  "followOn": [],
+  "direction": null,
+  "pronunciations": {
+    "Diné Bikéyah": "dih-NEH bih-KAY-ah",
+    "Navajo": "NAV-uh-hoh"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

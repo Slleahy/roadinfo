@@ -1,0 +1,75 @@
+{
+  "id": "nm-mckinley-county-church-rock-aftermath-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "After the Church Rock spill",
+  "text": "After the 1979 Church Rock uranium spill, the Navajo Nation asked New Mexico's governor to request disaster assistance. New Mexico's governor refused. Residents were warned by radio and by signs written in English, though many Navajo people speak only Diné Bizaad. The site was added to the Superfund national priorities list in 1983.",
+  "sentences": [
+    {
+      "text": "After the 1979 Church Rock uranium spill, the Navajo Nation asked New Mexico's governor to request disaster assistance.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "New Mexico's governor refused.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Residents were warned by radio and by signs written in English, though many Navajo people speak only Diné Bizaad.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The site was added to the Superfund national priorities list in 1983.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Church Rock uranium mill spill",
+      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The Navajo Nation asked the New Mexico governor Bruce King to request disaster assistance ... but he refused ... warned local residents by radio and with signs written in English ... many Navajo people ... speak only Diné Bizaad. ... In 1983, the site was entered on the National Priorities List."
+    }
+  },
+  "topics": [
+    "history",
+    "uranium",
+    "navajo nation",
+    "environment"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1983",
+  "themeKeys": [
+    "uranium",
+    "church rock",
+    "superfund"
+  ],
+  "followOn": [],
+  "direction": null,
+  "pronunciations": {
+    "Diné Bizaad": "dih-NEH bih-ZAHD"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

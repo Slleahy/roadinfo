@@ -1,0 +1,55 @@
+{
+  "id": "nm-mckinley-county-population-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "How many people live here",
+  "text": "McKinley County had an estimated 70,400 residents in the American Community Survey for 2020 through 2024. That is a five-year Census Bureau estimate, not a single-day count.",
+  "sentences": [
+    {
+      "text": "McKinley County had an estimated 70,400 residents in the American Community Survey for 2020 through 2024.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That is a five-year Census Bureau estimate, not a single-day count.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "ACS 2024 5-year, table B01003 Total Population, McKinley County NM",
+      "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01003,B19013&geo_ids=05000US35031",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-03",
+      "table": "ACS 2024 5-year (2020-2024), B01003",
+      "quote": "B01003 Estimate: 70,431"
+    }
+  },
+  "topics": [
+    "people",
+    "population"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "population"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "nm-mckinley-county-navajo-government-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "How the Navajo Nation is governed",
+  "text": "The Navajo Nation Council has 88 delegates who represent 110 chapters. The nation's three-branch government was established in 1991. Its chapters are organized into five agencies: Chinle, Eastern, Fort Defiance, Shiprock, and Tuba City.",
+  "sentences": [
+    {
+      "text": "The Navajo Nation Council has 88 delegates who represent 110 chapters.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The nation's three-branch government was established in 1991.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Its chapters are organized into five agencies: Chinle, Eastern, Fort Defiance, Shiprock, and Tuba City.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "History",
+      "url": "https://www.navajo-nsn.gov/History",
+      "publisher": "Navajo Nation",
+      "retrieved": "2026-10-03",
+      "quote": "a three-branch system (executive, legislative and judicial) ... 88 Council delegates representing 110 Navajo Nation chapters ... five agencies: Chinle, Eastern, Fort Defiance, Shiprock, and Tuba City/Western."
+    }
+  },
+  "topics": [
+    "government",
+    "navajo nation"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "navajo nation",
+    "chapters"
+  ],
+  "followOn": [],
+  "direction": null,
+  "pronunciations": {
+    "Chinle": "chin-LEE",
+    "Shiprock": "SHIP-rock"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

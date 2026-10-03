@@ -1,0 +1,75 @@
+{
+  "id": "nm-mckinley-county-church-rock-spill-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "The Church Rock spill",
+  "text": "On July 16, 1979, a tailings pond at the Church Rock uranium mill in New Mexico breached early in the morning. More than 1,000 short tons of solid mill waste and more than 90 million gallons of acidic, radioactive liquid escaped. The flood ran into Pipeline Arroyo, a tributary of the Puerco River. Contamination traveled about 80 miles downstream, reaching Navajo County, Arizona.",
+  "sentences": [
+    {
+      "text": "On July 16, 1979, a tailings pond at the Church Rock uranium mill in New Mexico breached early in the morning.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "More than 1,000 short tons of solid mill waste and more than 90 million gallons of acidic, radioactive liquid escaped.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The flood ran into Pipeline Arroyo, a tributary of the Puerco River.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Contamination traveled about 80 miles downstream, reaching Navajo County, Arizona.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Church Rock uranium mill spill",
+      "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "At around 5:30 am on July 16, 1979, a previously identified crack opened into a 20-foot-breach ... 1,100 short tons of solid radioactive mill waste and about 93 million US gallons of acidic, radioactive tailings solution ... flowed into Pipeline Arroyo, a tributary of the Puerco River ... 80 miles downstream ... Navajo County, Arizona"
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "uranium",
+    "environment"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1979",
+  "themeKeys": [
+    "uranium",
+    "church rock",
+    "puerco river"
+  ],
+  "followOn": [],
+  "direction": null,
+  "pronunciations": {
+    "Puerco": "PWER-koh"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
