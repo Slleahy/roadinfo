@@ -1,0 +1,94 @@
+{
+  "id": "ca-town-lake-isabella-golden-trout-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lake Isabella"
+  },
+  "title": "The state fish of the Kern",
+  "text": "The golden trout has been California's official freshwater state fish since 1947. California golden trout are native to two stream systems on the eastern side of the Kern River: Golden Trout Creek and the South Fork Kern River. The fish was named for Agua Bonita Waterfall, where the first specimens were collected. In 1876, 13 golden trout were put in a coffee can and carried to Cottonwood Creek.",
+  "sentences": [
+    {
+      "text": "The golden trout has been California's official freshwater state fish since 1947.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "California golden trout are native to two stream systems on the eastern side of the Kern River: Golden Trout Creek and the South Fork Kern River.",
+      "sources": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "text": "The fish was named for Agua Bonita Waterfall, where the first specimens were collected.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 1876, 13 golden trout were put in a coffee can and carried to Cottonwood Creek.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Golden trout",
+      "url": "https://en.wikipedia.org/wiki/Golden_trout",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The Golden trout has been the official freshwater state fish of California since 1947. ... normally found in the Golden Trout Creek (tributary to the Kern River), Volcano Creek (tributary to Golden Trout Creek), and the South Fork Kern River ... The fish was named after the Agua Bonita Waterfall where the first specimens were collected",
+      "revision": "1375409792"
+    },
+    "s2": {
+      "title": "California Golden Trout",
+      "url": "https://wildlife.ca.gov/Conservation/Fishes/California-Golden-Trout",
+      "publisher": "California Department of Fish and Wildlife",
+      "retrieved": "2026-10-03",
+      "quote": "California golden trout are native to two stream systems on the eastern side of the Kern River: Golden Trout Creek and the South Fork Kern River (Tulare County). ... In 1876, 13 golden trout from Mulkey Creek were put into a 'coffee can,' carried over the divide, and stocked into Cottonwood Creek"
+    },
+    "s3": {
+      "title": "5 Things You Didn't Know About California Golden Trout",
+      "url": "https://flylordsmag.com/5-things-you-didnt-know-about-california-golden-trout/",
+      "publisher": "Fly Lords",
+      "retrieved": "2026-10-03",
+      "quote": "a baker's dozen of golden trout were stashed in a coffee can and transported to Cottonwood Creek"
+    }
+  },
+  "topics": [
+    "nature",
+    "fish",
+    "rivers"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "golden trout",
+    "state fish",
+    "kern river",
+    "south fork kern river"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.61806,
+    "lon": -118.47306,
+    "radiusMeters": 6000,
+    "name": "Lake Isabella",
+    "source": "https://en.wikipedia.org/wiki/Lake_Isabella%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

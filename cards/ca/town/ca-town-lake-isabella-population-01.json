@@ -1,0 +1,64 @@
+{
+  "id": "ca-town-lake-isabella-population-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lake Isabella"
+  },
+  "title": "Lake Isabella by the numbers",
+  "text": "Lake Isabella had 3,573 people at the 2020 census, up from 3,466 at the 2010 census. It sits where the North and South Forks of the Kern River meet.",
+  "sentences": [
+    {
+      "text": "Lake Isabella had 3,573 people at the 2020 census, up from 3,466 at the 2010 census.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It sits where the North and South Forks of the Kern River meet.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lake Isabella, California",
+      "url": "https://en.wikipedia.org/wiki/Lake_Isabella,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The population was 3,573 at the 2020 census, up from 3,466 at the 2010 census. ... Lake Isabella is at the confluence of the North and South Forks of the Kern River.",
+      "revision": "1373575787"
+    }
+  },
+  "topics": [
+    "people",
+    "population"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 2,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "lake isabella population",
+    "census",
+    "kern river forks"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.61806,
+    "lon": -118.47306,
+    "radiusMeters": 6000,
+    "name": "Lake Isabella",
+    "source": "https://en.wikipedia.org/wiki/Lake_Isabella%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

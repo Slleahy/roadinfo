@@ -1,0 +1,77 @@
+{
+  "id": "ca-town-lake-isabella-queen-isabella-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lake Isabella"
+  },
+  "title": "A town named in 1893",
+  "text": "The town of Isabella was founded by Steven Barton in 1893 and named in honor of Queen Isabella of Spain. Her name was popular during the 1893 Columbian Exposition.",
+  "sentences": [
+    {
+      "text": "The town of Isabella was founded by Steven Barton in 1893 and named in honor of Queen Isabella of Spain.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Her name was popular during the 1893 Columbian Exposition.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lake Isabella, California",
+      "url": "https://en.wikipedia.org/wiki/Lake_Isabella,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The town of Isabella was founded by Steven Barton in 1893 and named in honor of Queen Isabella of Spain while her name was popular during the 1893 Columbian Exposition.",
+      "revision": "1373575787"
+    },
+    "s2": {
+      "title": "Isabella, California",
+      "url": "https://en.wikipedia.org/wiki/Isabella,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The town was founded by Steven Barton in 1893 and named in honor of Queen Isabella of Spain while her name was popular during the 1893 Columbian Exposition.",
+      "revision": "1378141378"
+    }
+  },
+  "topics": [
+    "history",
+    "names"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "isabella",
+    "steven barton",
+    "queen isabella",
+    "columbian exposition"
+  ],
+  "followOn": [
+    "ca-kern-county-isabella-dam-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.61806,
+    "lon": -118.47306,
+    "radiusMeters": 6000,
+    "name": "Lake Isabella",
+    "source": "https://en.wikipedia.org/wiki/Lake_Isabella%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

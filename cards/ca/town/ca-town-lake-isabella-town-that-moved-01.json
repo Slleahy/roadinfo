@@ -1,0 +1,82 @@
+{
+  "id": "ca-town-lake-isabella-town-that-moved-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lake Isabella"
+  },
+  "title": "A town that moved and changed its name",
+  "text": "When the Isabella dam created the lake in 1953, the town of Isabella had to move about 1.5 miles south of its original site. Its post office operated at the original site from 1896 to 1953, then at the new site until the name was changed to Lake Isabella in 1957. The original site was inundated by the lake.",
+  "sentences": [
+    {
+      "text": "When the Isabella dam created the lake in 1953, the town of Isabella had to move about 1.5 miles south of its original site.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Its post office operated at the original site from 1896 to 1953, then at the new site until the name was changed to Lake Isabella in 1957.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The original site was inundated by the lake.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lake Isabella, California",
+      "url": "https://en.wikipedia.org/wiki/Lake_Isabella,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Lake Isabella was created in 1953 by a dam on the Kern River, forcing the town to move about 1.5 miles (2.4 km) south of the original site. ... the name was changed to Lake Isabella in 1957.",
+      "revision": "1373575787"
+    },
+    "s2": {
+      "title": "Isabella, California",
+      "url": "https://en.wikipedia.org/wiki/Isabella,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "A post office operated at the original site of Isabella from 1896 to 1953, then at the relocated site from 1953 until the name was changed to Lake Isabella in 1957. ... The site was inundated by Lake Isabella.",
+      "revision": "1378141378"
+    }
+  },
+  "topics": [
+    "history",
+    "dams",
+    "names"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "lake isabella",
+    "relocation",
+    "post office",
+    "1957"
+  ],
+  "followOn": [
+    "ca-kern-county-isabella-dam-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.61806,
+    "lon": -118.47306,
+    "radiusMeters": 6000,
+    "name": "Lake Isabella",
+    "source": "https://en.wikipedia.org/wiki/Lake_Isabella%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
