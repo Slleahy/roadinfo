@@ -6,44 +6,83 @@
       "id": "ca14-ridgecrest-lancaster",
       "description": "Ridgecrest west on CA-178 to Inyokern, south on US-395 and CA-14 past Freeman Junction, Red Rock Canyon, Cantil, Mojave, and Rosamond to Lancaster.",
       "miles": 115,
-      "roads": ["CA-178", "US-395 Business", "CA-14", "CA-58 Business (Mojave)", "CA-138"]
+      "roads": [
+        "CA-178",
+        "US-395 Business",
+        "CA-14",
+        "CA-58 Business (Mojave)",
+        "CA-138"
+      ]
     },
     {
       "id": "ca178-ridgecrest-lake-isabella",
       "description": "Ridgecrest west on CA-178 through Inyokern and Freeman Junction, over Walker Pass, down the South Fork Kern River valley through Onyx, Weldon, and Mountain Mesa to Lake Isabella.",
       "miles": 60,
-      "roads": ["CA-178", "CA-14 (shared, Freeman Junction)"]
+      "roads": [
+        "CA-178",
+        "CA-14 (shared, Freeman Junction)"
+      ]
     },
     {
       "id": "ridgecrest-trona-randsburg",
       "description": "Ridgecrest east on CA-178 to Trona and the Searles Valley; separately, Ridgecrest south on US-395 through Johannesburg, Randsburg, and Red Mountain.",
       "miles": 76,
-      "roads": ["CA-178", "Trona Road", "US-395"]
+      "roads": [
+        "CA-178",
+        "Trona Road",
+        "US-395"
+      ]
     }
   ],
   "pointsFile": "corridors/ridgecrest-home-points.json",
   "counties": [
     {
-      "name": "Kern County", "fips": "06029", "facts": "facts/ca/06029.json", "cardTarget": 35,
+      "name": "Kern County",
+      "fips": "06029",
+      "facts": "facts/ca/06029.json",
+      "cardTarget": 35,
       "focus": "The drives cross only eastern Kern County: the Indian Wells Valley, the El Paso Mountains, Red Rock Canyon, the Fremont Valley, Mojave and Rosamond, Walker Pass, and the South Fork Kern River valley to Lake Isabella. Most cards should be about that side of the county. A handful of county-wide cards (how the county was formed, its size and government, its economy) are fine; Bakersfield, oil fields, and San Joaquin Valley farming only as brief context."
     },
     {
-      "name": "San Bernardino County", "fips": "06071", "facts": "facts/ca/06071.json", "cardTarget": 12,
+      "name": "San Bernardino County",
+      "fips": "06071",
+      "facts": "facts/ca/06071.json",
+      "cardTarget": 12,
       "focus": "The drives cross only the county's northwest corner: the Searles Valley (Trona, Argus, Westend, Pioneer Point) and Red Mountain. Cards about that corner, plus a few about the county as a whole (the largest county in the contiguous United States, if two sources say so; its federal lands)."
     },
     {
-      "name": "Los Angeles County", "fips": "06037", "facts": "facts/ca/06037.json", "cardTarget": 8,
+      "name": "Los Angeles County",
+      "fips": "06037",
+      "facts": "facts/ca/06037.json",
+      "cardTarget": 8,
       "focus": "The drive reaches only Lancaster, at the northern edge. Cards about the Antelope Valley side of the county, plus a few county-wide (population, government size) that a driver arriving from the desert would find striking."
     }
   ],
   "places": [
-    "Ridgecrest", "China Lake Acres", "Inyokern", "Freeman Junction", "Cantil", "Mojave", "Rosamond", "Lancaster",
-    "Onyx", "Weldon", "Mountain Mesa", "Lake Isabella", "Searles Valley (Trona)", "Johannesburg", "Randsburg", "Red Mountain"
+    "Ridgecrest",
+    "China Lake Acres",
+    "Inyokern",
+    "Freeman Junction",
+    "Cantil",
+    "Mojave",
+    "Rosamond",
+    "Lancaster",
+    "Onyx",
+    "Weldon",
+    "Mountain Mesa",
+    "Lake Isabella",
+    "Searles Valley (Trona)",
+    "Johannesburg",
+    "Randsburg",
+    "Red Mountain"
   ],
   "managedLands": [
-    "Naval Air Weapons Station China Lake (Navy)", "Edwards Air Force Base (Air Force)",
-    "Ridgecrest and Bakersfield field offices (Bureau of Land Management)", "Sequoia National Forest (Forest Service)",
-    "Red Rock Canyon State Park", "Eastern Kern County Onyx Ranch State Vehicular Recreation Area",
+    "Naval Air Weapons Station China Lake (Navy)",
+    "Edwards Air Force Base (Air Force)",
+    "Ridgecrest and Bakersfield field offices (Bureau of Land Management)",
+    "Sequoia National Forest (Forest Service)",
+    "Red Rock Canyon State Park",
+    "Eastern Kern County Onyx Ranch State Vehicular Recreation Area",
     "South Fork Wildlife Area, Canebrake Ecological Reserve, Fremont Valley Ecological Reserve (California Fish and Wildlife)",
     "Mojave Desert Land Trust, National Audubon Society (Kern River Preserve), Hanning Flat (conservation groups)",
     "California State Lands Commission"
@@ -64,5 +103,168 @@
     "Antelope Valley: Lancaster, aerospace, the poppy reserve",
     "The Tübatulabal and Kawaiisu peoples of the Kern River valley (follow the tribal-lands rules)"
   ],
-  "note": "Leads are things to research, not facts. Every card fact needs its own sources."
+  "note": "Leads are things to research, not facts. Every card fact needs its own sources.",
+  "towns": [
+    {
+      "name": "Ridgecrest",
+      "wikipedia": "Ridgecrest, California",
+      "lat": 35.6225,
+      "lon": -117.67083,
+      "radiusMeters": 12000,
+      "cardTarget": 8,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California",
+      "articleLength": 46143
+    },
+    {
+      "name": "China Lake Acres",
+      "wikipedia": "China Lake Acres, California",
+      "lat": 35.64056,
+      "lon": -117.76389,
+      "radiusMeters": 5000,
+      "cardTarget": 3,
+      "coordinateSource": "https://en.wikipedia.org/wiki/China_Lake_Acres%2C_California",
+      "articleLength": 21634
+    },
+    {
+      "name": "Inyokern",
+      "wikipedia": "Inyokern, California",
+      "lat": 35.64694,
+      "lon": -117.8125,
+      "radiusMeters": 6000,
+      "cardTarget": 5,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Inyokern%2C_California",
+      "articleLength": 33266
+    },
+    {
+      "name": "Freeman Junction",
+      "wikipedia": "Freeman Junction, California",
+      "lat": 35.60166,
+      "lon": -117.90295,
+      "radiusMeters": 4000,
+      "cardTarget": 3,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Freeman_Junction%2C_California",
+      "articleLength": 5997
+    },
+    {
+      "name": "Cantil",
+      "wikipedia": "Cantil, California",
+      "lat": 35.30889,
+      "lon": -117.96833,
+      "radiusMeters": 6000,
+      "cardTarget": 3,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Cantil%2C_California",
+      "articleLength": 4687
+    },
+    {
+      "name": "Mojave",
+      "wikipedia": "Mojave, California",
+      "lat": 35.0525,
+      "lon": -118.17389,
+      "radiusMeters": 8000,
+      "cardTarget": 6,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Mojave%2C_California",
+      "articleLength": 35451
+    },
+    {
+      "name": "Rosamond",
+      "wikipedia": "Rosamond, California",
+      "lat": 34.86417,
+      "lon": -118.16333,
+      "radiusMeters": 8000,
+      "cardTarget": 5,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Rosamond%2C_California",
+      "articleLength": 30251
+    },
+    {
+      "name": "Lancaster",
+      "wikipedia": "Lancaster, California",
+      "lat": 34.68333,
+      "lon": -118.15,
+      "radiusMeters": 15000,
+      "cardTarget": 8,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Lancaster%2C_California",
+      "articleLength": 76935
+    },
+    {
+      "name": "Onyx",
+      "wikipedia": "Onyx, California",
+      "lat": 35.69028,
+      "lon": -118.22056,
+      "radiusMeters": 5000,
+      "cardTarget": 4,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Onyx%2C_California",
+      "articleLength": 21389
+    },
+    {
+      "name": "Weldon",
+      "wikipedia": "Weldon, California",
+      "lat": 35.66583,
+      "lon": -118.29028,
+      "radiusMeters": 5000,
+      "cardTarget": 4,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Weldon%2C_California",
+      "articleLength": 23058
+    },
+    {
+      "name": "Mountain Mesa",
+      "wikipedia": "Mountain Mesa, California",
+      "lat": 35.63944,
+      "lon": -118.40556,
+      "radiusMeters": 5000,
+      "cardTarget": 3,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Mountain_Mesa%2C_California",
+      "articleLength": 21459
+    },
+    {
+      "name": "Lake Isabella",
+      "wikipedia": "Lake Isabella, California",
+      "lat": 35.61806,
+      "lon": -118.47306,
+      "radiusMeters": 6000,
+      "cardTarget": 5,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Lake_Isabella%2C_California",
+      "articleLength": 25350
+    },
+    {
+      "name": "Searles Valley (Trona)",
+      "wikipedia": "Searles Valley, California",
+      "lat": 35.76528,
+      "lon": -117.38278,
+      "radiusMeters": 10000,
+      "cardTarget": 6,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Searles_Valley%2C_California",
+      "articleLength": 22214,
+      "note": "Trona is part of the Searles Valley census-designated place; cover Trona, Argus, Westend, and Pioneer Point."
+    },
+    {
+      "name": "Johannesburg",
+      "wikipedia": "Johannesburg, California",
+      "lat": 35.37278,
+      "lon": -117.63472,
+      "radiusMeters": 4000,
+      "cardTarget": 4,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Johannesburg%2C_California",
+      "articleLength": 22272
+    },
+    {
+      "name": "Randsburg",
+      "wikipedia": "Randsburg, California",
+      "lat": 35.36861,
+      "lon": -117.65806,
+      "radiusMeters": 4000,
+      "cardTarget": 6,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Randsburg%2C_California",
+      "articleLength": 31593
+    },
+    {
+      "name": "Red Mountain",
+      "wikipedia": "Red Mountain, California",
+      "lat": 35.35833,
+      "lon": -117.61667,
+      "radiusMeters": 4000,
+      "cardTarget": 4,
+      "coordinateSource": "https://en.wikipedia.org/wiki/Red_Mountain%2C_California",
+      "articleLength": 4602
+    }
+  ]
 }
