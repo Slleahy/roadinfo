@@ -38,7 +38,8 @@ def main():
             continue
         anchor = dict(card["anchor"])
         if anchor.get("type") == "place" and not anchor.get("state"):
-            anchor["state"] = STATES.get(card["id"][:2].upper() and {"ca": "06", "nm": "35", "az": "04"}.get(card["id"][:2], ""))
+            # Card ids start with the state's postal code: ca-…, nm-….
+            anchor["state"] = {"ca": "California", "nm": "New Mexico", "az": "Arizona"}.get(card["id"][:2])
         if anchor.get("type") == "county":
             fips = anchor.get("fips", "")
             anchor["county"] = names.get(fips)
