@@ -27,12 +27,21 @@ someone driving past, and write it to be heard. Read this whole file before star
 - **Relevant from the road.** Prefer things a driver can see, is about to reach, or is
   driving through. Say where they are relative to the road only if a source supports it; the
   app adds side, distance, and clock bearing itself, so do not write directions.
+- **About this place.** A county card is about the county itself: its land, its towns and
+  people, its history, its government, its economy, what a driver sees or crosses there. Facts
+  about something that merely overlaps it (the internal structure of a tribal government, a
+  national park's whole history) belong only where they explain what is here.
 - **Neutral.** No opinions, no praise ("beautiful", "must-see"), no salesmanship.
 
 ## 2. Research method
 
 For each subject (a county, town, sight, stretch, or landscape unit):
 
+0. **Read what is already gathered**: the facts file `facts/<state>/<county FIPS>.json`
+   (official numbers with their tables and years; use these, do not refetch them), the
+   corridor file's `leadsToResearch`, and the subject's notes in `subjects/` (open issues and
+   leads not yet used). **Work the strongest leads first**, so the budget goes to the best
+   material.
 1. **Start with the English Wikipedia article.** Read it fully, not just the opening.
 2. **Follow links that look promising**: people born or active there, events, industries,
    disasters, nicknames, notable buildings, geology, film locations. Judge each detour by
@@ -46,8 +55,10 @@ For each subject (a county, town, sight, stretch, or landscape unit):
 5. **Do not rely on your own memory for any fact.** If you remember something interesting,
    find a source for it or drop it.
 
-Budget per subject: about 15 page fetches for a county, 8 for a town, 4 for a sight or
-stretch. Spend more only when a lead is unusually strong.
+Page-fetch limits per subject (hard limits; see §0): county 40, town 12, sight or stretch 5,
+landscape unit 25, region 60. Do not spend fetches on numbers that are in the facts file.
+The Census Bureau's own data API now requires a key; if a number is missing from the facts
+file, note it in the subject notes rather than hunting for it.
 
 ## 3. Card format
 
@@ -86,6 +97,20 @@ One JSON object per card, conforming to [`schema/card.schema.json`](schema/card.
 
 ## 4. Writing for the ear
 
+Write like a well-read friend in the passenger seat, or a good public-radio host: plain,
+warm, specific, and never padded.
+
+- **Lead with the hook.** The first sentence carries the surprising part, not the setup.
+  Not "The county has a long history of mining." Instead, open on the event: who did what,
+  when, and what it set off. (This file never names real people or places in its examples;
+  every fact in a card comes from your sources, not from this playbook.)
+- **Never name the source out loud.** No "according to the National Park Service", no "the
+  county's website says". Attribution lives in the silent citations. The only exception is a
+  claim that is genuinely disputed, where saying who claims it is part of the fact.
+- **No survey mechanics.** No margins of error, no "five-year estimate", no table names.
+  Say "about 70,000 people live here", with the year when it matters ("as of 2024").
+- **Every card needs a reason to listen**: a person, a turn of events, a number that
+  surprises, a comparison that lands (one a source supports).
 - 2 to 5 sentences, 20 to 45 seconds spoken. One idea per card.
 - Short sentences. No parentheses, no lists longer than three items, no footnote markers.
 - Spell out what a voice would say: "about 1,600 people", "in the 1920s", "Interstate 40".
@@ -107,7 +132,10 @@ sources** or it is dropped.
 
 ## 6. Numbers come from tables
 
-Use these, and record the table and year as the source:
+First use the facts file, citing the source recorded there. Elevations along the road in the
+facts file are samples a few kilometers apart; for a named high point, use the official
+figure (a state or federal source, or the sign's figure if a source reports it).
+Otherwise use these, and record the table and year as the source:
 
 | Fact | Source |
 |---|---|

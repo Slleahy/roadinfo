@@ -1,0 +1,313 @@
+{
+  "fips": "35006",
+  "built": "2026-10-02",
+  "facts": {
+    "population": {
+      "value": 26845.0,
+      "unit": "people",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B01003",
+        "url": "https://censusreporter.org/tables/B01003/?geo_ids=05000US35006",
+        "table": "Census ACS 5-year 2020-2024, B01003",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "median_household_income": {
+      "value": 50759.0,
+      "unit": "dollars",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B19013",
+        "url": "https://censusreporter.org/tables/B19013/?geo_ids=05000US35006",
+        "table": "Census ACS 5-year 2020-2024, B19013",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "median_age": {
+      "value": 40.0,
+      "unit": "years",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B01002",
+        "url": "https://censusreporter.org/tables/B01002/?geo_ids=05000US35006",
+        "table": "Census ACS 5-year 2020-2024, B01002",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "median_home_value": {
+      "value": 125400.0,
+      "unit": "dollars",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B25077",
+        "url": "https://censusreporter.org/tables/B25077/?geo_ids=05000US35006",
+        "table": "Census ACS 5-year 2020-2024, B25077",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "climate_station": {
+      "value": "GRANTS MILAN MUNI AP, NM US",
+      "unit": "station",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093057 (GRANTS MILAN MUNI AP, NM US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093057&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093057",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "annual_mean_temperature": {
+      "value": 50.1,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093057 (GRANTS MILAN MUNI AP, NM US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093057&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093057",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "july_average_high": {
+      "value": 88.1,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093057 (GRANTS MILAN MUNI AP, NM US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093057&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093057",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "january_average_low": {
+      "value": 14.7,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093057 (GRANTS MILAN MUNI AP, NM US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093057&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093057",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "county_government_taxes": {
+      "value": 11017000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 351006186594 (CIBOLA COUNTY)",
+        "retrieved": "2026-10-02"
+      },
+      "note": "Sum of tax item codes (T*)."
+    },
+    "county_government_property_tax": {
+      "value": 4755000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 351006186594 (CIBOLA COUNTY)",
+        "retrieved": "2026-10-02"
+      },
+      "note": "Item T01."
+    },
+    "county_government_gross_receipts_and_sales_tax": {
+      "value": 5858000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 351006186594 (CIBOLA COUNTY)",
+        "retrieved": "2026-10-02"
+      },
+      "note": "Item T09, general sales or gross receipts."
+    },
+    "county_government_spending": {
+      "value": 31065000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 351006186594 (CIBOLA COUNTY)",
+        "retrieved": "2026-10-02"
+      },
+      "note": "Direct expenditure (E, F, G, I, J) plus intergovernmental expenditure (M), per the Census classification manual."
+    },
+    "county_government_full_time_employees": {
+      "value": 90,
+      "unit": "people",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 32103303300000 (Cibola), item 000 (total)",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "county_government_part_time_employees": {
+      "value": 2,
+      "unit": "people",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 32103303300000 (Cibola), item 000 (total)",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "county_government_march_payroll_full_time": {
+      "value": 334638,
+      "unit": "dollars per month",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 32103303300000 (Cibola), item 000 (total)",
+        "retrieved": "2026-10-02"
+      },
+      "note": "March, 31-day equivalent."
+    },
+    "land_area": {
+      "value": 4540,
+      "unit": "square miles",
+      "year": "2023",
+      "source": {
+        "title": "Census TIGERweb, State_County layer",
+        "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?where=GEOID%3D%2735006%27&outFields=NAME%2CAREALAND%2CAREAWATER&returnGeometry=true&outSR=4326&maxAllowableOffset=0.001&f=json",
+        "table": "Census TIGER/Line county AREALAND",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "land_share_by_manager_percent": {
+      "value": {
+        "TRIB": 31.9,
+        "BLM": 14.8,
+        "USFS": 10.5,
+        "SLB": 6.3,
+        "NPS": 3.8
+      },
+      "unit": "percent of county area",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-02"
+      },
+      "note": "Manager codes as in PAD-US (TRIB tribal, BLM, USFS, NPS, DOD, SLB state land board, CITY, CNTY…). Remainder is private or unlisted."
+    },
+    "land_share_unlisted_percent": {
+      "value": 32.6,
+      "unit": "percent of county area",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-02"
+      },
+      "note": "Private land or land not in PAD-US."
+    },
+    "largest_land_units": {
+      "value": [
+        {
+          "name": "Rio Puerco Field Office",
+          "manager": "BLM",
+          "percent_of_county": 14.8
+        },
+        {
+          "name": "Laguna Pueblo",
+          "manager": "TRIB",
+          "percent_of_county": 10.7
+        },
+        {
+          "name": "Cibola National Forest",
+          "manager": "USFS",
+          "percent_of_county": 10.5
+        },
+        {
+          "name": "Acoma Pueblo",
+          "manager": "TRIB",
+          "percent_of_county": 9.1
+        },
+        {
+          "name": "State Trust Land",
+          "manager": "SLB",
+          "percent_of_county": 6.3
+        },
+        {
+          "name": "Navajo Nation Off-Reservation Trust Land",
+          "manager": "TRIB",
+          "percent_of_county": 4.5
+        },
+        {
+          "name": "El Malpais National Monument",
+          "manager": "NPS",
+          "percent_of_county": 3.8
+        },
+        {
+          "name": "Zuni Reservation",
+          "manager": "TRIB",
+          "percent_of_county": 2.9
+        },
+        {
+          "name": "Acoma Off-Reservation Trust Land",
+          "manager": "TRIB",
+          "percent_of_county": 2.2
+        },
+        {
+          "name": "Zuni Off-Reservation Trust Land",
+          "manager": "TRIB",
+          "percent_of_county": 1.4
+        }
+      ],
+      "unit": "list",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "corridor_highest_elevation": {
+      "value": {
+        "feet": 6649,
+        "lat": 35.230039,
+        "lon": -107.945082
+      },
+      "unit": "feet",
+      "year": "current",
+      "source": {
+        "title": "USGS 3D Elevation Program, Elevation Point Query Service (sampled along the corridor about every 3 km)",
+        "url": "https://epqs.nationalmap.gov/v1/docs",
+        "table": "USGS 3DEP EPQS",
+        "retrieved": "2026-10-02"
+      }
+    },
+    "corridor_lowest_elevation": {
+      "value": {
+        "feet": 6146,
+        "lat": 35.075492,
+        "lon": -107.614567
+      },
+      "unit": "feet",
+      "year": "current",
+      "source": {
+        "title": "USGS 3D Elevation Program, Elevation Point Query Service (sampled along the corridor about every 3 km)",
+        "url": "https://epqs.nationalmap.gov/v1/docs",
+        "table": "USGS 3DEP EPQS",
+        "retrieved": "2026-10-02"
+      }
+    }
+  },
+  "missing": [
+    "annual_precipitation: no value in source",
+    "annual_snowfall: no value in source"
+  ]
+}

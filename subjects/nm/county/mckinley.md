@@ -16,6 +16,7 @@ Phase 1 calibration batch. 9 cards written (target was up to 40); all 9 passed t
 - Navajo Nation, History page (navajo-nsn.gov)
 
 ## Open issues
+- RESOLVED LEAD (owner, 2026-10-03): created February 23, 1899, by the New Mexico Territorial Legislature; county government organized January 1, 1901. Still needs a citation: 1899 territorial session laws, NM State Records Center and Archives, or the county's own history page. Use both dates in the namesake card once cited.
 - Creation date conflict: Wikipedia and nmcounties.org say 1901; a search-result snippet said 23 February 1899. Cards avoid the date. Needs an official source (NM State Records Center, session laws).
 - Church Rock cards rest on one source (Wikipedia), confidence 3. Governor's refusal and English-only warnings are the claims that would need a second source under the two-source rule. Wikipedia gave about 93 million gallons; the card says "more than 90 million".
 - Population and income come via Census Reporter, not census.gov directly (census.gov and api.census.gov were not usable: 403 / API key required).
