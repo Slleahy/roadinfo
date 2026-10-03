@@ -1,0 +1,85 @@
+{
+  "id": "ca-landscape-searles-valley-layers-of-climate-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Searles Valley and Searles Lake"
+  },
+  "title": "Layers that record the climate",
+  "text": "Beneath the dry bed of Searles Lake, layers of salt and mud record how the lake rose and fell. Over the past 150,000 years, the lake had about thirty major swings in level. The swings match the advances and retreats of glaciers in the Sierra Nevada. One dating study suggests the lake dried out at most twice in the last 600,000 years, around 290,000 years ago and again from about 10,000 years ago to the present.",
+  "sentences": [
+    {
+      "text": "Beneath the dry bed of Searles Lake, layers of salt and mud record how the lake rose and fell.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Over the past 150,000 years, the lake had about thirty major swings in level.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The swings match the advances and retreats of glaciers in the Sierra Nevada.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "One dating study suggests the lake dried out at most twice in the last 600,000 years, around 290,000 years ago and again from about 10,000 years ago to the present.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Searles Lake",
+      "url": "https://en.wikipedia.org/wiki/Searles_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Fluctuations in lake levels correspond to the advances and retreats of glaciers in the Sierra Nevada Range. Thirty major lake levels occurred during the last 150,000 years, represented by a sequence of salt and mud beds."
+    },
+    "s2": {
+      "title": "A 36Cl chronology of lacustrine sedimentation in the Pleistocene Owens River system",
+      "url": "https://www.physics.purdue.edu/primelab/research/papers/ja91a.html",
+      "publisher": "Purdue University PRIME Lab",
+      "retrieved": "2026-10-03",
+      "quote": "Searles Lake desiccated at most twice since 600 ka: during the interval around 290 ka, and from 10 ka to the present."
+    }
+  },
+  "topics": [
+    "geology",
+    "climate",
+    "lakes"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "searles lake",
+    "lake core",
+    "ice age climate",
+    "salt layers",
+    "sierra glaciers"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.70874,
+    "lon": -117.32094,
+    "radiusMeters": 30000,
+    "name": "Searles Valley and Searles Lake",
+    "source": "https://en.wikipedia.org/wiki/Searles_Lake"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

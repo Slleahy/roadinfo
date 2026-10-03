@@ -1,0 +1,86 @@
+{
+  "id": "ca-landscape-searles-valley-spill-to-panamint-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Searles Valley and Searles Lake"
+  },
+  "title": "When Searles Lake spilled over",
+  "text": "At times in the Ice Age, Searles Lake filled until it overflowed. Its overflow ran into Panamint Valley, which held a lake about 60 miles long. Dating of the lake sediments shows that overflow from Searles to Panamint happened in four separate windows of time. Lake Panamint itself overflowed into Death Valley at times, through Wingate Pass.",
+  "sentences": [
+    {
+      "text": "At times in the Ice Age, Searles Lake filled until it overflowed.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Its overflow ran into Panamint Valley, which held a lake about 60 miles long.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Dating of the lake sediments shows that overflow from Searles to Panamint happened in four separate windows of time.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Lake Panamint itself overflowed into Death Valley at times, through Wingate Pass.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "A 36Cl chronology of lacustrine sedimentation in the Pleistocene Owens River system",
+      "url": "https://www.physics.purdue.edu/primelab/research/papers/ja91a.html",
+      "publisher": "Purdue University PRIME Lab",
+      "retrieved": "2026-10-03",
+      "quote": "Major overflows from Searles to Panamint occurred during the intervals between 1.3 Ma and 1.0 Ma, 750 ka and 600 ka, 500 ka and 400 ka, and 150 ka and 120 ka."
+    },
+    "s2": {
+      "title": "Lake Panamint",
+      "url": "https://en.wikipedia.org/wiki/Lake_Panamint",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "water overflowing through the Owens River and which passed through Lake Searles into the Panamint Valley ... Lake Panamint was about 97 kilometres (60 mi) long ... overflowed at times into Death Valley and its lake Lake Manly through Wingate Pass and Wingate Wash"
+    }
+  },
+  "topics": [
+    "geology",
+    "lakes",
+    "water"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "searles lake",
+    "lake panamint",
+    "death valley",
+    "ice age lakes",
+    "owens river"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.70874,
+    "lon": -117.32094,
+    "radiusMeters": 30000,
+    "name": "Searles Valley and Searles Lake",
+    "source": "https://en.wikipedia.org/wiki/Searles_Lake"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
