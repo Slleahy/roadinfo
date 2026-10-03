@@ -1,0 +1,76 @@
+{
+  "id": "ca-town-mountain-mesa-numbers-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Mountain Mesa"
+  },
+  "title": "Mountain Mesa by the numbers",
+  "text": "Mountain Mesa had 823 people at the 2020 census, up from 777 at the 2010 census. It first appeared as a census-designated place in the 1990 census, when it counted 1,153 people. By 2000 that count had fallen to 716. The community covers less than one square mile, about 0.87 square miles, all of it land.",
+  "sentences": [
+    {
+      "text": "Mountain Mesa had 823 people at the 2020 census, up from 777 at the 2010 census.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It first appeared as a census-designated place in the 1990 census, when it counted 1,153 people.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "By 2000 that count had fallen to 716.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The community covers less than one square mile, about 0.87 square miles, all of it land.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mountain Mesa, California",
+      "url": "https://en.wikipedia.org/wiki/Mountain_Mesa,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The population was 823 at the 2020 census, up from 777 at the 2010 census. ... first appeared as a census designated place in the 1990 United States census ... total area of 0.867 square miles (2.246 km2), all of it land.",
+      "revision": "1373588401"
+    }
+  },
+  "topics": [
+    "people",
+    "population"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 2,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "mountain mesa",
+    "population",
+    "census"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.63944,
+    "lon": -118.40556,
+    "radiusMeters": 5000,
+    "name": "Mountain Mesa",
+    "source": "https://en.wikipedia.org/wiki/Mountain_Mesa%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

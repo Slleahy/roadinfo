@@ -1,0 +1,79 @@
+{
+  "id": "ca-town-mountain-mesa-tubatulabal-land-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Mountain Mesa"
+  },
+  "title": "Land returned to the Tübatulabal",
+  "text": "The Tübatulabal Tribe acquired about 1,240 acres of its ancestral land in a 5 million dollar purchase. The state Wildlife Conservation Board and the Sierra Nevada Conservancy funded the purchase, and another 1,000 acres were deeded to the Kern County Heritage Foundation. The tribe plans an office, a cultural center, and public hiking trails, and it plans to invite schools to learn there. The tribe has 280 enrolled members, and as a political entity it is not federally recognized.",
+  "sentences": [
+    {
+      "text": "The Tübatulabal Tribe acquired about 1,240 acres of its ancestral land in a 5 million dollar purchase.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The state Wildlife Conservation Board and the Sierra Nevada Conservancy funded the purchase, and another 1,000 acres were deeded to the Kern County Heritage Foundation.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The tribe plans an office, a cultural center, and public hiking trails, and it plans to invite schools to learn there.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The tribe has 280 enrolled members, and as a political entity it is not federally recognized.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tübatulabal Tribe acquires 1,240 acres of ancestral land (October 2, 2023)",
+      "url": "https://ictnews.org/news/tubatulabal-tribe-acquires-1240-acres-of-ancestral-land/",
+      "publisher": "ICT News (Indian Country Today)",
+      "retrieved": "2026-10-03",
+      "quote": "The tribe was deeded about 1,240 acres ... the $5 million purchase ... Another 1,000 acres deeded to the Kern County Heritage Foundation ... an office, a cultural center, and storage of tools ... create public hiking trails and invite schools ... The tribe's 280 enrolled members ... the tribe, as a political entity, is not federally recognized."
+    }
+  },
+  "topics": [
+    "tribal lands",
+    "conservation",
+    "people"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2023",
+  "themeKeys": [
+    "tubatulabal",
+    "ancestral land",
+    "mountain mesa",
+    "kern valley"
+  ],
+  "followOn": [
+    "ca-kern-county-tubatulabal-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.63944,
+    "lon": -118.40556,
+    "radiusMeters": 5000,
+    "name": "Mountain Mesa",
+    "source": "https://en.wikipedia.org/wiki/Mountain_Mesa%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
