@@ -1,0 +1,78 @@
+{
+  "id": "ca-landscape-kern-river-valley-river-course-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Kern River Valley"
+  },
+  "title": "From Mount Whitney to the valley",
+  "text": "The Kern River is approximately 165 miles long. It is fed by snowmelt near Mount Whitney and begins in the Sierra Nevada in Sequoia National Park. In Lake Isabella, the Kern is joined by its largest tributary, the 95-mile South Fork. Below Lake Isabella, the river feeds several hydroelectric plants.",
+  "sentences": [
+    {
+      "text": "The Kern River is approximately 165 miles long.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is fed by snowmelt near Mount Whitney and begins in the Sierra Nevada in Sequoia National Park.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In Lake Isabella, the Kern is joined by its largest tributary, the 95-mile South Fork.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Below Lake Isabella, the river feeds several hydroelectric plants.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Kern River",
+      "url": "https://en.wikipedia.org/wiki/Kern_River",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "approximately 165 miles (270 km) long ... Fed by snowmelt near Mount Whitney ... The Kern begins in the Sierra Nevada in Sequoia National Park ... In Lake Isabella, it is joined by its largest tributary, the South Fork Kern River ... The 95-mile-long (153 km) South Fork ... Below Lake Isabella ... this section of the Kern River feeds several hydroelectric plants",
+      "revision": "1375917296"
+    }
+  },
+  "topics": [
+    "rivers",
+    "geography",
+    "water"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kern river",
+    "south fork kern river",
+    "mount whitney",
+    "hydroelectric"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6232,
+    "lon": -118.4845,
+    "radiusMeters": 30000,
+    "name": "Kern River Valley",
+    "source": "https://en.wikipedia.org/wiki/Kern_River_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "ca-landscape-kern-river-valley-killer-kern-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Kern River Valley"
+  },
+  "title": "The killer Kern",
+  "text": "The Kern River is well known for its danger and is sometimes called the Killer Kern. Every spring, snowmelt from the Sierra transformed the river into a swollen fury. In 1966, 598,400 gallons of water per second raged over the Isabella Dam spillway, and Bakersfield was not flooded. The river is also a popular destination for whitewater rafting and kayaking.",
+  "sentences": [
+    {
+      "text": "The Kern River is well known for its danger and is sometimes called the Killer Kern.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Every spring, snowmelt from the Sierra transformed the river into a swollen fury.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 1966, 598,400 gallons of water per second raged over the Isabella Dam spillway, and Bakersfield was not flooded.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The river is also a popular destination for whitewater rafting and kayaking.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "The Kern River, California: A Story of Uplift, Incision, and Flood Control",
+      "url": "https://serc.carleton.edu/69374",
+      "publisher": "Science Education Resource Center, Carleton College (Natalie Bursztyn)",
+      "retrieved": "2026-10-03",
+      "quote": "Every spring, snowmelt from the Sierra transformed the mild mannered Kern River into a swollen fury. ... The functionality of the Isabella Dam to regulate river flow was proven in 1966 when the lake level was absolutely full and 598,400 gallons of water per second raged over the spillway and down the Kern Canyon, and Bakersfield didn't flood."
+    },
+    "s2": {
+      "title": "Kern River",
+      "url": "https://en.wikipedia.org/wiki/Kern_River",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The Kern is well known for its danger, and is sometimes referred to as the 'killer Kern' ... popular destination for whitewater rafting and kayaking",
+      "revision": "1375917296"
+    }
+  },
+  "topics": [
+    "rivers",
+    "water",
+    "floods"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1966",
+  "themeKeys": [
+    "killer kern",
+    "kern river floods",
+    "whitewater",
+    "isabella spillway"
+  ],
+  "followOn": [
+    "ca-kern-county-isabella-dam-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.6232,
+    "lon": -118.4845,
+    "radiusMeters": 30000,
+    "name": "Kern River Valley",
+    "source": "https://en.wikipedia.org/wiki/Kern_River_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

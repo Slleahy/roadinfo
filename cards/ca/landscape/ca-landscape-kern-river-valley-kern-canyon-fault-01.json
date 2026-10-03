@@ -1,0 +1,85 @@
+{
+  "id": "ca-landscape-kern-river-valley-kern-canyon-fault-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Kern River Valley"
+  },
+  "title": "A river that follows a fault",
+  "text": "The Kern Canyon Fault runs the length of the Kern River canyon, from the river's headwaters down to the Walker Basin. The fault was reactivated some 10 million years ago, and the Kern River modified its course to its present drainage path out of the foothills. The fault is geologically active. In the Sierra Nevada, the river sits in a classic V-shaped canyon as it erodes toward base level.",
+  "sentences": [
+    {
+      "text": "The Kern Canyon Fault runs the length of the Kern River canyon, from the river's headwaters down to the Walker Basin.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The fault was reactivated some 10 million years ago, and the Kern River modified its course to its present drainage path out of the foothills.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The fault is geologically active.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "In the Sierra Nevada, the river sits in a classic V-shaped canyon as it erodes toward base level.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "The Kern River, California: A Story of Uplift, Incision, and Flood Control",
+      "url": "https://serc.carleton.edu/69374",
+      "publisher": "Science Education Resource Center, Carleton College (Natalie Bursztyn)",
+      "retrieved": "2026-10-03",
+      "quote": "The Kern Canyon Fault was reactivated some 10 million years ago. The west block was uplifted, and the Kern River modified its course to the current drainage path out of the foothills ... the Kern River is in a classic V-shaped canyon (Fig. 1) as it erodes towards base level"
+    },
+    "s2": {
+      "title": "Kern River",
+      "url": "https://en.wikipedia.org/wiki/Kern_River",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The geologically active Kern Canyon Fault runs the length of the canyon, from the river's headwaters down to the Walker Basin about 10 miles (16 km) south of Lake Isabella.",
+      "revision": "1375917296"
+    }
+  },
+  "topics": [
+    "geology",
+    "faults",
+    "rivers"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kern canyon fault",
+    "kern river canyon",
+    "v-shaped canyon",
+    "walker basin"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6232,
+    "lon": -118.4845,
+    "radiusMeters": 30000,
+    "name": "Kern River Valley",
+    "source": "https://en.wikipedia.org/wiki/Kern_River_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
