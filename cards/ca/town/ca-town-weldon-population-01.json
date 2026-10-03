@@ -1,0 +1,63 @@
+{
+  "id": "ca-town-weldon-population-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Weldon"
+  },
+  "title": "Weldon by the numbers",
+  "text": "Weldon had 2,303 people at the 2020 census, down from 2,642 at the 2010 census. The count fell by about 340 people in ten years.",
+  "sentences": [
+    {
+      "text": "Weldon had 2,303 people at the 2020 census, down from 2,642 at the 2010 census.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The count fell by about 340 people in ten years.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Weldon, California",
+      "url": "https://en.wikipedia.org/wiki/Weldon,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The population was 2,303 at the 2020 census, down from 2,642 at the 2010 census.",
+      "revision": "1373611554"
+    }
+  },
+  "topics": [
+    "people",
+    "population"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 2,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "weldon population",
+    "census"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.66583,
+    "lon": -118.29028,
+    "radiusMeters": 5000,
+    "name": "Weldon",
+    "source": "https://en.wikipedia.org/wiki/Weldon%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

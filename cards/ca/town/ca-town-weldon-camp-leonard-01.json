@@ -1,0 +1,80 @@
+{
+  "id": "ca-town-weldon-camp-leonard-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Weldon"
+  },
+  "title": "Camp Leonard, 1863",
+  "text": "Camp Leonard was established at Weldon in the late summer of 1863 by a company of the 2nd California Volunteer Cavalry, to protect the region's mining camps. Some 850 Native people from the Owens Valley had left the Sebastian Indian Reservation because of the scarcity of food there, all intent on returning to their former homes. The camp stayed in operation for the rest of that year.",
+  "sentences": [
+    {
+      "text": "Camp Leonard was established at Weldon in the late summer of 1863 by a company of the 2nd California Volunteer Cavalry, to protect the region's mining camps.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Some 850 Native people from the Owens Valley had left the Sebastian Indian Reservation because of the scarcity of food there, all intent on returning to their former homes.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The camp stayed in operation for the rest of that year.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Camp Leonard (Historic California Posts, Camps, Stations and Airfields)",
+      "url": "https://www.militarymuseum.org/CpLeonard.html",
+      "publisher": "California State Military Museum",
+      "retrieved": "2026-10-03",
+      "quote": "Camp Leonard was established in the late summer of 1863 by a company of the 2nd California Volunteer Cavalry ... to protect the region's mining camps front impending Indian marauders ... some 850 Owens Valley Indians left the Sebastian Indian Reservation because of the scarcity of food there, all intent on returning to their former homes ... Camp Leonard, remaining operative for the remainder of the year"
+    },
+    "s2": {
+      "title": "Weldon, California",
+      "url": "https://en.wikipedia.org/wiki/Weldon,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Camp Leonard, a temporary army camp, was established at Weldon in 1863.",
+      "revision": "1373611554"
+    }
+  },
+  "topics": [
+    "history",
+    "military",
+    "tribal lands"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "camp leonard",
+    "1863",
+    "california volunteers",
+    "owens valley"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.66583,
+    "lon": -118.29028,
+    "radiusMeters": 5000,
+    "name": "Weldon",
+    "source": "https://en.wikipedia.org/wiki/Weldon%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ca-town-weldon-name-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Weldon"
+  },
+  "title": "A cattle rancher's name",
+  "text": "Weldon is named for William B. Weldon, a cattle rancher. The Weldon post office opened in 1871. The town sits at the southeast tip of Lake Isabella.",
+  "sentences": [
+    {
+      "text": "Weldon is named for William B. Weldon, a cattle rancher.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Weldon post office opened in 1871.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The town sits at the southeast tip of Lake Isabella.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Weldon, California",
+      "url": "https://en.wikipedia.org/wiki/Weldon,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The name honors William B. Weldon, a cattle rancher. The Weldon post office opened in 1871. It sits at the southeast tip of Lake Isabella.",
+      "revision": "1373611554"
+    }
+  },
+  "topics": [
+    "history",
+    "names"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "weldon",
+    "william weldon",
+    "post office 1871",
+    "lake isabella"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.66583,
+    "lon": -118.29028,
+    "radiusMeters": 5000,
+    "name": "Weldon",
+    "source": "https://en.wikipedia.org/wiki/Weldon%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
