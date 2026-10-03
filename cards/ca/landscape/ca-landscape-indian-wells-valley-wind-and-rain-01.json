@@ -1,0 +1,76 @@
+{
+  "id": "ca-landscape-indian-wells-valley-wind-and-rain-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Indian Wells Valley"
+  },
+  "title": "Rain from October to March, wind all year",
+  "text": "Average rainfall on the valley ranges from about 6 inches to less than 4 inches. Most of the precipitation on the valley floor comes between October and March, and the rest of the year rain falls infrequently, as summer thundershowers. Relatively high wind velocities are common in the valley, and the prevailing winds blow from the southwest. Strong northerly winds are also recorded occasionally.",
+  "sentences": [
+    {
+      "text": "Average rainfall on the valley ranges from about 6 inches to less than 4 inches.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Most of the precipitation on the valley floor comes between October and March, and the rest of the year rain falls infrequently, as summer thundershowers.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Relatively high wind velocities are common in the valley, and the prevailing winds blow from the southwest.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Strong northerly winds are also recorded occasionally.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Geologic and Hydrologic Features of Indian Wells Valley, California (Water-Supply Paper 2007)",
+      "url": "https://pubs.usgs.gov/wsp/2007/report.pdf",
+      "publisher": "U.S. Geological Survey (L. C. Butcher and W. R. Moyle Jr., 1973)",
+      "retrieved": "2026-10-03",
+      "quote": "The climate of Indian Wells Valley is arid. Average rainfall on the valley ranges from about 6 inches to less than 4 inches. Most of the precipitation on the valley floor occurs during the period October through March; during the remainder of the year, rain falls infrequently as summer thundershowers. ... Relatively high wind velocities are common in the valley, and the prevailing winds blow from the southwest, although strong northerly winds are also recorded occasionally."
+    }
+  },
+  "topics": [
+    "climate",
+    "weather",
+    "wind"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1973",
+  "themeKeys": [
+    "indian wells valley climate",
+    "wind",
+    "thundershowers"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.70278,
+    "lon": -117.68639,
+    "radiusMeters": 30000,
+    "name": "Indian Wells Valley",
+    "source": "https://en.wikipedia.org/wiki/Indian_Wells_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

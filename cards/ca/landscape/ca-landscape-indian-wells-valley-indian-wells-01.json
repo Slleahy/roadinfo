@@ -1,0 +1,71 @@
+{
+  "id": "ca-landscape-indian-wells-valley-indian-wells-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Indian Wells Valley"
+  },
+  "title": "The wells that named the valley",
+  "text": "Indian Wells Valley is named for Indian Wells, a set of springs on its western border. The old stage route from Mojave to Keeler runs along the western border of the valley, past those springs. The Los Angeles Aqueduct, which carries water from the Owens Valley to Los Angeles, has been cut into the escarpment of the Sierra Nevada from Little Lake to Indian Wells.",
+  "sentences": [
+    {
+      "text": "Indian Wells Valley is named for Indian Wells, a set of springs on its western border.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The old stage route from Mojave to Keeler runs along the western border of the valley, past those springs.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Los Angeles Aqueduct, which carries water from the Owens Valley to Los Angeles, has been cut into the escarpment of the Sierra Nevada from Little Lake to Indian Wells.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Geologic and Hydrologic Features of Indian Wells Valley, California (Water-Supply Paper 2007)",
+      "url": "https://pubs.usgs.gov/wsp/2007/report.pdf",
+      "publisher": "U.S. Geological Survey (L. C. Butcher and W. R. Moyle Jr., 1973)",
+      "retrieved": "2026-10-03",
+      "quote": "The old stage route from Mojave to Keeler runs along the western border of the valley past Indian Wells, the springs for which the valley was named. The Los Angeles Aqueduct, which carries water from Owens Valley, north of Indian Wells Valley, to Los Angeles, has been cut into the escarpment of the Sierra Nevada from Little Lake to Indian Wells."
+    }
+  },
+  "topics": [
+    "names",
+    "history",
+    "water"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "indian wells",
+    "stage route",
+    "los angeles aqueduct",
+    "mojave to keeler"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.70278,
+    "lon": -117.68639,
+    "radiusMeters": 30000,
+    "name": "Indian Wells Valley",
+    "source": "https://en.wikipedia.org/wiki/Indian_Wells_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

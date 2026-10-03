@@ -1,0 +1,87 @@
+{
+  "id": "ca-landscape-indian-wells-valley-ancestral-china-lake-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Indian Wells Valley"
+  },
+  "title": "The lake that filled the valley",
+  "text": "Today Indian Wells Valley holds dry playas, but during the Pleistocene it held perennial lakes. Radiocarbon dates show an ancestral China Lake existed between about 14,690 and 32,220 years ago. Outflow from Owens Lake into the valley increased during that time, creating a sizeable lake. Shallow sediments under the China Lake playa today appear to be late Pleistocene in age, probably because wind scour removed younger sediments.",
+  "sentences": [
+    {
+      "text": "Today Indian Wells Valley holds dry playas, but during the Pleistocene it held perennial lakes.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Radiocarbon dates show an ancestral China Lake existed between about 14,690 and 32,220 years ago.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Outflow from Owens Lake into the valley increased during that time, creating a sizeable lake.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Shallow sediments under the China Lake playa today appear to be late Pleistocene in age, probably because wind scour removed younger sediments.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Geologic and Hydrologic Features of Indian Wells Valley, California (Water-Supply Paper 2007)",
+      "url": "https://pubs.usgs.gov/wsp/2007/report.pdf",
+      "publisher": "U.S. Geological Survey (L. C. Butcher and W. R. Moyle Jr., 1973)",
+      "retrieved": "2026-10-03",
+      "quote": "Now this valley is occupied by playas, but during the Pleistocene it was occupied by perennial lakes."
+    },
+    "s2": {
+      "title": "Late Pleistocene stratigraphy of the ancestral China Lake sediments, Indian Wells Valley, southeastern California",
+      "url": "https://gsa.confex.com/gsa/inqu/webprogram/Paper54560.html",
+      "publisher": "Geological Society of America (Couch, Knapp, and Stoner)",
+      "retrieved": "2026-10-03",
+      "quote": "Ten samples yielded dates ranging from 14,690 to 32,220 years before present (ybp). ... Owens Lake outflow into IWV increased during this time, creating a sizeable ancestral China Lake. ... Shallow sediments under the current China Lake playa appear to be Late Pleistocene in age, likely reflecting removal of younger sediments by Holocene wind scour and eolation."
+    }
+  },
+  "topics": [
+    "geology",
+    "ice age",
+    "lakes"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "ancestral china lake",
+    "owens lake",
+    "pleistocene lake",
+    "radiocarbon"
+  ],
+  "followOn": [
+    "ca-landscape-indian-wells-valley-lost-outlet-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.70278,
+    "lon": -117.68639,
+    "radiusMeters": 30000,
+    "name": "Indian Wells Valley",
+    "source": "https://en.wikipedia.org/wiki/Indian_Wells_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

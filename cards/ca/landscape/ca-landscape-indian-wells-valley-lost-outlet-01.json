@@ -1,0 +1,73 @@
+{
+  "id": "ca-landscape-indian-wells-valley-lost-outlet-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Indian Wells Valley"
+  },
+  "title": "Where the lake once spilled over",
+  "text": "A narrow gorge southeast of China Lake once afforded the lowest exit for surface drainage from Indian Wells Valley. It is now filled with windblown sand and is part of the Salt Wells Valley drainage, and the divide on it has a surface altitude of 2,190 feet. A granite ridge at an altitude of about 2,400 feet marks the apparent site of rapids of another outlet, used when the level of a perennial lake was above 2,400 feet.",
+  "sentences": [
+    {
+      "text": "A narrow gorge southeast of China Lake once afforded the lowest exit for surface drainage from Indian Wells Valley.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is now filled with windblown sand and is part of the Salt Wells Valley drainage, and the divide on it has a surface altitude of 2,190 feet.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A granite ridge at an altitude of about 2,400 feet marks the apparent site of rapids of another outlet, used when the level of a perennial lake was above 2,400 feet.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Geologic and Hydrologic Features of Indian Wells Valley, California (Water-Supply Paper 2007)",
+      "url": "https://pubs.usgs.gov/wsp/2007/report.pdf",
+      "publisher": "U.S. Geological Survey (L. C. Butcher and W. R. Moyle Jr., 1973)",
+      "retrieved": "2026-10-03",
+      "quote": "A narrow gorge southeast of China Lake ..., now filled with windblown sand and part of the Salt Wells Valley drainage, once afforded the lowest exit for surface drainage from Indian Wells Valley. The divide on this gorge has a surface altitude of 2,190 feet. ... a granite ridge at an altitude of about 2,400 feet marks the apparent site of rapids of another outlet through which discharge occurred in an earlier period when the level of a perennial lake was above 2,400 feet."
+    }
+  },
+  "topics": [
+    "geology",
+    "lakes",
+    "ice age"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "salt wells valley",
+    "lake outlet",
+    "china lake",
+    "windblown sand"
+  ],
+  "followOn": [
+    "ca-landscape-indian-wells-valley-ancestral-china-lake-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.70278,
+    "lon": -117.68639,
+    "radiusMeters": 30000,
+    "name": "Indian Wells Valley",
+    "source": "https://en.wikipedia.org/wiki/Indian_Wells_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

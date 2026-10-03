@@ -1,0 +1,78 @@
+{
+  "id": "ca-landscape-indian-wells-valley-closed-basin-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Indian Wells Valley"
+  },
+  "title": "A basin with no way out",
+  "text": "Indian Wells Valley has entirely internal surface drainage, so no stream carries its water out of the valley. A steep fault scarp runs along the base of the Sierra Nevada, and broad alluvial fans spread from the mouths of its canyons. The fans have coalesced into alluvial plains several miles wide that slope toward the playas along the east side of the valley. China Lake, the largest and lowest playa, is at an altitude of 2,152 feet.",
+  "sentences": [
+    {
+      "text": "Indian Wells Valley has entirely internal surface drainage, so no stream carries its water out of the valley.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A steep fault scarp runs along the base of the Sierra Nevada, and broad alluvial fans spread from the mouths of its canyons.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The fans have coalesced into alluvial plains several miles wide that slope toward the playas along the east side of the valley.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "China Lake, the largest and lowest playa, is at an altitude of 2,152 feet.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Geologic and Hydrologic Features of Indian Wells Valley, California (Water-Supply Paper 2007)",
+      "url": "https://pubs.usgs.gov/wsp/2007/report.pdf",
+      "publisher": "U.S. Geological Survey (L. C. Butcher and W. R. Moyle Jr., 1973)",
+      "retrieved": "2026-10-03",
+      "quote": "the largest and lowest playa, China Lake, is at an altitude of 2,152 feet. The striking physiographic features of the valley are the steep fault scarp along the base of the Sierra Nevada and the broad alluvial fans that extend from the mouths of the Sierra Nevada canyons. The fans, which have coalesced to form alluvial plains several miles wide, slope with gradually decreasing steepness from the escarpment toward playas along the east side of the valley. Indian Wells Valley has entirely internal surface drainage."
+    }
+  },
+  "topics": [
+    "geology",
+    "geography",
+    "basin"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "closed basin",
+    "playa",
+    "alluvial fans",
+    "fault scarp",
+    "china lake"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.70278,
+    "lon": -117.68639,
+    "radiusMeters": 30000,
+    "name": "Indian Wells Valley",
+    "source": "https://en.wikipedia.org/wiki/Indian_Wells_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "ca-landscape-indian-wells-valley-fossil-falls-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Indian Wells Valley"
+  },
+  "title": "Fossil Falls, carved by the Owens River",
+  "text": "At Fossil Falls, in the Coso Range near Little Lake, the Owens River was forced to divert over a basalt flow, polishing and reshaping the rock into unusual shapes. The lava flows occurred between 400,000 and 10,000 years ago. The erosion came from the youngest glacial runoff, called the Tioga, from the Sierra Nevada about 20,000 to 10,000 years ago. Native Americans camped near the falls and chipped obsidian from the Coso Mountains to make tools. The Bureau of Land Management protects Fossil Falls as an Area of Critical Environmental Concern.",
+  "sentences": [
+    {
+      "text": "At Fossil Falls, in the Coso Range near Little Lake, the Owens River was forced to divert over a basalt flow, polishing and reshaping the rock into unusual shapes.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The lava flows occurred between 400,000 and 10,000 years ago.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The erosion came from the youngest glacial runoff, called the Tioga, from the Sierra Nevada about 20,000 to 10,000 years ago.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Native Americans camped near the falls and chipped obsidian from the Coso Mountains to make tools.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Bureau of Land Management protects Fossil Falls as an Area of Critical Environmental Concern.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Fossil Falls",
+      "url": "https://en.wikipedia.org/wiki/Fossil_Falls",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The river was forced to divert its course over a basalt flow, polishing and reshaping the rock into a variety of unique shapes and forms.",
+      "revision": "1370199043"
+    }
+  },
+  "topics": [
+    "geology",
+    "rivers",
+    "volcanoes"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "fossil falls",
+    "owens river",
+    "basalt",
+    "little lake"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.70278,
+    "lon": -117.68639,
+    "radiusMeters": 30000,
+    "name": "Indian Wells Valley",
+    "source": "https://en.wikipedia.org/wiki/Indian_Wells_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
