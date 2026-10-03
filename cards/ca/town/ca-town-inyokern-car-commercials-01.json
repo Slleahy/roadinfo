@@ -1,0 +1,79 @@
+{
+  "id": "ca-town-inyokern-car-commercials-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Inyokern"
+  },
+  "title": "A runway for car commercials",
+  "text": "Inyokern Airport's long runways, a legacy of the Navy's wartime buildup, have made it a popular place to film car commercials. Ads shot there include most spots from Saab's Born from Jets campaign, as well as ads for Volkswagen and Volvo. Top Gun: Maverick used the airport's hangar for scenes of Tom Cruise working on a vintage aircraft.",
+  "sentences": [
+    {
+      "text": "Inyokern Airport's long runways, a legacy of the Navy's wartime buildup, have made it a popular place to film car commercials.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Ads shot there include most spots from Saab's Born from Jets campaign, as well as ads for Volkswagen and Volvo.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Top Gun: Maverick used the airport's hangar for scenes of Tom Cruise working on a vintage aircraft.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Inyokern, California",
+      "url": "https://en.wikipedia.org/wiki/Inyokern,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "With the onset of World War II, the US Navy located its new Naval Air Weapons Station China Lake in Inyokern. This accounts for the length of the runways and the size of the county airport. ... The Inyokern Airport has been a popular location for car commercials, with the Sierra Nevada Mountains as a backdrop.",
+      "revision": "1364654102"
+    },
+    "s2": {
+      "title": "Inyokern Airport",
+      "url": "https://en.wikipedia.org/wiki/Inyokern_Airport",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Other notable automotive television ads shot here include most spots from Saab's \"Born from Jets\" campaign, as well as spots for Volkswagen, Volvo, Cadillac, Nissan, Mazda, Toyota, Ford, and Chevrolet. ... Top Gun: Maverick ... the hangar facility for scenes with Tom Cruise working on a vintage aircraft.",
+      "revision": "1365151189"
+    }
+  },
+  "topics": [
+    "film",
+    "aviation"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "inyokern airport",
+    "car commercials",
+    "top gun maverick"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.64694,
+    "lon": -117.8125,
+    "radiusMeters": 6000,
+    "name": "Inyokern",
+    "source": "https://en.wikipedia.org/wiki/Inyokern%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

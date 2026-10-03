@@ -1,0 +1,91 @@
+{
+  "id": "ca-town-inyokern-railroad-town-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Inyokern"
+  },
+  "title": "A railroad town on the county line",
+  "text": "Inyokern takes its name from its location near the border between Inyo and Kern Counties. It was a railroad town, established along the Southern Pacific's Lone Pine Branch, which has since been removed. That branch ran north from Mojave to Owenyo, a few miles north of Lone Pine, and was built around 1912 and used to help build the Los Angeles Aqueduct. Inyokern's first post office opened in 1910. The 2020 census counted 988 people, down from 1,099 in 2010.",
+  "sentences": [
+    {
+      "text": "Inyokern takes its name from its location near the border between Inyo and Kern Counties.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It was a railroad town, established along the Southern Pacific's Lone Pine Branch, which has since been removed.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That branch ran north from Mojave to Owenyo, a few miles north of Lone Pine, and was built around 1912 and used to help build the Los Angeles Aqueduct.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Inyokern's first post office opened in 1910.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The 2020 census counted 988 people, down from 1,099 in 2010.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Inyokern, California",
+      "url": "https://en.wikipedia.org/wiki/Inyokern,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Its name derives from its location near the border between Inyo and Kern Counties. ... a railroad town established along the Southern Pacific railroad's Lone Pine Branch (now removed). ... The first post office opened in 1910. ... The population was 988 in the 2020 census, down from 1,099 in the 2010 census.",
+      "revision": "1364654102"
+    },
+    "s2": {
+      "title": "Lone Pine Branch",
+      "url": "https://www.abandonedrails.com/lone-pine-branch",
+      "publisher": "Abandoned Rails",
+      "retrieved": "2026-10-03",
+      "quote": "The branch line itself was built around 1912 and was used to help build the Los Angeles Aqueduct. ... extended north from Mojave through the Jawbone region and Owens Valley to Owenyo (a few miles north of Lone Pine)"
+    }
+  },
+  "topics": [
+    "history",
+    "railroads",
+    "names"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "inyokern",
+    "inyo kern",
+    "lone pine branch",
+    "southern pacific"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.64694,
+    "lon": -117.8125,
+    "radiusMeters": 6000,
+    "name": "Inyokern",
+    "source": "https://en.wikipedia.org/wiki/Inyokern%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

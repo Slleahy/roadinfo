@@ -1,0 +1,76 @@
+{
+  "id": "ca-town-inyokern-harvey-field-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Inyokern"
+  },
+  "title": "Harvey Field",
+  "text": "Inyokern's airfield was dedicated as Harvey Field on May 10, 1944, in honor of Navy Lieutenant Commander Warren Harvey, for his work on aviation ordnance and fighter tactics. The Navy closed Harvey Field in April 1946 and returned it to the county a year later.",
+  "sentences": [
+    {
+      "text": "Inyokern's airfield was dedicated as Harvey Field on May 10, 1944, in honor of Navy Lieutenant Commander Warren Harvey, for his work on aviation ordnance and fighter tactics.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Navy closed Harvey Field in April 1946 and returned it to the county a year later.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Naval Auxiliary Air Facility Inyokern",
+      "url": "https://www.militarymuseum.org/NAFInyokern.html",
+      "publisher": "California State Military Museum",
+      "retrieved": "2026-10-03",
+      "quote": "The airfield at Inyokern was dedicated as Harvey Field on May 10, 1944, in honor of LCdr. Warren Harvey for his contribution to the development of aviation ordnance and fighter tactics. ... The Navy closed Harvey Field in April 1946, returning it to the County a year later."
+    },
+    "s2": {
+      "title": "Inyokern Airport",
+      "url": "https://en.wikipedia.org/wiki/Inyokern_Airport",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Harvey Field is named after Lieutenant Commander Warren W. Harvey for his work on aviation Ordnance for aircraft. ... opened on May 10, 1944 ... closed in April 1946.",
+      "revision": "1365151189"
+    }
+  },
+  "topics": [
+    "history",
+    "aviation",
+    "military"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "harvey field",
+    "inyokern airport",
+    "warren harvey"
+  ],
+  "followOn": [
+    "ca-kern-county-china-lake-founding-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.64694,
+    "lon": -117.8125,
+    "radiusMeters": 6000,
+    "name": "Inyokern",
+    "source": "https://en.wikipedia.org/wiki/Inyokern%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}
