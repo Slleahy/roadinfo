@@ -1,0 +1,132 @@
+{
+  "id": "ca-stretch-ca14-red-rock-canyon-cantil-jawbone-siphon-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-red-rock-canyon-cantil",
+    "path": [
+      [
+        -117.98692,
+        35.371191
+      ],
+      [
+        -117.98185,
+        35.36347
+      ],
+      [
+        -117.97537,
+        35.355
+      ],
+      [
+        -117.97135,
+        35.34597
+      ],
+      [
+        -117.97434,
+        35.3355
+      ],
+      [
+        -117.97989,
+        35.32171
+      ],
+      [
+        -117.98585,
+        35.31331
+      ],
+      [
+        -117.98589,
+        35.30223
+      ],
+      [
+        -117.98069,
+        35.3012
+      ],
+      [
+        -117.97143,
+        35.30676
+      ],
+      [
+        -117.96822,
+        35.30878
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "The Jawbone Siphon",
+  "text": "At Jawbone Canyon, the Los Angeles Aqueduct dips into the canyon and back out through a pipe 8,095 feet long, with an 850-foot drop. It is the largest of the pressurized tubes along the aqueduct, and its chief engineer, William Mulholland, called this section the Jawbone Siphon. The pipe uses the pressure developed on the downslope to force the water up the far side. It burst in freezing weather in 1988. Europeans who settled the canyon around 1860 named it Jawbone because its shape resembled a mandible.",
+  "sentences": [
+    {
+      "text": "At Jawbone Canyon, the Los Angeles Aqueduct dips into the canyon and back out through a pipe 8,095 feet long, with an 850-foot drop.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It is the largest of the pressurized tubes along the aqueduct, and its chief engineer, William Mulholland, called this section the Jawbone Siphon.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The pipe uses the pressure developed on the downslope to force the water up the far side.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It burst in freezing weather in 1988.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Europeans who settled the canyon around 1860 named it Jawbone because its shape resembled a mandible.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Jawbone Canyon",
+      "url": "https://en.wikipedia.org/wiki/Jawbone_Canyon",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Europeans first settled in the canyon around 1860—naming it Jawbone because its shape resembled a mandible",
+      "revision": "1301101860"
+    },
+    "s2": {
+      "title": "Los Angeles Aqueduct Jawbone Canyon Pipe",
+      "url": "https://clui.org/ludb/site/los-angeles-aqueduct-jawbone-canyon-pipe",
+      "publisher": "Center for Land Use Interpretation",
+      "retrieved": "2026-10-03",
+      "quote": "This is the largest of the pressurized tubes dipping into and out of the canyons along the Los Angeles Aqueduct (8,095 feet, with a 850-foot drop) ... using the pressure developed in the down slope to force the water through the up slope ... notable also for having burst in freezing weather in 1988"
+    }
+  },
+  "topics": [
+    "engineering",
+    "water",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "jawbone siphon",
+    "los angeles aqueduct",
+    "mulholland",
+    "jawbone canyon"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
