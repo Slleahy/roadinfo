@@ -1,0 +1,85 @@
+{
+  "id": "ca-landscape-fremont-valley-koehn-lake-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Fremont Valley"
+  },
+  "title": "A lake that is usually dry",
+  "text": "Koehn Lake in the Fremont Valley is a dry lake that is closed to outflow in some seasons. Any water that collects there leaves by evaporation. The dry lakebed is about 5 miles long and 3 miles across at its widest. The Garlock Fault steps sideways across a gap about 3 kilometers wide near the lake.",
+  "sentences": [
+    {
+      "text": "Koehn Lake in the Fremont Valley is a dry lake that is closed to outflow in some seasons.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Any water that collects there leaves by evaporation.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The dry lakebed is about 5 miles long and 3 miles across at its widest.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Garlock Fault steps sideways across a gap about 3 kilometers wide near the lake.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Koehn Lake",
+      "url": "https://en.wikipedia.org/wiki/Koehn_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "a dry lake, and seasonally endorheic lake ... approximately 5 miles (8.0 km) long and 3 miles (4.8 km) at its widest point ... Terminal ... evaporation"
+    },
+    "s2": {
+      "title": "Garlock fault zone, Central Garlock section (Class A) No. 69b, Quaternary fault and fold database",
+      "url": "https://earthquake.usgs.gov/static/lfs/nshm/qfaults/Reports/69b.pdf",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "a 3-km-wide left-releasing step-over in the vicinity of Koehn Lake"
+    }
+  },
+  "topics": [
+    "geology",
+    "lakes",
+    "desert"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "koehn lake",
+    "dry lake",
+    "playa",
+    "fremont valley",
+    "closed basin"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.12583,
+    "lon": -117.98583,
+    "radiusMeters": 30000,
+    "name": "Fremont Valley",
+    "source": "https://en.wikipedia.org/wiki/California_City,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

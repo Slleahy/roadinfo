@@ -1,0 +1,86 @@
+{
+  "id": "ca-landscape-fremont-valley-tortoise-natural-area-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Fremont Valley"
+  },
+  "title": "Land set aside for the desert tortoise",
+  "text": "The Desert Tortoise Research Natural Area covers 39.5 square miles of the western Mojave Desert. It was set aside to protect the desert tortoise, which is California's state reptile. In 1980, the Bureau of Land Management designated it an Area of Critical Environmental Concern and a Research Natural Area. The area is fenced, and an interpretive center there was dedicated in April 1980.",
+  "sentences": [
+    {
+      "text": "The Desert Tortoise Research Natural Area covers 39.5 square miles of the western Mojave Desert.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It was set aside to protect the desert tortoise, which is California's state reptile.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 1980, the Bureau of Land Management designated it an Area of Critical Environmental Concern and a Research Natural Area.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The area is fenced, and an interpretive center there was dedicated in April 1980.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Desert Tortoise Natural Area",
+      "url": "https://en.wikipedia.org/wiki/Desert_Tortoise_Natural_Area",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "39.5-square-mile (102 km2) area in the western Mojave Desert ... created to protect the native desert tortoise (Gopherus agassizii), which is also the California state reptile ... designated it an 'Area of Critical Environmental Concern' and as a 'Research Natural Area' in 1980"
+    },
+    "s2": {
+      "title": "Desert Tortoise Research Natural Area overview",
+      "url": "https://tortoise-tracks.org/dtrna/overview/",
+      "publisher": "Desert Tortoise Preserve Committee",
+      "retrieved": "2026-10-03",
+      "quote": "39.5 square miles of prime natural habitat ... designating it as an Area of Critical Environmental Concern and as a Research Natural Area ... The Interpretive Center ... was dedicated April, 1980."
+    }
+  },
+  "topics": [
+    "wildlife",
+    "conservation",
+    "desert"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "desert tortoise",
+    "research natural area",
+    "rand mountains",
+    "state reptile"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.12583,
+    "lon": -117.98583,
+    "radiusMeters": 30000,
+    "name": "Fremont Valley",
+    "source": "https://en.wikipedia.org/wiki/California_City,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

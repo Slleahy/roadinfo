@@ -1,0 +1,72 @@
+{
+  "id": "ca-landscape-fremont-valley-old-shoreline-offset-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Fremont Valley"
+  },
+  "title": "A shoreline the fault has moved",
+  "text": "Near Koehn Lake, a bar left by an ancient lake has been shifted sideways by the Garlock Fault. The bar is between 11,000 and 15,000 years old. Measuring how far it moved gave a slip rate of between 4 and 7 millimeters a year.",
+  "sentences": [
+    {
+      "text": "Near Koehn Lake, a bar left by an ancient lake has been shifted sideways by the Garlock Fault.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The bar is between 11,000 and 15,000 years old.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Measuring how far it moved gave a slip rate of between 4 and 7 millimeters a year.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Garlock fault zone, Central Garlock section (Class A) No. 69b, Quaternary fault and fold database",
+      "url": "https://earthquake.usgs.gov/static/lfs/nshm/qfaults/Reports/69b.pdf",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Near Koehn Lake a sinistrally offset 11- to 15-ka lake bar ... re-calculated the slip rate ... at Koehn Lake to be 4-7 mm/yr"
+    }
+  },
+  "topics": [
+    "geology",
+    "faults",
+    "lakes"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "garlock fault",
+    "lake bar",
+    "slip rate",
+    "koehn lake",
+    "ancient lake"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.12583,
+    "lon": -117.98583,
+    "radiusMeters": 30000,
+    "name": "Fremont Valley",
+    "source": "https://en.wikipedia.org/wiki/California_City,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
