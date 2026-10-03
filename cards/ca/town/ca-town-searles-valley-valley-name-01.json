@@ -1,0 +1,71 @@
+{
+  "id": "ca-town-searles-valley-valley-name-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Searles Valley (Trona)"
+  },
+  "title": "Where the name Trona comes from",
+  "text": "The name Trona is derived from the mineral trona, which is abundant in Searles Lake. Searles Valley includes the unincorporated communities of Argus, Pioneer Point, Searles Valley, and Trona. The 2020 census counted 1,565 people.",
+  "sentences": [
+    {
+      "text": "The name Trona is derived from the mineral trona, which is abundant in Searles Lake.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Searles Valley includes the unincorporated communities of Argus, Pioneer Point, Searles Valley, and Trona.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The 2020 census counted 1,565 people.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Searles Valley, California",
+      "url": "https://en.wikipedia.org/wiki/Searles_Valley,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Searles Valley includes the unincorporated communities of Argus, Pioneer Point, Searles Valley (town), and Trona. ... As of the 2020 census, Searles Valley had a population of 1,565. ... The name Trona is derived from the mineral trona, abundant in the lake.",
+      "revision": "1351908261"
+    }
+  },
+  "topics": [
+    "names",
+    "people",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "trona name",
+    "searles valley",
+    "population"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.76528,
+    "lon": -117.38278,
+    "radiusMeters": 10000,
+    "name": "Searles Valley (Trona)",
+    "source": "https://en.wikipedia.org/wiki/Searles_Valley%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

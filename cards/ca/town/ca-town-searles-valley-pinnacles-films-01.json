@@ -1,0 +1,74 @@
+{
+  "id": "ca-town-searles-valley-pinnacles-films-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Searles Valley (Trona)"
+  },
+  "title": "The Pinnacles on screen",
+  "text": "Films shot at the Trona Pinnacles include Star Trek V: The Final Frontier, Lost in Space, and Planet of the Apes. Rihanna's 2016 video for Sledgehammer was also shot there.",
+  "sentences": [
+    {
+      "text": "Films shot at the Trona Pinnacles include Star Trek V: The Final Frontier, Lost in Space, and Planet of the Apes.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Rihanna's 2016 video for Sledgehammer was also shot there.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Trona Pinnacles",
+      "url": "https://en.wikipedia.org/wiki/Trona_Pinnacles",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Star Trek V: The Final Frontier ... Lost in Space, and Planet of the Apes. ... Rihanna's 2016 single",
+      "revision": "1370197892"
+    },
+    "s2": {
+      "title": "Trona Pinnacles",
+      "url": "https://www.blm.gov/visit/trona-pinnacles",
+      "publisher": "Bureau of Land Management",
+      "retrieved": "2026-10-03",
+      "quote": "featured in many commercials, films, and still-photo shoots"
+    }
+  },
+  "topics": [
+    "film",
+    "landmarks"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "trona pinnacles",
+    "star trek v",
+    "film location"
+  ],
+  "followOn": [
+    "ca-town-searles-valley-trona-pinnacles-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.76528,
+    "lon": -117.38278,
+    "radiusMeters": 10000,
+    "name": "Searles Valley (Trona)",
+    "source": "https://en.wikipedia.org/wiki/Searles_Valley%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

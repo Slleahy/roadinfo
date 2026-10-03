@@ -1,0 +1,78 @@
+{
+  "id": "ca-town-searles-valley-searles-lake-minerals-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Searles Valley (Trona)"
+  },
+  "title": "A lake of chemicals",
+  "text": "John Searles discovered borax on the surface of Searles Lake in 1862. Plants at Argus, Trona, and Westend still extract industrial minerals from the lake's brines. The products include borax, boric acid, soda ash, and salt. The dry lake basin is about 12 miles long and about 8 miles wide at its widest point.",
+  "sentences": [
+    {
+      "text": "John Searles discovered borax on the surface of Searles Lake in 1862.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Plants at Argus, Trona, and Westend still extract industrial minerals from the lake's brines.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The products include borax, boric acid, soda ash, and salt.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The dry lake basin is about 12 miles long and about 8 miles wide at its widest point.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Searles Lake",
+      "url": "https://en.wikipedia.org/wiki/Searles_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "John Searles discovered borax on the nearby surface of Searles Lake in 1862. ... Industrial minerals are extracted from the brines at the Argus, Trona and Westend plants. ... boric acid, soda ash, salt cake and salt. ... approximately 19 km (12 mi) long and 13 km (8.1 mi) at its widest point.",
+      "revision": "1367854341"
+    }
+  },
+  "topics": [
+    "mining",
+    "history",
+    "industry"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "searles lake",
+    "john searles",
+    "borax",
+    "soda ash"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.76528,
+    "lon": -117.38278,
+    "radiusMeters": 10000,
+    "name": "Searles Valley (Trona)",
+    "source": "https://en.wikipedia.org/wiki/Searles_Valley%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "ca-town-searles-valley-company-town-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Searles Valley (Trona)"
+  },
+  "title": "A company town for potash",
+  "text": "In 1913, the British-owned Consolidated Gold Fields of South Africa founded the American Trona Corporation, which set up Trona as a company-run town. In 1914, the Trona Railway opened a 31-mile line from Trona to the Southern Pacific junction at Searles Station. The railway was built to bring the company's potash to an interchange with the Southern Pacific. A heavily financed refinery at Trona was completed in October 1916.",
+  "sentences": [
+    {
+      "text": "In 1913, the British-owned Consolidated Gold Fields of South Africa founded the American Trona Corporation, which set up Trona as a company-run town.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 1914, the Trona Railway opened a 31-mile line from Trona to the Southern Pacific junction at Searles Station.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The railway was built to bring the company's potash to an interchange with the Southern Pacific.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "A heavily financed refinery at Trona was completed in October 1916.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Potash wars (California)",
+      "url": "https://en.wikipedia.org/wiki/Potash_wars_(California)",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In 1913, the British-owned Consolidated Gold Fields of South Africa founded the American Trona Corporation. ... In 1914 the Trona Railway Company opened a 31-mile rail line from Trona to the Searles Station junction of the Southern Pacific Railroad.",
+      "revision": "1365390271"
+    },
+    "s2": {
+      "title": "Trona Railway",
+      "url": "https://en.wikipedia.org/wiki/Trona_Railway",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The construction of the 31-mile-long track was completed by end of March 1914. ... to bring the mining company's potash to an interchange with the Southern Pacific Railroad.",
+      "revision": "1375647293"
+    },
+    "s3": {
+      "title": "Searles Lake (Digital-Desert)",
+      "url": "https://www.mojavedesert.net/desert-fever/searles-lake.html",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "A huge, heavily financed refinery was completed in October, 1916."
+    }
+  },
+  "topics": [
+    "history",
+    "railroads",
+    "mining"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "trona",
+    "american trona corporation",
+    "trona railway",
+    "potash"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.76528,
+    "lon": -117.38278,
+    "radiusMeters": 10000,
+    "name": "Searles Valley (Trona)",
+    "source": "https://en.wikipedia.org/wiki/Searles_Valley%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

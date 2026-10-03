@@ -1,0 +1,74 @@
+{
+  "id": "ca-town-searles-valley-the-pit-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Searles Valley (Trona)"
+  },
+  "title": "The Pit",
+  "text": "Trona High School plays football on a field of dirt and sand called The Pit, because the salt in the soil kills grass. The school's teams are the Tornadoes, but the football players call themselves the Sandmen.",
+  "sentences": [
+    {
+      "text": "Trona High School plays football on a field of dirt and sand called The Pit, because the salt in the soil kills grass.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The school's teams are the Tornadoes, but the football players call themselves the Sandmen.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Searles Valley, California",
+      "url": "https://en.wikipedia.org/wiki/Searles_Valley,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The local school plays on a dirt football field because the high level of salt kills grass.",
+      "revision": "1351908261"
+    },
+    "s2": {
+      "title": "Trona High football hits harder than Mother Nature",
+      "url": "https://www.bakersfieldnow.com/sports/content/trona-high-football-hits-harder-than-mother-nature",
+      "publisher": "KBAK Bakersfield Now",
+      "retrieved": "2026-10-03",
+      "quote": "The desert heat and salty soil refuse to let anything grow in The Pit. ... the football players call themselves the Sandmen"
+    }
+  },
+  "topics": [
+    "sports",
+    "oddities",
+    "schools"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "trona high school",
+    "the pit",
+    "dirt football field",
+    "sandmen"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.76528,
+    "lon": -117.38278,
+    "radiusMeters": 10000,
+    "name": "Searles Valley (Trona)",
+    "source": "https://en.wikipedia.org/wiki/Searles_Valley%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}
