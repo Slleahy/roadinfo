@@ -1,0 +1,71 @@
+{
+  "id": "ca-landscape-garlock-fault-many-ruptures-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Garlock Fault"
+  },
+  "title": "Earthquakes recorded in the ground",
+  "text": "Geologists dug a trench across the Garlock Fault south of the El Paso Mountains. Buried fissures and fault scarps there record five to eight surface-rupturing earthquakes in the past 5,000 years. A deeper dig later confirmed that the timing between earthquakes was irregular.",
+  "sentences": [
+    {
+      "text": "Geologists dug a trench across the Garlock Fault south of the El Paso Mountains.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Buried fissures and fault scarps there record five to eight surface-rupturing earthquakes in the past 5,000 years.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A deeper dig later confirmed that the timing between earthquakes was irregular.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Garlock fault zone, Central Garlock section (Class A) No. 69b, Quaternary fault and fold database",
+      "url": "https://earthquake.usgs.gov/static/lfs/nshm/qfaults/Reports/69b.pdf",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "The site is characterized by a small playa/alluvial fan complex south of the El Paso Mountains ... Buried fissures and fault scarps document 5 to 8 surface-rupturing earthquakes in the past 5 ka ... Dawson (2000) confirmed the irregular nature of recurrence"
+    }
+  },
+  "topics": [
+    "geology",
+    "earthquakes",
+    "faults"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "garlock fault",
+    "paleoseismology",
+    "fault trench",
+    "el paso peaks"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.4025,
+    "lon": -117.79,
+    "radiusMeters": 40000,
+    "name": "Garlock Fault",
+    "source": "https://en.wikipedia.org/wiki/Garlock,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "ca-landscape-garlock-fault-province-line-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Garlock Fault"
+  },
+  "title": "The line between two landscapes",
+  "text": "The Garlock Fault separates the Tehachapi Mountains, the southern Sierra Nevada, and the Basin and Range country on its north side from the Mojave Desert on its south side. It runs from a junction with the San Andreas Fault in the west to the Avawatz Mountains near the south end of Death Valley. Rocks on the two sides have been slid sideways past each other by a maximum of 48 to 64 kilometers.",
+  "sentences": [
+    {
+      "text": "The Garlock Fault separates the Tehachapi Mountains, the southern Sierra Nevada, and the Basin and Range country on its north side from the Mojave Desert on its south side.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It runs from a junction with the San Andreas Fault in the west to the Avawatz Mountains near the south end of Death Valley.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Rocks on the two sides have been slid sideways past each other by a maximum of 48 to 64 kilometers.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Garlock fault zone, Central Garlock section (Class A) No. 69b, Quaternary fault and fold database",
+      "url": "https://earthquake.usgs.gov/static/lfs/nshm/qfaults/Reports/69b.pdf",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "a east-northeast striking sinistral strike-slip fault that separates the Tehachapi-Sierra Nevada and Basin and Range provinces on the north against the Mojave Desert province on the south ... extends to the Avawatz Mountains near the south end of Death Valley. Maximum cumulative sinistral strike-slip displacement of 48 km to 64 km has been documented"
+    },
+    "s2": {
+      "title": "Garlock Fault",
+      "url": "https://en.wikipedia.org/wiki/Garlock_Fault",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "It marks the northern boundary of the area known as the Mojave Block, as well as the southern ends of the Sierra Nevada and the valleys of the westernmost Basin and Range province. ... runs from a junction with the San Andreas Fault in the Antelope Valley, eastward to a junction with the Death Valley Fault Zone in the eastern Mojave Desert."
+    }
+  },
+  "topics": [
+    "geology",
+    "faults",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "garlock fault",
+    "mojave block",
+    "basin and range",
+    "tehachapi mountains",
+    "fault boundary"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.4025,
+    "lon": -117.79,
+    "radiusMeters": 40000,
+    "name": "Garlock Fault",
+    "source": "https://en.wikipedia.org/wiki/Garlock,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ca-landscape-garlock-fault-why-leftward-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Garlock Fault"
+  },
+  "title": "A fault that slides the opposite way",
+  "text": "Unlike most other faults in California, the Garlock Fault slips left-laterally. It is believed to have developed to take up the strain between the stretching crust of the Great Basin and the faulting of the Mojave Desert crust. Geologists have described it as a fault that accommodates stretching in the Basin and Range country to the north, relative to the steadier Mojave block to the south.",
+  "sentences": [
+    {
+      "text": "Unlike most other faults in California, the Garlock Fault slips left-laterally.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It is believed to have developed to take up the strain between the stretching crust of the Great Basin and the faulting of the Mojave Desert crust.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Geologists have described it as a fault that accommodates stretching in the Basin and Range country to the north, relative to the steadier Mojave block to the south.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Garlock fault zone, Central Garlock section (Class A) No. 69b, Quaternary fault and fold database",
+      "url": "https://earthquake.usgs.gov/static/lfs/nshm/qfaults/Reports/69b.pdf",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "considered the Garlock fault to be an intracontinental transform fault accommodating extension in the Basin and Range province to the north relative to the more stable Mojave block to the south"
+    },
+    "s2": {
+      "title": "Garlock Fault",
+      "url": "https://en.wikipedia.org/wiki/Garlock_Fault",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Unlike most of the other faults in California, slip on the Garlock Fault is left-lateral ... believed to have developed to accommodate the strain between the extensional tectonics of the Great Basin crust and the right lateral strike-slip faulting of the Mojave Desert crust."
+    }
+  },
+  "topics": [
+    "geology",
+    "faults"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "garlock fault",
+    "left-lateral fault",
+    "great basin",
+    "mojave desert crust"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.4025,
+    "lon": -117.79,
+    "radiusMeters": 40000,
+    "name": "Garlock Fault",
+    "source": "https://en.wikipedia.org/wiki/Garlock,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

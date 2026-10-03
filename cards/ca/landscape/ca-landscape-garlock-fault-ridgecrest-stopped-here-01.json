@@ -1,0 +1,89 @@
+{
+  "id": "ca-landscape-garlock-fault-ridgecrest-stopped-here-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Garlock Fault"
+  },
+  "title": "Where the 2019 earthquake stopped",
+  "text": "The rupture of the 2019 Ridgecrest earthquake ended near the Garlock Fault. The Garlock Fault west of the rupture's end was unclamped, meaning the force pressing its two sides together had eased. Soon afterward, the Garlock Fault began slowly creeping, slipping about 2 centimeters at the surface.",
+  "sentences": [
+    {
+      "text": "The rupture of the 2019 Ridgecrest earthquake ended near the Garlock Fault.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "The Garlock Fault west of the rupture's end was unclamped, meaning the force pressing its two sides together had eased.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Soon afterward, the Garlock Fault began slowly creeping, slipping about 2 centimeters at the surface.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Cascading and pulse-like ruptures during the 2019 Ridgecrest earthquakes in the Eastern California Shear Zone",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6946662/",
+      "publisher": "Nature Communications (via PubMed Central)",
+      "retrieved": "2026-10-03",
+      "quote": "until its termination at the intersection with the Garlock fault. ... The Garlock fault itself was unclamped west of its intersection with the Mw 7.1 rupture."
+    },
+    "s2": {
+      "title": "Garlock Fault",
+      "url": "https://en.wikipedia.org/wiki/Garlock_Fault",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "the Garlock Fault was observed moving about 2 cm (0.8 in) between July and October"
+    },
+    "s3": {
+      "title": "Caltech, NASA Find Web of Ruptures in Ridgecrest Quake",
+      "url": "https://www.jpl.nasa.gov/news/caltech-nasa-find-web-of-ruptures-in-ridgecrest-quake/",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "retrieved": "2026-10-03",
+      "quote": "The Ridgecrest ruptures ended just a few miles shy of the Garlock Fault ... The fault has slipped 0.8 inches (2 centimeters) at the surface since July ... a process call fault creep."
+    }
+  },
+  "topics": [
+    "geology",
+    "earthquakes",
+    "faults"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2019",
+  "themeKeys": [
+    "garlock fault",
+    "ridgecrest earthquake",
+    "2019 earthquake",
+    "fault creep"
+  ],
+  "followOn": [
+    "ca-kern-county-ridgecrest-earthquakes-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.4025,
+    "lon": -117.79,
+    "radiusMeters": 40000,
+    "name": "Garlock Fault",
+    "source": "https://en.wikipedia.org/wiki/Garlock,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
