@@ -70,5 +70,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.68556,
+    "lon": -117.69194,
+    "radiusMeters": 40000,
+    "name": "Naval Air Weapons Station China Lake",
+    "source": "https://en.wikipedia.org/wiki/Naval_Air_Weapons_Station_China_Lake"
   }
 }

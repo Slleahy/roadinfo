@@ -71,5 +71,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.51389,
+    "lon": -108.74306,
+    "radiusMeters": 40000,
+    "name": "Gallup, New Mexico",
+    "source": "https://en.wikipedia.org/wiki/Gallup%2C_New_Mexico"
   }
 }

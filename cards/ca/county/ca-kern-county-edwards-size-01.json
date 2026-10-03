@@ -70,5 +70,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 34.90556,
+    "lon": -117.88361,
+    "radiusMeters": 40000,
+    "name": "Edwards Air Force Base",
+    "source": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base"
   }
 }

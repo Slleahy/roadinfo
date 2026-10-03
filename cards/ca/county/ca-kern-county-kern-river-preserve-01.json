@@ -73,5 +73,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.66944,
+    "lon": -118.31611,
+    "radiusMeters": 40000,
+    "name": "Kern River Preserve",
+    "source": "https://en.wikipedia.org/wiki/Kern_River_Preserve"
   }
 }

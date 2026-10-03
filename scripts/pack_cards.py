@@ -37,6 +37,8 @@ def main():
             skipped.append(card["id"])
             continue
         anchor = dict(card["anchor"])
+        if anchor.get("type") == "place" and not anchor.get("state"):
+            anchor["state"] = STATES.get(card["id"][:2].upper() and {"ca": "06", "nm": "35", "az": "04"}.get(card["id"][:2], ""))
         if anchor.get("type") == "county":
             fips = anchor.get("fips", "")
             anchor["county"] = names.get(fips)
@@ -56,6 +58,7 @@ def main():
             "followOn": card.get("followOn", []),
             "pronunciations": card.get("pronunciations", {}),
             "direction": card.get("direction"),
+            "near": {k: card["near"][k] for k in ("lat", "lon", "radiusMeters", "name") if k in card["near"]} if card.get("near") else None,
         })
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     json.dump({"version": date.today().isoformat(), "license": "CC BY-SA 4.0, https://github.com/Slleahy/roadinfo",

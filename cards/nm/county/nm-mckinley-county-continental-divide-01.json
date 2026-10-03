@@ -82,5 +82,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.43278,
+    "lon": -108.33583,
+    "radiusMeters": 30000,
+    "name": "Continental Divide, New Mexico",
+    "source": "https://en.wikipedia.org/wiki/Continental_Divide%2C_New_Mexico"
   }
 }

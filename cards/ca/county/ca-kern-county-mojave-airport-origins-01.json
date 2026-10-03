@@ -60,5 +60,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.0525,
+    "lon": -118.17389,
+    "radiusMeters": 40000,
+    "name": "Mojave, California",
+    "source": "https://en.wikipedia.org/wiki/Mojave%2C_California"
   }
 }

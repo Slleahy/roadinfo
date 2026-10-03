@@ -91,5 +91,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.6225,
+    "lon": -117.67083,
+    "radiusMeters": 60000,
+    "name": "Ridgecrest, California",
+    "source": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California"
   }
 }

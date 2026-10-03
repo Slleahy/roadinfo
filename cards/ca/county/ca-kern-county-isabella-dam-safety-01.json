@@ -75,5 +75,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.64611,
+    "lon": -118.48222,
+    "radiusMeters": 40000,
+    "name": "Isabella Dam",
+    "source": "https://en.wikipedia.org/wiki/Isabella_Dam"
   }
 }

@@ -75,5 +75,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.36861,
+    "lon": -117.65806,
+    "radiusMeters": 30000,
+    "name": "Randsburg, California",
+    "source": "https://en.wikipedia.org/wiki/Randsburg%2C_California"
   }
 }

@@ -84,5 +84,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.14722,
+    "lon": -107.85139,
+    "radiusMeters": 50000,
+    "name": "Grants, New Mexico",
+    "source": "https://en.wikipedia.org/wiki/Grants%2C_New_Mexico"
   }
 }

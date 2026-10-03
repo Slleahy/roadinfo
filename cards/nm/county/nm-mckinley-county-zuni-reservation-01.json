@@ -92,5 +92,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.06722,
+    "lon": -108.87278,
+    "radiusMeters": 60000,
+    "name": "Zuni Pueblo, New Mexico",
+    "source": "https://en.wikipedia.org/wiki/Zuni_Pueblo%2C_New_Mexico"
   }
 }

@@ -79,5 +79,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.46778,
+    "lon": -108.54056,
+    "radiusMeters": 40000,
+    "name": "Fort Wingate",
+    "source": "https://en.wikipedia.org/wiki/Fort_Wingate"
   }
 }

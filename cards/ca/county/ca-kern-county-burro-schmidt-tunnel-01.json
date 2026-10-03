@@ -83,5 +83,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.41033,
+    "lon": -117.87583,
+    "radiusMeters": 30000,
+    "name": "Burro Schmidt Tunnel",
+    "source": "https://en.wikipedia.org/wiki/Burro_Schmidt_Tunnel"
   }
 }

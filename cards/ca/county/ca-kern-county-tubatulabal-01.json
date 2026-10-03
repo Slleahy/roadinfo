@@ -83,5 +83,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.61806,
+    "lon": -118.47306,
+    "radiusMeters": 50000,
+    "name": "Lake Isabella, California",
+    "source": "https://en.wikipedia.org/wiki/Lake_Isabella%2C_California"
   }
 }

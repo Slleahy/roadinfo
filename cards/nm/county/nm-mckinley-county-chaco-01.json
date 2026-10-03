@@ -75,5 +75,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 36.06,
+    "lon": -107.96,
+    "radiusMeters": 60000,
+    "name": "Chaco Culture National Historical Park",
+    "source": "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park"
   }
 }

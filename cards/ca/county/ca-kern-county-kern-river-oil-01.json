@@ -62,5 +62,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 1
+  },
+  "near": {
+    "lat": 35.4564,
+    "lon": -118.9834,
+    "radiusMeters": 40000,
+    "name": "Kern River Oil Field",
+    "source": "https://en.wikipedia.org/wiki/Kern_River_Oil_Field"
   }
 }

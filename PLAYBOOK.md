@@ -93,6 +93,12 @@ One JSON object per card, conforming to [`schema/card.schema.json`](schema/card.
 - Every sentence lists at least one source id. Each source has a short `quote` showing the
   passage that supports it.
 - `asOf` is the year of any figure in the card ("2024"); null if the card has no figures.
+- `near` says where a card belongs when it is about one spot. **Required** for town and sight
+  cards, and for any county, landscape, or region card about a particular place (a dam, a mine,
+  a base, a pass). Give the spot's latitude and longitude from a cited page (the Wikipedia
+  article's coordinates or the GNIS record are fine), a `radiusMeters` (towns about 8,000;
+  sights about 5,000, more if visible from far off; a spot in a county card about 40,000), and
+  the page's URL in `source`. Leave `near` out of cards about the whole county or region.
 - `direction` is used only for `stretch` cards: `"eastbound"`, `"westbound"`, or null for both.
 
 ## 4. Writing for the ear

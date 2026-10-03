@@ -82,5 +82,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.70278,
+    "lon": -117.68639,
+    "radiusMeters": 40000,
+    "name": "Indian Wells Valley",
+    "source": "https://en.wikipedia.org/wiki/Indian_Wells_Valley"
   }
 }

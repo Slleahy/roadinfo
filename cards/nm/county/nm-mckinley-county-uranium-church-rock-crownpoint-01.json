@@ -65,5 +65,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.56917,
+    "lon": -108.61167,
+    "radiusMeters": 50000,
+    "name": "Church Rock, New Mexico",
+    "source": "https://en.wikipedia.org/wiki/Church_Rock%2C_New_Mexico"
   }
 }

@@ -55,5 +55,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 0
+  },
+  "near": {
+    "lat": 35.37299,
+    "lon": -117.99069,
+    "radiusMeters": 30000,
+    "name": "Red Rock Canyon State Park (California)",
+    "source": "https://en.wikipedia.org/wiki/Red_Rock_Canyon_State_Park_%28California%29"
   }
 }

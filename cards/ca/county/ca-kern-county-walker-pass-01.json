@@ -71,5 +71,12 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 1
+  },
+  "near": {
+    "lat": 35.66306,
+    "lon": -118.02694,
+    "radiusMeters": 30000,
+    "name": "Walker Pass",
+    "source": "https://en.wikipedia.org/wiki/Walker_Pass"
   }
 }
