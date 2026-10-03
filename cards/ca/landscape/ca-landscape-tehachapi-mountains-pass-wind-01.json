@@ -1,0 +1,71 @@
+{
+  "id": "ca-landscape-tehachapi-mountains-pass-wind-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Tehachapi Mountains"
+  },
+  "title": "The wind through the pass",
+  "text": "Tehachapi Pass acts as a venturi for air moving between the ocean and the desert, which increases wind speed. Wind development in the pass began in the early 1980s. The first turbines installed there were American-made and proved troublesome, so the developer turned to Danish machines.",
+  "sentences": [
+    {
+      "text": "Tehachapi Pass acts as a venturi for air moving between the ocean and the desert, which increases wind speed.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Wind development in the pass began in the early 1980s.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The first turbines installed there were American-made and proved troublesome, so the developer turned to Danish machines.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Pass Wind Farm",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Pass_Wind_Farm",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The mountain pass acts as a venturi effect to air moving between ocean and desert, increasing wind speed. Wind development in the Tehachapi Pass began in the early 1980s. The first set of wind turbines installed were of American-made Storm Master brand, however they proved troublesome and eventually had to be replaced. Dehlsen turned to Danish-built machines later."
+    }
+  },
+  "topics": [
+    "wind",
+    "energy",
+    "climate"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi pass",
+    "wind farm",
+    "wind turbines",
+    "venturi effect"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.95,
+    "lon": -118.58,
+    "radiusMeters": 40000,
+    "name": "Tehachapi Mountains",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

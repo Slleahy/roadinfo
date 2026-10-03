@@ -1,0 +1,78 @@
+{
+  "id": "ca-landscape-tehachapi-mountains-valley-from-desert-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Tehachapi Mountains"
+  },
+  "title": "The range between valley and desert",
+  "text": "The Tehachapi Mountains form a range about 40 miles long in southern Kern County and northwestern Los Angeles County. They form part of the boundary between the San Joaquin Valley and the Mojave Desert. Oak woodland, oak savanna, and chaparral grow on the slopes, with mixed evergreen forest at higher elevations. Mountain lions, black bears, and mule deer live in the range.",
+  "sentences": [
+    {
+      "text": "The Tehachapi Mountains form a range about 40 miles long in southern Kern County and northwestern Los Angeles County.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They form part of the boundary between the San Joaquin Valley and the Mojave Desert.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Oak woodland, oak savanna, and chaparral grow on the slopes, with mixed evergreen forest at higher elevations.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Mountain lions, black bears, and mule deer live in the range.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Mountains",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Mountains",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "extends for approximately 40 miles (64 km) in southern Kern County and northwestern Los Angeles County ... forms part of the boundary between the San Joaquin Valley and the Mojave Desert ... California oak woodlands and oak savanna ... California mixed evergreen forest ... mule deer, mountain lion, coyote, fox, black bear"
+    }
+  },
+  "topics": [
+    "geography",
+    "plants",
+    "wildlife"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi mountains",
+    "san joaquin valley",
+    "mojave desert",
+    "oak woodland",
+    "chaparral"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.95,
+    "lon": -118.58,
+    "radiusMeters": 40000,
+    "name": "Tehachapi Mountains",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ca-landscape-tehachapi-mountains-deep-crust-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Tehachapi Mountains"
+  },
+  "title": "Rock from deep underground",
+  "text": "In the Tehachapi Mountains, rock that formed 25 to 30 kilometers below the surface now lies exposed. These are Cretaceous gneisses from deep within the Sierra Nevada batholith. Seismic profiles show that the batholith rocks dip northward as a tilted slab beneath the southern end of the San Joaquin Basin.",
+  "sentences": [
+    {
+      "text": "In the Tehachapi Mountains, rock that formed 25 to 30 kilometers below the surface now lies exposed.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "These are Cretaceous gneisses from deep within the Sierra Nevada batholith.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Seismic profiles show that the batholith rocks dip northward as a tilted slab beneath the southern end of the San Joaquin Basin.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Significance of seismic reflections beneath a tilted exposure of deep continental crust, Tehachapi Mountains, California",
+      "url": "https://authors.library.caltech.edu/49001",
+      "publisher": "Caltech Authors (Journal of Geophysical Research, 1995)",
+      "retrieved": "2026-10-03",
+      "quote": "Cretaceous gneisses that formed 25-30 km down in the Sierra Nevada batholith ... batholithic rocks dip northward as a tilted slab and extend beneath the southern end of the San Joaquin Basin's Tejon embayment"
+    }
+  },
+  "topics": [
+    "geology",
+    "mountains",
+    "rocks"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi mountains",
+    "deep crust",
+    "gneiss",
+    "sierra nevada batholith",
+    "tilted slab"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.95,
+    "lon": -118.58,
+    "radiusMeters": 40000,
+    "name": "Tehachapi Mountains",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

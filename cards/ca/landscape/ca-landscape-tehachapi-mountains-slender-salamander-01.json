@@ -1,0 +1,77 @@
+{
+  "id": "ca-landscape-tehachapi-mountains-slender-salamander-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Tehachapi Mountains"
+  },
+  "title": "A salamander with no lungs",
+  "text": "The Tehachapi slender salamander lives only in California, in isolated areas of the Piute and Tehachapi Mountains in Kern County. It is about 3 inches long and dark brown, with coppery red and silver speckles. It has no lungs and breathes through its skin, which it must keep moist. It lives in damp leaf litter and comes out during high humidity or rain.",
+  "sentences": [
+    {
+      "text": "The Tehachapi slender salamander lives only in California, in isolated areas of the Piute and Tehachapi Mountains in Kern County.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is about 3 inches long and dark brown, with coppery red and silver speckles.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It has no lungs and breathes through its skin, which it must keep moist.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It lives in damp leaf litter and comes out during high humidity or rain.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi slender salamander",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_slender_salamander",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "endemic to California, in Kern County ... only in isolated areas of the Piute and Tehachapi Mountains ... 3-inch (76 mm) length ... dark brown in color with light, glittery-looking speckles of coppery red and silver ... lacks lungs and breathes through its skin, which it must keep moist ... lives in damp leaf litter and emerges during high humidity or rain"
+    }
+  },
+  "topics": [
+    "wildlife",
+    "animals",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi slender salamander",
+    "lungless salamander",
+    "piute mountains",
+    "endemic species"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.95,
+    "lon": -118.58,
+    "radiusMeters": 40000,
+    "name": "Tehachapi Mountains",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
