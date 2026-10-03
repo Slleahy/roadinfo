@@ -1,0 +1,84 @@
+{
+  "id": "ca-landscape-rand-mountains-rand-thrust-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Rand Mountains"
+  },
+  "title": "A stack of rock plates",
+  "text": "The Rand Mountains are built on a thrust fault that stacks one body of rock on another. Above the Rand thrust lie quartz monzonite and gneiss, and below it lies a rock called Rand Schist. The southwestern part of that fault was later reused as a low-angle normal fault. In the middle Miocene, the Rand Detachment Fault helped stretch the northwest Mojave Desert.",
+  "sentences": [
+    {
+      "text": "The Rand Mountains are built on a thrust fault that stacks one body of rock on another.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Above the Rand thrust lie quartz monzonite and gneiss, and below it lies a rock called Rand Schist.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The southwestern part of that fault was later reused as a low-angle normal fault.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In the middle Miocene, the Rand Detachment Fault helped stretch the northwest Mojave Desert.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Early history and reactivation of the Rand thrust, southern California",
+      "url": "https://www.science.gov/topicpages/k/kadri+rand+marje",
+      "publisher": "science.gov (topic page quoting published abstracts)",
+      "retrieved": "2026-10-03",
+      "quote": "The Rand thrust of the Rand Mountains in the northwestern Mojave Desert separates an upper plate of quartz monzonite and quartzofeldspathic to amphibolitic gneiss from a lower plate of metagraywacke and mafic schist (Rand Schist). ... the southwestern portion of the Rand thrust was found to have been reactivated as a low-angle normal fault after subduction."
+    },
+    "s2": {
+      "title": "Middle Miocene Displacement Along the Rand Detachment Fault, Rand Mountains",
+      "url": "https://www.science.gov/topicpages/k/kadri+rand+marje",
+      "publisher": "science.gov (topic page quoting published abstracts)",
+      "retrieved": "2026-10-03",
+      "quote": "The Rand Detachment fault in the Rand Mountains is a middle Miocene fault that facilitated extension of the northwest Mojave Desert."
+    }
+  },
+  "topics": [
+    "geology",
+    "faults",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "rand thrust",
+    "rand schist",
+    "rand detachment fault",
+    "rand mountains geology"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.29496,
+    "lon": -117.77729,
+    "radiusMeters": 20000,
+    "name": "Rand Mountains",
+    "source": "https://en.wikipedia.org/wiki/Rand_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
