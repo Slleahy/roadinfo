@@ -1,0 +1,63 @@
+{
+  "id": "ca-kern-county-formation-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A mining town was the first county seat",
+  "text": "Kern County's first county seat was Havilah, a mining town, not Bakersfield. The county was created in 1866 from southern Tulare County, with added land from Los Angeles and San Bernardino Counties. The seat moved to Bakersfield in 1874.",
+  "sentences": [
+    {
+      "text": "Kern County's first county seat was Havilah, a mining town, not Bakersfield.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The county was created in 1866 from southern Tulare County, with added land from Los Angeles and San Bernardino Counties.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The seat moved to Bakersfield in 1874.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Kern County, California",
+      "url": "https://en.wikipedia.org/wiki/Kern_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The south of Tulare County was later organized as Kern County in 1866, with additions from Los Angeles and San Bernardino Counties. ... Its first county seat was the mining town of Havilah ... the county seat was moved from Havilah to Bakersfield in 1874."
+    }
+  },
+  "topics": [
+    "history",
+    "government"
+  ],
+  "scores": {
+    "relevance": 2,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "county formation",
+    "havilah",
+    "county seat",
+    "1866"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

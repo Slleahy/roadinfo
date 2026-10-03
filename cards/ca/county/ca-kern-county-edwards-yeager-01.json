@@ -1,0 +1,91 @@
+{
+  "id": "ca-kern-county-edwards-yeager-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Breaking the sound barrier",
+  "text": "On October 14, 1947, over what is now Edwards Air Force Base, Captain Chuck Yeager became the first person to fly faster than the speed of sound. He flew a Bell XS-1 nicknamed Glamorous Glennis, and a sonic boom was heard across the Mojave Desert. The flight was over Rogers Dry Lake, a dry lakebed so flat that it could serve as a giant runway. Back then the base was called Muroc, a reversal of Corum, because California already had a town named Coram. It was later renamed for Captain Glen Edwards, who died in 1948 in the crash of a Northrop YB-49 flying wing.",
+  "sentences": [
+    {
+      "text": "On October 14, 1947, over what is now Edwards Air Force Base, Captain Chuck Yeager became the first person to fly faster than the speed of sound.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "He flew a Bell XS-1 nicknamed Glamorous Glennis, and a sonic boom was heard across the Mojave Desert.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The flight was over Rogers Dry Lake, a dry lakebed so flat that it could serve as a giant runway.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Back then the base was called Muroc, a reversal of Corum, because California already had a town named Coram.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It was later renamed for Captain Glen Edwards, who died in 1948 in the crash of a Northrop YB-49 flying wing.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Captain Chuck Yeager: Breaking the Sound Barrier",
+      "url": "https://unwritten-record.blogs.archives.gov/2022/10/13/captain-chuck-yeager-breaking-the-sound-barrier",
+      "publisher": "U.S. National Archives (The Unwritten Record)",
+      "retrieved": "2026-10-03",
+      "quote": "On October 14, 1947, USAF Captain Charles E. 'Chuck' Yeager became the first person to fly faster than the speed of sound. ... Yeager flew a Bell XS-1, nicknamed 'Glamorous Glennis' ... over Rogers Dry Lake located at Edward's Air Force Base (formerly named Muroc Air Force Base) ... a sonic boom was heard across the Mojave desert"
+    },
+    "s2": {
+      "title": "Edwards Air Force Base",
+      "url": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "on 14 October 1947 when Captain Charles \"Chuck\" Yeager flew the small bullet-shaped airplane to become the first human to exceed the speed of sound ... named it Muroc, a reversal of the Corum name, due to the presence of a town named Coram elsewhere in California ... Captain Glen Edwards (1918–1948), who was killed a year earlier in the crash of the Northrop YB-49 Flying Wing ... the nearby dry lake was so flat ... that it could serve as a giant runway",
+      "revision": "1377275078"
+    }
+  },
+  "topics": [
+    "aerospace",
+    "history",
+    "aviation"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "edwards air force base",
+    "yeager",
+    "sound barrier",
+    "muroc",
+    "rogers dry lake"
+  ],
+  "followOn": [
+    "ca-kern-county-edwards-size-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

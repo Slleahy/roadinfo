@@ -1,0 +1,88 @@
+{
+  "id": "ca-kern-county-mojave-borax-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Where the twenty-mule teams stopped",
+  "text": "Mojave was the western end of the twenty-mule-team borax route from Death Valley. In the 1880s, teams hauled borax about 165 miles from Death Valley to the railroad at Mojave. The town began in 1876 as a construction camp on the Southern Pacific Railroad. It later served as headquarters for construction of the Los Angeles Aqueduct.",
+  "sentences": [
+    {
+      "text": "Mojave was the western end of the twenty-mule-team borax route from Death Valley.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In the 1880s, teams hauled borax about 165 miles from Death Valley to the railroad at Mojave.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "The town began in 1876 as a construction camp on the Southern Pacific Railroad.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It later served as headquarters for construction of the Los Angeles Aqueduct.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave, California",
+      "url": "https://en.wikipedia.org/wiki/Mojave,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "From 1884 to 1889, the town was the western terminus of the 166-mile (267 km), twenty-mule team at Harmony Borax Works in Death Valley. ... The town of Mojave began in 1876 as a construction camp on the Southern Pacific Railroad. ... later served as headquarters for construction of the Los Angeles Aqueduct.",
+      "revision": "1367775259"
+    },
+    "s2": {
+      "title": "Harmony Borax Works",
+      "url": "https://en.wikipedia.org/wiki/Harmony_Borax_Works",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Coleman had unique borax wagons designed to get the product to the closest railhead in Mojave, California.",
+      "revision": "1373374547"
+    },
+    "s3": {
+      "title": "Harmony Borax Works",
+      "url": "https://www.nps.gov/places/harmony-borax-works.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-03",
+      "quote": "Twenty-mule team wagons were once used to transport borax 165 miles from Death Valley to Mojave."
+    }
+  },
+  "topics": [
+    "history",
+    "railroads",
+    "mining"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "mojave",
+    "borax",
+    "twenty mule team",
+    "southern pacific"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

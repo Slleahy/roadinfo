@@ -1,0 +1,77 @@
+{
+  "id": "ca-kern-county-kern-river-preserve-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A preserve on an old cattle ranch",
+  "text": "The Kern River Preserve, near Weldon, is owned by the National Audubon Society. It covers about 3,000 acres on the former cattle ranch of Andrew Brown, which dates to the 1860s. The preserve was established in 1979. The South Fork Kern River, which flows through it into Lake Isabella, has been a national Wild and Scenic River since 1987. The preserve protects habitat for the federally listed endangered southwestern willow flycatcher.",
+  "sentences": [
+    {
+      "text": "The Kern River Preserve, near Weldon, is owned by the National Audubon Society.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It covers about 3,000 acres on the former cattle ranch of Andrew Brown, which dates to the 1860s.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The preserve was established in 1979.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The South Fork Kern River, which flows through it into Lake Isabella, has been a national Wild and Scenic River since 1987.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The preserve protects habitat for the federally listed endangered southwestern willow flycatcher.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Kern River Preserve",
+      "url": "https://en.wikipedia.org/wiki/Kern_River_Preserve",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "owned by the National Audubon Society ... near Weldon ... located on the former cattle ranch of Andrew Brown, which dates to the 1860s ... Established 1979 ... The South Fork Kern River, designated a national Wild and Scenic River since 1987 ... into Lake Isabella ... the federally listed endangered southwestern willow flycatcher",
+      "revision": "1377381902"
+    }
+  },
+  "topics": [
+    "nature",
+    "birds",
+    "conservation"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kern river preserve",
+    "south fork kern river",
+    "weldon",
+    "willow flycatcher"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

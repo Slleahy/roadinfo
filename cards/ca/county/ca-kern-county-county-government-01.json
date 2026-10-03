@@ -1,0 +1,93 @@
+{
+  "id": "ca-kern-county-county-government-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "What the county government does with its money",
+  "text": "Kern County's government spent about 2.6 billion dollars in 2022. It had about 10,000 full-time employees that year. Property taxes brought in about 423 million dollars of its tax revenue. An elected board of five supervisors, serving four-year terms, governs the county.",
+  "sentences": [
+    {
+      "text": "Kern County's government spent about 2.6 billion dollars in 2022.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It had about 10,000 full-time employees that year.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Property taxes brought in about 423 million dollars of its tax revenue.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "An elected board of five supervisors, serving four-year terms, governs the county.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Census of Governments 2022, Individual Unit File (finance)",
+      "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-03",
+      "quote": "Government ID 061029189634 (KERN COUNTY): total expenditure $2,610,005,000",
+      "table": "Census of Governments 2022 finance, government ID 061029189634 (KERN COUNTY)"
+    },
+    "s2": {
+      "title": "Census of Governments 2022: Employment, Individual Unit Files",
+      "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-03",
+      "quote": "Unit 05101501500000 (Kern), item 000 (total): full-time employees 10,007",
+      "table": "Census of Governments 2022 employment, unit 05101501500000 (Kern)"
+    },
+    "s3": {
+      "title": "Census of Governments 2022, Individual Unit File (finance)",
+      "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-03",
+      "quote": "Government ID 061029189634 (KERN COUNTY), item T01 (property tax): $422,822,000",
+      "table": "Census of Governments 2022 finance, government ID 061029189634 (KERN COUNTY)"
+    },
+    "s4": {
+      "title": "Kern County, California",
+      "url": "https://en.wikipedia.org/wiki/Kern_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The board consists of five members, elected by districts, who serve four-year, staggered terms."
+    }
+  },
+  "topics": [
+    "government",
+    "economy"
+  ],
+  "scores": {
+    "relevance": 2,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2022",
+  "themeKeys": [
+    "county government",
+    "budget",
+    "supervisors",
+    "employees"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

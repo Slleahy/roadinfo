@@ -1,0 +1,86 @@
+{
+  "id": "ca-kern-county-indian-wells-valley-water-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "One basin, no backup",
+  "text": "The towns around Ridgecrest and the China Lake base draw their water from one underground basin, with no significant surface water or imported supply. The state has determined that the Indian Wells Valley groundwater basin is in critical overdraft, from decades of over-pumping. The basin spans about 600 square miles across parts of Kern, Inyo, and San Bernardino Counties. Groundwater levels there have been declining since 1945. State law requires pumping and recharge to be brought into balance by 2040.",
+  "sentences": [
+    {
+      "text": "The towns around Ridgecrest and the China Lake base draw their water from one underground basin, with no significant surface water or imported supply.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The state has determined that the Indian Wells Valley groundwater basin is in critical overdraft, from decades of over-pumping.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The basin spans about 600 square miles across parts of Kern, Inyo, and San Bernardino Counties.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Groundwater levels there have been declining since 1945.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "State law requires pumping and recharge to be brought into balance by 2040.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Court of Appeals rules in favor of Indian Wells Valley Groundwater Authority (press release, February 8, 2024)",
+      "url": "https://www.ridgecrest-ca.gov/DocumentCenter/View/7428/IWVGA-Press-Release-02092024",
+      "publisher": "Indian Wells Valley Groundwater Authority",
+      "retrieved": "2026-10-03",
+      "quote": "The Authority was formed ... to address the critical overdraft of the Indian Wells Valley Groundwater Basin, which spans approximately 600 square miles across parts of Kern, Inyo, and San Bernardino Counties. With no significant surface water or importation infrastructure, the basin is the region's sole source of water. The Department of Water Resources has identified the basin as critically overdrafted, with groundwater levels declining since 1945."
+    },
+    "s2": {
+      "title": "Board of Supervisors to discuss Indian Wells Valley Groundwater Sustainability Plan (press release, January 9, 2020)",
+      "url": "https://www.inyocounty.us/sites/default/files/2020-01/PRESS%20RELEASE%20-%20IWV%20GSP-final.pdf",
+      "publisher": "Inyo County Board of Supervisors",
+      "retrieved": "2026-10-03",
+      "quote": "the Indian Wells Valley Groundwater Basin, which the state determined is in \"critical overdraft\" due to decades of over-pumping. SGMA is requiring development of a GSP as part of the mandate to halt the overdraft and bring the Indian Wells Valley Groundwater Basin into balanced levels of pumping and recharge by 2040."
+    }
+  },
+  "topics": [
+    "water",
+    "environment",
+    "ridgecrest"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "groundwater",
+    "indian wells valley",
+    "overdraft",
+    "ridgecrest water"
+  ],
+  "followOn": [
+    "ca-kern-county-indian-wells-valley-pistachios-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

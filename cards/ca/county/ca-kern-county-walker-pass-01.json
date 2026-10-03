@@ -1,0 +1,75 @@
+{
+  "id": "ca-kern-county-walker-pass-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A pass that has barely changed",
+  "text": "Apart from the paved road, Walker Pass is essentially unaltered since Joseph R. Walker mapped it in 1834. John Frémont's survey expedition used the pass in 1845, and Frémont suggested it be named for Walker. The Pacific Crest Trail crosses there.",
+  "sentences": [
+    {
+      "text": "Apart from the paved road, Walker Pass is essentially unaltered since Joseph R. Walker mapped it in 1834.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "John Frémont's survey expedition used the pass in 1845, and Frémont suggested it be named for Walker.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Pacific Crest Trail crosses there.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Walker Pass",
+      "url": "https://en.wikipedia.org/wiki/Walker_Pass",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Aside from the paved road, the pass is essentially unaltered since Walker mapped it in 1834. ... In 1845 the military surveying expedition of John C. Fremont used the pass. He suggested it be named after Walker. ... The Pacific Crest Trail crosses at Walker Pass.",
+      "revision": "1377191768"
+    },
+    "s2": {
+      "title": "Kern County, California",
+      "url": "https://en.wikipedia.org/wiki/Kern_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Edward Kern, cartographer for General John C. Frémont's 1845 expedition, which crossed Walker Pass"
+    }
+  },
+  "topics": [
+    "history",
+    "exploration",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "walker pass",
+    "joseph walker",
+    "pacific crest trail",
+    "sierra nevada"
+  ],
+  "followOn": [
+    "ca-kern-county-namesake-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ca-kern-county-indian-wells-valley-pistachios-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Pistachios in a dry valley",
+  "text": "A company that grows pistachios in the Indian Wells Valley went to court over a fee for pumping the valley's groundwater. The local groundwater authority set a replenishment fee of 2,130 dollars an acre-foot, starting in January 2021. The grower, Mojave Pistachios, argued the fee infringed on its water rights. In February 2024, the California Court of Appeals ruled in the authority's favor.",
+  "sentences": [
+    {
+      "text": "A company that grows pistachios in the Indian Wells Valley went to court over a fee for pumping the valley's groundwater.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The local groundwater authority set a replenishment fee of 2,130 dollars an acre-foot, starting in January 2021.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The grower, Mojave Pistachios, argued the fee infringed on its water rights.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In February 2024, the California Court of Appeals ruled in the authority's favor.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Court of Appeals rules in favor of Indian Wells Valley Groundwater Authority in fee challenge brought by desert pistachio grower (press release, February 8, 2024)",
+      "url": "https://www.ridgecrest-ca.gov/DocumentCenter/View/7428/IWVGA-Press-Release-02092024",
+      "publisher": "Indian Wells Valley Groundwater Authority",
+      "retrieved": "2026-10-03",
+      "quote": "Ordinance No. 03-20, effective January 2021, instituted a Basin replenishment fee of $2,130 per acre-foot. ... claiming instead that payment was unnecessary because the fee was an \"illegal infringement on their water rights.\" ... the California Court of Appeals disagreed. The court confirmed the trial court's prior decision to throw out Mojave's legal claims against the fee."
+    }
+  },
+  "topics": [
+    "water",
+    "law",
+    "agriculture"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "pistachios",
+    "groundwater fee",
+    "indian wells valley",
+    "water rights"
+  ],
+  "followOn": [
+    "ca-kern-county-indian-wells-valley-water-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

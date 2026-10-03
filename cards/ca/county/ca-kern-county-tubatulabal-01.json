@@ -1,0 +1,87 @@
+{
+  "id": "ca-kern-county-tubatulabal-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "People of the upper Kern River",
+  "text": "The Tübatulabal are an Indigenous people of the upper Kern River valley, in the southern Sierra Nevada. Their name loosely translates as pine-nut eaters, from a word for people who go to the forest to gather piñon nuts. Acorns and piñon nuts were staples of their diet, with fish second in importance. They had three bands, the Pahkanapil, the Palegawan, and the Bankalachi, and spoke mutually intelligible dialects of a Uto-Aztecan language. A Tübatulabal tribe, with an office in Mountain Mesa, has been seeking federal recognition.",
+  "sentences": [
+    {
+      "text": "The Tübatulabal are an Indigenous people of the upper Kern River valley, in the southern Sierra Nevada.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Their name loosely translates as pine-nut eaters, from a word for people who go to the forest to gather piñon nuts.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Acorns and piñon nuts were staples of their diet, with fish second in importance.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "They had three bands, the Pahkanapil, the Palegawan, and the Bankalachi, and spoke mutually intelligible dialects of a Uto-Aztecan language.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "A Tübatulabal tribe, with an office in Mountain Mesa, has been seeking federal recognition.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tübatulabal",
+      "url": "https://en.wikipedia.org/wiki/T%C3%BCbatulabal",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Kern River Valley in the Sierra Nevada range of California ... loosely translates as \"pine-nut eaters\" ... a people that go to the forest to gather tubat (piñon nuts) ... a Tübatulabal tribe is seeking federal recognition ... an office located in Mountain Mesa, California",
+      "revision": "1377926077"
+    },
+    "s2": {
+      "title": "Tubatulabal",
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tubatulabal",
+      "publisher": "Encyclopedia.com (Gale)",
+      "retrieved": "2026-10-03",
+      "quote": "The Tubatulabal inhabited the drainage area of the upper Kern River in California's southern Sierra Nevada foothills region. ... three politically discrete bands (Pahkanapil, Palegawan, and Bankalachi [Toloim]) ... Acorns and piñon nuts were staples, with fish second in importance. ... mutually intelligible dialects of Tubatulabal, a Uto-Aztecan language."
+    }
+  },
+  "topics": [
+    "tribal lands",
+    "people",
+    "history"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tubatulabal",
+    "kern river valley",
+    "pine nuts",
+    "mountain mesa"
+  ],
+  "followOn": [
+    "ca-kern-county-kawaiisu-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

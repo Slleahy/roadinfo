@@ -1,0 +1,95 @@
+{
+  "id": "ca-kern-county-climate-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Five inches of rain",
+  "text": "At China Lake, in eastern Kern County, only about 4.7 inches of rain falls in an average year. The average temperature over the year is about 65 degrees. July afternoons average a high near 105 degrees. January nights average a low of about 31 degrees.",
+  "sentences": [
+    {
+      "text": "At China Lake, in eastern Kern County, only about 4.7 inches of rain falls in an average year.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The average temperature over the year is about 65 degrees.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "July afternoons average a high near 105 degrees.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "January nights average a low of about 31 degrees.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-03",
+      "quote": "ANN-PRCP-NORMAL, 1991-2020, CHINA LAKE NAF: 4.67 inches",
+      "table": "NOAA Climate Normals 1991-2020, USW00093104"
+    },
+    "s2": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-03",
+      "quote": "ANN-TAVG-NORMAL, 1991-2020, CHINA LAKE NAF: 65.3 degrees F",
+      "table": "NOAA Climate Normals 1991-2020, USW00093104"
+    },
+    "s3": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-03",
+      "quote": "July average high, 1991-2020, CHINA LAKE NAF: 104.6 degrees F",
+      "table": "NOAA Climate Normals 1991-2020, USW00093104"
+    },
+    "s4": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-03",
+      "quote": "January average low, 1991-2020, CHINA LAKE NAF: 30.8 degrees F",
+      "table": "NOAA Climate Normals 1991-2020, USW00093104"
+    }
+  },
+  "topics": [
+    "climate",
+    "weather",
+    "desert"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1991-2020",
+  "themeKeys": [
+    "climate",
+    "rainfall",
+    "desert heat",
+    "china lake"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

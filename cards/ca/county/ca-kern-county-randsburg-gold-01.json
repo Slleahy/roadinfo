@@ -1,0 +1,79 @@
+{
+  "id": "ca-kern-county-randsburg-gold-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A gold camp that grew up overnight",
+  "text": "In April 1895, Frederic Mooers, John Singleton, and Charles Burcham found gold at the Yellow Aster Mine, and a camp that became Randsburg grew around it. The mine and camp were named for the Rand, the gold mining region of South Africa. By the end of 1896, more than 1,500 people lived in the camp. As of 2020, Randsburg had 45 residents.",
+  "sentences": [
+    {
+      "text": "In April 1895, Frederic Mooers, John Singleton, and Charles Burcham found gold at the Yellow Aster Mine, and a camp that became Randsburg grew around it.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The mine and camp were named for the Rand, the gold mining region of South Africa.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "By the end of 1896, more than 1,500 people lived in the camp.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "As of 2020, Randsburg had 45 residents.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Randsburg, California",
+      "url": "https://en.wikipedia.org/wiki/Randsburg,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Gold was discovered by Frederic Mooers, John Singleton and Charles Burcham at Yellow Aster Mine on 25 April 1895 ... Both mine and camp were named after the gold mining region in South Africa. ... By the end of 1896, the camp was renamed to Randsburg and more than 1500 people lived there. ... The population was 45 in the 2020 census",
+      "revision": "1373597264"
+    },
+    "s2": {
+      "title": "Rand Mining District (California Historical Landmark)",
+      "url": "https://ohp.parks.ca.gov/ListedResources/Detail/938",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-03",
+      "quote": "The Yellow Aster, or Rand, mine was discovered in April 1895 by Singleton, Burcham, and Mooers."
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "gold"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "randsburg",
+    "yellow aster mine",
+    "rand mining district",
+    "gold rush"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ca-kern-county-mojave-spaceport-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "The first private spaceflight",
+  "text": "Mojave Air and Space Port was the base of the first privately funded human spaceflight, SpaceShipOne's flight on June 21, 2004. SpaceShipOne went on to win the X Prize with flights on September 29 and October 4, 2004.",
+  "sentences": [
+    {
+      "text": "Mojave Air and Space Port was the base of the first privately funded human spaceflight, SpaceShipOne's flight on June 21, 2004.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "SpaceShipOne went on to win the X Prize with flights on September 29 and October 4, 2004.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave Air and Space Port",
+      "url": "https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Scaled Composites SpaceShipOne, which conducted the first privately funded human sub-orbital flight on June 21, 2004. ... September 29, 2004 — First Ansari X Prize flight of SpaceShipOne ... October 4, 2004 — X-Prize-winning flight of SpaceShipOne.",
+      "revision": "1371986853"
+    },
+    "s2": {
+      "title": "SpaceShipOne triumphs",
+      "url": "https://www.theregister.com/2004/06/22/spaceshipone_triumphs/",
+      "publisher": "The Register",
+      "retrieved": "2026-10-03",
+      "quote": "SpaceShipOne yesterday became the first privately-built and manned vehicle to reach the lower limits of space. ... returned safely to its base at California's Mojave airport."
+    }
+  },
+  "topics": [
+    "aerospace",
+    "technology",
+    "mojave"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2004",
+  "themeKeys": [
+    "spaceport",
+    "spaceshipone",
+    "x prize",
+    "mojave air and space port"
+  ],
+  "followOn": [
+    "ca-kern-county-voyager-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 2
+  }
+}

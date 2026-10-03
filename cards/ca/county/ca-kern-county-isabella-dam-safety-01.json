@@ -1,0 +1,79 @@
+{
+  "id": "ca-kern-county-isabella-dam-safety-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Raising a dam sixteen feet",
+  "text": "The Army Corps of Engineers raised both the main and auxiliary dams at Lake Isabella by 16 feet. A seepage problem was found in the auxiliary dam on April 28, 2006, and the lake was held 20 feet below its normal full level. The work also added a new 28-foot-high labyrinth weir, and it targeted three failure risks: overtopping, seepage, and earthquake damage. The safety improvements were substantially completed in November 2022.",
+  "sentences": [
+    {
+      "text": "The Army Corps of Engineers raised both the main and auxiliary dams at Lake Isabella by 16 feet.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "A seepage problem was found in the auxiliary dam on April 28, 2006, and the lake was held 20 feet below its normal full level.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The work also added a new 28-foot-high labyrinth weir, and it targeted three failure risks: overtopping, seepage, and earthquake damage.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The safety improvements were substantially completed in November 2022.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Isabella Dam",
+      "url": "https://en.wikipedia.org/wiki/Isabella_Dam",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "On April 28, 2006, a seepage problem was found in the Isabella Auxiliary Dam. ... restrict the maximum reservoir elevation to 20 feet (6.1 m) below the spillway, or normal \"full\" pool.",
+      "revision": "1328127780"
+    },
+    "s2": {
+      "title": "USACE unveils Isabella Dam modifications in ribbon cutting",
+      "url": "https://www.stormwater.com/stormwater-management/flood-control/press-release/53056819/usace-unveils-isabella-dam-modifications-in-ribbon-cutting",
+      "publisher": "Stormwater Solutions (U.S. Army Corps of Engineers press release)",
+      "retrieved": "2026-10-03",
+      "quote": "raised both the main and auxiliary dams by 16 feet ... new 28-foot-high labyrinth weir at Isabella Dam ... overtopping, seepage, and seismic damage ... These safety improvements were substantially completed in November 2022"
+    }
+  },
+  "topics": [
+    "dams",
+    "water",
+    "engineering"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "isabella dam",
+    "dam safety",
+    "lake isabella"
+  ],
+  "followOn": [
+    "ca-kern-county-isabella-dam-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

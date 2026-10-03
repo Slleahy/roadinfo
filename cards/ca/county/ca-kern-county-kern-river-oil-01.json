@@ -1,0 +1,66 @@
+{
+  "id": "ca-kern-county-kern-river-oil-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Oil at seventy feet",
+  "text": "In 1899, Tom Means persuaded Frank Wiseman and others to dig for oil in what became the Kern River Oil Field, and they found it at 70 feet. Kern County's economy is still heavily linked to agriculture and petroleum extraction.",
+  "sentences": [
+    {
+      "text": "In 1899, Tom Means persuaded Frank Wiseman and others to dig for oil in what became the Kern River Oil Field, and they found it at 70 feet.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Kern County's economy is still heavily linked to agriculture and petroleum extraction.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Kern River Oil Field",
+      "url": "https://en.wikipedia.org/wiki/Kern_River_Oil_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Oil was discovered at 70 feet (21 m) in 1899, when Tom Means persuaded",
+      "revision": "1357295056"
+    },
+    "s2": {
+      "title": "Kern County, California",
+      "url": "https://en.wikipedia.org/wiki/Kern_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The county's economy is heavily linked to agriculture and petroleum extraction."
+    }
+  },
+  "topics": [
+    "history",
+    "oil",
+    "economy"
+  ],
+  "scores": {
+    "relevance": 2,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kern river oil field",
+    "oil",
+    "1899",
+    "economy"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

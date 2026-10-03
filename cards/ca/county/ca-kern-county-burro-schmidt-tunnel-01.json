@@ -1,0 +1,87 @@
+{
+  "id": "ca-kern-county-burro-schmidt-tunnel-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "The tunnel to nowhere",
+  "text": "A miner named William \"Burro\" Schmidt dug a tunnel through the El Paso Mountains with a pick, a shovel, a four-pound hammer, and carefully placed dynamite. He began in 1906, and by 1938 he had reached his goal. Schmidt said he would never haul his ore to the Mojave smelter down the back trail with his two burros. A road from Last Chance Canyon to Mojave was completed in 1920, but he kept digging. He never used the tunnel to carry ore.",
+  "sentences": [
+    {
+      "text": "A miner named William \"Burro\" Schmidt dug a tunnel through the El Paso Mountains with a pick, a shovel, a four-pound hammer, and carefully placed dynamite.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He began in 1906, and by 1938 he had reached his goal.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Schmidt said he would never haul his ore to the Mojave smelter down the back trail with his two burros.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A road from Last Chance Canyon to Mojave was completed in 1920, but he kept digging.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He never used the tunnel to carry ore.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Burro Schmidt Tunnel",
+      "url": "https://en.wikipedia.org/wiki/Burro_Schmidt_Tunnel",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "a pick, a shovel, and a four-pound hammer for the initial section, and carefully placed dynamite ... began his tunnel in 1906 ... By 1938 he had achieved his \"goal\" ... never haul his ore to the Mojave smelter down that back trail ... In 1920 a road was completed from Last Chance Canyon to Mojave. This eliminated Schmidt's need for the tunnel",
+      "revision": "1372762570"
+    },
+    "s2": {
+      "title": "Burro Schmidt's Tunnel",
+      "url": "https://www.desertusa.com/desert-prospecting/burro-schmidt-tunnel.html",
+      "publisher": "DesertUSA",
+      "retrieved": "2026-10-03",
+      "quote": "Even after he had finished his tunnel, he never transported an ounce of ore through it."
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "oddities"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "burro schmidt",
+    "tunnel",
+    "el paso mountains",
+    "mining"
+  ],
+  "followOn": [
+    "ca-kern-county-red-rock-canyon-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

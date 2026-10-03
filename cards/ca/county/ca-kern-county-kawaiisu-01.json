@@ -1,0 +1,96 @@
+{
+  "id": "ca-kern-county-kawaiisu-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "The Kawaiisu homeland",
+  "text": "The Kawaiisu live in the Tehachapi Valley and north across Tehachapi Pass, toward Lake Isabella and Walker Pass. They call themselves Nüwa, which means the People. Before European contact, they lived in permanent winter villages of 60 to 100 people. They also traveled east on food-gathering trips into the northern Mojave Desert, as far as the Panamint Valley. The Kawaiisu once made their home around what is now Red Rock Canyon State Park, and they left petroglyphs in the El Paso Mountains.",
+  "sentences": [
+    {
+      "text": "The Kawaiisu live in the Tehachapi Valley and north across Tehachapi Pass, toward Lake Isabella and Walker Pass.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They call themselves Nüwa, which means the People.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Before European contact, they lived in permanent winter villages of 60 to 100 people.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They also traveled east on food-gathering trips into the northern Mojave Desert, as far as the Panamint Valley.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Kawaiisu once made their home around what is now Red Rock Canyon State Park, and they left petroglyphs in the El Paso Mountains.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Kawaiisu",
+      "url": "https://en.wikipedia.org/wiki/Kawaiisu",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "live in the Tehachapi Valley and to the north across the Tehachapi Pass in the southern Sierra Nevada, toward Lake Isabella and Walker Pass ... the self-identification term Nüwa (\"People\") is commonly used by themselves ... lived in permanent winter villages of 60 to 100 people ... traveled eastward on food-gathering trips to areas in the northern Mojave Desert ... as far east as the Panamint Valley",
+      "revision": "1377133774"
+    },
+    "s2": {
+      "title": "Red Rock Canyon State Park (California)",
+      "url": "https://en.wikipedia.org/wiki/Red_Rock_Canyon_State_Park_(California)",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The area was once home to the Kawaiisu people.",
+      "revision": "1365423588"
+    },
+    "s3": {
+      "title": "Red Rock Canyon State Park",
+      "url": "https://www.parks.ca.gov/?page_id=631",
+      "publisher": "California State Parks",
+      "retrieved": "2026-10-03",
+      "quote": "Historically, the area was once home to the Kawaiisu Indians, who left petroglyphs in the El Paso mountains and other evidence of their habitation."
+    }
+  },
+  "topics": [
+    "tribal lands",
+    "people",
+    "history"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kawaiisu",
+    "tehachapi",
+    "walker pass",
+    "el paso mountains"
+  ],
+  "followOn": [
+    "ca-kern-county-red-rock-canyon-01",
+    "ca-kern-county-tubatulabal-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

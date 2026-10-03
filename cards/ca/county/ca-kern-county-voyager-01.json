@@ -1,0 +1,68 @@
+{
+  "id": "ca-kern-county-voyager-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Around the world without stopping",
+  "text": "The Rutan Voyager, the first aircraft to fly around the world nonstop and unrefueled, was built in Mojave. Dick Rutan and Jeana Yeager flew it in December 1986.",
+  "sentences": [
+    {
+      "text": "The Rutan Voyager, the first aircraft to fly around the world nonstop and unrefueled, was built in Mojave.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Dick Rutan and Jeana Yeager flew it in December 1986.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave, California",
+      "url": "https://en.wikipedia.org/wiki/Mojave,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The town was home to the Rutan Voyager, the first aircraft to fly around the world nonstop and unrefueled.",
+      "revision": "1367775259"
+    },
+    "s2": {
+      "title": "Rutan Voyager",
+      "url": "https://airandspace.si.edu/collection-objects/rutan-voyager/nasm_A19880548000",
+      "publisher": "Smithsonian National Air and Space Museum",
+      "retrieved": "2026-10-03",
+      "quote": "On December 23, 1986, Voyager completed the first nonstop, non-refueled flight around the world. ... Pilots Dick Rutan and Jeana Yeager ... built at Mojave Airport, California"
+    }
+  },
+  "topics": [
+    "aerospace",
+    "records",
+    "mojave"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "voyager",
+    "rutan",
+    "nonstop flight",
+    "mojave"
+  ],
+  "followOn": [
+    "ca-kern-county-mojave-spaceport-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

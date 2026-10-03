@@ -1,0 +1,131 @@
+{
+  "id": "ca-kern-county-land-ownership-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Who owns the land",
+  "text": "Government agencies and conservation groups manage about a third of Kern County, as of 2024. The Bureau of Land Management has the biggest share, about 14 percent of the county, and its Ridgecrest Field Office alone covers nearly 10 percent. The Forest Service manages about 7 percent, most of it Sequoia National Forest. The Defense Department holds about 5.5 percent, nearly all of it Edwards Air Force Base and China Lake.",
+  "sentences": [
+    {
+      "text": "Government agencies and conservation groups manage about a third of Kern County, as of 2024.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Bureau of Land Management has the biggest share, about 14 percent of the county, and its Ridgecrest Field Office alone covers nearly 10 percent.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "The Forest Service manages about 7 percent, most of it Sequoia National Forest.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "The Defense Department holds about 5.5 percent, nearly all of it Edwards Air Force Base and China Lake.",
+      "sources": [
+        "s6",
+        "s7",
+        "s8"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Share of county area by manager, Kern County: BLM 13.9, USFS 7.3, DOD 5.5, NGO 3.9, SPR 1.1, FWS 1.0, SFW 0.8 percent; private or unlisted 66.2 percent",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s2": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "BLM: 13.9 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s3": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Ridgecrest Field Office, BLM: 9.6 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s4": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "USFS: 7.3 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s5": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Sequoia National Forest, USFS: 6.0 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s6": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "DOD: 5.5 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s7": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Edwards Air Force Base, DOD: 4.1 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s8": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Naval Air Weapons Station China Lake, DOD: 1.4 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    }
+  },
+  "topics": [
+    "land",
+    "public lands",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "land ownership",
+    "blm",
+    "national forest",
+    "military land"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

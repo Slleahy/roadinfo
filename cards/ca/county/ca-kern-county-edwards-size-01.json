@@ -1,0 +1,74 @@
+{
+  "id": "ca-kern-county-edwards-size-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A base of 470 square miles",
+  "text": "Edwards Air Force Base covers 301,000 acres, about 470 square miles. More than 120 million dollars was spent to develop and expand it in the 1940s. About 4 percent of Kern County lies inside the base, as of 2024.",
+  "sentences": [
+    {
+      "text": "Edwards Air Force Base covers 301,000 acres, about 470 square miles.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "More than 120 million dollars was spent to develop and expand it in the 1940s.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "About 4 percent of Kern County lies inside the base, as of 2024.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Edwards Air Force Base",
+      "url": "https://en.wikipedia.org/wiki/Edwards_Air_Force_Base",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Over US$120 million was spent to develop the base in the 1940s and expand it to 301,000 acres (470 sq mi; 1,220 km2).",
+      "revision": "1377275078"
+    },
+    "s2": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Edwards Air Force Base, DOD: 4.1 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    }
+  },
+  "topics": [
+    "military",
+    "land",
+    "aerospace"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "edwards air force base",
+    "military land",
+    "base size"
+  ],
+  "followOn": [
+    "ca-kern-county-edwards-yeager-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

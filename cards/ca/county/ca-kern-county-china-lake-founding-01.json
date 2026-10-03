@@ -1,0 +1,74 @@
+{
+  "id": "ca-kern-county-china-lake-founding-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A landing field becomes a weapons laboratory",
+  "text": "China Lake began as an emergency landing field that the Works Progress Administration built in the early 1930s near the town of Inyokern. The field opened in 1935, and the Army Air Forces acquired it in 1942. In November 1943, it was transferred to the Navy, which made it the Naval Ordnance Test Station. The desert around it is vast and sparsely populated, with near-perfect flying weather and practically unlimited visibility.",
+  "sentences": [
+    {
+      "text": "China Lake began as an emergency landing field that the Works Progress Administration built in the early 1930s near the town of Inyokern.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The field opened in 1935, and the Army Air Forces acquired it in 1942.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In November 1943, it was transferred to the Navy, which made it the Naval Ordnance Test Station.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The desert around it is vast and sparsely populated, with near-perfect flying weather and practically unlimited visibility.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Naval Air Weapons Station China Lake",
+      "url": "https://en.wikipedia.org/wiki/Naval_Air_Weapons_Station_China_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In the early 1930s, an emergency landing field had been built by the Works Progress Administration in the Mojave Desert near the small town of Inyokern, California. Opened in 1935, the field was acquired by the United States Army Air Forces (USAAF) in 1942. In November 1943, it was transferred to the Navy, which established China Lake as the Naval Ordnance Test Station (NOTS). ... The vast and sparsely populated desert, with near-perfect flying weather and practically unlimited visibility",
+      "revision": "1365954032"
+    }
+  },
+  "topics": [
+    "history",
+    "military",
+    "china lake"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "china lake",
+    "naval ordnance test station",
+    "inyokern",
+    "world war two"
+  ],
+  "followOn": [
+    "ca-kern-county-china-lake-size-01",
+    "ca-kern-county-sidewinder-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

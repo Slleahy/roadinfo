@@ -1,0 +1,90 @@
+{
+  "id": "ca-kern-county-red-rock-canyon-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Cliffs striped red and white",
+  "text": "The cliffs of Red Rock Canyon State Park get their vivid colors from alternating layers of white clay and red sandstone. The park covers about 27,000 acres along Highway 14, about 25 miles northeast of Mojave. In the early 1870s, its colorful formations served as landmarks for twenty-mule-team freight wagons. The area was once home to the Kawaiisu people. The state park was created in 1968.",
+  "sentences": [
+    {
+      "text": "The cliffs of Red Rock Canyon State Park get their vivid colors from alternating layers of white clay and red sandstone.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The park covers about 27,000 acres along Highway 14, about 25 miles northeast of Mojave.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In the early 1870s, its colorful formations served as landmarks for twenty-mule-team freight wagons.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The area was once home to the Kawaiisu people.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The state park was created in 1968.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Red Rock Canyon State Park (California)",
+      "url": "https://en.wikipedia.org/wiki/Red_Rock_Canyon_State_Park_(California)",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "vivid colors due to alternate layers of white clay and red sandstone ... approximately 27,000 acres ... located along State Highway 14 ... 25 miles (40 km) north of Mojave ... landmarks during the early 1870s for 20-mule team freight wagons ... The area was once home to the Kawaiisu people ... creation of Red Rock Canyon State Park in 1968",
+      "revision": "1365423588"
+    },
+    "s2": {
+      "title": "Red Rock Canyon State Park",
+      "url": "https://www.parks.ca.gov/?page_id=631",
+      "publisher": "California State Parks",
+      "retrieved": "2026-10-03",
+      "quote": "The park is 25 miles northeast of Mojave on Highway 14. ... During the early 1870s, the colorful rock formations in the park served as landmarks for 20-mule team freight wagons that stopped for water. ... the area was once home to the Kawaiisu Indians"
+    }
+  },
+  "topics": [
+    "geology",
+    "parks",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "red rock canyon",
+    "state park",
+    "kawaiisu",
+    "mule teams"
+  ],
+  "followOn": [
+    "ca-kern-county-red-rock-films-01",
+    "ca-kern-county-kawaiisu-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

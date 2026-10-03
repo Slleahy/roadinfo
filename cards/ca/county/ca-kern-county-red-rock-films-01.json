@@ -1,0 +1,59 @@
+{
+  "id": "ca-kern-county-red-rock-films-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A desert backlot",
+  "text": "Movies shot at Red Rock Canyon State Park include Jurassic Park, Beneath the Planet of the Apes, and Westworld. Television series filmed there include Airwolf and Lost in Space.",
+  "sentences": [
+    {
+      "text": "Movies shot at Red Rock Canyon State Park include Jurassic Park, Beneath the Planet of the Apes, and Westworld.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Television series filmed there include Airwolf and Lost in Space.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Red Rock Canyon State Park (California)",
+      "url": "https://en.wikipedia.org/wiki/Red_Rock_Canyon_State_Park_(California)",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Jurassic Park, Beneath the Planet of the Apes, Westworld ... Airwolf, Lost in Space",
+      "revision": "1365423588"
+    }
+  },
+  "topics": [
+    "film",
+    "parks"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "red rock canyon",
+    "movies",
+    "film locations"
+  ],
+  "followOn": [
+    "ca-kern-county-red-rock-canyon-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

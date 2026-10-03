@@ -1,0 +1,74 @@
+{
+  "id": "ca-kern-county-namesake-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A county named for a mapmaker",
+  "text": "Kern County is named for the Kern River, and the river is named for a mapmaker. Edward Kern was the cartographer on John Frémont's 1845 expedition, which crossed Walker Pass. In 1776, a Spanish priest, Father Francisco Garcés, had called the same river the Rio Bravo de San Felipe.",
+  "sentences": [
+    {
+      "text": "Kern County is named for the Kern River, and the river is named for a mapmaker.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Edward Kern was the cartographer on John Frémont's 1845 expedition, which crossed Walker Pass.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1776, a Spanish priest, Father Francisco Garcés, had called the same river the Rio Bravo de San Felipe.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Kern County, California",
+      "url": "https://en.wikipedia.org/wiki/Kern_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The county derives its name from the Kern River, which was named for Edward Kern, cartographer for General John C. Frémont's 1845 expedition, which crossed Walker Pass. The Kern River was originally named Rio Bravo de San Felipe by Father Francisco Garcés when he explored the area in 1776."
+    },
+    "s2": {
+      "title": "Walker Pass",
+      "url": "https://en.wikipedia.org/wiki/Walker_Pass",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In 1845 the military surveying expedition of John C. Fremont used the pass.",
+      "revision": "1377191768"
+    }
+  },
+  "topics": [
+    "history",
+    "names"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kern river",
+    "edward kern",
+    "namesake",
+    "fremont"
+  ],
+  "followOn": [
+    "ca-kern-county-walker-pass-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

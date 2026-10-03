@@ -1,0 +1,82 @@
+{
+  "id": "ca-kern-county-sidewinder-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "A missile from the Mojave",
+  "text": "The Sidewinder air-to-air missile came out of China Lake, then called the Naval Ordnance Test Station. Scientists and engineers there developed the AIM-9 version of the Sidewinder in 1950. William McLean led the project team developing it from 1945 to 1954. Its variants and upgrades are still in active service.",
+  "sentences": [
+    {
+      "text": "The Sidewinder air-to-air missile came out of China Lake, then called the Naval Ordnance Test Station.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Scientists and engineers there developed the AIM-9 version of the Sidewinder in 1950.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "William McLean led the project team developing it from 1945 to 1954.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Its variants and upgrades are still in active service.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Naval Air Weapons Station China Lake",
+      "url": "https://en.wikipedia.org/wiki/Naval_Air_Weapons_Station_China_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In 1950, NOTS scientists and engineers developed the air-intercept missile (AIM) 9 Sidewinder",
+      "revision": "1365954032"
+    },
+    "s2": {
+      "title": "William B. McLean",
+      "url": "https://en.wikipedia.org/wiki/William_B._McLean",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "he led the project team developing the Sidewinder missile from 1945 to 1954 ... its variants and upgrades are still in active service.",
+      "revision": "1374251829"
+    }
+  },
+  "topics": [
+    "military",
+    "technology",
+    "china lake"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "sidewinder",
+    "china lake",
+    "missile",
+    "mclean"
+  ],
+  "followOn": [
+    "ca-kern-county-china-lake-founding-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

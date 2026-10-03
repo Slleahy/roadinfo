@@ -1,0 +1,73 @@
+{
+  "id": "ca-kern-county-isabella-dam-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Two towns moved for the lake",
+  "text": "To make room for the Isabella Dam reservoir, the towns of Lake Isabella and Kernville both had to be moved to higher ground. Most of the original town of Kernville had been razed in 1948. Construction began in 1948 and finished in March 1953. Lake Isabella can hold up to 570,000 acre-feet of water, with a surface area of 11,200 acres.",
+  "sentences": [
+    {
+      "text": "To make room for the Isabella Dam reservoir, the towns of Lake Isabella and Kernville both had to be moved to higher ground.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Most of the original town of Kernville had been razed in 1948.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Construction began in 1948 and finished in March 1953.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Lake Isabella can hold up to 570,000 acre-feet of water, with a surface area of 11,200 acres.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Isabella Dam",
+      "url": "https://en.wikipedia.org/wiki/Isabella_Dam",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "the towns of Lake Isabella and Kernville both had to be moved to higher ground. Most of the original town of Kernville had been razed in 1948 ... Construction began in 1948 ... The dam was completed in March 1953. ... can hold up 570,000 acre-feet ... 11,200 acres (4,500 ha)",
+      "revision": "1328127780"
+    }
+  },
+  "topics": [
+    "history",
+    "water",
+    "dams"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "isabella dam",
+    "lake isabella",
+    "kernville",
+    "kern river"
+  ],
+  "followOn": [
+    "ca-kern-county-isabella-dam-safety-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

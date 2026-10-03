@@ -1,0 +1,82 @@
+{
+  "id": "ca-kern-county-china-lake-size-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Bigger than Rhode Island",
+  "text": "Naval Air Weapons Station China Lake covers more than 1.1 million acres, an area larger than the state of Rhode Island. It is the Navy's largest single landholding. The part of the base inside Kern County is about 1.4 percent of the county, as of 2024.",
+  "sentences": [
+    {
+      "text": "Naval Air Weapons Station China Lake covers more than 1.1 million acres, an area larger than the state of Rhode Island.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is the Navy's largest single landholding.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The part of the base inside Kern County is about 1.4 percent of the county, as of 2024.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Naval Air Weapons Station China Lake",
+      "url": "https://en.wikipedia.org/wiki/Naval_Air_Weapons_Station_China_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "China Lake is the United States Navy's largest single landholding ... more than 1,100,000 acres (4,500 km2), an area larger than the state of Rhode Island.",
+      "revision": "1365954032"
+    },
+    "s2": {
+      "title": "Court of Appeals rules in favor of Indian Wells Valley Groundwater Authority (press release, February 8, 2024)",
+      "url": "https://www.ridgecrest-ca.gov/DocumentCenter/View/7428/IWVGA-Press-Release-02092024",
+      "publisher": "Indian Wells Valley Groundwater Authority",
+      "retrieved": "2026-10-03",
+      "quote": "Naval Air Weapons Station China Lake, the largest landholding by the U.S. Navy globally, is situated within the basin"
+    },
+    "s3": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Naval Air Weapons Station China Lake, DOD: 1.4 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    }
+  },
+  "topics": [
+    "military",
+    "land",
+    "china lake"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "china lake",
+    "navy land",
+    "military land"
+  ],
+  "followOn": [
+    "ca-kern-county-china-lake-founding-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

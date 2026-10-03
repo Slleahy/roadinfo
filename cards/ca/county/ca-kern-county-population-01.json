@@ -1,0 +1,106 @@
+{
+  "id": "ca-kern-county-population-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "Who lives here",
+  "text": "About 915,000 people live in Kern County, as of 2024, spread across about 8,135 square miles of land. Half of its residents are younger than about 33. The median household income was about 70,200 dollars a year. The median home was worth about 338,000 dollars.",
+  "sentences": [
+    {
+      "text": "About 915,000 people live in Kern County, as of 2024, spread across about 8,135 square miles of land.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Half of its residents are younger than about 33.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "The median household income was about 70,200 dollars a year.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "The median home was worth about 338,000 dollars.",
+      "sources": [
+        "s5"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "American Community Survey 2020-2024 5-year estimates, table B01003",
+      "url": "https://censusreporter.org/tables/B01003/?geo_ids=05000US06029",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-03",
+      "quote": "B01003 Total population, Kern County: 915,075",
+      "table": "Census ACS 5-year 2020-2024, B01003"
+    },
+    "s2": {
+      "title": "Census TIGERweb, State_County layer",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?where=GEOID%3D%2706029%27&outFields=NAME%2CAREALAND%2CAREAWATER&returnGeometry=true&outSR=4326&maxAllowableOffset=0.001&f=json",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-03",
+      "quote": "AREALAND, Kern County: 8,135 square miles",
+      "table": "Census TIGER/Line county AREALAND (2023)"
+    },
+    "s3": {
+      "title": "American Community Survey 2020-2024 5-year estimates, table B01002",
+      "url": "https://censusreporter.org/tables/B01002/?geo_ids=05000US06029",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-03",
+      "quote": "B01002 Median age, Kern County: 32.7",
+      "table": "Census ACS 5-year 2020-2024, B01002"
+    },
+    "s4": {
+      "title": "American Community Survey 2020-2024 5-year estimates, table B19013",
+      "url": "https://censusreporter.org/tables/B19013/?geo_ids=05000US06029",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-03",
+      "quote": "B19013 Median household income, Kern County: $70,210",
+      "table": "Census ACS 5-year 2020-2024, B19013"
+    },
+    "s5": {
+      "title": "American Community Survey 2020-2024 5-year estimates, table B25077",
+      "url": "https://censusreporter.org/tables/B25077/?geo_ids=05000US06029",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-03",
+      "quote": "B25077 Median value (dollars), Kern County: $338,300",
+      "table": "Census ACS 5-year 2020-2024, B25077"
+    }
+  },
+  "topics": [
+    "people",
+    "population",
+    "economy",
+    "income"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "population",
+    "land area",
+    "median age",
+    "income",
+    "home value"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

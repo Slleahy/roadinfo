@@ -1,0 +1,64 @@
+{
+  "id": "ca-kern-county-mojave-airport-origins-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "From county airfield to airliner parking lot",
+  "text": "Kern County opened the Mojave Airport in 1935. After the attack on Pearl Harbor in December 1941, the Marine Corps took it over and expanded it into a Marine Corps Auxiliary Air Station. Today the airport is also known as a place where commercial airliners are stored, because of the vast area and dry desert conditions.",
+  "sentences": [
+    {
+      "text": "Kern County opened the Mojave Airport in 1935.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "After the attack on Pearl Harbor in December 1941, the Marine Corps took it over and expanded it into a Marine Corps Auxiliary Air Station.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Today the airport is also known as a place where commercial airliners are stored, because of the vast area and dry desert conditions.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave Air and Space Port",
+      "url": "https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In 1935, Kern County opened the Mojave Airport ... After the Japanese attack on Pearl Harbor in December 1941, the United States Marine Corps took over the airport ... The Mojave airport is also known as a storage location for commercial airliners, due to the vast area and dry desert conditions.",
+      "revision": "1371986853"
+    }
+  },
+  "topics": [
+    "aerospace",
+    "history",
+    "mojave"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "mojave airport",
+    "marine corps",
+    "airliner storage"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

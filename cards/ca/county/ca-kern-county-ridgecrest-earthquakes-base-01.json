@@ -1,0 +1,81 @@
+{
+  "id": "ca-kern-county-ridgecrest-earthquakes-base-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "The base that stopped",
+  "text": "After the July 2019 earthquakes, China Lake evacuated all nonessential personnel and was declared not mission capable. Aerial photographs showed a lateral offset of three to five feet on a service road. The Navy's damage assessment totaled about 5.2 billion dollars. Replacing the buildings alone would cost about 2.2 billion dollars.",
+  "sentences": [
+    {
+      "text": "After the July 2019 earthquakes, China Lake evacuated all nonessential personnel and was declared not mission capable.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Aerial photographs showed a lateral offset of three to five feet on a service road.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Navy's damage assessment totaled about 5.2 billion dollars.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Replacing the buildings alone would cost about 2.2 billion dollars.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "2019 Ridgecrest earthquakes",
+      "url": "https://en.wikipedia.org/wiki/2019_Ridgecrest_earthquakes",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "evacuated all non essential personnel and declared the base as \"not mission capable until further notice\" ... 3–5 ft (0.91–1.52 m) lateral offset on a service road",
+      "revision": "1377334234"
+    },
+    "s2": {
+      "title": "Naval Air Weapons Station China Lake",
+      "url": "https://en.wikipedia.org/wiki/Naval_Air_Weapons_Station_China_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "A 7.1 magnitude earthquake on July 5, resulted in the facility being evaluated as \"not mission capable\". ... found damage totaled $5.2 billion. Replacing buildings alone would cost $2.2 billion.",
+      "revision": "1365954032"
+    }
+  },
+  "topics": [
+    "earthquakes",
+    "military",
+    "china lake"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2019",
+  "themeKeys": [
+    "ridgecrest earthquake",
+    "china lake",
+    "damage"
+  ],
+  "followOn": [
+    "ca-kern-county-ridgecrest-earthquakes-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

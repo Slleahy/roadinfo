@@ -1,0 +1,83 @@
+{
+  "id": "ca-kern-county-ridgecrest-earthquakes-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06029"
+  },
+  "title": "The Ridgecrest earthquakes",
+  "text": "The 2019 Ridgecrest earthquakes began with a magnitude 6.4 shock on July 4 and a magnitude 7.1 the next evening. More than 1,400 earthquakes were recorded by the evening of July 5, and more than 3,000 by the morning of July 7. The shaking was felt as far north as Sacramento, as far east as Phoenix, and as far south as Baja California. One person died and 25 were injured.",
+  "sentences": [
+    {
+      "text": "The 2019 Ridgecrest earthquakes began with a magnitude 6.4 shock on July 4 and a magnitude 7.1 the next evening.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "More than 1,400 earthquakes were recorded by the evening of July 5, and more than 3,000 by the morning of July 7.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The shaking was felt as far north as Sacramento, as far east as Phoenix, and as far south as Baja California.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "One person died and 25 were injured.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "2019 Ridgecrest earthquakes",
+      "url": "https://en.wikipedia.org/wiki/2019_Ridgecrest_earthquakes",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "July 4 at 10:33 a.m. PDT ... 6.4 ... July 5 at 8:19 p.m. PDT ... 7.1 ... more than 1,400 earthquakes occurred ... more than 3,000 aftershocks ... felt as far north as Sacramento, California, eastward to Phoenix, Arizona, and as far south as Baja California, Mexico ... 1 death, 25 injured (20 on July 4, 5 on July 5)",
+      "revision": "1377334234"
+    },
+    "s2": {
+      "title": "Naval Air Weapons Station China Lake",
+      "url": "https://en.wikipedia.org/wiki/Naval_Air_Weapons_Station_China_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "7.1 magnitude earthquake on July 5",
+      "revision": "1365954032"
+    }
+  },
+  "topics": [
+    "earthquakes",
+    "geology",
+    "disaster"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "2019",
+  "themeKeys": [
+    "ridgecrest earthquake",
+    "2019 earthquake",
+    "fault"
+  ],
+  "followOn": [
+    "ca-kern-county-ridgecrest-earthquakes-base-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
