@@ -1,0 +1,130 @@
+{
+  "id": "ca-stretch-ca178-freeman-junction-walker-pass-kiavah-wilderness-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca178-freeman-junction-walker-pass",
+    "path": [
+      [
+        -117.902954,
+        35.601617
+      ],
+      [
+        -117.91479,
+        35.60251
+      ],
+      [
+        -117.92706,
+        35.60557
+      ],
+      [
+        -117.93639,
+        35.61081
+      ],
+      [
+        -117.94562,
+        35.61641
+      ],
+      [
+        -117.95338,
+        35.62299
+      ],
+      [
+        -117.96318,
+        35.62917
+      ],
+      [
+        -117.97205,
+        35.63473
+      ],
+      [
+        -117.98292,
+        35.64084
+      ],
+      [
+        -117.99206,
+        35.64654
+      ],
+      [
+        -118.00525,
+        35.65154
+      ],
+      [
+        -118.01405,
+        35.65689
+      ],
+      [
+        -118.02314,
+        35.66141
+      ],
+      [
+        -118.02676,
+        35.663
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "The Kiavah Wilderness at the pass",
+  "text": "Highway 178 crosses Walker Pass at the north boundary of the Kiavah Wilderness. The wilderness was created in 1994 by the California Desert Protection Act, and it takes in the Scodie Mountains. Pinyon pine, juniper, and Joshua trees grow there. The Pacific Crest Trail travels the length of the wilderness for 17 miles.",
+  "sentences": [
+    {
+      "text": "Highway 178 crosses Walker Pass at the north boundary of the Kiavah Wilderness.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The wilderness was created in 1994 by the California Desert Protection Act, and it takes in the Scodie Mountains.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Pinyon pine, juniper, and Joshua trees grow there.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Pacific Crest Trail travels the length of the wilderness for 17 miles.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Kiavah Wilderness",
+      "url": "https://en.wikipedia.org/wiki/Kiavah_Wilderness",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "crossing Walker Pass at the north boundary of the wilderness. ... created in 1994 with the enactment of the California Desert Protection Act ... the Scodie Mountains ... pinyon pine, juniper, canyon oak, grey pine and Joshua trees. ... The Pacific Crest Trail travels the length of the wilderness for 17 miles (27 km).",
+      "revision": "1362780175"
+    }
+  },
+  "topics": [
+    "nature",
+    "wilderness",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kiavah wilderness",
+    "scodie mountains",
+    "pacific crest trail",
+    "walker pass"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

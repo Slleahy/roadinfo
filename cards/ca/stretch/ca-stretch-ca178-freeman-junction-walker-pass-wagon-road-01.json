@@ -1,0 +1,128 @@
+{
+  "id": "ca-stretch-ca178-freeman-junction-walker-pass-wagon-road-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca178-freeman-junction-walker-pass",
+    "path": [
+      [
+        -117.902954,
+        35.601617
+      ],
+      [
+        -117.91479,
+        35.60251
+      ],
+      [
+        -117.92706,
+        35.60557
+      ],
+      [
+        -117.93639,
+        35.61081
+      ],
+      [
+        -117.94562,
+        35.61641
+      ],
+      [
+        -117.95338,
+        35.62299
+      ],
+      [
+        -117.96318,
+        35.62917
+      ],
+      [
+        -117.97205,
+        35.63473
+      ],
+      [
+        -117.98292,
+        35.64084
+      ],
+      [
+        -117.99206,
+        35.64654
+      ],
+      [
+        -118.00525,
+        35.65154
+      ],
+      [
+        -118.01405,
+        35.65689
+      ],
+      [
+        -118.02314,
+        35.66141
+      ],
+      [
+        -118.02676,
+        35.663
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Up Freeman Canyon",
+  "text": "By 1870, a good wagon road ran the entire distance from Gilroy to Cerro Gordo for travelers using the Walker Pass route. Today Highway 178 serves automobile traffic over the pass, up Freeman Canyon. In the 1870s and 1880s, a hideout of the outlaw Tiburcio Vásquez and Cleovaro Chavez was near the trail at the foot of the pass, on the desert side.",
+  "sentences": [
+    {
+      "text": "By 1870, a good wagon road ran the entire distance from Gilroy to Cerro Gordo for travelers using the Walker Pass route.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Today Highway 178 serves automobile traffic over the pass, up Freeman Canyon.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In the 1870s and 1880s, a hideout of the outlaw Tiburcio Vásquez and Cleovaro Chavez was near the trail at the foot of the pass, on the desert side.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Walker Pass (Digital-Desert historic wagon roads)",
+      "url": "https://digital-desert.com/historic-roads/wagon-roads/walker-pass.html",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "By 1870, a good wagon road the entire distance from Gilroy to Cerro Gordo was available for travellers using this route ... it now serves automobile traffic via state highway 178, up Freeman Canyon ... In the 1870's and '80's, a hideout of notorious outlaw Tiburcio Vasquez and Cleovaro Chavez was located near the trail at the foot of the pass on the Mohave Desert side"
+    }
+  },
+  "topics": [
+    "history",
+    "roads",
+    "outlaws"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [
+    "crime"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "walker pass",
+    "freeman canyon",
+    "wagon road",
+    "tiburcio vasquez"
+  ],
+  "followOn": [
+    "ca-kern-county-walker-pass-01",
+    "ca-town-freeman-junction-vasquez-robbery-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
