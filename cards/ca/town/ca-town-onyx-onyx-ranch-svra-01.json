@@ -1,0 +1,87 @@
+{
+  "id": "ca-town-onyx-onyx-ranch-svra-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Onyx"
+  },
+  "title": "A state off-road area on the old ranch",
+  "text": "The Eastern Kern County Onyx Ranch State Vehicular Recreation Area became a state off-highway vehicle area in 2014. It covers about 25,000 acres, and it offers riding for motorcycles, all-terrain vehicles, and four-wheel-drive vehicles. Visitors also use it for rock hounding, bird and wildlife viewing, and hunting. It is about 0.5 percent of Kern County, as of 2024.",
+  "sentences": [
+    {
+      "text": "The Eastern Kern County Onyx Ranch State Vehicular Recreation Area became a state off-highway vehicle area in 2014.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It covers about 25,000 acres, and it offers riding for motorcycles, all-terrain vehicles, and four-wheel-drive vehicles.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Visitors also use it for rock hounding, bird and wildlife viewing, and hunting.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is about 0.5 percent of Kern County, as of 2024.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "State Vehicular Recreation Areas (OHMVR Division information bulletin, May 2017)",
+      "url": "https://demo2.parks.ca.gov/pages/25010/files/OHMVR%20SVRAs%20Info%20Bulletin-May_2017-1.pdf",
+      "publisher": "California State Parks",
+      "retrieved": "2026-10-03",
+      "quote": "It became an SVRA in 2014. The SVRA offers OHV recreation for motorcycle, ATV, 4x4, and ROV enthusiasts as well as non-motorized activities such as rock hounding, bird and wildlife viewing, and hunting. Total Acreage: 25,000 acres"
+    },
+    "s2": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "Eastern Kern County Onyx Ranch State Vehicular Recreation Area, SPR: 0.5 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    }
+  },
+  "topics": [
+    "land",
+    "recreation",
+    "parks"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "onyx ranch",
+    "svra",
+    "off-highway vehicles",
+    "state parks"
+  ],
+  "followOn": [
+    "ca-kern-county-land-ownership-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.69028,
+    "lon": -118.22056,
+    "radiusMeters": 5000,
+    "name": "Onyx",
+    "source": "https://en.wikipedia.org/wiki/Onyx%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

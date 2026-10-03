@@ -1,0 +1,78 @@
+{
+  "id": "ca-town-onyx-scodie-store-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Onyx"
+  },
+  "title": "From Scodie to Onyx",
+  "text": "Onyx was originally called Scodie, for William Scodie, who opened a store there in 1861. The first post office at Onyx opened in 1889. The community sits in the South Fork Valley. The 2020 census counted 457 people, down from 475 in 2010.",
+  "sentences": [
+    {
+      "text": "Onyx was originally called Scodie, for William Scodie, who opened a store there in 1861.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The first post office at Onyx opened in 1889.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The community sits in the South Fork Valley.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The 2020 census counted 457 people, down from 475 in 2010.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Onyx, California",
+      "url": "https://en.wikipedia.org/wiki/Onyx,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The place was originally called Scodie in honor of William Scodie, who opened a store in 1861. The first post office at Onyx opened in 1889. Onyx is located 3.5 miles (6 km) east-northeast of Weldon in the South Fork Valley. The population was 457 at the 2020 census, down from 475 at the 2010 census.",
+      "revision": "1373592357"
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "people"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "onyx",
+    "scodie",
+    "south fork valley",
+    "population"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.69028,
+    "lon": -118.22056,
+    "radiusMeters": 5000,
+    "name": "Onyx",
+    "source": "https://en.wikipedia.org/wiki/Onyx%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
