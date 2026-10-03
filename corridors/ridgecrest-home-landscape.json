@@ -1,0 +1,128 @@
+{
+ "note": "Landscape units for phase R6. Cards carry near = this unit's lat, lon, radiusMeters, coordinateSource.",
+ "units": [
+  {
+   "name": "Indian Wells Valley",
+   "wikipedia": "Indian Wells Valley",
+   "lat": 35.70278,
+   "lon": -117.68639,
+   "radiusMeters": 30000,
+   "cardTarget": 6,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Indian_Wells_Valley",
+   "articleLength": 4835
+  },
+  {
+   "name": "El Paso Mountains",
+   "wikipedia": "El Paso Mountains",
+   "lat": 35.43774,
+   "lon": -117.8159,
+   "radiusMeters": 25000,
+   "cardTarget": 5,
+   "coordinateSource": "https://en.wikipedia.org/wiki/El_Paso_Mountains",
+   "articleLength": 4077
+  },
+  {
+   "name": "Coso Range and volcanic field",
+   "wikipedia": "Coso Volcanic Field",
+   "lat": 36.03,
+   "lon": -117.82,
+   "radiusMeters": 40000,
+   "cardTarget": 5,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Coso_Volcanic_Field",
+   "articleLength": 14324
+  },
+  {
+   "name": "Southern Sierra Nevada",
+   "wikipedia": "Owens Peak",
+   "lat": 35.73826,
+   "lon": -117.99697,
+   "radiusMeters": 40000,
+   "cardTarget": 6,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Owens_Peak",
+   "articleLength": 3066
+  },
+  {
+   "name": "Kern River Valley",
+   "wikipedia": "Kern River Valley",
+   "lat": 35.6232,
+   "lon": -118.4845,
+   "radiusMeters": 30000,
+   "cardTarget": 6,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Kern_River_Valley",
+   "articleLength": 5691
+  },
+  {
+   "name": "Fremont Valley",
+   "wikipedia": "Fremont Valley",
+   "lat": 35.12583,
+   "lon": -117.98583,
+   "radiusMeters": 30000,
+   "cardTarget": 4,
+   "coordinateSource": "https://en.wikipedia.org/wiki/California_City,_California",
+   "articleLength": 1113,
+   "centerNote": "Centered on California City, in the valley; the valley article has no coordinates."
+  },
+  {
+   "name": "Antelope Valley",
+   "wikipedia": "Antelope Valley",
+   "lat": 34.8,
+   "lon": -118.2,
+   "radiusMeters": 40000,
+   "cardTarget": 5,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Antelope_Valley",
+   "articleLength": 46022
+  },
+  {
+   "name": "Searles Valley and Searles Lake",
+   "wikipedia": "Searles Lake",
+   "lat": 35.70874,
+   "lon": -117.32094,
+   "radiusMeters": 30000,
+   "cardTarget": 5,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Searles_Lake",
+   "articleLength": 11294
+  },
+  {
+   "name": "Rand Mountains",
+   "wikipedia": "Rand Mountains",
+   "lat": 35.29496,
+   "lon": -117.77729,
+   "radiusMeters": 20000,
+   "cardTarget": 4,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Rand_Mountains",
+   "articleLength": 2533
+  },
+  {
+   "name": "Garlock Fault",
+   "wikipedia": "Garlock Fault",
+   "lat": 35.4025,
+   "lon": -117.79,
+   "radiusMeters": 40000,
+   "cardTarget": 4,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Garlock,_California",
+   "articleLength": 8479,
+   "centerNote": "Centered on the ghost town of Garlock, where the drives come closest; the fault runs about 160 miles east-west."
+  },
+  {
+   "name": "Tehachapi Mountains",
+   "wikipedia": "Tehachapi Mountains",
+   "lat": 34.95,
+   "lon": -118.58,
+   "radiusMeters": 40000,
+   "cardTarget": 4,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Tehachapi_Mountains",
+   "articleLength": 16024
+  },
+  {
+   "name": "Mojave Desert",
+   "wikipedia": "Mojave Desert",
+   "lat": 35,
+   "lon": -116,
+   "radiusMeters": 250000,
+   "cardTarget": 6,
+   "coordinateSource": "https://en.wikipedia.org/wiki/Mojave_Desert",
+   "articleLength": 53520,
+   "centerNote": "Region-scale: plays anywhere on the three drives."
+  }
+ ]
+}

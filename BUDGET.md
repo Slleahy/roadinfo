@@ -1,4 +1,4 @@
-STATUS: HALT
+STATUS: GO
 
 # Budget
 
@@ -31,7 +31,7 @@ Funded from the New Mexico phases 2–5 above, which are paused. One layer at a 
 | R3 | Towns along the three drives | $25 | done: 60 checked cards, 16 towns | $18 |
 | R4 | Road stretches, both directions | $20 | done: 21 checked cards, 12 stretches | $13 |
 | R5 | Sights | $40 | not started | |
-| R6 | Landscape units | $25 | not started | |
+| R6 | Landscape units | $25 | **open** | |
 | R7 | California and Mojave region deck | $20 | not started | |
 | | **Total** | **$250** | | **$38** |
 
