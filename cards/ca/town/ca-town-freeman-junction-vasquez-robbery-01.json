@@ -1,0 +1,74 @@
+{
+  "id": "ca-town-freeman-junction-vasquez-robbery-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Freeman Junction"
+  },
+  "title": "The bandit at Coyote Holes",
+  "text": "On February 25, 1874, the outlaw Tiburcio Vásquez and his band robbed several freight wagon crews at Freeman Raymond's station, which was then called Coyote Holes. Vásquez preyed on stages and freighters traveling between the Kern River mines and Los Angeles.",
+  "sentences": [
+    {
+      "text": "On February 25, 1874, the outlaw Tiburcio Vásquez and his band robbed several freight wagon crews at Freeman Raymond's station, which was then called Coyote Holes.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Vásquez preyed on stages and freighters traveling between the Kern River mines and Los Angeles.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Freeman Junction, California",
+      "url": "https://en.wikipedia.org/wiki/Freeman_Junction,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "On February 25, 1874, Tiburcio Vasquez and his band of outlaws robbed several freight wagon crews at Raymond's station (then called Coyote Holes).",
+      "revision": "1378098216"
+    },
+    "s2": {
+      "title": "Freeman Junction (California Historical Landmark 766)",
+      "url": "https://ohp.parks.ca.gov/ListedResources/Detail/766",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-03",
+      "quote": "the bandit Tiburcio Vásquez preyed on stages and freighters traveling between the Kern River mines and Los Angeles"
+    }
+  },
+  "topics": [
+    "history",
+    "outlaws"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [
+    "crime"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "tiburcio vasquez",
+    "coyote holes",
+    "freeman junction",
+    "robbery"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.60166,
+    "lon": -117.90295,
+    "radiusMeters": 4000,
+    "name": "Freeman Junction",
+    "source": "https://en.wikipedia.org/wiki/Freeman_Junction%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

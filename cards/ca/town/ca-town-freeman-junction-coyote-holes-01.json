@@ -1,0 +1,89 @@
+{
+  "id": "ca-town-freeman-junction-coyote-holes-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Freeman Junction"
+  },
+  "title": "Coyote Holes",
+  "text": "Freeman Junction began as a stagecoach stop run by Freeman S. Raymond, a forty-niner, at a place called Coyote Holes. The place had that name because coyotes visited the springs there in droves to quench their thirst. The station stood where the Walker Pass road, now California 178, met the road to Los Angeles, now California 14. Raymond kept the stop going, with a post office added after 1889 or 1890, until his death in August 1909.",
+  "sentences": [
+    {
+      "text": "Freeman Junction began as a stagecoach stop run by Freeman S. Raymond, a forty-niner, at a place called Coyote Holes.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The place had that name because coyotes visited the springs there in droves to quench their thirst.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The station stood where the Walker Pass road, now California 178, met the road to Los Angeles, now California 14.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Raymond kept the stop going, with a post office added after 1889 or 1890, until his death in August 1909.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Freeman Junction, California",
+      "url": "https://en.wikipedia.org/wiki/Freeman_Junction,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Freeman S. Raymond, a member of the original forty-niners, built his stagecoach station here, at the junction of the Walker Pass road ... after 1889 or 1890 included a post office, until his death in August, 1909",
+      "revision": "1378098216"
+    },
+    "s2": {
+      "title": "Freeman Junction (Digital-Desert)",
+      "url": "https://digital-desert.com/freeman-junction",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "called Coyote Holes by wayfarers because coyotes visited the springs there in droves to quench their thirst ... In 1890 the government established a post office there"
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "stagecoach"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "freeman junction",
+    "coyote holes",
+    "freeman raymond",
+    "stagecoach"
+  ],
+  "followOn": [
+    "ca-kern-county-walker-pass-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.60166,
+    "lon": -117.90295,
+    "radiusMeters": 4000,
+    "name": "Freeman Junction",
+    "source": "https://en.wikipedia.org/wiki/Freeman_Junction%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

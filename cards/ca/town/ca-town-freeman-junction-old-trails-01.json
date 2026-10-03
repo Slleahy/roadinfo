@@ -1,0 +1,85 @@
+{
+  "id": "ca-town-freeman-junction-old-trails-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Freeman Junction"
+  },
+  "title": "A junction of old trails",
+  "text": "A bedrock mortar site near the original spring suggests that Native Americans regularly camped at what is now Freeman Junction. Explorer Joseph R. Walker passed this junction of Indian trails in 1834, and forty-niner parties split here after escaping Death Valley, some going west and some south. California registered the site as a historical landmark in 1961. By 1978 the town had died and its remains were removed by passersby, and today nothing remains.",
+  "sentences": [
+    {
+      "text": "A bedrock mortar site near the original spring suggests that Native Americans regularly camped at what is now Freeman Junction.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Explorer Joseph R. Walker passed this junction of Indian trails in 1834, and forty-niner parties split here after escaping Death Valley, some going west and some south.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "California registered the site as a historical landmark in 1961.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "By 1978 the town had died and its remains were removed by passersby, and today nothing remains.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Freeman Junction, California",
+      "url": "https://en.wikipedia.org/wiki/Freeman_Junction,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Bedrock mortars near the original spring indicate that this area was regularly used as a camp by Native Americans ... By June, 1978, the town had died once again and the remains of the town have since been removed by passersby",
+      "revision": "1378098216"
+    },
+    "s2": {
+      "title": "Freeman Junction (California Historical Landmark 766)",
+      "url": "https://ohp.parks.ca.gov/ListedResources/Detail/766",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-03",
+      "quote": "Explorer Joseph R. Walker passed this junction of Indian trails in 1834 ... split here to go west and south ... Registration Date: November 3, 1961"
+    }
+  },
+  "topics": [
+    "history",
+    "tribal lands",
+    "landmarks"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "freeman junction",
+    "historical landmark",
+    "forty-niners",
+    "bedrock mortars"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.60166,
+    "lon": -117.90295,
+    "radiusMeters": 4000,
+    "name": "Freeman Junction",
+    "source": "https://en.wikipedia.org/wiki/Freeman_Junction%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
