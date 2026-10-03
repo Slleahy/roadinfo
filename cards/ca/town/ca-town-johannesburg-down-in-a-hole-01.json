@@ -1,0 +1,81 @@
+{
+  "id": "ca-town-johannesburg-down-in-a-hole-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Johannesburg"
+  },
+  "title": "The desert video",
+  "text": "Alice in Chains filmed the music video for Down in a Hole in Johannesburg on August 9, 1993. Nigel Dick directed it, and the storyline shows the band members walking through a desert landscape. The video premiered in September 1993.",
+  "sentences": [
+    {
+      "text": "Alice in Chains filmed the music video for Down in a Hole in Johannesburg on August 9, 1993.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Nigel Dick directed it, and the storyline shows the band members walking through a desert landscape.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The video premiered in September 1993.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Johannesburg, California",
+      "url": "https://en.wikipedia.org/wiki/Johannesburg,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In 1993 Grunge band Alice in Chains used the town as a filming location for their song Down in A Hole",
+      "revision": "1373570376"
+    },
+    "s2": {
+      "title": "Down in a Hole",
+      "url": "https://en.wikipedia.org/wiki/Down_in_a_Hole",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "recorded on August 9, 1993 in the Johannesburg settlement, California ... directed by Nigel Dick ... The storyline shows the band members walking through a desert landscape. ... The video premiered in September 1993.",
+      "revision": "1372252197"
+    }
+  },
+  "topics": [
+    "music",
+    "film",
+    "culture"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1993",
+  "themeKeys": [
+    "alice in chains",
+    "down in a hole",
+    "music video",
+    "johannesburg"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.37278,
+    "lon": -117.63472,
+    "radiusMeters": 4000,
+    "name": "Johannesburg",
+    "source": "https://en.wikipedia.org/wiki/Johannesburg%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ca-town-johannesburg-randsburg-railway-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Johannesburg"
+  },
+  "title": "The railway to the mines",
+  "text": "The Randsburg Railway ran 28.5 miles from Kramer Junction, on the Santa Fe main line, to Johannesburg, with a stop at Atolia. It opened in January 1898 as a supply link to the Rand Mine. The Santa Fe bought the railway in 1903. It ceased operations on December 30, 1933, a victim of the Great Depression and a decline in the mining industry.",
+  "sentences": [
+    {
+      "text": "The Randsburg Railway ran 28.5 miles from Kramer Junction, on the Santa Fe main line, to Johannesburg, with a stop at Atolia.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It opened in January 1898 as a supply link to the Rand Mine.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Santa Fe bought the railway in 1903.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It ceased operations on December 30, 1933, a victim of the Great Depression and a decline in the mining industry.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Randsburg Railway",
+      "url": "https://en.wikipedia.org/wiki/Randsburg_Railway",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "a 28.5-mile branch line railroad ... terminated at Johannesburg, California, with a stop at Atolia ... began operation on January 17, 1898. The Railway served as a supply link to the Rand Mine ... acquired by the AT&SF in 1903 ... ceased operations on December 30, 1933, a victim of the Great Depression and a decline in the mining industry.",
+      "revision": "1334193152"
+    },
+    "s2": {
+      "title": "Rand Mining District",
+      "url": "https://en.wikipedia.org/wiki/Rand_Mining_District",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In January 1898 Randsburg Railway opened. It ran from Johannesburg to Kramer Junction, California with a stop at Atolia.",
+      "revision": "1373597264"
+    }
+  },
+  "topics": [
+    "history",
+    "railroads",
+    "mining"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "randsburg railway",
+    "kramer junction",
+    "johannesburg",
+    "santa fe"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.37278,
+    "lon": -117.63472,
+    "radiusMeters": 4000,
+    "name": "Johannesburg",
+    "source": "https://en.wikipedia.org/wiki/Johannesburg%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

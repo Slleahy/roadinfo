@@ -1,0 +1,63 @@
+{
+  "id": "ca-town-johannesburg-population-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Johannesburg"
+  },
+  "title": "A town of about a hundred",
+  "text": "Johannesburg had 113 people at the 2020 census, down from 172 at the 2010 census. That is a drop of about a third in ten years.",
+  "sentences": [
+    {
+      "text": "Johannesburg had 113 people at the 2020 census, down from 172 at the 2010 census.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That is a drop of about a third in ten years.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Johannesburg, California",
+      "url": "https://en.wikipedia.org/wiki/Johannesburg,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The 2020 United States census reported that Johannesburg had a population of 113. ... At the 2010 census Johannesburg had a population of 172.",
+      "revision": "1373570376"
+    }
+  },
+  "topics": [
+    "people",
+    "population"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 2,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "johannesburg population",
+    "census"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.37278,
+    "lon": -117.63472,
+    "radiusMeters": 4000,
+    "name": "Johannesburg",
+    "source": "https://en.wikipedia.org/wiki/Johannesburg%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

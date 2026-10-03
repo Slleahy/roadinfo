@@ -1,0 +1,81 @@
+{
+  "id": "ca-town-johannesburg-joburg-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Johannesburg"
+  },
+  "title": "Named by miners from South Africa",
+  "text": "Johannesburg was named by miners who had previously worked in the gold-producing region of South Africa. It was founded as a supply town for the mines at Randsburg, and the first post office opened in 1897. Locals and frequent visitors often call it Joburg.",
+  "sentences": [
+    {
+      "text": "Johannesburg was named by miners who had previously worked in the gold-producing region of South Africa.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It was founded as a supply town for the mines at Randsburg, and the first post office opened in 1897.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Locals and frequent visitors often call it Joburg.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Johannesburg, California",
+      "url": "https://en.wikipedia.org/wiki/Johannesburg,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Johannesburg was named by miners who had previously worked in the gold-producing region of South Africa. ... Johannesburg was founded to support mining operations at Randsburg. ... The first post office at Johannesburg opened in 1897. ... The town is frequently referred to as 'Joburg' by locals and frequent visitors",
+      "revision": "1373570376"
+    },
+    "s2": {
+      "title": "Rand Mining District",
+      "url": "https://en.wikipedia.org/wiki/Rand_Mining_District",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "the town of Randsburg quickly developed, followed by the supply town of Johannesburg in 1896",
+      "revision": "1373597264"
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "mining"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "johannesburg",
+    "joburg",
+    "rand mining district",
+    "south africa"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.37278,
+    "lon": -117.63472,
+    "radiusMeters": 4000,
+    "name": "Johannesburg",
+    "source": "https://en.wikipedia.org/wiki/Johannesburg%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
