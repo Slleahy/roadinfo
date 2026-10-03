@@ -1,0 +1,92 @@
+{
+  "id": "ca-town-rosamond-name-and-rails-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Rosamond"
+  },
+  "title": "A railroad official's daughter",
+  "text": "Rosamond got its name from a Southern Pacific Railroad official who named the town after his daughter. The rails reached Rosamond in 1876, as they did in Tehachapi and Mojave. Rosamond was established in 1877 as a townsite owned by the Southern Pacific Railroad. During the 1890s, gold was discovered in the area, quickly drawing miners and prospectors. The 2020 census counted 20,961 people.",
+  "sentences": [
+    {
+      "text": "Rosamond got its name from a Southern Pacific Railroad official who named the town after his daughter.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The rails reached Rosamond in 1876, as they did in Tehachapi and Mojave.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Rosamond was established in 1877 as a townsite owned by the Southern Pacific Railroad.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "During the 1890s, gold was discovered in the area, quickly drawing miners and prospectors.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The 2020 census counted 20,961 people.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Rosamond, California",
+      "url": "https://en.wikipedia.org/wiki/Rosamond,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "it was named for the daughter of one of the railroad's officials ... Rosamond was established in 1877 as a townsite owned by the Southern Pacific Railroad ... During the 1890s, gold was discovered in the area, quickly drawing miners and prospectors ... As of the 2020 Census, Rosamond's population was 20,961.",
+      "revision": "1368681622"
+    },
+    "s2": {
+      "title": "Rosamond history (The Loop Newspaper, October 15, 2016)",
+      "url": "https://www.theloopnewspaper.com/story/2016/10/15/community/rosamond-history/3003.html?m=true",
+      "publisher": "The Loop Newspaper",
+      "retrieved": "2026-10-03",
+      "quote": "Rosamond got its name from a Southern Pacific Railroad official who named the town after his daughter. ... The rails came to Rosamond in 1876, as it did in Tehachapi and Mojave."
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "railroads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "rosamond",
+    "southern pacific",
+    "rosamond name",
+    "population"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.86417,
+    "lon": -118.16333,
+    "radiusMeters": 8000,
+    "name": "Rosamond",
+    "source": "https://en.wikipedia.org/wiki/Rosamond%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

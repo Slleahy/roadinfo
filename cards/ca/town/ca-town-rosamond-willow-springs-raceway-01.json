@@ -1,0 +1,87 @@
+{
+  "id": "ca-town-rosamond-willow-springs-raceway-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Rosamond"
+  },
+  "title": "The Fastest Road in the West",
+  "text": "Construction of Willow Springs Raceway began in 1952, and the first race was held on November 23, 1953. The surface started out as oiled dirt and was paved by 1954. The 2.5-mile main track still has its original layout, and it earned the nickname The Fastest Road in the West. In 1996, California declared the raceway a Point of Historical Interest.",
+  "sentences": [
+    {
+      "text": "Construction of Willow Springs Raceway began in 1952, and the first race was held on November 23, 1953.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The surface started out as oiled dirt and was paved by 1954.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The 2.5-mile main track still has its original layout, and it earned the nickname The Fastest Road in the West.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1996, California declared the raceway a Point of Historical Interest.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Willow Springs International Motorsports Park",
+      "url": "https://en.wikipedia.org/wiki/Willow_Springs_International_Motorsports_Park",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Construction began in 1952, with the inaugural race held on November 23, 1953 ... a 2.500 mi (4.023 km) long road course that is unchanged from its original 1953 configuration ... quickly earned the nickname 'The Fastest Road in the West.' ... Efforts by fans resulted in the State of California declaring Willow Springs International Raceway as a California Point of Historical Interest in 1996",
+      "revision": "1372671948"
+    },
+    "s2": {
+      "title": "Willow Springs (Racing Circuits)",
+      "url": "https://www.racingcircuits.info/north-america/usa/willow-springs.html",
+      "publisher": "Racing Circuits",
+      "retrieved": "2026-10-03",
+      "quote": "Construction began in 1952, with the inaugural event held on November 23, 1953. ... Originally the circuit featured an oiled dirt surface, but by 1954 this had been paved over ... 2.500 miles / 4.023 km ... the moniker 'The Fastest Road in the West.' ... recognised it as an Official Point of Historical Interest."
+    }
+  },
+  "topics": [
+    "motorsports",
+    "history",
+    "landmarks"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "willow springs raceway",
+    "road course",
+    "rosamond"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.86417,
+    "lon": -118.16333,
+    "radiusMeters": 8000,
+    "name": "Rosamond",
+    "source": "https://en.wikipedia.org/wiki/Rosamond%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}
