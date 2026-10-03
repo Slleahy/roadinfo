@@ -1,0 +1,122 @@
+{
+  "id": "ca-stretch-inyokern-freeman-junction-us-route-6-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "inyokern-freeman-junction",
+    "path": [
+      [
+        -117.8125,
+        35.646954
+      ],
+      [
+        -117.82421,
+        35.64464
+      ],
+      [
+        -117.8393,
+        35.64456
+      ],
+      [
+        -117.85736,
+        35.64451
+      ],
+      [
+        -117.86886,
+        35.64415
+      ],
+      [
+        -117.88001,
+        35.64037
+      ],
+      [
+        -117.88862,
+        35.62964
+      ],
+      [
+        -117.89338,
+        35.6204
+      ],
+      [
+        -117.89792,
+        35.61161
+      ],
+      [
+        -117.90258,
+        35.60254
+      ],
+      [
+        -117.90295,
+        35.60162
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "When this was Route 6",
+  "text": "From 1937 until 1964, this road was part of US Route 6, which had been extended from Greeley, Colorado, to Long Beach, California, on June 21, 1937. South of Inyokern, US 6 continued on to Long Beach. On July 1, 1964, US 6 was truncated at Bishop, and the part from Inyokern to Los Angeles became State Route 14.",
+  "sentences": [
+    {
+      "text": "From 1937 until 1964, this road was part of US Route 6, which had been extended from Greeley, Colorado, to Long Beach, California, on June 21, 1937.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "South of Inyokern, US 6 continued on to Long Beach.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "On July 1, 1964, US 6 was truncated at Bishop, and the part from Inyokern to Los Angeles became State Route 14.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "U.S. Route 395 in California",
+      "url": "https://en.wikipedia.org/wiki/U.S._Route_395_in_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "By 1937, US 6 had been extended to California, concurrent with US 395 between Bishop and Inyokern. ... Prior to July 1, 1964, the part of SR 14 between I-5 and US 395 was part of US 6 that continued south to Long Beach.",
+      "revision": "1363328303"
+    },
+    "s2": {
+      "title": "California State Route 14",
+      "url": "https://en.wikipedia.org/wiki/California_State_Route_14",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "US 6 was extended from Greeley, Colorado, to Long Beach, California, on June 21, 1937. ... US 6 was truncated at Bishop. The portion of US 6 from Inyokern to Los Angeles was designated SR 14.",
+      "revision": "1364873558"
+    }
+  },
+  "topics": [
+    "roads",
+    "history",
+    "highways"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1964",
+  "themeKeys": [
+    "us route 6",
+    "route 6",
+    "us 395",
+    "1964 renumbering"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}
