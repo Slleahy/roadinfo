@@ -1,0 +1,84 @@
+{
+  "id": "ca-town-china-lake-acres-the-acres-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "China Lake Acres"
+  },
+  "title": "The Acres",
+  "text": "China Lake Acres, which local residents call The Acres, had 1,757 people at the 2020 census. That was down from 1,876 in 2010. It first appeared as a census-designated place in the 2000 census. It covers about 5.2 square miles, nearly all of it land.",
+  "sentences": [
+    {
+      "text": "China Lake Acres, which local residents call The Acres, had 1,757 people at the 2020 census.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That was down from 1,876 in 2010.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It first appeared as a census-designated place in the 2000 census.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It covers about 5.2 square miles, nearly all of it land.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "China Lake Acres, California",
+      "url": "https://en.wikipedia.org/wiki/China_Lake_Acres,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The population was 1,757 at the 2020 census, down from 1,876 at the 2010 census. ... commonly referred to by local residents as The Acres. ... China Lake Acres first appeared as a census designated place in the 2000 U.S. census. ... 5.211 square miles (13.496 km2), over 99% land",
+      "revision": "1373553980"
+    },
+    "s2": {
+      "title": "China Lake Acres, CA",
+      "url": "https://censusreporter.org/profiles/16000US0613157-china-lake-acres-ca",
+      "publisher": "Census Reporter (U.S. Census Bureau data)",
+      "retrieved": "2026-10-03",
+      "quote": "Land area: 5.2 square miles"
+    }
+  },
+  "topics": [
+    "people",
+    "population"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 2,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "china lake acres",
+    "the acres",
+    "population"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.64056,
+    "lon": -117.76389,
+    "radiusMeters": 5000,
+    "name": "China Lake Acres",
+    "source": "https://en.wikipedia.org/wiki/China_Lake_Acres%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
