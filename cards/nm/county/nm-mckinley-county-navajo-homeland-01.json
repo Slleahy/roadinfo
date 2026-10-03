@@ -6,65 +6,74 @@
     "fips": "35031"
   },
   "title": "Diné Bikéyah",
-  "text": "The Navajo Nation calls its homeland Diné Bikéyah, or Navajoland. Part of that homeland lies in McKinley County. The nation says it covers over 27,000 square miles across Utah, Arizona and New Mexico, and is larger than 10 of the 50 states.",
+  "text": "More than two fifths of McKinley County is Navajo Nation land, as of 2024. About a quarter of the county is Navajo reservation, and close to a fifth more is off-reservation trust land. Diné Bikéyah, or Navajoland, reaches into Utah, Arizona, and New Mexico, covering over 27,000 square miles.",
   "sentences": [
     {
-      "text": "The Navajo Nation calls its homeland Diné Bikéyah, or Navajoland.",
+      "text": "More than two fifths of McKinley County is Navajo Nation land, as of 2024.",
       "sources": [
         "s1"
       ]
     },
     {
-      "text": "Part of that homeland lies in McKinley County.",
+      "text": "About a quarter of the county is Navajo reservation, and close to a fifth more is off-reservation trust land.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Diné Bikéyah, or Navajoland, reaches into Utah, Arizona, and New Mexico, covering over 27,000 square miles.",
       "sources": [
         "s2"
-      ]
-    },
-    {
-      "text": "The nation says it covers over 27,000 square miles across Utah, Arizona and New Mexico, and is larger than 10 of the 50 states.",
-      "sources": [
-        "s1"
       ]
     }
   ],
   "sources": {
     "s1": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-02",
+      "table": "PAD-US 4.1 Fee Managers (2024)",
+      "quote": "Navajo Nation Reservation, TRIB: 25.7 percent of county; Navajo Nation Off-Reservation Trust Land, TRIB: 17.7 percent of county"
+    },
+    "s2": {
       "title": "History",
       "url": "https://www.navajo-nsn.gov/History",
       "publisher": "Navajo Nation",
       "retrieved": "2026-10-03",
-      "quote": "The Navajo people refer to themselves and their homeland as \"Diné Bikéyah, or Navajoland.\" ... \"The Navajo Nation extends into the states of Utah, Arizona and New Mexico, covering over 27,000 square miles\" and is \"larger than 10 of the 50 states in America.\""
+      "quote": "The Navajo Nation extends into the states of Utah, Arizona and New Mexico, covering over 27,000 square miles of unparalleled beauty. Diné Bikéyah, or Navajoland, is larger than 10 of the 50 states in America."
     },
-    "s2": {
-      "title": "McKinley County, New Mexico",
-      "url": "https://en.wikipedia.org/wiki/McKinley_County,_New_Mexico",
-      "publisher": "Wikipedia",
-      "retrieved": "2026-10-03",
-      "quote": "The county contains portions of \"Navajo Nation\" and \"Zuni Indian Reservation\""
+    "s3": {
+      "title": "diné",
+      "url": "https://en.wiktionary.org/wiki/din%C3%A9",
+      "publisher": "Wiktionary",
+      "retrieved": "2026-10-02",
+      "quote": "Pronunciation (IPA): /tɪ̀nɛ́/"
     }
   },
   "topics": [
     "people",
     "navajo nation",
-    "geography"
+    "geography",
+    "tribal lands"
   ],
   "scores": {
     "relevance": 4,
     "interest": 4,
-    "confidence": 3
+    "confidence": 4
   },
   "sensitive": [],
-  "asOf": null,
+  "asOf": "2024",
   "themeKeys": [
     "navajo nation",
-    "diné bikéyah"
+    "diné bikéyah",
+    "land ownership"
   ],
+  "pronunciations": {
+    "Diné": "dih-NEH (IPA /tɪ̀nɛ́/)"
+  },
   "followOn": [],
   "direction": null,
-  "pronunciations": {
-    "Diné Bikéyah": "dih-NEH bih-KAY-ah",
-    "Navajo": "NAV-uh-hoh"
-  },
   "checked": {
     "by": "checker",
     "date": "2026-10-03",

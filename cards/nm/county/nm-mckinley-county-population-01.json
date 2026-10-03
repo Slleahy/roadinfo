@@ -5,35 +5,82 @@
     "type": "county",
     "fips": "35031"
   },
-  "title": "How many people live here",
-  "text": "McKinley County had an estimated 70,400 residents in the American Community Survey for 2020 through 2024. That is a five-year Census Bureau estimate, not a single-day count.",
+  "title": "Who lives here",
+  "text": "About 70,000 people live in McKinley County, as of 2024, spread across about 5,450 square miles of land. Half of its residents are younger than about 35. The median household income was about 47,700 dollars a year. The median home was worth about 79,000 dollars.",
   "sentences": [
     {
-      "text": "McKinley County had an estimated 70,400 residents in the American Community Survey for 2020 through 2024.",
+      "text": "About 70,000 people live in McKinley County, as of 2024, spread across about 5,450 square miles of land.",
       "sources": [
-        "s1"
+        "s1",
+        "s2"
       ]
     },
     {
-      "text": "That is a five-year Census Bureau estimate, not a single-day count.",
+      "text": "Half of its residents are younger than about 35.",
       "sources": [
-        "s1"
+        "s3"
+      ]
+    },
+    {
+      "text": "The median household income was about 47,700 dollars a year.",
+      "sources": [
+        "s4"
+      ]
+    },
+    {
+      "text": "The median home was worth about 79,000 dollars.",
+      "sources": [
+        "s5"
       ]
     }
   ],
   "sources": {
     "s1": {
-      "title": "ACS 2024 5-year, table B01003 Total Population, McKinley County NM",
-      "url": "https://api.censusreporter.org/1.0/data/show/latest?table_ids=B01003,B19013&geo_ids=05000US35031",
+      "title": "American Community Survey 2020-2024 5-year estimates, table B01003",
+      "url": "https://censusreporter.org/tables/B01003/?geo_ids=05000US35031",
       "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
-      "retrieved": "2026-10-03",
-      "table": "ACS 2024 5-year (2020-2024), B01003",
-      "quote": "B01003 Estimate: 70,431"
+      "retrieved": "2026-10-02",
+      "table": "Census ACS 5-year 2020-2024, B01003",
+      "quote": "B01003 Total population, McKinley County: 70,431"
+    },
+    "s2": {
+      "title": "Census TIGERweb, State_County layer",
+      "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?where=GEOID%3D%2735031%27&outFields=NAME%2CAREALAND%2CAREAWATER&returnGeometry=true&outSR=4326&maxAllowableOffset=0.001&f=json",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-02",
+      "table": "Census TIGER/Line county AREALAND (2023)",
+      "quote": "AREALAND, McKinley County: 5,451 square miles"
+    },
+    "s3": {
+      "title": "American Community Survey 2020-2024 5-year estimates, table B01002",
+      "url": "https://censusreporter.org/tables/B01002/?geo_ids=05000US35031",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-02",
+      "table": "Census ACS 5-year 2020-2024, B01002",
+      "quote": "B01002 Median age, McKinley County: 34.6"
+    },
+    "s4": {
+      "title": "American Community Survey 2020-2024 5-year estimates, table B19013",
+      "url": "https://censusreporter.org/tables/B19013/?geo_ids=05000US35031",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-02",
+      "table": "Census ACS 5-year 2020-2024, B19013",
+      "quote": "B19013 Median household income, McKinley County: $47,668"
+    },
+    "s5": {
+      "title": "American Community Survey 2020-2024 5-year estimates, table B25077",
+      "url": "https://censusreporter.org/tables/B25077/?geo_ids=05000US35031",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-02",
+      "table": "Census ACS 5-year 2020-2024, B25077",
+      "quote": "B25077 Median value (dollars), McKinley County: $78,700"
     }
   },
   "topics": [
     "people",
-    "population"
+    "population",
+    "economy",
+    "income"
   ],
   "scores": {
     "relevance": 3,
@@ -43,7 +90,11 @@
   "sensitive": [],
   "asOf": "2024",
   "themeKeys": [
-    "population"
+    "population",
+    "land area",
+    "median age",
+    "income",
+    "home value"
   ],
   "followOn": [],
   "direction": null,

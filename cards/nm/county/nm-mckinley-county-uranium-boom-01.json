@@ -1,0 +1,88 @@
+{
+  "id": "nm-mckinley-county-uranium-boom-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "The uranium boom",
+  "text": "In 1950, a Navajo sheepherder named Paddy Martinez found uranium at Haystack, near Grants. The find was on Santa Fe Railroad land, and the railroad paid him 250 dollars a month for the rest of his life. The Grants uranium district stretches from east of Laguna to west of Gallup, and most of New Mexico's uranium came from its deposits in McKinley and Cibola Counties. From 1951 to 1980, it yielded more uranium than any other district in the United States.",
+  "sentences": [
+    {
+      "text": "In 1950, a Navajo sheepherder named Paddy Martinez found uranium at Haystack, near Grants.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The find was on Santa Fe Railroad land, and the railroad paid him 250 dollars a month for the rest of his life.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The Grants uranium district stretches from east of Laguna to west of Gallup, and most of New Mexico's uranium came from its deposits in McKinley and Cibola Counties.",
+      "sources": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "text": "From 1951 to 1980, it yielded more uranium than any other district in the United States.",
+      "sources": [
+        "s3",
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Uranium mining in New Mexico",
+      "url": "https://en.wikipedia.org/wiki/Uranium_mining_in_New_Mexico",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "a Navajo sheepherder named Paddy Martinez discovered raw uranium on the Haystack Mountains ... Almost all uranium mined in New Mexico has been found within the Grants mineral belt along the southern border of the San Juan Basin in McKinley and Cibola counties in the northwest part of the state. ... Between 1950 and 1980, the majority of the uranium ore in the United States was mined out of the Grants mineral belt."
+    },
+    "s2": {
+      "title": "Paddy Martinez",
+      "url": "https://en.wikipedia.org/wiki/Paddy_Martinez",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "discovered uranium at Haystack Mesa in the San Juan Basin near Grants, New Mexico, in 1950 ... Martinez's discovery, in 1950 on Santa Fe Railroad land, was developed into the Haystack mine ... The Santa Fe Railroad continued to pay Martinez $250 per month until the day he died"
+    },
+    "s3": {
+      "title": "Uranium resources in the Grants uranium district, New Mexico: an update (New Mexico Geological Society Guidebook, 64th Field Conference, 2013, p. 117-126)",
+      "url": "https://geoinfo.nmt.edu/staff/mclemore/projects/uranium/documents/mclemore13.pdf",
+      "publisher": "Virginia T. McLemore and others, New Mexico Bureau of Geology and Mineral Resources",
+      "retrieved": "2026-10-02",
+      "quote": "During a period of nearly three decades (1951-1980), the Grants uranium district in northwestern New Mexico (Fig. 1) yielded more uranium than any other district in the United States ... extending from east of Laguna to west of Gallup ... Most of the uranium production in New Mexico has come from the Morrison Formation in the Grants district in McKinley and Cibola (formerly Valencia) Counties"
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "uranium"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "uranium",
+    "grants mining district",
+    "haystack"
+  ],
+  "followOn": [
+    "nm-mckinley-county-uranium-church-rock-crownpoint-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

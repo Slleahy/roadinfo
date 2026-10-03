@@ -1,0 +1,94 @@
+{
+  "id": "nm-mckinley-county-railroad-route66-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Rails, Route 66, and the interstate",
+  "text": "In 1880, the railroad chose a low pass over the Continental Divide in McKinley County for its line from Albuquerque to Southern California. Gallup was founded the next year, in 1881. That line is still one of the BNSF Railway's main transcontinental routes, and Interstate 40 runs alongside it through Gallup. The interstate replaced Route 66, and its bypass around Gallup was finished in 1980.",
+  "sentences": [
+    {
+      "text": "In 1880, the railroad chose a low pass over the Continental Divide in McKinley County for its line from Albuquerque to Southern California.",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "text": "Gallup was founded the next year, in 1881.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "That line is still one of the BNSF Railway's main transcontinental routes, and Interstate 40 runs alongside it through Gallup.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "The interstate replaced Route 66, and its bypass around Gallup was finished in 1980.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Continental Divide, New Mexico",
+      "url": "https://clui.org/ludb/site/continental-divide",
+      "publisher": "Center for Land Use Interpretation, Land Use Database",
+      "retrieved": "2026-10-02",
+      "quote": "The trail was fixed when the railroad chose this low pass over the Divide for a line connecting Albuquerque to Southern California, in 1880. It remains one of the principal transcontinental routes for the BNSF."
+    },
+    "s2": {
+      "title": "McKinley County",
+      "url": "https://www.nmcounties.org/counties/mckinley-county/",
+      "publisher": "New Mexico Association of Counties",
+      "retrieved": "2026-10-03",
+      "quote": "Gallup was then founded in 1881"
+    },
+    "s3": {
+      "title": "Interstate 40 in New Mexico",
+      "url": "https://en.wikipedia.org/wiki/Interstate_40_in_New_Mexico",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "The freeway enters Gallup 20 miles (32 km) later, paralleling the Burlington Northern Santa Fe Railway's southern transcontinental mainline. ... It is the direct replacement for the historic U.S. Highway 66 (US 66). ... Gallup (1980)"
+    },
+    "s4": {
+      "title": "Continental Divide, New Mexico",
+      "url": "https://en.wikipedia.org/wiki/Continental_Divide,_New_Mexico",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "Continental Divide is an unincorporated community and census-designated place (CDP) in McKinley County ... at Campbell Pass, a low point along the Continental Divide of the Americas"
+    }
+  },
+  "topics": [
+    "history",
+    "railroad",
+    "roads",
+    "route 66"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "railroad",
+    "route 66",
+    "interstate 40",
+    "gallup"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

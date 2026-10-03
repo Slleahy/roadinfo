@@ -1,0 +1,75 @@
+{
+  "id": "nm-mckinley-county-coal-strike-1933-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "The 1933 coal strike",
+  "text": "On August 29, 1933, coal miners around Gallup walked off the job. They were angry over wage cuts and low pay for so-called deadwork, and the coal company's general manager told their union the answer was no. The governor declared martial law, and National Guard troops held the town for months.",
+  "sentences": [
+    {
+      "text": "On August 29, 1933, coal miners around Gallup walked off the job.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "They were angry over wage cuts and low pay for so-called deadwork, and the coal company's general manager told their union the answer was no.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The governor declared martial law, and National Guard troops held the town for months.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Strike and Struggle",
+      "url": "https://elpalacio.org/2025/09/strike-and-struggle/",
+      "publisher": "El Palacio, New Mexico Department of Cultural Affairs (David Correia, Fall 2025)",
+      "retrieved": "2026-10-02",
+      "quote": "Gamerco’s General Manager Horace Moses ... Union organizers presented the miners’ grievances to Gamerco in August and asked for an answer by the following Monday. Moses said he didn’t need till Monday. “Our answer is ready now,” he said, “and the answer is no.” The miners declared a strike on August 29. ... Governor Arthur Seligman declared martial law in Gallup in August 1933. ... More than 250 troopers from National Guard units from throughout New Mexico occupied Gallup for more than four months"
+    },
+    "s2": {
+      "title": "Gallup Coal Strike",
+      "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/gallup-coal-strike",
+      "publisher": "Encyclopedia.com (St. James Encyclopedia of Labor History Worldwide)",
+      "retrieved": "2026-10-02",
+      "quote": "As a result of grievances over recent wage cuts and the low wages paid for \"deadwork,\" or nonmining maintenance work, the union called a strike. On 29 August 1933 Gallup American workers climbed out of their mines. ... the state governor declared martial law and used National Guard troops to seal off the town for five months."
+    }
+  },
+  "topics": [
+    "history",
+    "labor",
+    "coal"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "coal",
+    "labor",
+    "strike"
+  ],
+  "followOn": [
+    "nm-mckinley-county-gallup-riot-1935-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

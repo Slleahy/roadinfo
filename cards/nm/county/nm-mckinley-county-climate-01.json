@@ -1,0 +1,69 @@
+{
+  "id": "nm-mckinley-county-climate-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Warm days, cold nights",
+  "text": "In Gallup, July afternoons average close to 89 degrees, but January nights average about 14. The year brings only about 11 inches of rain and melted snow. Even so, about 34 inches of snow falls in a typical year. Averaged over the whole year, the temperature comes to about 50 degrees.",
+  "sentences": [
+    {
+      "text": "In Gallup, July afternoons average close to 89 degrees, but January nights average about 14.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The year brings only about 11 inches of rain and melted snow.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Even so, about 34 inches of snow falls in a typical year.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Averaged over the whole year, the temperature comes to about 50 degrees.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00023081 (GALLUP MUNI AP, NM US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00023081&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-02",
+      "table": "NOAA Climate Normals 1991-2020, USW00023081",
+      "quote": "Gallup Municipal Airport normals 1991-2020: July average high 88.8 degrees F; January average low 14.2 degrees F; annual precipitation 10.7 inches; annual snowfall 33.8 inches; annual mean temperature 49.5 degrees F"
+    }
+  },
+  "topics": [
+    "climate",
+    "weather"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "climate",
+    "snow",
+    "temperature"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

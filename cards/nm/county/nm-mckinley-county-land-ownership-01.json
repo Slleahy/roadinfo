@@ -1,0 +1,64 @@
+{
+  "id": "nm-mckinley-county-land-ownership-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Who holds the land",
+  "text": "More than half of McKinley County is tribal land, as of 2024. Navajo Nation lands cover more than two fifths of the county, and the Zuni Reservation nearly a tenth. The Bureau of Land Management manages about 7 percent, the Cibola National Forest about 6, and state trust land about 5.",
+  "sentences": [
+    {
+      "text": "More than half of McKinley County is tribal land, as of 2024.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Navajo Nation lands cover more than two fifths of the county, and the Zuni Reservation nearly a tenth.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Bureau of Land Management manages about 7 percent, the Cibola National Forest about 6, and state trust land about 5.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-02",
+      "table": "PAD-US 4.1 Fee Managers (2024)",
+      "quote": "TRIB 52.6; BLM 7.1; USFS 5.7; SLB 5.0 (percent of county area). Navajo Nation Reservation 25.7; Navajo Nation Off-Reservation Trust Land 17.7; Zuni Reservation 9.2; Cibola National Forest 5.7; State Trust Land 5.0"
+    }
+  },
+  "topics": [
+    "geography",
+    "tribal lands",
+    "public lands"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "land ownership",
+    "tribal lands",
+    "public lands"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

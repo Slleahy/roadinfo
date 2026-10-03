@@ -13,7 +13,7 @@ says `STATUS: GO` and the phase they were given is marked open below.
 
 | Phase | Batch | Cap | Status | Actual |
 |---|---|---|---|---|
-| 1 | Calibration: McKinley County, county deck only | $15 | ran, 9 cards; under review | $2 |
+| 1 | Calibration: McKinley County, county deck only | $15 | done: 25 checked cards (re-run in the local Xcode session) | $2 |
 | 2 | McKinley County: towns, sights, road stretches | $55 | not started | |
 | 3 | Cibola County: all levels | $55 | not started | |
 | 4 | Landscape decks along the corridor (shared statewide) | $40 | not started | |
@@ -42,3 +42,4 @@ says `STATUS: GO` and the phase they were given is marked open below.
 | Date | Session | Phase | Cards | Cost | Remaining |
 |---|---|---|---|---|---|
 | 2026-10-03 | Phase 1 McKinley county deck (incl. two blocked-network attempts) | 1 | 9 | $2 | $248 |
+| 2026-10-03 | Phase 1 re-run, run in the owner's local Claude Code session (not cloud credit): writer 36 fetches, checker 37 | 1 | 25 | $0 cloud | $248 |

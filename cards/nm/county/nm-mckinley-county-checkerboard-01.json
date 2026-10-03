@@ -1,0 +1,72 @@
+{
+  "id": "nm-mckinley-county-checkerboard-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "The checkerboard",
+  "text": "Close to a fifth of McKinley County is Navajo Nation off-reservation trust land, as of 2024. Across the eastern Navajo region, land became a checkerboard, with Navajo allotments and tribal trust land scattered among private, railroad, and state holdings. The Eastern Navajo Agency checkerboard is distinct from the rest of the reservation, even in which federal programs control it.",
+  "sentences": [
+    {
+      "text": "Close to a fifth of McKinley County is Navajo Nation off-reservation trust land, as of 2024.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Across the eastern Navajo region, land became a checkerboard, with Navajo allotments and tribal trust land scattered among private, railroad, and state holdings.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The Eastern Navajo Agency checkerboard is distinct from the rest of the reservation, even in which federal programs control it.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-02",
+      "table": "PAD-US 4.1 Fee Managers (2024)",
+      "quote": "Navajo Nation Off-Reservation Trust Land, TRIB: 17.7 percent of county"
+    },
+    "s2": {
+      "title": "Land Base Formation, Navajo Nation",
+      "url": "https://dinelanduse.org/history/",
+      "publisher": "Diné Nihi Kéyah Project (Indian Country Grassroots)",
+      "retrieved": "2026-10-02",
+      "quote": "Like other reservations, huge swathes of the eastern Navajo reservation became isolated checkerboards of allotments, tribal trust, private, railroad and state lands. ... The Eastern Navajo Agency checkerboard is distinct from the rest of the reservation in character of land and isolation, and even by which federal program controls it."
+    }
+  },
+  "topics": [
+    "tribal lands",
+    "navajo nation",
+    "history",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "checkerboard",
+    "navajo nation",
+    "land ownership"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

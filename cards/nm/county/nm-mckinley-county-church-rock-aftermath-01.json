@@ -6,30 +6,33 @@
     "fips": "35031"
   },
   "title": "After the Church Rock spill",
-  "text": "After the 1979 Church Rock uranium spill, the Navajo Nation asked New Mexico's governor to request disaster assistance. New Mexico's governor refused. Residents were warned by radio and by signs written in English, though many Navajo people speak only Diné Bizaad. The site was added to the Superfund national priorities list in 1983.",
+  "text": "After the Church Rock uranium spill, the Navajo Nation asked New Mexico's governor to declare a state of emergency and to seek a federal disaster declaration. The governor said no. A warning sign posted along the Puerco River after the spill told residents, in English, Spanish, and Diné, to stay away from the water. The mill was allowed to start up again within months of the spill, and in 1983 the site was put on the national Superfund priority list.",
   "sentences": [
     {
-      "text": "After the 1979 Church Rock uranium spill, the Navajo Nation asked New Mexico's governor to request disaster assistance.",
+      "text": "After the Church Rock uranium spill, the Navajo Nation asked New Mexico's governor to declare a state of emergency and to seek a federal disaster declaration.",
       "sources": [
-        "s1"
+        "s1",
+        "s2"
       ]
     },
     {
-      "text": "New Mexico's governor refused.",
+      "text": "The governor said no.",
       "sources": [
-        "s1"
+        "s1",
+        "s2"
       ]
     },
     {
-      "text": "Residents were warned by radio and by signs written in English, though many Navajo people speak only Diné Bizaad.",
+      "text": "A warning sign posted along the Puerco River after the spill told residents, in English, Spanish, and Diné, to stay away from the water.",
       "sources": [
-        "s1"
+        "s3"
       ]
     },
     {
-      "text": "The site was added to the Superfund national priorities list in 1983.",
+      "text": "The mill was allowed to start up again within months of the spill, and in 1983 the site was put on the national Superfund priority list.",
       "sources": [
-        "s1"
+        "s1",
+        "s2"
       ]
     }
   ],
@@ -39,7 +42,28 @@
       "url": "https://en.wikipedia.org/wiki/Church_Rock_uranium_mill_spill",
       "publisher": "Wikipedia",
       "retrieved": "2026-10-03",
-      "quote": "The Navajo Nation asked the New Mexico governor Bruce King to request disaster assistance ... but he refused ... warned local residents by radio and with signs written in English ... many Navajo people ... speak only Diné Bizaad. ... In 1983, the site was entered on the National Priorities List."
+      "quote": "The Navajo Nation appealed to the governor to request that the president declare the site a federal disaster area, but he refused, reducing the aid available to local residents. ... After fewer than four months of downtime following the dam failure, the mill resumed operations on November 2, 1979. ... In 1983, the site was entered on the National Priorities List"
+    },
+    "s2": {
+      "title": "Tragedy at Church Rock: Superfunds and the Marginalization of Navajos",
+      "url": "https://www.intermountainhistories.org/items/show/379",
+      "publisher": "Intermountain Histories (Sam Heywood, Brigham Young University)",
+      "retrieved": "2026-10-02",
+      "quote": "the Navajo Nation appealed to the state’s governor to declare a state of emergency in the Church Rock area, a request that was denied. ... the state and federal government quickly complied to let mill operations resume just five months after the massive spill. ... landed the Church Rock on the National Priority List for Superfund sites in 1983."
+    },
+    "s3": {
+      "title": "On Poisoned Ground",
+      "url": "https://www.sciencehistory.org/stories/magazine/on-poisoned-ground/",
+      "publisher": "Science History Institute (Linda M. Richards, April 22, 2013)",
+      "retrieved": "2026-10-02",
+      "quote": "A sign along the Rio Puerco warns residents in English, Spanish, and Diné to avoid the water in Church Rock, New Mexico. Warnings were posted after the July 16, 1979, United Nuclear Corporation's uranium tailings spill."
+    },
+    "s4": {
+      "title": "diné",
+      "url": "https://en.wiktionary.org/wiki/din%C3%A9",
+      "publisher": "Wiktionary",
+      "retrieved": "2026-10-02",
+      "quote": "Pronunciation (IPA): /tɪ̀nɛ́/"
     }
   },
   "topics": [
@@ -51,22 +75,20 @@
   "scores": {
     "relevance": 3,
     "interest": 4,
-    "confidence": 3
+    "confidence": 4
   },
-  "sensitive": [
-    "tragedy"
-  ],
-  "asOf": "1983",
+  "sensitive": [],
+  "asOf": null,
   "themeKeys": [
     "uranium",
     "church rock",
     "superfund"
   ],
+  "pronunciations": {
+    "Diné": "dih-NEH (IPA /tɪ̀nɛ́/)"
+  },
   "followOn": [],
   "direction": null,
-  "pronunciations": {
-    "Diné Bizaad": "dih-NEH bih-ZAHD"
-  },
   "checked": {
     "by": "checker",
     "date": "2026-10-03",

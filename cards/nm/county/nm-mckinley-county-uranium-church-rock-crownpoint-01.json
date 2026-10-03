@@ -1,0 +1,69 @@
+{
+  "id": "nm-mckinley-county-uranium-church-rock-crownpoint-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Uranium around Church Rock and Crownpoint",
+  "text": "The western edge of the Grants uranium district, around Church Rock and Crownpoint in McKinley County, is also known as the Gallup subdistrict. It holds more than 50 known uranium occurrences, and its mines produced more than 16 million pounds of uranium oxide between 1952 and 1986. Contamination there, and in the Smith Lake and Nose Rock areas, falls partly under the Navajo Nation's jurisdiction and is being addressed by the federal Environmental Protection Agency. Across the district, open shafts and uncontrolled piles of waste rock remain at many old mine sites.",
+  "sentences": [
+    {
+      "text": "The western edge of the Grants uranium district, around Church Rock and Crownpoint in McKinley County, is also known as the Gallup subdistrict.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It holds more than 50 known uranium occurrences, and its mines produced more than 16 million pounds of uranium oxide between 1952 and 1986.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Contamination there, and in the Smith Lake and Nose Rock areas, falls partly under the Navajo Nation's jurisdiction and is being addressed by the federal Environmental Protection Agency.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Across the district, open shafts and uncontrolled piles of waste rock remain at many old mine sites.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Uranium resources in the Grants uranium district, New Mexico: an update (New Mexico Geological Society Guidebook, 64th Field Conference, 2013, p. 117-126)",
+      "url": "https://geoinfo.nmt.edu/staff/mclemore/projects/uranium/documents/mclemore13.pdf",
+      "publisher": "Virginia T. McLemore and others, New Mexico Bureau of Geology and Mineral Resources",
+      "retrieved": "2026-10-02",
+      "quote": "The Church Rock-Crownpoint subdistrict is located at the western edge of the Grants uranium district and is also known as the Gallup subdistrict. There are more than 50 uranium occurrences ... Church Rock-Crownpoint >16,400,000 0.1-0.2 1952-1986 ... Contamination associated with former uranium extraction activities within the Shiprock district and the Church Rock-Crownpoint, Nose Rock and Smith Lake subdistricts and part of the ambrosia Lake subdistrict are partly under the jurisdiction of the Navajo Nation and are being addressed by U.S. Environmental Protection Agency (EPA) Region 9. ... Physical hazards, including open adits and shafts and uncontrolled waste rock and ore piles, remain at many mine sites ... Technical report of the Strathmore Church Rock uranium property, McKinley County, New Mexico ... Crownpoint and Hosta Butte uranium project, McKinley County, New Mexico"
+    }
+  },
+  "topics": [
+    "mining",
+    "uranium",
+    "environment"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "uranium",
+    "church rock",
+    "crownpoint"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

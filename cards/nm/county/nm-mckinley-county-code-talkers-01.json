@@ -1,0 +1,79 @@
+{
+  "id": "nm-mckinley-county-code-talkers-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Sworn in at Fort Wingate",
+  "text": "The first 29 Navajo Code Talkers were sworn into the Marine Corps at Fort Wingate, in McKinley County, on May 4, 1942. Fort Wingate sits about 15 miles east-southeast of Gallup. Nearly 400 Navajo Marines went on to serve as code talkers across the Pacific. In 2001, Congress awarded each of those first 29 recruits the Congressional Gold Medal.",
+  "sentences": [
+    {
+      "text": "The first 29 Navajo Code Talkers were sworn into the Marine Corps at Fort Wingate, in McKinley County, on May 4, 1942.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Fort Wingate sits about 15 miles east-southeast of Gallup.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Nearly 400 Navajo Marines went on to serve as code talkers across the Pacific.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 2001, Congress awarded each of those first 29 recruits the Congressional Gold Medal.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Navajo Code Talker: Adolph Nagurski",
+      "url": "https://prologue.blogs.archives.gov/2022/11/09/navajo-code-talker-adolph-nagurski/",
+      "publisher": "National Archives, The Text Message / Prologue blog (Jessie Kratz, November 9, 2022)",
+      "retrieved": "2026-10-02",
+      "quote": "First 29 Navajo U.S. Marine Corps code-talker recruits being sworn in at Fort Wingate, NM, 5/4/1942. ... Nearly 400 Navajo Marines served as code talkers throughout the Pacific. ... In 2001 Congress passed H.R. 4527, Honoring the Navajo Code Talkers Act, which bestowed its highest honor on each of the 29 first recruits:; the Congressional Gold Medal."
+    },
+    "s2": {
+      "title": "Fort Wingate",
+      "url": "https://en.wikipedia.org/wiki/Fort_Wingate",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "Fort Wingate was a military installation near Gallup, New Mexico, United States. ... 15 miles (24 km) by road east-southeast of Gallup ... McKinley County"
+    }
+  },
+  "topics": [
+    "history",
+    "military",
+    "navajo nation"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "code talkers",
+    "fort wingate",
+    "world war ii"
+  ],
+  "followOn": [
+    "nm-mckinley-county-fort-wingate-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

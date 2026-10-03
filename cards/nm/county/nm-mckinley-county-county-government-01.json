@@ -1,0 +1,70 @@
+{
+  "id": "nm-mckinley-county-county-government-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Running the county",
+  "text": "McKinley County's government had about 220 full-time employees in 2022, and no part-time staff. That year it spent about 54 million dollars. It collected about 24 million dollars in taxes, about 17 million of it from property taxes and about 7 million from gross receipts and sales taxes.",
+  "sentences": [
+    {
+      "text": "McKinley County's government had about 220 full-time employees in 2022, and no part-time staff.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That year it spent about 54 million dollars.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It collected about 24 million dollars in taxes, about 17 million of it from property taxes and about 7 million from gross receipts and sales taxes.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Census of Governments 2022: Employment, Individual Unit Files",
+      "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-02",
+      "table": "Census of Governments 2022 employment, unit 32101701700000 (Mckinley), item 000 (total)",
+      "quote": "McKinley County, total: 221 full-time employees; 0 part-time employees"
+    },
+    "s2": {
+      "title": "Census of Governments 2022, Individual Unit File (finance)",
+      "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-02",
+      "table": "Census of Governments 2022 finance, government ID 351031170370 (MCKINLEY COUNTY)",
+      "quote": "McKinley County 2022: expenditure $54,402,000; total taxes $24,349,000; property tax (T01) $17,041,000; general sales or gross receipts (T09) $7,131,000"
+    }
+  },
+  "topics": [
+    "government",
+    "economy"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2022",
+  "themeKeys": [
+    "county government",
+    "taxes"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

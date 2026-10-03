@@ -1,0 +1,83 @@
+{
+  "id": "nm-mckinley-county-fort-wingate-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Fort Wingate",
+  "text": "Redstone and Pershing missiles were tested in the 1960s at Fort Wingate, about 15 miles east-southeast of Gallup. An army post was set up at its site, Bear Springs, in 1860, and Fort Wingate moved there in 1868. Navajo people returning from Bosque Redondo were settled there for a time. It remained a major weapons depot until it closed in 1993. Its land is now being returned to the Navajo and Zuni.",
+  "sentences": [
+    {
+      "text": "Redstone and Pershing missiles were tested in the 1960s at Fort Wingate, about 15 miles east-southeast of Gallup.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "An army post was set up at its site, Bear Springs, in 1860, and Fort Wingate moved there in 1868.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Navajo people returning from Bosque Redondo were settled there for a time.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It remained a major weapons depot until it closed in 1993.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Its land is now being returned to the Navajo and Zuni.",
+      "sources": [
+        "s2",
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Fort Wingate",
+      "url": "https://en.wikipedia.org/wiki/Fort_Wingate",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "15 miles (24 km) by road east-southeast of Gallup ... 1860: Fort Fauntleroy was established at Bear Springs (Ojo del Oso) as an outpost of Fort Defiance. ... 1868: Fort Wingate was moved back to the former site of Fort Lyon at Ojo del Oso. ... 1868: Navajo people returning from Bosque Redondo were temporarily settled at the Oso Del Ojo Fort Wingate ... 1960–67: Redstone and Pershing 1 missiles were tested among others at Wingate. ... January 1993: the Base Realignment and Closure Act (BRAC) closed the post. ... 5,854 acres have already been transferred to the Department of Interior."
+    },
+    "s2": {
+      "title": "History of Fort Wingate, New Mexico",
+      "url": "https://www.visitgallup.com/blog/fort-wingate/",
+      "publisher": "Visit Gallup (City of Gallup tourism)",
+      "retrieved": "2026-10-02",
+      "quote": "The fort remained a major weapons depot until it was abandoned in 1993. ... The land is currently being returned to the Navajo and Zuni, with ongoing litigation regarding ownership and potential development."
+    }
+  },
+  "topics": [
+    "history",
+    "military"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "fort wingate",
+    "military",
+    "navajo nation"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

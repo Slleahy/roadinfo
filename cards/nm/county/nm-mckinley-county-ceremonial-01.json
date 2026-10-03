@@ -1,0 +1,78 @@
+{
+  "id": "nm-mckinley-county-ceremonial-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "The Inter-Tribal Ceremonial",
+  "text": "The Gallup Inter-Tribal Indian Ceremonial was first held in 1922, started by traders who wanted to bring in tourists and showcase local tribes. It now runs for about ten days around the start of August at Red Rock Park. Parades through downtown Gallup show off the variety of tribes taking part, alongside a rodeo and a Native arts marketplace. The 2026 gathering was the 104th.",
+  "sentences": [
+    {
+      "text": "The Gallup Inter-Tribal Indian Ceremonial was first held in 1922, started by traders who wanted to bring in tourists and showcase local tribes.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It now runs for about ten days around the start of August at Red Rock Park.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Parades through downtown Gallup show off the variety of tribes taking part, alongside a rodeo and a Native arts marketplace.",
+      "sources": [
+        "s2",
+        "s1"
+      ]
+    },
+    {
+      "text": "The 2026 gathering was the 104th.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "The Gallup Inter-tribal Ceremonial celebrates 100 years of keeping Native traditions alive",
+      "url": "https://www.kunm.org/local-news/2022-08-04/the-gallup-inter-tribal-ceremonial-celebrates-100-years-of-keeping-native-traditions-alive",
+      "publisher": "KUNM (Jeanette DeDios, August 4, 2022)",
+      "retrieved": "2026-10-02",
+      "quote": "the event began in 1922 with traders who wanted to bring in tourists and showcase local tribes. ... The event features music, powwows, parades, rodeo events, and much more."
+    },
+    "s2": {
+      "title": "Gallup Inter-Tribal Indian Ceremonial",
+      "url": "https://www.visitgallup.com/events/annual-events/inter-tribal-indian-ceremonial/",
+      "publisher": "Visit Gallup (City of Gallup tourism)",
+      "retrieved": "2026-10-02",
+      "quote": "First held September 28, 1922, this 104 year old historic event ... The 104th Gallup Inter-Tribal Ceremonial will take place on July 31st — 9th, 2026. ... Held at Red Rock Park ... There are also stunning parades through downtown Gallup, showcasing the variety of tribes participating ... an all-open rodeo with junior and ladies competitions ... the Indoor/Outdoor Marketplace and the Ceremonial Showroom ... genuine Indian fine arts, including Navajo rugs, katsinas, jewelry, pottery and basketry"
+    }
+  },
+  "topics": [
+    "culture",
+    "events",
+    "tribal nations"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": "2026",
+  "themeKeys": [
+    "ceremonial",
+    "gallup",
+    "native arts"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

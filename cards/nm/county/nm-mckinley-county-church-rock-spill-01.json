@@ -6,28 +6,33 @@
     "fips": "35031"
   },
   "title": "The Church Rock spill",
-  "text": "On July 16, 1979, a tailings pond at the Church Rock uranium mill in New Mexico breached early in the morning. More than 1,000 short tons of solid mill waste and more than 90 million gallons of acidic, radioactive liquid escaped. The flood ran into Pipeline Arroyo, a tributary of the Puerco River. Contamination traveled about 80 miles downstream, reaching Navajo County, Arizona.",
+  "text": "Before dawn on July 16, 1979, the dam holding back a tailings pond at the Church Rock uranium mill gave way. About a thousand tons of radioactive mill waste and more than 90 million gallons of acidic, radioactive liquid poured out. The flood ran down Pipeline Arroyo into the Puerco River. Contamination traveled about 80 miles downstream, into Navajo County, Arizona.",
   "sentences": [
     {
-      "text": "On July 16, 1979, a tailings pond at the Church Rock uranium mill in New Mexico breached early in the morning.",
+      "text": "Before dawn on July 16, 1979, the dam holding back a tailings pond at the Church Rock uranium mill gave way.",
       "sources": [
-        "s1"
+        "s1",
+        "s2",
+        "s3"
       ]
     },
     {
-      "text": "More than 1,000 short tons of solid mill waste and more than 90 million gallons of acidic, radioactive liquid escaped.",
+      "text": "About a thousand tons of radioactive mill waste and more than 90 million gallons of acidic, radioactive liquid poured out.",
       "sources": [
-        "s1"
+        "s1",
+        "s2",
+        "s3"
       ]
     },
     {
-      "text": "The flood ran into Pipeline Arroyo, a tributary of the Puerco River.",
+      "text": "The flood ran down Pipeline Arroyo into the Puerco River.",
       "sources": [
-        "s1"
+        "s1",
+        "s2"
       ]
     },
     {
-      "text": "Contamination traveled about 80 miles downstream, reaching Navajo County, Arizona.",
+      "text": "Contamination traveled about 80 miles downstream, into Navajo County, Arizona.",
       "sources": [
         "s1"
       ]
@@ -40,6 +45,20 @@
       "publisher": "Wikipedia",
       "retrieved": "2026-10-03",
       "quote": "At around 5:30 am on July 16, 1979, a previously identified crack opened into a 20-foot-breach ... 1,100 short tons of solid radioactive mill waste and about 93 million US gallons of acidic, radioactive tailings solution ... flowed into Pipeline Arroyo, a tributary of the Puerco River ... 80 miles downstream ... Navajo County, Arizona"
+    },
+    "s2": {
+      "title": "On Poisoned Ground",
+      "url": "https://www.sciencehistory.org/stories/magazine/on-poisoned-ground/",
+      "publisher": "Science History Institute (Linda M. Richards, April 22, 2013)",
+      "retrieved": "2026-10-02",
+      "quote": "On the morning of July 16, 1979, neighbors and mill workers woke to the collapse of the huge earthen dam at the United Nuclear Corporation Church Rock uranium mill. The accident released 1,000 tons of radioactive mill tailings...and 93 million gallons of acidic and radioactive wastewater into a deeply cut creek that flowed into the Rio Puerco."
+    },
+    "s3": {
+      "title": "Tragedy at Church Rock: Superfunds and the Marginalization of Navajos",
+      "url": "https://www.intermountainhistories.org/items/show/379",
+      "publisher": "Intermountain Histories (Sam Heywood, Brigham Young University)",
+      "retrieved": "2026-10-02",
+      "quote": "Before sunrise on July 16, 1979 ... a nearby dam owned by United Nuclear had failed, releasing 95 million gallons of mine waste into the local water systems. This waste contained 1,100 tons of radioactive waste"
     }
   },
   "topics": [
@@ -51,22 +70,19 @@
   "scores": {
     "relevance": 3,
     "interest": 4,
-    "confidence": 3
+    "confidence": 5
   },
-  "sensitive": [
-    "tragedy"
-  ],
-  "asOf": "1979",
+  "sensitive": [],
+  "asOf": null,
   "themeKeys": [
     "uranium",
     "church rock",
     "puerco river"
   ],
-  "followOn": [],
+  "followOn": [
+    "nm-mckinley-county-church-rock-aftermath-01"
+  ],
   "direction": null,
-  "pronunciations": {
-    "Puerco": "PWER-koh"
-  },
   "checked": {
     "by": "checker",
     "date": "2026-10-03",

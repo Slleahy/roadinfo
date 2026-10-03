@@ -1,0 +1,81 @@
+{
+  "id": "nm-mckinley-county-coal-field-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "The Gallup coal field",
+  "text": "Coal mining around Gallup began in the early 1880s, when the railroad was built through the area. The first mine opened in 1882, and underground mining went on until the 1950s. Big surface mines took over in the 1960s, and by 2008 the Gallup area had produced more than 218 million tons of coal. The area's major strip mine, the McKinley Mine, ran for 47 years.",
+  "sentences": [
+    {
+      "text": "Coal mining around Gallup began in the early 1880s, when the railroad was built through the area.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The first mine opened in 1882, and underground mining went on until the 1950s.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Big surface mines took over in the 1960s, and by 2008 the Gallup area had produced more than 218 million tons of coal.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The area's major strip mine, the McKinley Mine, ran for 47 years.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Abandoned & Inactive Coal Mines of the Gallup Coal Field, McKinley County, New Mexico (Open-file Report 530, 2010)",
+      "url": "https://geoinfo.nmt.edu/publications/openfile/downloads/500-599/530/OFR530_Report.pdf",
+      "publisher": "New Mexico Bureau of Geology and Mineral Resources (Gretchen Hoffman and Maureen Wilks)",
+      "retrieved": "2026-10-02",
+      "quote": "The Gallup field has been a significant coal producing area since the early 1880s. Underground mining began at this time with the construction of the railroad through the area and continued until the 1950s. The earliest coal mine in the Gallup area was the Gallup (Gibson) Mine in 1882 (Noe, 1997). Beginning in the 1960s, large scale surface mining began and continues to the present. As of 2008 over 218 million short tons of coal have been produced from the Gallup area ... the major strip mine in the area, McKinley mine is in a shutdown phase after 47 years of production"
+    },
+    "s2": {
+      "title": "Abandoned Mine Land Reclamation Awards nomination: Gallup Coal Fire Mitigation Project (2025)",
+      "url": "https://www.emnrd.nm.gov/mmd/wp-content/uploads/sites/5/2025-Nomination-for-Gallup-Coal-Fire-Extinguishment.pdf",
+      "publisher": "New Mexico Energy, Minerals and Natural Resources Department, Abandoned Mine Land Program",
+      "retrieved": "2026-10-02",
+      "quote": "Early mining in the Gallup Coal Field started in the late 1880s with underground mining period persisting through the 1950s. Throughout this period, 57 mines opened within the Gallup area and provided coal to the railroad and other industries."
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "coal",
+    "economy"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "coal",
+    "gallup coal field",
+    "railroad"
+  ],
+  "followOn": [
+    "nm-mckinley-county-coal-fires-01",
+    "nm-mckinley-county-coal-strike-1933-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "nm-mckinley-county-gallup-riot-1935-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "The 1935 Gallup riot",
+  "text": "On April 4, 1935, gunfire broke out in Gallup as a crowd gathered to free men arrested in a fight over evictions of miners' families. The county sheriff and two others died. In the crackdown that followed, special deputies made sweeping arrests, and Mexican citizens were deported. Three men were convicted of second-degree murder; one conviction was overturned, and the other two were pardoned in 1939.",
+  "sentences": [
+    {
+      "text": "On April 4, 1935, gunfire broke out in Gallup as a crowd gathered to free men arrested in a fight over evictions of miners' families.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The county sheriff and two others died.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "In the crackdown that followed, special deputies made sweeping arrests, and Mexican citizens were deported.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Three men were convicted of second-degree murder; one conviction was overturned, and the other two were pardoned in 1939.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Gallup Coal Strike",
+      "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/gallup-coal-strike",
+      "publisher": "Encyclopedia.com (St. James Encyclopedia of Labor History Worldwide)",
+      "retrieved": "2026-10-02",
+      "quote": "On 4 April a bitterly angry crowd gathered in town in an effort to free the men. Gunfire erupted, and the sheriff and two other persons lay dead in the streets. ... the jury found three of the men guilty of second-degree murder. ... On appeal, the conviction of one of the three was overturned in 1937. Under pressure from the UMW, Governor John E. Miles pardoned the remaining two in 1939."
+    },
+    "s2": {
+      "title": "Strike and Struggle",
+      "url": "https://elpalacio.org/2025/09/strike-and-struggle/",
+      "publisher": "El Palacio, New Mexico Department of Cultural Affairs (David Correia, Fall 2025)",
+      "retrieved": "2026-10-02",
+      "quote": "Evictions began in April 1935 ... When the smoke settled, the Sheriff and Ignacio Velarde, an unemployed miner, were dead. ... On April 12, the same day Esquibel died of his wounds ... Roberts deputized two hundred fifty “special deputies” and sent them out in small squads to search for Communists. ... Since they’re not American citizens, “they will be seized at once by the United States Marshal for deportation.” ... Three men, Juan Ochoa, Manuel Avitia, and Leandro Velarde ... were convicted of murder in the second degree"
+    },
+    "s3": {
+      "title": "Abandoned Mine Land Reclamation Awards nomination: Gallup Coal Fire Mitigation Project (2025)",
+      "url": "https://www.emnrd.nm.gov/mmd/wp-content/uploads/sites/5/2025-Nomination-for-Gallup-Coal-Fire-Extinguishment.pdf",
+      "publisher": "New Mexico Energy, Minerals and Natural Resources Department, Abandoned Mine Land Program",
+      "retrieved": "2026-10-02",
+      "quote": "The 1935 Gallup Riot killed three people and wounded seven."
+    }
+  },
+  "topics": [
+    "history",
+    "labor",
+    "coal"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [
+    "crime",
+    "tragedy"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "coal",
+    "labor",
+    "gallup riot"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

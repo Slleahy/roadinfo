@@ -1,0 +1,96 @@
+{
+  "id": "nm-mckinley-county-zuni-reservation-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "The Middle Place",
+  "text": "The Zuni people call themselves A:shiwi, and in Zuni tradition their ancestors searched for ages for Halona:wa Idiwan'a, the Middle Place. About a tenth of McKinley County is the Zuni Reservation, as of 2024. Almost everyone on the reservation lives in Zuni Pueblo, about 40 miles south of Gallup, or in nearby Black Rock. Photography permits are available, but photography is not allowed at ceremonies.",
+  "sentences": [
+    {
+      "text": "The Zuni people call themselves A:shiwi, and in Zuni tradition their ancestors searched for ages for Halona:wa Idiwan'a, the Middle Place.",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "text": "About a tenth of McKinley County is the Zuni Reservation, as of 2024.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Almost everyone on the reservation lives in Zuni Pueblo, about 40 miles south of Gallup, or in nearby Black Rock.",
+      "sources": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "text": "Photography permits are available, but photography is not allowed at ceremonies.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Zuni Staying Power",
+      "url": "https://www.newmexicomagazine.org/blog/post/staying-power-89339/",
+      "publisher": "New Mexico Magazine (Kate Nelson, 2014, updated 2021)",
+      "retrieved": "2026-10-02",
+      "quote": "The ancestors embarked on a millennia-long search for Halona:wa Idiwan'a, \"the Middle Place.\" ... this volcanic valley, 40 miles south of Gallup ... Zuni, or A:shiwi ... The Zuni Visitor and Arts Center, on N.M. 53, sells tour tickets and photography permits. ... Shalako and other ceremonies aren't publicized, but the visitor center can clue you in. Photography is not allowed."
+    },
+    "s2": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-02",
+      "table": "PAD-US 4.1 Fee Managers (2024)",
+      "quote": "Zuni Reservation, TRIB: 9.2 percent of county"
+    },
+    "s3": {
+      "title": "Zuni Indian Reservation",
+      "url": "https://en.wikipedia.org/wiki/Zuni_Indian_Reservation",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "The reservation lies in the Zuni River valley and is located primarily in McKinley and Cibola counties in western New Mexico ... Almost all of the population lives in the reservation headquarters community of Zuni Pueblo, New Mexico, located near the reservation's center, or in nearby Black Rock, to its east."
+    },
+    "s4": {
+      "title": "Zuni language",
+      "url": "https://en.wikipedia.org/wiki/Zuni_language",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "its speakers are collectively known as ʼA꞉shiwi"
+    }
+  },
+  "topics": [
+    "tribal lands",
+    "zuni",
+    "people"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "zuni",
+    "pueblo of zuni",
+    "tribal lands"
+  ],
+  "followOn": [
+    "nm-mckinley-county-zuni-language-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

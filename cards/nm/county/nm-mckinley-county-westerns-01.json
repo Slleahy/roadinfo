@@ -6,18 +6,31 @@
     "fips": "35031"
   },
   "title": "Hollywood westerns",
-  "text": "Hollywood crews filmed westerns around McKinley County in the 1940s and 1950s. The New Mexico Association of Counties says the area's rugged terrain made it a popular location.",
+  "text": "In the 1940s and 1950s, Hollywood crews came to the rugged country around Gallup to shoot westerns on location. Films made there include Pursued, Four Faces West, and Escape from Fort Bravo. Crews and stars used Gallup's El Rancho Hotel as their base, encouraged by its owner, R. E. Griffith, and his brother, the director D. W. Griffith. By 1964, the lure of the western hero was fading.",
   "sentences": [
     {
-      "text": "Hollywood crews filmed westerns around McKinley County in the 1940s and 1950s.",
+      "text": "In the 1940s and 1950s, Hollywood crews came to the rugged country around Gallup to shoot westerns on location.",
       "sources": [
-        "s1"
+        "s1",
+        "s2"
       ]
     },
     {
-      "text": "The New Mexico Association of Counties says the area's rugged terrain made it a popular location.",
+      "text": "Films made there include Pursued, Four Faces West, and Escape from Fort Bravo.",
       "sources": [
-        "s1"
+        "s2"
+      ]
+    },
+    {
+      "text": "Crews and stars used Gallup's El Rancho Hotel as their base, encouraged by its owner, R. E. Griffith, and his brother, the director D. W. Griffith.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "By 1964, the lure of the western hero was fading.",
+      "sources": [
+        "s3"
       ]
     }
   ],
@@ -27,7 +40,21 @@
       "url": "https://www.nmcounties.org/counties/mckinley-county/",
       "publisher": "New Mexico Association of Counties",
       "retrieved": "2026-10-03",
-      "quote": "the region's rugged terrain made it \"a popular location in the 1940's and 1950's to film Hollywood westerns.\""
+      "quote": "a popular location in the 1940's and 1950's to film Hollywood westerns"
+    },
+    "s2": {
+      "title": "Film Office",
+      "url": "https://www.gallupnm.gov/565/Film-Office",
+      "publisher": "City of Gallup",
+      "retrieved": "2026-10-02",
+      "quote": "The rugged terrain surrounding Gallup was popular with Hollywood filmmakers during the 1940s and 50s for the on-location shooting of Westerns. ... Films made in Gallup include Billy the Kid (1930), Pursued (1947), The Sea of Grass (1947), Four Faces West (1948), Only the Valiant (1951), Ace in the Hole (1951), Escape from Fort Bravo (1953)"
+    },
+    "s3": {
+      "title": "New Mexico: El Rancho Hotel",
+      "url": "https://www.nps.gov/places/el-rancho-hotel.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-02",
+      "quote": "Joe Massaglia constructed the El Rancho Hotel in 1936 along U.S. Route 66 for Mr. R.E. “Griff” Griffith, brother of the famous movie director D.W. Griffith. ... Both Griff and his brother encouraged moviemakers to use El Rancho as a base for crews and stars on location ... By 1964, however, the lure of the western hero was fading"
     }
   },
   "topics": [
@@ -36,14 +63,15 @@
   ],
   "scores": {
     "relevance": 3,
-    "interest": 3,
-    "confidence": 3
+    "interest": 4,
+    "confidence": 5
   },
   "sensitive": [],
   "asOf": null,
   "themeKeys": [
     "westerns",
-    "film"
+    "film",
+    "el rancho"
   ],
   "followOn": [],
   "direction": null,

@@ -1,0 +1,86 @@
+{
+  "id": "nm-mckinley-county-continental-divide-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Crossing the Continental Divide",
+  "text": "In central McKinley County, Interstate 40 crosses the Continental Divide at Campbell Pass, 7,275 feet up. Signs in the median mark the spot, and state historic markers stand on the service roads on each side. Starting in 1926, this pass also carried Route 66, and remnants of the old roadside are still around. A small community called Continental Divide sits at the pass, about 25 miles east-southeast of Gallup.",
+  "sentences": [
+    {
+      "text": "In central McKinley County, Interstate 40 crosses the Continental Divide at Campbell Pass, 7,275 feet up.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Signs in the median mark the spot, and state historic markers stand on the service roads on each side.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Starting in 1926, this pass also carried Route 66, and remnants of the old roadside are still around.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "A small community called Continental Divide sits at the pass, about 25 miles east-southeast of Gallup.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Interstate 40 in New Mexico",
+      "url": "https://en.wikipedia.org/wiki/Interstate_40_in_New_Mexico",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "crossing the North American continental divide via Campbell Pass at an elevation of 7,275 feet (2,217 m)"
+    },
+    "s2": {
+      "title": "Continental Divide, New Mexico",
+      "url": "https://clui.org/ludb/site/continental-divide",
+      "publisher": "Center for Land Use Interpretation, Land Use Database",
+      "retrieved": "2026-10-02",
+      "quote": "Signs in the middle of the interstate mark the Divide at 7,275 feet. On the service road, it is marked with the usual terse state of New Mexico historic roadside sign, one on each side of the interstate. ... Starting in 1926 this was Route 66, and the remnants of the pre-interstate roadside abound."
+    },
+    "s3": {
+      "title": "Continental Divide, New Mexico",
+      "url": "https://en.wikipedia.org/wiki/Continental_Divide,_New_Mexico",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "Continental Divide is an unincorporated community and census-designated place (CDP) in McKinley County ... The community is located in central McKinley County along Interstate 40, 25 miles (40 km) east-southeast of Gallup ... at Campbell Pass, a low point along the Continental Divide of the Americas"
+    }
+  },
+  "topics": [
+    "geography",
+    "roads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "continental divide",
+    "campbell pass",
+    "route 66"
+  ],
+  "followOn": [
+    "nm-mckinley-county-railroad-route66-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

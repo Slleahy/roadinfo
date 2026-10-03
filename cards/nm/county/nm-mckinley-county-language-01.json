@@ -1,0 +1,87 @@
+{
+  "id": "nm-mckinley-county-language-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Languages at home",
+  "text": "About half of McKinley County residents speak a language other than English at home, as of 2024, and Spanish accounts for only about 3,000 of them. One of the languages heard here is Zuni, a language isolate with no known relatives. It is spoken mostly around Zuni Pueblo. Its speakers call it Shiwi'ma.",
+  "sentences": [
+    {
+      "text": "About half of McKinley County residents speak a language other than English at home, as of 2024, and Spanish accounts for only about 3,000 of them.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "One of the languages heard here is Zuni, a language isolate with no known relatives.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "It is spoken mostly around Zuni Pueblo.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Its speakers call it Shiwi'ma.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "American Community Survey 2020-2024 5-year estimates, table C16001",
+      "url": "https://censusreporter.org/tables/C16001/?geo_ids=05000US35031",
+      "publisher": "Census Reporter (republishing U.S. Census Bureau ACS)",
+      "retrieved": "2026-10-02",
+      "table": "Census ACS 5-year 2020-2024, C16001",
+      "quote": "C16001, population 5 years and over: 66,359; Speak only English: 33,918; Spanish: 3,011; Other and unspecified languages: 28,340"
+    },
+    "s2": {
+      "title": "Zuni language",
+      "url": "https://en.wikipedia.org/wiki/Zuni_language",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "It is spoken by around 9,500 people, especially in the vicinity of Zuni Pueblo, New Mexico ... Zuni is considered a language isolate. ... Shiwiʼma ... pronounced [ˈʃiwiʔma]"
+    },
+    "s3": {
+      "title": "Zuni Staying Power",
+      "url": "https://www.newmexicomagazine.org/blog/post/staying-power-89339/",
+      "publisher": "New Mexico Magazine (Kate Nelson, 2014, updated 2021)",
+      "retrieved": "2026-10-02",
+      "quote": "Considered a linguistic isolate with no known cousins"
+    }
+  },
+  "topics": [
+    "language",
+    "people",
+    "zuni"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "language",
+    "zuni"
+  ],
+  "pronunciations": {
+    "Shiwi'ma": "SHEE-wee-mah (IPA [ˈʃiwiʔma])"
+  },
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

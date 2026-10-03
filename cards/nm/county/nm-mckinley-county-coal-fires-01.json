@@ -1,0 +1,76 @@
+{
+  "id": "nm-mckinley-county-coal-fires-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Fires underground",
+  "text": "In the summer of 2024, state crews dug out and put out two underground coal-mine fires just outside Gallup. One was burning within 100 feet of the new Navajo-Gallup Water Supply pipeline, which carries water for about 250,000 people. When the burning seams were exposed, temperatures shot to 550 degrees within minutes. Old mine workings also lie beneath Gallup itself, under housing tracts, schools, and shopping centers.",
+  "sentences": [
+    {
+      "text": "In the summer of 2024, state crews dug out and put out two underground coal-mine fires just outside Gallup.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "One was burning within 100 feet of the new Navajo-Gallup Water Supply pipeline, which carries water for about 250,000 people.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "When the burning seams were exposed, temperatures shot to 550 degrees within minutes.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Old mine workings also lie beneath Gallup itself, under housing tracts, schools, and shopping centers.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Abandoned Mine Land Reclamation Awards nomination: Gallup Coal Fire Mitigation Project (2025)",
+      "url": "https://www.emnrd.nm.gov/mmd/wp-content/uploads/sites/5/2025-Nomination-for-Gallup-Coal-Fire-Extinguishment.pdf",
+      "publisher": "New Mexico Energy, Minerals and Natural Resources Department, Abandoned Mine Land Program",
+      "retrieved": "2026-10-02",
+      "quote": "mitigate two underground coal mine fires at the Enterprise-Brown Mine and Navajo No. 1 Mine ... The Enterprise-Brown fire was burning within 100ft of the recently constructed Navajo-Gallup Water Supply pipeline ... The project, which involved excavating and quenching the burning coal material followed by surface restoration and reclamation, took place between July 9 – August 1, 2024. ... with temperatures spiking to 550 deg F within minutes of exposing the coal seams ... a major infrastructure project providing water for 250,000 people ... The Enterprise Brown fire is on GLP property just outside of town"
+    },
+    "s2": {
+      "title": "Abandoned & Inactive Coal Mines of the Gallup Coal Field, McKinley County, New Mexico (Open-file Report 530, 2010)",
+      "url": "https://geoinfo.nmt.edu/publications/openfile/downloads/500-599/530/OFR530_Report.pdf",
+      "publisher": "New Mexico Bureau of Geology and Mineral Resources (Gretchen Hoffman and Maureen Wilks)",
+      "retrieved": "2026-10-02",
+      "quote": "Today many of these old underground mines are within the Gallup city limits and underlie areas where there has been surface development of housing tracts, schools, and shopping centers. Subsidence has been a problem in this area since the 1980s."
+    }
+  },
+  "topics": [
+    "mining",
+    "coal",
+    "environment"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "coal",
+    "mine fires",
+    "subsidence"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "nm-mckinley-county-elevation-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "35031"
+  },
+  "title": "Climbing toward the Divide",
+  "text": "Interstate 40 climbs about a thousand feet as it crosses McKinley County from the Arizona line. Near the state line, the road sits at roughly 6,200 feet. At the Continental Divide at Campbell Pass, it reaches 7,275 feet.",
+  "sentences": [
+    {
+      "text": "Interstate 40 climbs about a thousand feet as it crosses McKinley County from the Arizona line.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Near the state line, the road sits at roughly 6,200 feet.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "At the Continental Divide at Campbell Pass, it reaches 7,275 feet.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "USGS 3D Elevation Program, Elevation Point Query Service (sampled along the corridor about every 3 km)",
+      "url": "https://epqs.nationalmap.gov/v1/docs",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-02",
+      "table": "USGS 3DEP EPQS",
+      "quote": "Corridor lowest elevation: 6,224 feet at 35.371953, -109.038552"
+    },
+    "s2": {
+      "title": "Interstate 40 in New Mexico",
+      "url": "https://en.wikipedia.org/wiki/Interstate_40_in_New_Mexico",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-02",
+      "quote": "crossing the North American continental divide via Campbell Pass at an elevation of 7,275 feet (2,217 m)"
+    }
+  },
+  "topics": [
+    "geography",
+    "roads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "elevation",
+    "interstate 40",
+    "continental divide"
+  ],
+  "followOn": [
+    "nm-mckinley-county-continental-divide-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

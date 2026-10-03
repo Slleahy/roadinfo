@@ -5,29 +5,25 @@
     "type": "county",
     "fips": "35031"
   },
-  "title": "A piece of Chaco Canyon",
-  "text": "McKinley County contains part of Chaco Culture National Historical Park. The National Park Service says Chaco's cultural flowering began in the mid 800s and lasted more than 300 years. By the year 1050, it was the administrative and economic center of the San Juan Basin. The Park Service also says Chaco is central to the origins of several Navajo clans.",
+  "title": "A corner of Chaco",
+  "text": "By the year 1050, Chaco Canyon was the ceremonial, administrative, and economic center of the San Juan Basin, and a small corner of the park that protects it lies in McKinley County. The Chacoan people's cultural flowering began in the mid 800s and lasted more than 300 years. Chaco is also central to the origins of several Navajo clans.",
   "sentences": [
     {
-      "text": "McKinley County contains part of Chaco Culture National Historical Park.",
+      "text": "By the year 1050, Chaco Canyon was the ceremonial, administrative, and economic center of the San Juan Basin, and a small corner of the park that protects it lies in McKinley County.",
       "sources": [
-        "s2"
+        "s1",
+        "s2",
+        "s3"
       ]
     },
     {
-      "text": "The National Park Service says Chaco's cultural flowering began in the mid 800s and lasted more than 300 years.",
-      "sources": [
-        "s1"
-      ]
-    },
-    {
-      "text": "By the year 1050, it was the administrative and economic center of the San Juan Basin.",
+      "text": "The Chacoan people's cultural flowering began in the mid 800s and lasted more than 300 years.",
       "sources": [
         "s1"
       ]
     },
     {
-      "text": "The Park Service also says Chaco is central to the origins of several Navajo clans.",
+      "text": "Chaco is also central to the origins of several Navajo clans.",
       "sources": [
         "s1"
       ]
@@ -46,7 +42,15 @@
       "url": "https://en.wikipedia.org/wiki/McKinley_County,_New_Mexico",
       "publisher": "Wikipedia",
       "retrieved": "2026-10-03",
-      "quote": "The county contains parts of \"Chaco Culture National Historical Park\" and \"Cibola National Forest.\""
+      "quote": "Chaco Culture National Historical Park (part) ... Cibola National Forest (part)"
+    },
+    "s3": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-02",
+      "table": "PAD-US 4.1 Fee Managers (2024)",
+      "quote": "Chaco Culture National Historical Park, manager NPS: 0.1 percent of county"
     }
   },
   "topics": [
@@ -57,7 +61,7 @@
   "scores": {
     "relevance": 3,
     "interest": 4,
-    "confidence": 3
+    "confidence": 5
   },
   "sensitive": [],
   "asOf": null,
@@ -67,9 +71,6 @@
   ],
   "followOn": [],
   "direction": null,
-  "pronunciations": {
-    "Chaco": "CHAH-koh"
-  },
   "checked": {
     "by": "checker",
     "date": "2026-10-03",
