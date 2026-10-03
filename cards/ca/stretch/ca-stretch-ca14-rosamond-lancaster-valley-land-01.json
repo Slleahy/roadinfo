@@ -1,0 +1,158 @@
+{
+  "id": "ca-stretch-ca14-rosamond-lancaster-valley-land-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-rosamond-lancaster",
+    "path": [
+      [
+        -118.163277,
+        34.864175
+      ],
+      [
+        -118.17243,
+        34.86511
+      ],
+      [
+        -118.17219,
+        34.85542
+      ],
+      [
+        -118.1715,
+        34.846
+      ],
+      [
+        -118.17069,
+        34.83505
+      ],
+      [
+        -118.17051,
+        34.82395
+      ],
+      [
+        -118.17081,
+        34.81444
+      ],
+      [
+        -118.17099,
+        34.79155
+      ],
+      [
+        -118.1709,
+        34.7803
+      ],
+      [
+        -118.17076,
+        34.76434
+      ],
+      [
+        -118.17067,
+        34.75262
+      ],
+      [
+        -118.17059,
+        34.74271
+      ],
+      [
+        -118.17051,
+        34.73329
+      ],
+      [
+        -118.17043,
+        34.72381
+      ],
+      [
+        -118.17035,
+        34.71409
+      ],
+      [
+        -118.17025,
+        34.70435
+      ],
+      [
+        -118.17018,
+        34.69492
+      ],
+      [
+        -118.16589,
+        34.68937
+      ],
+      [
+        -118.15497,
+        34.68943
+      ],
+      [
+        -118.14801,
+        34.68593
+      ],
+      [
+        -118.15,
+        34.68361
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "The western tip of the Mojave",
+  "text": "The Antelope Valley covers about 2,200 square miles, mostly in northern Los Angeles County and the southeast corner of Kern County. It is bounded by the Garlock and San Andreas fault systems. Joshua trees, California scrub oak, creosote, and wildflowers, notably the California poppy, grow there. People in the valley depend mainly on pumping groundwater from the valley's aquifers and on importing water from the California Aqueduct.",
+  "sentences": [
+    {
+      "text": "The Antelope Valley covers about 2,200 square miles, mostly in northern Los Angeles County and the southeast corner of Kern County.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is bounded by the Garlock and San Andreas fault systems.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Joshua trees, California scrub oak, creosote, and wildflowers, notably the California poppy, grow there.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "People in the valley depend mainly on pumping groundwater from the valley's aquifers and on importing water from the California Aqueduct.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Antelope Valley",
+      "url": "https://en.wikipedia.org/wiki/Antelope_Valley",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "primarily located in northern Los Angeles County, California, United States and the southeast portion of Kern County ... 2,200 square miles (5,700 km2) ... bounded by the Garlock and San Andreas fault systems ... Joshua tree, California scrub oak, creosote, and wildflowers, notably the California poppy ... depend mainly on pumping of groundwater from the valley's aquifers and on importing additional water from the California Aqueduct",
+      "revision": "1362139146"
+    }
+  },
+  "topics": [
+    "geography",
+    "valley",
+    "nature"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "antelope valley",
+    "joshua tree",
+    "san andreas fault",
+    "california aqueduct"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "ca-stretch-ca14-rosamond-lancaster-pronghorn-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-rosamond-lancaster",
+    "path": [
+      [
+        -118.163277,
+        34.864175
+      ],
+      [
+        -118.17243,
+        34.86511
+      ],
+      [
+        -118.17219,
+        34.85542
+      ],
+      [
+        -118.1715,
+        34.846
+      ],
+      [
+        -118.17069,
+        34.83505
+      ],
+      [
+        -118.17051,
+        34.82395
+      ],
+      [
+        -118.17081,
+        34.81444
+      ],
+      [
+        -118.17099,
+        34.79155
+      ],
+      [
+        -118.1709,
+        34.7803
+      ],
+      [
+        -118.17076,
+        34.76434
+      ],
+      [
+        -118.17067,
+        34.75262
+      ],
+      [
+        -118.17059,
+        34.74271
+      ],
+      [
+        -118.17051,
+        34.73329
+      ],
+      [
+        -118.17043,
+        34.72381
+      ],
+      [
+        -118.17035,
+        34.71409
+      ],
+      [
+        -118.17025,
+        34.70435
+      ],
+      [
+        -118.17018,
+        34.69492
+      ],
+      [
+        -118.16589,
+        34.68937
+      ],
+      [
+        -118.15497,
+        34.68943
+      ],
+      [
+        -118.14801,
+        34.68593
+      ],
+      [
+        -118.15,
+        34.68361
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Named for an animal that is not an antelope",
+  "text": "The Antelope Valley is named for the pronghorns that roamed there. Pronghorns are not true antelopes, but they have long been mistaken for them because of their close physical similarities with the true antelope of Eurasia. Early settlers, hunters, and travelers recorded many sightings of pronghorns in the valley. Locally caught and butchered pronghorn meat was often sold to local hotels.",
+  "sentences": [
+    {
+      "text": "The Antelope Valley is named for the pronghorns that roamed there.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Pronghorns are not true antelopes, but they have long been mistaken for them because of their close physical similarities with the true antelope of Eurasia.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Early settlers, hunters, and travelers recorded many sightings of pronghorns in the valley.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Locally caught and butchered pronghorn meat was often sold to local hotels.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Antelope Valley",
+      "url": "https://en.wikipedia.org/wiki/Antelope_Valley",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The valley was named for the pronghorns that roamed there until they were all eliminated in the 1880s",
+      "revision": "1362139146"
+    },
+    "s2": {
+      "title": "Pronghorn Antelope (Lancaster Museum of Art and History)",
+      "url": "https://www.lancastermoah.org/single-post/pronghorn-antelope",
+      "publisher": "Lancaster Museum of Art and History",
+      "retrieved": "2026-10-03",
+      "quote": "Pronghorns (Antilocapra americana) have long been mistaken for and referred to as antelopes due to their close physical similarities with the true antelope of Eurasia. ... The animals which have given the Antelope Valley its namesake are coincidentally not antelopes at all. ... There are many reports from early settlers, hunters, and travelers recording sightings of pronghorns in the Antelope Valley. ... Locally caught and butchered pronghorn meat was often sold to local hotels in the valley."
+    }
+  },
+  "topics": [
+    "nature",
+    "history",
+    "wildlife"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "antelope valley",
+    "pronghorn",
+    "antelope",
+    "valley name"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
