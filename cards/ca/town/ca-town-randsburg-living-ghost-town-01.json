@@ -1,0 +1,86 @@
+{
+  "id": "ca-town-randsburg-living-ghost-town-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Randsburg"
+  },
+  "title": "A living ghost town",
+  "text": "Randsburg is called a living ghost town, and on weekends motorcyclists and tourists stop in to explore the old buildings and visit the general store. Most visitors arrive between autumn and spring because of the extreme heat in summer. Thanksgiving weekend and New Year's Eve are exceptions, when tourists flock into the town.",
+  "sentences": [
+    {
+      "text": "Randsburg is called a living ghost town, and on weekends motorcyclists and tourists stop in to explore the old buildings and visit the general store.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Most visitors arrive between autumn and spring because of the extreme heat in summer.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Thanksgiving weekend and New Year's Eve are exceptions, when tourists flock into the town.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Randsburg, CA (Digital-Desert)",
+      "url": "https://digital-desert.com/randsburg-ca/",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "Randsburg is a living ghost town with a population of around 45 people. ... On weekends, motorcyclists and tourists stop in to explore old buildings, visit the general store, and soak in the frontier feel."
+    },
+    "s2": {
+      "title": "Randsburg, California (Atlas Obscura)",
+      "url": "https://assets.atlasobscura.com/places/randsburg-california",
+      "publisher": "Atlas Obscura",
+      "retrieved": "2026-10-03",
+      "quote": "unless it is Thanksgiving weekend or New Year's Eve. On those holidays tourists flock into the town."
+    },
+    "s3": {
+      "title": "Randsburg, California",
+      "url": "https://en.wikipedia.org/wiki/Randsburg,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Most visitors arrive between autumn and spring due to the extreme heat in summer.",
+      "revision": "1373597264"
+    }
+  },
+  "topics": [
+    "culture",
+    "tourism",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "randsburg",
+    "ghost town",
+    "tourism",
+    "general store"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.36861,
+    "lon": -117.65806,
+    "radiusMeters": 4000,
+    "name": "Randsburg",
+    "source": "https://en.wikipedia.org/wiki/Randsburg%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

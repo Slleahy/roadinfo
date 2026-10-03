@@ -1,0 +1,86 @@
+{
+  "id": "ca-town-randsburg-on-screen-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Randsburg"
+  },
+  "title": "Randsburg on screen",
+  "text": "The lost 1913 movie The Mystery of Yellow Aster Mine was shot in Randsburg. South of Suez, starring George Brent and released in November 1940, was filmed there. Dwight Yoakam's 1989 video for Long White Cadillac was filmed in Randsburg too. Scenes from the 2011 film Cowboys and Aliens were also filmed in the town.",
+  "sentences": [
+    {
+      "text": "The lost 1913 movie The Mystery of Yellow Aster Mine was shot in Randsburg.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "South of Suez, starring George Brent and released in November 1940, was filmed there.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Dwight Yoakam's 1989 video for Long White Cadillac was filmed in Randsburg too.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Scenes from the 2011 film Cowboys and Aliens were also filmed in the town.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Randsburg, California",
+      "url": "https://en.wikipedia.org/wiki/Randsburg,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The lost 1913 movie The Mystery of Yellow Aster Mine was filmed in Randsburg. ... South of Suez, starring George Brent and released in November 1940, was filmed in Randsburg. ... Dwight Yoakam's 1989 video for 'Long White Cadillac' was also filmed in the town.",
+      "revision": "1373597264"
+    },
+    "s2": {
+      "title": "Randsburg, California (Atlas Obscura)",
+      "url": "https://assets.atlasobscura.com/places/randsburg-california",
+      "publisher": "Atlas Obscura",
+      "retrieved": "2026-10-03",
+      "quote": "2011's blockbuster film Cowboys and Aliens featured many scenes that were filmed in the town ... the video for Dwight Yoakam's video Long White Cadillac was filmed there too."
+    }
+  },
+  "topics": [
+    "film",
+    "music",
+    "culture"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "randsburg",
+    "film location",
+    "long white cadillac",
+    "south of suez"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.36861,
+    "lon": -117.65806,
+    "radiusMeters": 4000,
+    "name": "Randsburg",
+    "source": "https://en.wikipedia.org/wiki/Randsburg%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

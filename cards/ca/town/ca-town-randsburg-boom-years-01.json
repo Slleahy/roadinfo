@@ -1,0 +1,89 @@
+{
+  "id": "ca-town-randsburg-boom-years-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Randsburg"
+  },
+  "title": "A boom town of thousands",
+  "text": "By 1900, roughly 3,500 to 4,000 people lived in Randsburg. The town had a 30-stamp ore crusher, a bank, churches, and theaters. At the turn of the century, when gold was worth only 12 to 16 dollars an ounce, the Yellow Aster Mine recovered 3 million dollars in gold. Two fires within months of each other destroyed much of the town, and a third took out most of the remaining buildings.",
+  "sentences": [
+    {
+      "text": "By 1900, roughly 3,500 to 4,000 people lived in Randsburg.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The town had a 30-stamp ore crusher, a bank, churches, and theaters.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "At the turn of the century, when gold was worth only 12 to 16 dollars an ounce, the Yellow Aster Mine recovered 3 million dollars in gold.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Two fires within months of each other destroyed much of the town, and a third took out most of the remaining buildings.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Randsburg, CA (Digital-Desert)",
+      "url": "https://digital-desert.com/randsburg-ca/",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "By 1900, Randsburg's 3,500 inhabitants had a 30-stamp ore crusher, bank, churches and theaters. ... At the turn-of-the-century, when gold was worth only $12-$16 an ounce, Randsburg's famous Yellow Aster Mine recovered $3 million in gold. ... Two devastating fires tore through town."
+    },
+    "s2": {
+      "title": "Randsburg, California (Atlas Obscura)",
+      "url": "https://assets.atlasobscura.com/places/randsburg-california",
+      "publisher": "Atlas Obscura",
+      "retrieved": "2026-10-03",
+      "quote": "The population grew rapidly to almost 4000 people by the turn of the century ... Just a few months later, another fire broke out, swallowing about half the town ... Before it could be rebuilt, a third fire took out most of the rest"
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "gold"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "randsburg",
+    "boom town",
+    "yellow aster",
+    "stamp mill",
+    "fires"
+  ],
+  "followOn": [
+    "ca-kern-county-randsburg-gold-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.36861,
+    "lon": -117.65806,
+    "radiusMeters": 4000,
+    "name": "Randsburg",
+    "source": "https://en.wikipedia.org/wiki/Randsburg%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}
