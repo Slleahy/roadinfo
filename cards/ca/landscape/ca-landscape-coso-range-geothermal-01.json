@@ -1,0 +1,94 @@
+{
+  "id": "ca-landscape-coso-range-geothermal-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Coso Range and volcanic field"
+  },
+  "title": "Boiling mud and a power plant",
+  "text": "The Coso volcanic field is known for boiling mud pots and fumaroles within an area of many little-eroded volcanoes. Geothermal power began there in 1987, and the field now produces more than 270 megawatts of electricity. Since 1987 it has delivered more than 26,000 gigawatt-hours of electricity. Hot fluids are brought up from the fractured rock below, turned to steam to drive a turbine, and then reinjected into the ground.",
+  "sentences": [
+    {
+      "text": "The Coso volcanic field is known for boiling mud pots and fumaroles within an area of many little-eroded volcanoes.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Geothermal power began there in 1987, and the field now produces more than 270 megawatts of electricity.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Since 1987 it has delivered more than 26,000 gigawatt-hours of electricity.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Hot fluids are brought up from the fractured rock below, turned to steam to drive a turbine, and then reinjected into the ground.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Geology and History of Coso Volcanic Field (October 30, 2023)",
+      "url": "https://www.usgs.gov/volcanoes/coso-volcanic-field/geology-and-history",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "boiling mud pots and fumaroles within an area of many little-eroded volcanoes ... Subsequent drilling has resulted in the production of about 270 megawatts of electricity"
+    },
+    "s2": {
+      "title": "Coso Volcanic Field",
+      "url": "https://en.wikipedia.org/wiki/Coso_Volcanic_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Coso began generating electricity in 1987 ... 272.2 MW",
+      "revision": "1355420498"
+    },
+    "s3": {
+      "title": "Gearing Up Geothermal in the Coso Volcanic Range",
+      "url": "https://ncgeolsoc.org/coso-geothermal-system/",
+      "publisher": "Northern California Geological Society",
+      "retrieved": "2026-10-03",
+      "quote": "Initially developed in 1987 ... Total output capacity of the geothermal field is currently over 270 megawatts ... since 1987 has delivered more than 26,000 gigawatt-hours of electricity ... After using the hot fluids to generate electricity, the cooled fluids are then reinjected into the ground."
+    }
+  },
+  "topics": [
+    "energy",
+    "geology",
+    "geothermal"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": "2023",
+  "themeKeys": [
+    "coso geothermal",
+    "mud pots",
+    "fumaroles",
+    "geothermal power"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 36.03,
+    "lon": -117.82,
+    "radiusMeters": 40000,
+    "name": "Coso Range and volcanic field",
+    "source": "https://en.wikipedia.org/wiki/Coso_Volcanic_Field"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

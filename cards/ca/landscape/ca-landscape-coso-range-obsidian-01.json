@@ -1,0 +1,66 @@
+{
+  "id": "ca-landscape-coso-range-obsidian-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Coso Range and volcanic field"
+  },
+  "title": "Obsidian for stone tools",
+  "text": "Obsidian from the Coso Volcanic Field was heavily exploited by the Native American Coso People between about 3,000 and 1,000 years ago. Geochemists have identified four subsources of the glass, including one at Sugarloaf and one at Joshua Ridge.",
+  "sentences": [
+    {
+      "text": "Obsidian from the Coso Volcanic Field was heavily exploited by the Native American Coso People between about 3,000 and 1,000 years ago.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Geochemists have identified four subsources of the glass, including one at Sugarloaf and one at Joshua Ridge.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Coso Volcanic Field",
+      "url": "https://en.wikipedia.org/wiki/Coso_Volcanic_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Obsidian from the Coso Volcanic Fields was heavily exploited by Native American Coso People ... between approximately 3000 and 1000 years ago ... Four geochemical subsources were identified: Sugarloaf, West Sugarloaf, Joshua Ridge, and West Cactus Peak",
+      "revision": "1355420498"
+    }
+  },
+  "topics": [
+    "geology",
+    "archaeology",
+    "tribal lands"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "coso obsidian",
+    "sugarloaf",
+    "joshua ridge",
+    "stone tools"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 36.03,
+    "lon": -117.82,
+    "radiusMeters": 40000,
+    "name": "Coso Range and volcanic field",
+    "source": "https://en.wikipedia.org/wiki/Coso_Volcanic_Field"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
