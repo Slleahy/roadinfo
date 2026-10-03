@@ -1,0 +1,90 @@
+{
+  "id": "ca-town-cantil-spaceshiptwo-crash-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Cantil"
+  },
+  "title": "The day SpaceShipTwo broke apart",
+  "text": "On October 31, 2014, Virgin Galactic's SpaceShipTwo crashed in the Mojave Desert near Cantil, killing one of its two pilots. The craft broke apart during its fourth rocket-powered test flight, and debris was strewn across a 5-mile track near Koehn Lake. The surviving pilot, Peter Siebold, was badly hurt but lived, because his seat was ejected as the craft broke apart and he used a parachute. Investigators found that the copilot, Michael Alsbury, unlocked the tail feathering system too early, at Mach 0.8 instead of Mach 1.4.",
+  "sentences": [
+    {
+      "text": "On October 31, 2014, Virgin Galactic's SpaceShipTwo crashed in the Mojave Desert near Cantil, killing one of its two pilots.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The craft broke apart during its fourth rocket-powered test flight, and debris was strewn across a 5-mile track near Koehn Lake.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The surviving pilot, Peter Siebold, was badly hurt but lived, because his seat was ejected as the craft broke apart and he used a parachute.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Investigators found that the copilot, Michael Alsbury, unlocked the tail feathering system too early, at Mach 0.8 instead of Mach 1.4.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Cantil, California",
+      "url": "https://en.wikipedia.org/wiki/Cantil,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "On October 31, 2014, the Virgin Galactic SpaceShipTwo VSS Enterprise crashed in the Mojave Desert near Cantil, killing one of the two pilots.",
+      "revision": "1377766948"
+    },
+    "s2": {
+      "title": "Deadly SpaceShipTwo Crash Caused by Co-Pilot Error: NTSB",
+      "url": "https://www.scientificamerican.com/article/deadly-spaceshiptwo-crash-caused-by-co-pilot-error-ntsb/",
+      "publisher": "Scientific American",
+      "retrieved": "2026-10-03",
+      "quote": "On Oct. 31, 2014, the first SpaceShipTwo broke apart during its fourth rocket-powered test flight over the Mojave Desert in California, with debris from the spacecraft strewn across a 5-mile (8 kilometers) track near Koehn Lake. ... Alsbury, a veteran test pilot who had flown on SpaceShipTwo before, was killed in the accident. Pilot Peter Siebold suffered serious injuries but survived when his seat was ejected from the spacecraft as it broke apart, allowing him to use a parachute. ... Alsbury unlocked SpaceShipTwo's novel tail-boom 'feather' system too early, while the craft was flying at Mach 0.8 and not at Mach 1.4 as the original flight plan required."
+    }
+  },
+  "topics": [
+    "aerospace",
+    "disaster",
+    "history"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "2014",
+  "themeKeys": [
+    "spaceshiptwo",
+    "virgin galactic",
+    "2014 crash",
+    "koehn lake"
+  ],
+  "followOn": [
+    "ca-kern-county-mojave-spaceport-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.30889,
+    "lon": -117.96833,
+    "radiusMeters": 6000,
+    "name": "Cantil",
+    "source": "https://en.wikipedia.org/wiki/Cantil%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ca-town-cantil-railroad-c-names-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Cantil"
+  },
+  "title": "A stone cliff on the railroad",
+  "text": "Cantil is Spanish for stone cliff, and it was one of a series of C names chosen for this stretch of railroad, along with Cambio, Cinco, and Ceneda. It was founded as a station on the Nevada and California Railroad in 1908 or 1909, when the line was extended from Owens Lake to Mojave. The first post office opened in 1916.",
+  "sentences": [
+    {
+      "text": "Cantil is Spanish for stone cliff, and it was one of a series of C names chosen for this stretch of railroad, along with Cambio, Cinco, and Ceneda.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It was founded as a station on the Nevada and California Railroad in 1908 or 1909, when the line was extended from Owens Lake to Mojave.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The first post office opened in 1916.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Cantil, California",
+      "url": "https://en.wikipedia.org/wiki/Cantil,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Spanish for 'stone cliff' or 'steep rock' ... one of a series of 'C' names chosen for this section of the line including Cambio, Cinco, and Ceneda ... Cantil was founded as a station on the Nevada and California Railroad in 1908 or 1909 when the line was extended from Owens Lake to Mojave. ... The first post office opened in 1916.",
+      "revision": "1377766948"
+    }
+  },
+  "topics": [
+    "history",
+    "railroads",
+    "names"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "cantil",
+    "nevada and california railroad",
+    "stone cliff",
+    "c names"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.30889,
+    "lon": -117.96833,
+    "radiusMeters": 6000,
+    "name": "Cantil",
+    "source": "https://en.wikipedia.org/wiki/Cantil%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

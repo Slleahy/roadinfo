@@ -1,0 +1,77 @@
+{
+  "id": "ca-town-cantil-honda-proving-center-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Cantil"
+  },
+  "title": "A test track in the desert",
+  "text": "The Honda Proving Center of California, near Cantil, has a 7.5-mile oval track and a 5-mile winding road course. It was established in 1990 and used mainly to test Honda and Acura automobiles, though motorcycles are tested there too. Honda closed it in 2010 and moved testing to Marysville, Ohio, then announced in 2015 that it would renovate and expand it. The renovated center opened in May 2017.",
+  "sentences": [
+    {
+      "text": "The Honda Proving Center of California, near Cantil, has a 7.5-mile oval track and a 5-mile winding road course.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It was established in 1990 and used mainly to test Honda and Acura automobiles, though motorcycles are tested there too.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Honda closed it in 2010 and moved testing to Marysville, Ohio, then announced in 2015 that it would renovate and expand it.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The renovated center opened in May 2017.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Honda Proving Center of California",
+      "url": "https://en.wikipedia.org/wiki/Honda_Proving_Center_of_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "test track established in 1990 ... located near Cantil, California, in Kern County ... 7.5 mi (12.1 km) oval track, as well as a 5 mi (8.0 km) winding road course ... used primarily for testing Honda and Acura automobiles, although motorcycles are also tested there ... closed the HPCC in 2010 and relocated the test center to Marysville, Ohio ... American Honda announced that they would renovate and expand the HPCC ... announced the opening of the renovated facility (May 22, 2017)",
+      "revision": "1303465921"
+    }
+  },
+  "topics": [
+    "industry",
+    "cars",
+    "desert"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2017",
+  "themeKeys": [
+    "honda proving center",
+    "test track",
+    "cantil"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.30889,
+    "lon": -117.96833,
+    "radiusMeters": 6000,
+    "name": "Cantil",
+    "source": "https://en.wikipedia.org/wiki/Cantil%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
