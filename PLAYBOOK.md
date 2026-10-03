@@ -120,6 +120,10 @@ warm, specific, and never padded.
 - **Never name the source out loud.** No "according to the National Park Service", no "the
   county's website says". Attribution lives in the silent citations. The only exception is a
   claim that is genuinely disputed, where saying who claims it is part of the fact.
+- **Plain words.** A passenger is not a geologist. Explain a technical term in a few plain
+  words the first time ("rhyolite, a pale volcanic rock"), or say the idea without it. Leave
+  out formation names, epoch names, and units like kilometers unless they carry the story;
+  give ages as "about 20 million years ago" and distances in miles.
 - **No survey mechanics.** No margins of error, no "five-year estimate", no table names.
   Say "about 70,000 people live here", with the year when it matters ("as of 2024").
 - **Every card needs a reason to listen**: a person, a turn of events, a number that
