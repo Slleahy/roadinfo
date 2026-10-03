@@ -1,0 +1,78 @@
+{
+  "id": "ca-landscape-mojave-desert-joshua-tree-line-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Mojave Desert"
+  },
+  "title": "The tree that marks the desert",
+  "text": "The Joshua tree is an indicator species of the Mojave Desert, and it is endemic to it. In Joshua Tree National Park, the western half is Mojave Desert and has thousands of Joshua trees. The eastern half, in the Colorado Desert, has ocotillo and smoketree instead.",
+  "sentences": [
+    {
+      "text": "The Joshua tree is an indicator species of the Mojave Desert, and it is endemic to it.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In Joshua Tree National Park, the western half is Mojave Desert and has thousands of Joshua trees.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The eastern half, in the Colorado Desert, has ocotillo and smoketree instead.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave Desert",
+      "url": "https://en.wikipedia.org/wiki/Mojave_Desert",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "no presence of an indicator species, such as the Joshua tree (Yucca brevifolia), which is endemic to the Mojave Desert"
+    },
+    "s2": {
+      "title": "Joshua Tree National Park ecology",
+      "url": "https://www.usgs.gov/geology-and-ecology-of-national-parks/joshua-tree-national-park-ecology",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "The western half of Joshua Tree National Park is located on the southern tip of the Mojave ... thousands of Joshua Trees ... the ocotillo, smoketree, and numerous holla varieties thrive"
+    }
+  },
+  "topics": [
+    "plants",
+    "desert",
+    "ecology"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "joshua tree",
+    "indicator species",
+    "mojave desert",
+    "colorado desert"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35,
+    "lon": -116,
+    "radiusMeters": 250000,
+    "name": "Mojave Desert",
+    "source": "https://en.wikipedia.org/wiki/Mojave_Desert"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

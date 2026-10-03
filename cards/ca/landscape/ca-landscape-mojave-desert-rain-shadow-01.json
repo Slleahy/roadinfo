@@ -1,0 +1,84 @@
+{
+  "id": "ca-landscape-mojave-desert-rain-shadow-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Mojave Desert"
+  },
+  "title": "A desert in the rain shadow",
+  "text": "The Mojave Desert is found primarily in southeastern California and southwestern Nevada. It lies in the rain shadow of the southern Sierra Nevada and the Transverse Ranges. Storms drop their rain and snow mostly on the mountains, which leaves the slopes on the far side drier. In the Mojave part of Joshua Tree National Park, about 3 to 5 inches of rain fall in a year, mostly in winter.",
+  "sentences": [
+    {
+      "text": "The Mojave Desert is found primarily in southeastern California and southwestern Nevada.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It lies in the rain shadow of the southern Sierra Nevada and the Transverse Ranges.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Storms drop their rain and snow mostly on the mountains, which leaves the slopes on the far side drier.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In the Mojave part of Joshua Tree National Park, about 3 to 5 inches of rain fall in a year, mostly in winter.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave Desert",
+      "url": "https://en.wikipedia.org/wiki/Mojave_Desert",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "located primarily in southeastern California and southwestern Nevada ... in the rain shadow of the southern Sierra Nevada mountains and Transverse Ranges ... bring rain and snow only in the mountainous regions, increasing aridity on the leeward slopes"
+    },
+    "s2": {
+      "title": "Joshua Tree National Park ecology",
+      "url": "https://www.usgs.gov/geology-and-ecology-of-national-parks/joshua-tree-national-park-ecology",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-03",
+      "quote": "about 3-5 inches of rain annually, most of which occurs during the winter"
+    }
+  },
+  "topics": [
+    "climate",
+    "geography",
+    "desert"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "mojave desert",
+    "rain shadow",
+    "sierra nevada",
+    "desert climate"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35,
+    "lon": -116,
+    "radiusMeters": 250000,
+    "name": "Mojave Desert",
+    "source": "https://en.wikipedia.org/wiki/Mojave_Desert"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "ca-landscape-mojave-desert-basins-and-playas-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Mojave Desert"
+  },
+  "title": "Basins, ranges, and dry lakes",
+  "text": "The Mojave Desert has basin and range topography, a series of parallel mountain ranges and valleys. Water that collects in the basins generally evaporates. That leaves dried lake beds called playas, with large volumes of salt.",
+  "sentences": [
+    {
+      "text": "The Mojave Desert has basin and range topography, a series of parallel mountain ranges and valleys.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Water that collects in the basins generally evaporates.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That leaves dried lake beds called playas, with large volumes of salt.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave Desert",
+      "url": "https://en.wikipedia.org/wiki/Mojave_Desert",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "typical basin and range topography, generally having a pattern of a series of parallel mountain ranges and valleys ... dried lake beds called playas, where water generally collects and evaporates, leaving large volumes of salt"
+    }
+  },
+  "topics": [
+    "geology",
+    "desert",
+    "lakes"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "playa",
+    "dry lake",
+    "basin and range",
+    "mojave desert geology"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35,
+    "lon": -116,
+    "radiusMeters": 250000,
+    "name": "Mojave Desert",
+    "source": "https://en.wikipedia.org/wiki/Mojave_Desert"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

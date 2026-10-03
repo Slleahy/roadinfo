@@ -1,0 +1,80 @@
+{
+  "id": "ca-landscape-mojave-desert-king-clone-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Mojave Desert"
+  },
+  "title": "The King Clone creosote ring",
+  "text": "A ring of creosote bushes in the Mojave Desert near Lucerne Valley is estimated to be 11,700 years old. The ring is a single clonal colony, one plant that has spread outward over thousands of years. It was identified and dated by Frank Vasek, a professor at the University of California, Riverside.",
+  "sentences": [
+    {
+      "text": "A ring of creosote bushes in the Mojave Desert near Lucerne Valley is estimated to be 11,700 years old.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The ring is a single clonal colony, one plant that has spread outward over thousands of years.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It was identified and dated by Frank Vasek, a professor at the University of California, Riverside.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "King Clone",
+      "url": "https://en.wikipedia.org/wiki/King_Clone",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The ring is estimated to be 11,700 years old ... near the towns of Lucerne Valley and Landers ... single clonal colony plant of Larrea tridentata ... Frank Vasek, a University of California, Riverside professor, identified King Clone"
+    },
+    "s2": {
+      "title": "News In Brief",
+      "url": "https://www.csmonitor.com/1984/1210/121045.html",
+      "publisher": "Christian Science Monitor (December 10, 1984)",
+      "retrieved": "2026-10-03",
+      "quote": "Lucerne Valley, Calif. ... a creosote bush that scientists say has been growing for 11,700 years"
+    }
+  },
+  "topics": [
+    "plants",
+    "desert",
+    "ecology"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "king clone",
+    "creosote bush",
+    "oldest living organism",
+    "creosote ring",
+    "lucerne valley"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35,
+    "lon": -116,
+    "radiusMeters": 250000,
+    "name": "Mojave Desert",
+    "source": "https://en.wikipedia.org/wiki/Mojave_Desert"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}
