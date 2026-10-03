@@ -1,0 +1,82 @@
+{
+  "id": "ca-landscape-antelope-valley-neenach-volcano-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Antelope Valley"
+  },
+  "title": "A volcano split in two",
+  "text": "A volcano that erupted about 23 million years ago near present-day Lancaster was cut in half by the San Andreas Fault. One half stayed in the Antelope Valley area as the Neenach Formation. The other half is now Pinnacles National Park, about 195 miles away.",
+  "sentences": [
+    {
+      "text": "A volcano that erupted about 23 million years ago near present-day Lancaster was cut in half by the San Andreas Fault.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "One half stayed in the Antelope Valley area as the Neenach Formation.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The other half is now Pinnacles National Park, about 195 miles away.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Neenach Volcano",
+      "url": "https://en.wikipedia.org/wiki/Neenach_Volcano",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The volcano formed 23 million years ago. ... The Neenach Volcano was situated directly over the primary San Andreas fault, causing it to be split in two ... both halves of the volcano have moved about 195 miles (314 kilometers) apart."
+    },
+    "s2": {
+      "title": "Pinnacles volcano and the San Andreas Fault",
+      "url": "https://www.nps.gov/pinn/learn/nature/faults.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-03",
+      "quote": "The Pinnacles Rocks are believed to have originated from the Neenach Volcano, situated near present-day Lancaster, California. ... Approximately 23 million years ago, rhyolitic magma and other volcanic flows erupted through fissures"
+    }
+  },
+  "topics": [
+    "geology",
+    "volcanoes",
+    "faults"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "neenach volcano",
+    "pinnacles",
+    "san andreas fault",
+    "plate tectonics",
+    "antelope valley geology"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.8,
+    "lon": -118.2,
+    "radiusMeters": 40000,
+    "name": "Antelope Valley",
+    "source": "https://en.wikipedia.org/wiki/Antelope_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "ca-landscape-antelope-valley-sinking-valley-floor-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Antelope Valley"
+  },
+  "title": "A valley floor that is sinking",
+  "text": "In the Antelope Valley, long-term pumping of groundwater has lowered the water table. That has made wells harder to pump, cut their efficiency, and caused the land surface to sink.",
+  "sentences": [
+    {
+      "text": "In the Antelope Valley, long-term pumping of groundwater has lowered the water table.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That has made wells harder to pump, cut their efficiency, and caused the land surface to sink.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Antelope Valley",
+      "url": "https://en.wikipedia.org/wiki/Antelope_Valley",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Long-term groundwater pumping has lowered the water table, thereby increasing pumping lifts, reducing well efficiency, and causing land subsidence."
+    }
+  },
+  "topics": [
+    "water",
+    "geology",
+    "environment"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "land subsidence",
+    "groundwater",
+    "antelope valley aquifer",
+    "water table"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.8,
+    "lon": -118.2,
+    "radiusMeters": 40000,
+    "name": "Antelope Valley",
+    "source": "https://en.wikipedia.org/wiki/Antelope_Valley"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
