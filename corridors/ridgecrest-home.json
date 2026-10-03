@@ -1,0 +1,68 @@
+{
+  "name": "Ridgecrest home drives (owner's real-drive test area)",
+  "purpose": "Full layered coverage of three drives the owner will test in a real car. Built layer by layer, with the cost checked after each.",
+  "routes": [
+    {
+      "id": "ca14-ridgecrest-lancaster",
+      "description": "Ridgecrest west on CA-178 to Inyokern, south on US-395 and CA-14 past Freeman Junction, Red Rock Canyon, Cantil, Mojave, and Rosamond to Lancaster.",
+      "miles": 115,
+      "roads": ["CA-178", "US-395 Business", "CA-14", "CA-58 Business (Mojave)", "CA-138"]
+    },
+    {
+      "id": "ca178-ridgecrest-lake-isabella",
+      "description": "Ridgecrest west on CA-178 through Inyokern and Freeman Junction, over Walker Pass, down the South Fork Kern River valley through Onyx, Weldon, and Mountain Mesa to Lake Isabella.",
+      "miles": 60,
+      "roads": ["CA-178", "CA-14 (shared, Freeman Junction)"]
+    },
+    {
+      "id": "ridgecrest-trona-randsburg",
+      "description": "Ridgecrest east on CA-178 to Trona and the Searles Valley; separately, Ridgecrest south on US-395 through Johannesburg, Randsburg, and Red Mountain.",
+      "miles": 76,
+      "roads": ["CA-178", "Trona Road", "US-395"]
+    }
+  ],
+  "pointsFile": "corridors/ridgecrest-home-points.json",
+  "counties": [
+    {
+      "name": "Kern County", "fips": "06029", "facts": "facts/ca/06029.json", "cardTarget": 35,
+      "focus": "The drives cross only eastern Kern County: the Indian Wells Valley, the El Paso Mountains, Red Rock Canyon, the Fremont Valley, Mojave and Rosamond, Walker Pass, and the South Fork Kern River valley to Lake Isabella. Most cards should be about that side of the county. A handful of county-wide cards (how the county was formed, its size and government, its economy) are fine; Bakersfield, oil fields, and San Joaquin Valley farming only as brief context."
+    },
+    {
+      "name": "San Bernardino County", "fips": "06071", "facts": "facts/ca/06071.json", "cardTarget": 12,
+      "focus": "The drives cross only the county's northwest corner: the Searles Valley (Trona, Argus, Westend, Pioneer Point) and Red Mountain. Cards about that corner, plus a few about the county as a whole (the largest county in the contiguous United States, if two sources say so; its federal lands)."
+    },
+    {
+      "name": "Los Angeles County", "fips": "06037", "facts": "facts/ca/06037.json", "cardTarget": 8,
+      "focus": "The drive reaches only Lancaster, at the northern edge. Cards about the Antelope Valley side of the county, plus a few county-wide (population, government size) that a driver arriving from the desert would find striking."
+    }
+  ],
+  "places": [
+    "Ridgecrest", "China Lake Acres", "Inyokern", "Freeman Junction", "Cantil", "Mojave", "Rosamond", "Lancaster",
+    "Onyx", "Weldon", "Mountain Mesa", "Lake Isabella", "Searles Valley (Trona)", "Johannesburg", "Randsburg", "Red Mountain"
+  ],
+  "managedLands": [
+    "Naval Air Weapons Station China Lake (Navy)", "Edwards Air Force Base (Air Force)",
+    "Ridgecrest and Bakersfield field offices (Bureau of Land Management)", "Sequoia National Forest (Forest Service)",
+    "Red Rock Canyon State Park", "Eastern Kern County Onyx Ranch State Vehicular Recreation Area",
+    "South Fork Wildlife Area, Canebrake Ecological Reserve, Fremont Valley Ecological Reserve (California Fish and Wildlife)",
+    "Mojave Desert Land Trust, National Audubon Society (Kern River Preserve), Hanning Flat (conservation groups)",
+    "California State Lands Commission"
+  ],
+  "leadsToResearch": [
+    "Naval Air Weapons Station China Lake: founding in World War II, weapons developed there, its size",
+    "The 2019 Ridgecrest earthquakes",
+    "The Indian Wells Valley groundwater basin",
+    "Coso volcanic field and Coso petroglyphs (on the Navy base; access restrictions)",
+    "Walker Pass and the explorer it is named for; the Pacific Crest Trail crossing",
+    "The Kern River, Lake Isabella and its dam",
+    "Red Rock Canyon State Park and the films shot there",
+    "Burro Schmidt Tunnel; the El Paso Mountains; Last Chance Canyon",
+    "Randsburg, Johannesburg, and Red Mountain: the Rand mining district (gold, tungsten, silver)",
+    "Searles Lake and borax; Trona; the Trona Pinnacles",
+    "The Los Angeles Aqueduct crossing the region; the Jawbone siphon",
+    "Mojave Air and Space Port; Edwards Air Force Base; Rosamond and the Tropico gold mine",
+    "Antelope Valley: Lancaster, aerospace, the poppy reserve",
+    "The Tübatulabal and Kawaiisu peoples of the Kern River valley (follow the tribal-lands rules)"
+  ],
+  "note": "Leads are things to research, not facts. Every card fact needs its own sources."
+}

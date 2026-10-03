@@ -1,0 +1,325 @@
+{
+  "fips": "06029",
+  "built": "2026-10-03",
+  "facts": {
+    "population": {
+      "value": 915075.0,
+      "unit": "people",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B01003",
+        "url": "https://censusreporter.org/tables/B01003/?geo_ids=05000US06029",
+        "table": "Census ACS 5-year 2020-2024, B01003",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "median_household_income": {
+      "value": 70210.0,
+      "unit": "dollars",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B19013",
+        "url": "https://censusreporter.org/tables/B19013/?geo_ids=05000US06029",
+        "table": "Census ACS 5-year 2020-2024, B19013",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "median_age": {
+      "value": 32.7,
+      "unit": "years",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B01002",
+        "url": "https://censusreporter.org/tables/B01002/?geo_ids=05000US06029",
+        "table": "Census ACS 5-year 2020-2024, B01002",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "median_home_value": {
+      "value": 338300.0,
+      "unit": "dollars",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B25077",
+        "url": "https://censusreporter.org/tables/B25077/?geo_ids=05000US06029",
+        "table": "Census ACS 5-year 2020-2024, B25077",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "climate_station": {
+      "value": "CHINA LAKE NAF, CA US",
+      "unit": "station",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093104",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "annual_precipitation": {
+      "value": 4.67,
+      "unit": "inches",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093104",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "annual_mean_temperature": {
+      "value": 65.3,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093104",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "july_average_high": {
+      "value": 104.6,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093104",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "january_average_low": {
+      "value": 30.8,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093104 (CHINA LAKE NAF, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093104&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093104",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "county_government_taxes": {
+      "value": 542112000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 061029189634 (KERN COUNTY)",
+        "retrieved": "2026-10-03"
+      },
+      "note": "Sum of tax item codes (T*)."
+    },
+    "county_government_property_tax": {
+      "value": 422822000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 061029189634 (KERN COUNTY)",
+        "retrieved": "2026-10-03"
+      },
+      "note": "Item T01."
+    },
+    "county_government_gross_receipts_and_sales_tax": {
+      "value": 66214000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 061029189634 (KERN COUNTY)",
+        "retrieved": "2026-10-03"
+      },
+      "note": "Item T09, general sales or gross receipts."
+    },
+    "county_government_spending": {
+      "value": 2610005000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 061029189634 (KERN COUNTY)",
+        "retrieved": "2026-10-03"
+      },
+      "note": "Direct expenditure (E, F, G, I, J) plus intergovernmental expenditure (M), per the Census classification manual."
+    },
+    "county_government_full_time_employees": {
+      "value": 10007,
+      "unit": "people",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 05101501500000 (Kern), item 000 (total)",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "county_government_part_time_employees": {
+      "value": 805,
+      "unit": "people",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 05101501500000 (Kern), item 000 (total)",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "county_government_march_payroll_full_time": {
+      "value": 66388840,
+      "unit": "dollars per month",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 05101501500000 (Kern), item 000 (total)",
+        "retrieved": "2026-10-03"
+      },
+      "note": "March, 31-day equivalent."
+    },
+    "land_area": {
+      "value": 8135,
+      "unit": "square miles",
+      "year": "2023",
+      "source": {
+        "title": "Census TIGERweb, State_County layer",
+        "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?where=GEOID%3D%2706029%27&outFields=NAME%2CAREALAND%2CAREAWATER&returnGeometry=true&outSR=4326&maxAllowableOffset=0.001&f=json",
+        "table": "Census TIGER/Line county AREALAND",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "land_share_by_manager_percent": {
+      "value": {
+        "BLM": 13.9,
+        "USFS": 7.3,
+        "DOD": 5.5,
+        "NGO": 3.9,
+        "SPR": 1.1,
+        "FWS": 1.0,
+        "SFW": 0.8
+      },
+      "unit": "percent of county area",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-03"
+      },
+      "note": "Manager codes as in PAD-US (TRIB tribal, BLM, USFS, NPS, DOD, SLB state land board, CITY, CNTY…). Remainder is private or unlisted."
+    },
+    "land_share_unlisted_percent": {
+      "value": 66.2,
+      "unit": "percent of county area",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-03"
+      },
+      "note": "Private land or land not in PAD-US."
+    },
+    "largest_land_units": {
+      "value": [
+        {
+          "name": "Ridgecrest Field Office",
+          "manager": "BLM",
+          "percent_of_county": 9.6
+        },
+        {
+          "name": "Sequoia National Forest",
+          "manager": "USFS",
+          "percent_of_county": 6.0
+        },
+        {
+          "name": "Bakersfield Field Office",
+          "manager": "BLM",
+          "percent_of_county": 4.2
+        },
+        {
+          "name": "Edwards Air Force Base",
+          "manager": "DOD",
+          "percent_of_county": 4.1
+        },
+        {
+          "name": "Wind Wolves Preserve",
+          "manager": "NGO",
+          "percent_of_county": 1.8
+        },
+        {
+          "name": "Los Padres National Forest",
+          "manager": "USFS",
+          "percent_of_county": 1.4
+        },
+        {
+          "name": "Naval Air Weapons Station China Lake",
+          "manager": "DOD",
+          "percent_of_county": 1.4
+        },
+        {
+          "name": "Frank And Joan Randall Preserve",
+          "manager": "NGO",
+          "percent_of_county": 1.3
+        },
+        {
+          "name": "Bitter Creek National Wildlife Refuge",
+          "manager": "FWS",
+          "percent_of_county": 0.6
+        },
+        {
+          "name": "Eastern Kern County Onyx Ranch State Vehicular Recreation Area",
+          "manager": "SPR",
+          "percent_of_county": 0.5
+        }
+      ],
+      "unit": "list",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "corridor_highest_elevation": {
+      "value": {
+        "feet": 5149,
+        "lat": 35.665959,
+        "lon": -118.032751
+      },
+      "unit": "feet",
+      "year": "current",
+      "source": {
+        "title": "USGS 3D Elevation Program, Elevation Point Query Service (sampled along the corridor about every 3 km)",
+        "url": "https://epqs.nationalmap.gov/v1/docs",
+        "table": "USGS 3DEP EPQS",
+        "retrieved": "2026-10-03"
+      }
+    },
+    "corridor_lowest_elevation": {
+      "value": {
+        "feet": 2098,
+        "lat": 35.29177,
+        "lon": -118.010734
+      },
+      "unit": "feet",
+      "year": "current",
+      "source": {
+        "title": "USGS 3D Elevation Program, Elevation Point Query Service (sampled along the corridor about every 3 km)",
+        "url": "https://epqs.nationalmap.gov/v1/docs",
+        "table": "USGS 3DEP EPQS",
+        "retrieved": "2026-10-03"
+      }
+    }
+  },
+  "missing": [
+    "annual_snowfall: no value in source"
+  ]
+}

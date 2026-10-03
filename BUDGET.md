@@ -14,11 +14,25 @@ says `STATUS: GO` and the phase they were given is marked open below.
 | Phase | Batch | Cap | Status | Actual |
 |---|---|---|---|---|
 | 1 | Calibration: McKinley County, county deck only | $15 | done: 25 checked cards (re-run in the local Xcode session) | $2 |
-| 2 | McKinley County: towns, sights, road stretches | $55 | not started | |
+| 2 | McKinley County: towns, sights, road stretches | $55 | paused for Ridgecrest | |
 | 3 | Cibola County: all levels | $55 | not started | |
 | 4 | Landscape decks along the corridor (shared statewide) | $40 | not started | |
 | 5 | New Mexico region deck | $35 | not started | |
 | — | Reserve for fixes and re-checks | $50 | held | |
+
+### Ridgecrest home drives (owner's real-drive test; see corridors/ridgecrest-home.json)
+
+Funded from the New Mexico phases 2–5 above, which are paused. One layer at a time; cost checked before the next opens.
+
+| Phase | Batch | Cap | Status | Actual |
+|---|---|---|---|---|
+| R1 | Kern County deck (county level, eastern Kern focus) | $10 | not started | |
+| R2 | San Bernardino and Los Angeles county decks | $10 | not started | |
+| R3 | Towns along the three drives | $25 | not started | |
+| R4 | Road stretches, both directions | $20 | not started | |
+| R5 | Sights | $40 | not started | |
+| R6 | Landscape units | $25 | not started | |
+| R7 | California and Mojave region deck | $20 | not started | |
 | | **Total** | **$250** | | **$2** |
 
 ## Rules
