@@ -1,0 +1,88 @@
+{
+  "id": "ca-town-red-mountain-osdick-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Red Mountain"
+  },
+  "title": "Born as Osdick",
+  "text": "Red Mountain was established in 1919 as Osdick, a silver mine boom town. It was named for a miner named Osdick who held claims there. The post office opened under the name Osdick in 1922 and was later renamed Red Mountain.",
+  "sentences": [
+    {
+      "text": "Red Mountain was established in 1919 as Osdick, a silver mine boom town.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It was named for a miner named Osdick who held claims there.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The post office opened under the name Osdick in 1922 and was later renamed Red Mountain.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Red Mountain, California",
+      "url": "https://en.wikipedia.org/wiki/Red_Mountain,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Red Mountain was established in 1919 as Osdick, a silver mine boom town. ... The post office opened under the name Osdick in 1922",
+      "revision": "1345134298"
+    },
+    "s2": {
+      "title": "Red Mountain, CA (Digital-Desert)",
+      "url": "https://digital-desert.com/red-mountain-ca",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "Originally known as Osdick, named after P.J. Osdick, the owner of several local claims."
+    },
+    "s3": {
+      "title": "California Rand silver mine (Digital-Desert)",
+      "url": "https://mojavedesert.net/desert-fever/california-rand.html",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "The post office came to Osdick on February 14, 1922. ... the post office at Osdick changed its name to Red Mountain."
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "mining"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "red mountain",
+    "osdick",
+    "silver boom town",
+    "post office"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.35833,
+    "lon": -117.61667,
+    "radiusMeters": 4000,
+    "name": "Red Mountain",
+    "source": "https://en.wikipedia.org/wiki/Red_Mountain%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

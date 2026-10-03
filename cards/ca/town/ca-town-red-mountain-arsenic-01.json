@@ -1,0 +1,79 @@
+{
+  "id": "ca-town-red-mountain-arsenic-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Red Mountain"
+  },
+  "title": "Water trucked in",
+  "text": "In Red Mountain, locals truck in water to avoid the arsenic that decades of mining left in the ground and in their tap water. Soil testing has found as much as 10,000 milligrams of arsenic per kilogram in some parts of the community. In 2022, Red Mountain received a 1.5 million dollar grant to clean arsenic-laden sediment left by historic gold and silver mining at the Kelly mine complex.",
+  "sentences": [
+    {
+      "text": "In Red Mountain, locals truck in water to avoid the arsenic that decades of mining left in the ground and in their tap water.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Soil testing has found as much as 10,000 milligrams of arsenic per kilogram in some parts of the community.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 2022, Red Mountain received a 1.5 million dollar grant to clean arsenic-laden sediment left by historic gold and silver mining at the Kelly mine complex.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Historic mining town plagued by arsenic gets federal funds for cleanup effort (November 28, 2022)",
+      "url": "https://www.watereducation.org/aquafornia-news/historic-mining-town-plagued-arsenic-gets-federal-funds-cleanup-effort",
+      "publisher": "Aquafornia (Whittier Daily News)",
+      "retrieved": "2026-10-03",
+      "quote": "truck in water to avoid the arsenic that decades of mining left in the ground and their tap water ... as much as 10,000 milligrams of arsenic per kilogram in some parts of Red Mountain"
+    },
+    "s2": {
+      "title": "Red Mountain, California",
+      "url": "https://en.wikipedia.org/wiki/Red_Mountain,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In 2022, the community received a $1.5 million grant to clean sediment of arsenic from historic gold and silver mining from the kelly mine complex.",
+      "revision": "1345134298"
+    }
+  },
+  "topics": [
+    "environment",
+    "mining",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2022",
+  "themeKeys": [
+    "red mountain",
+    "arsenic",
+    "kelly mine",
+    "cleanup"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.35833,
+    "lon": -117.61667,
+    "radiusMeters": 4000,
+    "name": "Red Mountain",
+    "source": "https://en.wikipedia.org/wiki/Red_Mountain%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

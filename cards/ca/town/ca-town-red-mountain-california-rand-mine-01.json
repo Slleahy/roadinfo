@@ -1,0 +1,84 @@
+{
+  "id": "ca-town-red-mountain-california-rand-mine-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Red Mountain"
+  },
+  "title": "The California Rand Silver Mine",
+  "text": "In June 1919, Williams and Nosser discovered the California Rand Silver Mine at Red Mountain. From June 1919 to August 1923, the mine produced over 7 million dollars. By 1926 its total gross production was over 13 million dollars, with dividends totaling 4.5 million. In 1929 the mine could not be operated profitably, and it was sold for 50,000 dollars.",
+  "sentences": [
+    {
+      "text": "In June 1919, Williams and Nosser discovered the California Rand Silver Mine at Red Mountain.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "From June 1919 to August 1923, the mine produced over 7 million dollars.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "By 1926 its total gross production was over 13 million dollars, with dividends totaling 4.5 million.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1929 the mine could not be operated profitably, and it was sold for 50,000 dollars.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Rand Mining District (California Historical Landmark 938)",
+      "url": "https://ohp.parks.ca.gov/ListedResources/Detail/938",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-03",
+      "quote": "In June 1919, Williams and Nosser discovered the famous California Rand Silver Mine at Red Mountain."
+    },
+    "s2": {
+      "title": "California Rand silver mine (Digital-Desert)",
+      "url": "https://mojavedesert.net/desert-fever/california-rand.html",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "The production of the California Rand Silver Mine from June I, 1919, to August 1, 1923, was over $7,000,000. ... By 1926 the mine had a total gross production of over $13,000,000 with dividends totaling $4,500,000. ... In 1929 the mine could not be operated profitably, and it was sold to Henry W. Klipstein for $50,000"
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "silver"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1926",
+  "themeKeys": [
+    "california rand silver mine",
+    "horn silver",
+    "red mountain",
+    "kelly mine"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.35833,
+    "lon": -117.61667,
+    "radiusMeters": 4000,
+    "name": "Red Mountain",
+    "source": "https://en.wikipedia.org/wiki/Red_Mountain%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

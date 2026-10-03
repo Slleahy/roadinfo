@@ -1,0 +1,79 @@
+{
+  "id": "ca-town-red-mountain-what-is-left-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Red Mountain"
+  },
+  "title": "What the silver left behind",
+  "text": "When the silver market took a nosedive, Red Mountain's good fortune went with it, and people drifted away. Old headframes and dusty relics can still be seen along the road. The 2010 census counted 131 people in Red Mountain.",
+  "sentences": [
+    {
+      "text": "When the silver market took a nosedive, Red Mountain's good fortune went with it, and people drifted away.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Old headframes and dusty relics can still be seen along the road.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The 2010 census counted 131 people in Red Mountain.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Red Mountain, CA (Digital-Desert)",
+      "url": "https://digital-desert.com/red-mountain-ca",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "The silver market took a nosedive, and with it went the town's good fortune. Mine slowed, people drifted away ... Old headframes and dusty relics can still be seen along the road."
+    },
+    "s2": {
+      "title": "Red Mountain, California",
+      "url": "https://en.wikipedia.org/wiki/Red_Mountain,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Population (2010): 131",
+      "revision": "1345134298"
+    }
+  },
+  "topics": [
+    "history",
+    "mining",
+    "people"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2010",
+  "themeKeys": [
+    "red mountain",
+    "ghost town",
+    "headframes",
+    "population"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.35833,
+    "lon": -117.61667,
+    "radiusMeters": 4000,
+    "name": "Red Mountain",
+    "source": "https://en.wikipedia.org/wiki/Red_Mountain%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
