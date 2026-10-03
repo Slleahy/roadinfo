@@ -1,0 +1,211 @@
+{
+  "id": "ca-stretch-us395-ridgecrest-johannesburg-garlock-fault-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "us395-ridgecrest-johannesburg",
+    "path": [
+      [
+        -117.67083,
+        35.622488
+      ],
+      [
+        -117.67019,
+        35.61386
+      ],
+      [
+        -117.67275,
+        35.60534
+      ],
+      [
+        -117.68186,
+        35.59948
+      ],
+      [
+        -117.6907,
+        35.59365
+      ],
+      [
+        -117.70044,
+        35.58737
+      ],
+      [
+        -117.70923,
+        35.58161
+      ],
+      [
+        -117.71336,
+        35.5736
+      ],
+      [
+        -117.71375,
+        35.56209
+      ],
+      [
+        -117.71346,
+        35.55183
+      ],
+      [
+        -117.69882,
+        35.54631
+      ],
+      [
+        -117.68891,
+        35.54239
+      ],
+      [
+        -117.68281,
+        35.53402
+      ],
+      [
+        -117.6767,
+        35.52556
+      ],
+      [
+        -117.67095,
+        35.51519
+      ],
+      [
+        -117.66659,
+        35.50577
+      ],
+      [
+        -117.65588,
+        35.48262
+      ],
+      [
+        -117.65393,
+        35.47339
+      ],
+      [
+        -117.65511,
+        35.46359
+      ],
+      [
+        -117.65423,
+        35.45444
+      ],
+      [
+        -117.6664,
+        35.4407
+      ],
+      [
+        -117.67188,
+        35.43199
+      ],
+      [
+        -117.67197,
+        35.42273
+      ],
+      [
+        -117.66703,
+        35.41453
+      ],
+      [
+        -117.66196,
+        35.40636
+      ],
+      [
+        -117.65696,
+        35.39828
+      ],
+      [
+        -117.65273,
+        35.38779
+      ],
+      [
+        -117.64747,
+        35.38019
+      ],
+      [
+        -117.63917,
+        35.37433
+      ],
+      [
+        -117.63476,
+        35.37271
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "The Garlock Fault",
+  "text": "Johannesburg is one of the communities closest to the Garlock Fault, which is about 250 kilometers, or 160 miles, long. The two sides of the fault slide past each other horizontally, in what geologists call left-lateral motion. The last significant surface ruptures are thought to have come about 1050 A.D. near Tehachapi and about 1500 A.D. near Johannesburg. No earthquake has produced surface rupture on the Garlock Fault in historic times, though a magnitude 5.7 earthquake occurred in 1992. The fault is named for the mining town of Garlock, founded in 1894 by Eugene Garlock and now a ghost town.",
+  "sentences": [
+    {
+      "text": "Johannesburg is one of the communities closest to the Garlock Fault, which is about 250 kilometers, or 160 miles, long.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The two sides of the fault slide past each other horizontally, in what geologists call left-lateral motion.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The last significant surface ruptures are thought to have come about 1050 A.D. near Tehachapi and about 1500 A.D. near Johannesburg.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "No earthquake has produced surface rupture on the Garlock Fault in historic times, though a magnitude 5.7 earthquake occurred in 1992.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The fault is named for the mining town of Garlock, founded in 1894 by Eugene Garlock and now a ghost town.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Garlock Fault (Southern California Earthquake Data Center)",
+      "url": "https://scedc.caltech.edu/earthquake/garlock.html",
+      "publisher": "Southern California Earthquake Data Center",
+      "retrieved": "2026-10-03",
+      "quote": "LENGTH: 250 km ... left-lateral strike-slip ... Frazier Park, Tehachapi, Mojave, Johannesburg ... 1050 A.D. (?) near Tehachapi; 1500 A.D. (?) near Johannesburg (Searles Valley) ... no earthquake has produced surface rupture on the Garlock fault in historic times ... a magnitude 5.7"
+    },
+    "s2": {
+      "title": "Garlock Fault",
+      "url": "https://en.wikipedia.org/wiki/Garlock_Fault",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "250 kilometers (160 mi) ... Frazier Park, Tehachapi, Mojave, and Johannesburg ... 1050 AD and 1500 AD ... named after the historic mining town of Garlock, founded in 1894 by Eugene Garlock",
+      "revision": "1377503213"
+    }
+  },
+  "topics": [
+    "geology",
+    "earthquakes",
+    "faults"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "garlock fault",
+    "left-lateral fault",
+    "el paso fault",
+    "johannesburg"
+  ],
+  "followOn": [
+    "ca-stretch-ca14-red-rock-canyon-cantil-jawbone-siphon-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
