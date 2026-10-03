@@ -1,0 +1,72 @@
+{
+  "id": "ca-town-lancaster-name-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lancaster"
+  },
+  "title": "Where the name Lancaster came from",
+  "text": "Nobody is sure where Lancaster got its name. It has been attributed to the surname of a railroad station clerk, to a nickname given by railroad officials, or to Lancaster, Pennsylvania, the former home of unknown settlers. The settlement began with the Southern Pacific Railroad, which completed its line through the Antelope Valley in 1876, linking San Francisco and Los Angeles.",
+  "sentences": [
+    {
+      "text": "Nobody is sure where Lancaster got its name.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It has been attributed to the surname of a railroad station clerk, to a nickname given by railroad officials, or to Lancaster, Pennsylvania, the former home of unknown settlers.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The settlement began with the Southern Pacific Railroad, which completed its line through the Antelope Valley in 1876, linking San Francisco and Los Angeles.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lancaster, California",
+      "url": "https://en.wikipedia.org/wiki/Lancaster,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The origin of Lancaster's name is unclear, attributed variously to the surname of a railroad station clerk, the moniker given by railroad officials, or the former Pennsylvania home (Lancaster, Pennsylvania) of unknown settlers. ... Lancaster's origins as a settlement start with the Southern Pacific Railroad ... In 1876 the Southern Pacific completed the line through the Antelope Valley, linking San Francisco and Los Angeles.",
+      "revision": "1376596722"
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "railroads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "lancaster name",
+    "southern pacific",
+    "antelope valley",
+    "1876"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.68333,
+    "lon": -118.15,
+    "radiusMeters": 15000,
+    "name": "Lancaster",
+    "source": "https://en.wikipedia.org/wiki/Lancaster%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

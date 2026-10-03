@@ -1,0 +1,79 @@
+{
+  "id": "ca-town-lancaster-solar-mandate-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lancaster"
+  },
+  "title": "The first city to require solar roofs",
+  "text": "In March 2013, the Lancaster city council voted unanimously to require solar panels on new homes, making it the first city in the United States to do so. The rule took effect on January 1, 2014. Homes on lots of 7,000 square feet or more must have a solar system of 1.0 to 1.5 kilowatts.",
+  "sentences": [
+    {
+      "text": "In March 2013, the Lancaster city council voted unanimously to require solar panels on new homes, making it the first city in the United States to do so.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "The rule took effect on January 1, 2014.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Homes on lots of 7,000 square feet or more must have a solar system of 1.0 to 1.5 kilowatts.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s2": {
+      "title": "Lancaster Embarks on Ambitious Green Building Goals",
+      "url": "https://greenbuildingnews.com/2013/04/10/lancaster-embarks-on-ambitious-green-building-goals/",
+      "publisher": "Green Building News",
+      "retrieved": "2026-10-03",
+      "quote": "the first U.S. city to do so ... In March, the Lancaster City Council voted unanimously to change the city's zoning code ... The ordinance will take effect Jan. 1, 2014. ... Homes on lots of 7,000 square feet or more must have a solar system of 1.0 kilowatts to 1.5 kilowatts"
+    },
+    "s3": {
+      "title": "Conservative desert town on the cusp of emerging solar trend",
+      "url": "https://www.eenews.net/articles/conservative-desert-town-on-the-cusp-of-emerging-solar-trend/",
+      "publisher": "E&E News",
+      "retrieved": "2026-10-03",
+      "quote": "At the time Lancaster passed the mandate, it was the first of its kind in the nation."
+    }
+  },
+  "topics": [
+    "energy",
+    "government",
+    "firsts"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2013",
+  "themeKeys": [
+    "solar mandate",
+    "net zero",
+    "lancaster solar",
+    "rex parris"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.68333,
+    "lon": -118.15,
+    "radiusMeters": 15000,
+    "name": "Lancaster",
+    "source": "https://en.wikipedia.org/wiki/Lancaster%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "ca-town-lancaster-population-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lancaster"
+  },
+  "title": "How many people live in Lancaster",
+  "text": "Lancaster had 173,516 people at the 2020 census. It lies in the Antelope Valley of the western Mojave Desert, about 70 miles north of downtown Los Angeles.",
+  "sentences": [
+    {
+      "text": "Lancaster had 173,516 people at the 2020 census.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It lies in the Antelope Valley of the western Mojave Desert, about 70 miles north of downtown Los Angeles.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lancaster, California",
+      "url": "https://en.wikipedia.org/wiki/Lancaster,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "As of the 2020 census, the population was 173,516 ... Lancaster ... in the Antelope Valley of the western Mojave Desert in Southern California ... approximately 70 miles (110 km) north (via I-5 and SR 14) of downtown Los Angeles",
+      "revision": "1376596722"
+    }
+  },
+  "topics": [
+    "people",
+    "population"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 2,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "lancaster population",
+    "antelope valley"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 34.68333,
+    "lon": -118.15,
+    "radiusMeters": 15000,
+    "name": "Lancaster",
+    "source": "https://en.wikipedia.org/wiki/Lancaster%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ca-town-lancaster-the-blvd-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lancaster"
+  },
+  "title": "Rebuilding the main street in eight months",
+  "text": "Lancaster rebuilt a stretch of its main street, Lancaster Boulevard, as The BLVD, finished in 2010. Construction took eight months and cost 11.5 million dollars. A 30-foot-wide shaded central walkway, called a ramblas, was inspired by a thoroughfare in Barcelona. The project created more than 800 permanent jobs, along with 1,100 temporary construction jobs.",
+  "sentences": [
+    {
+      "text": "Lancaster rebuilt a stretch of its main street, Lancaster Boulevard, as The BLVD, finished in 2010.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Construction took eight months and cost 11.5 million dollars.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "A 30-foot-wide shaded central walkway, called a ramblas, was inspired by a thoroughfare in Barcelona.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The project created more than 800 permanent jobs, along with 1,100 temporary construction jobs.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lancaster, California",
+      "url": "https://en.wikipedia.org/wiki/Lancaster,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "In 2010, the city opened The BLVD, a one-mile revitalized stretch of Lancaster Boulevard between 10th Street West and Sierra Highway.",
+      "revision": "1376596722"
+    },
+    "s2": {
+      "title": "Lancaster BLVD",
+      "url": "https://www.cnu.org/node/9125",
+      "publisher": "Congress for the New Urbanism",
+      "retrieved": "2026-10-03",
+      "quote": "The rapid construction schedule—eight months—and the relatively low price tag of $11.5 million ... A 30-foot-wide shaded central 'ramblas' was added ... inspired by Barcelona's famous thoroughfare ... More than 800 permanent jobs ... 1,100 temporary construction jobs"
+    }
+  },
+  "topics": [
+    "city",
+    "urban design",
+    "economy"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2010",
+  "themeKeys": [
+    "the blvd",
+    "lancaster boulevard",
+    "main street",
+    "ramblas"
+  ],
+  "followOn": [
+    "ca-town-lancaster-walk-of-honor-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 34.68333,
+    "lon": -118.15,
+    "radiusMeters": 15000,
+    "name": "Lancaster",
+    "source": "https://en.wikipedia.org/wiki/Lancaster%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

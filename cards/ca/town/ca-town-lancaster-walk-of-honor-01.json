@@ -1,0 +1,89 @@
+{
+  "id": "ca-town-lancaster-walk-of-honor-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lancaster"
+  },
+  "title": "The Aerospace Walk of Honor",
+  "text": "Lancaster's Aerospace Walk of Honor was established in 1990 to honor test pilots who flew at Edwards Air Force Base. Its first honorees in 1990 included Chuck Yeager and James H. Doolittle, and Neil Armstrong followed in 1991. The program was completed in 2009, when the 100th honoree was inducted. Sidewalk monuments along Lancaster Boulevard still honor the pilots.",
+  "sentences": [
+    {
+      "text": "Lancaster's Aerospace Walk of Honor was established in 1990 to honor test pilots who flew at Edwards Air Force Base.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Its first honorees in 1990 included Chuck Yeager and James H. Doolittle, and Neil Armstrong followed in 1991.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The program was completed in 2009, when the 100th honoree was inducted.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Sidewalk monuments along Lancaster Boulevard still honor the pilots.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Aerospace Walk of Honor",
+      "url": "https://en.wikipedia.org/wiki/Aerospace_Walk_of_Honor",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "established in 1990 by the City of Lancaster ... Neil Armstrong (1991) ... Chuck Yeager (1990) ... James H. Doolittle (1990) ... The Walk of Honor program officially concluded in August 2009.",
+      "revision": "1359887415"
+    },
+    "s2": {
+      "title": "Aerospace Walk of Honor",
+      "url": "https://lancastermoah.org/walk-of-honor",
+      "publisher": "Lancaster Museum of Art and History",
+      "retrieved": "2026-10-03",
+      "quote": "established by the Lancaster City Council in 1990 ... flew at Edwards Air Force Base ... completed in 2009 when the 100th honoree was inducted ... Sidewalk monuments along West Lancaster Boulevard continue to honor"
+    }
+  },
+  "topics": [
+    "aerospace",
+    "history",
+    "people"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "aerospace walk of honor",
+    "test pilots",
+    "lancaster boulevard",
+    "yeager",
+    "armstrong"
+  ],
+  "followOn": [
+    "ca-kern-county-edwards-yeager-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 34.68333,
+    "lon": -118.15,
+    "radiusMeters": 15000,
+    "name": "Lancaster",
+    "source": "https://en.wikipedia.org/wiki/Lancaster%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

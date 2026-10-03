@@ -1,0 +1,74 @@
+{
+  "id": "ca-town-lancaster-poppy-bloom-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lancaster"
+  },
+  "title": "When the poppies bloom",
+  "text": "The California poppies at the Antelope Valley poppy reserve usually bloom from mid-February through mid-May. How well they bloom depends on how much rain falls in winter and early spring. State parks does not water or stimulate the flowers, to keep the fields in a strictly natural state.",
+  "sentences": [
+    {
+      "text": "The California poppies at the Antelope Valley poppy reserve usually bloom from mid-February through mid-May.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "How well they bloom depends on how much rain falls in winter and early spring.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "State parks does not water or stimulate the flowers, to keep the fields in a strictly natural state.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Antelope Valley California Poppy Reserve",
+      "url": "https://en.wikipedia.org/wiki/Antelope_Valley_California_Poppy_Reserve",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The intense blooming season for the California Poppy usually falls within late winter to early spring, during the months of mid-February through mid-May. ... Blooming seasons are dependent on the amount of rainfall during the winter to early spring seasons. ... In order to keep the fields in a strictly natural state, California State Parks does not water or stimulate the flowers.",
+      "revision": "1362693518"
+    }
+  },
+  "topics": [
+    "nature",
+    "wildflowers",
+    "parks"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "poppy reserve",
+    "poppy bloom",
+    "wildflowers",
+    "antelope valley"
+  ],
+  "followOn": [
+    "ca-town-lancaster-poppy-reserve-origin-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 34.68333,
+    "lon": -118.15,
+    "radiusMeters": 15000,
+    "name": "Lancaster",
+    "source": "https://en.wikipedia.org/wiki/Lancaster%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

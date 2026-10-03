@@ -1,0 +1,90 @@
+{
+  "id": "ca-town-lancaster-poppy-reserve-origin-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lancaster"
+  },
+  "title": "Pennies for Poppies",
+  "text": "The Antelope Valley California Poppy Reserve, west of Lancaster, grew out of the work of a self-taught artist named Jane S. Pinheiro, who recognized that rapid development threatened the poppy fields. Schoolchildren across California helped by collecting Pennies for Poppies. The reserve was established in 1976. It protects about 1,800 acres.",
+  "sentences": [
+    {
+      "text": "The Antelope Valley California Poppy Reserve, west of Lancaster, grew out of the work of a self-taught artist named Jane S. Pinheiro, who recognized that rapid development threatened the poppy fields.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Schoolchildren across California helped by collecting Pennies for Poppies.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The reserve was established in 1976.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It protects about 1,800 acres.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California State Parks Celebrates 50 Years of Protecting the Iconic Antelope Valley California Poppy Reserve (news release, May 1, 2026)",
+      "url": "https://www.parks.ca.gov/NewsRelease/1511",
+      "publisher": "California State Parks",
+      "retrieved": "2026-10-03",
+      "quote": "local resident Jane S. Pinheiro, a self-taught artist, recognized the threat posed by rapid development to local wildflower fields. ... Schoolchildren across California contributed by collecting 'Pennies for Poppies.' ... officially opened in 1976 ... 1,800-acre"
+    },
+    "s2": {
+      "title": "Antelope Valley California Poppy Reserve",
+      "url": "https://en.wikipedia.org/wiki/Antelope_Valley_California_Poppy_Reserve",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Established 1976 ... Area 1,781 acres ... The interpretive center at the park is named after Jane S. Pinheiro, a conservationist and community activist, who was instrumental in the creation of the poppy reserve. ... 15 miles (24 km) west of Lancaster.",
+      "revision": "1362693518"
+    }
+  },
+  "topics": [
+    "nature",
+    "history",
+    "parks"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2026",
+  "themeKeys": [
+    "poppy reserve",
+    "jane pinheiro",
+    "pennies for poppies",
+    "antelope valley"
+  ],
+  "followOn": [
+    "ca-town-lancaster-poppy-bloom-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 34.68333,
+    "lon": -118.15,
+    "radiusMeters": 15000,
+    "name": "Lancaster",
+    "source": "https://en.wikipedia.org/wiki/Lancaster%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
