@@ -1,0 +1,201 @@
+{
+  "id": "ca-stretch-ca178-walker-pass-onyx-canebrake-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca178-walker-pass-onyx",
+    "path": [
+      [
+        -118.026756,
+        35.663005
+      ],
+      [
+        -118.03523,
+        35.66824
+      ],
+      [
+        -118.04073,
+        35.66817
+      ],
+      [
+        -118.04409,
+        35.67668
+      ],
+      [
+        -118.04934,
+        35.68455
+      ],
+      [
+        -118.05526,
+        35.69303
+      ],
+      [
+        -118.06206,
+        35.70028
+      ],
+      [
+        -118.06887,
+        35.70757
+      ],
+      [
+        -118.07033,
+        35.71657
+      ],
+      [
+        -118.07679,
+        35.72479
+      ],
+      [
+        -118.07782,
+        35.73371
+      ],
+      [
+        -118.0816,
+        35.7412
+      ],
+      [
+        -118.08926,
+        35.7473
+      ],
+      [
+        -118.10035,
+        35.75062
+      ],
+      [
+        -118.11125,
+        35.74937
+      ],
+      [
+        -118.11888,
+        35.7426
+      ],
+      [
+        -118.12715,
+        35.73416
+      ],
+      [
+        -118.1384,
+        35.72843
+      ],
+      [
+        -118.1492,
+        35.72576
+      ],
+      [
+        -118.15984,
+        35.72818
+      ],
+      [
+        -118.1691,
+        35.72637
+      ],
+      [
+        -118.17203,
+        35.71706
+      ],
+      [
+        -118.17742,
+        35.70931
+      ],
+      [
+        -118.18328,
+        35.70167
+      ],
+      [
+        -118.19152,
+        35.69566
+      ],
+      [
+        -118.20282,
+        35.69546
+      ],
+      [
+        -118.21293,
+        35.69744
+      ],
+      [
+        -118.219,
+        35.69038
+      ],
+      [
+        -118.22068,
+        35.69028
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Canebrake Ecological Reserve",
+  "text": "Canebrake Ecological Reserve lies in the South Fork Valley, on the north side of Highway 178. Before the state acquired it in 1994, the property was a ranch established around 1872. Its habitat types include valley foothill riparian, blue oak and digger pine, and Joshua tree. Hundreds of bird species occur there, and the cottonwood-willow forest shelters the endangered southwestern willow flycatcher and the state-listed western yellow-billed cuckoo.",
+  "sentences": [
+    {
+      "text": "Canebrake Ecological Reserve lies in the South Fork Valley, on the north side of Highway 178.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Before the state acquired it in 1994, the property was a ranch established around 1872.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Its habitat types include valley foothill riparian, blue oak and digger pine, and Joshua tree.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Hundreds of bird species occur there, and the cottonwood-willow forest shelters the endangered southwestern willow flycatcher and the state-listed western yellow-billed cuckoo.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Canebrake Ecological Reserve",
+      "url": "https://wildlife.ca.gov/Lands/Places-to-Visit/Canebrake-ER",
+      "publisher": "California Department of Fish and Wildlife",
+      "retrieved": "2026-10-03",
+      "quote": "Reserve is 10 miles east of Lake Isabella on the north side of Highway 178. ... Habitat types include valley foothill riparian, valley foothill hardwood-conifer/blue oak-digger pine, sagebrush, Joshua tree ... Hundreds of bird species occur on the property ... the property was one of the first ranches in the valley, established around 1872. The Department acquired the property in 1994"
+    },
+    "s2": {
+      "title": "Canebrake Ecological Reserve",
+      "url": "https://en.wikipedia.org/wiki/Canebrake_Ecological_Reserve",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "the South Fork Valley of Kern County ... cottonwood-willow forest with several willow species ... federally listed endangered ... state listed endangered",
+      "revision": "1372683499"
+    }
+  },
+  "topics": [
+    "nature",
+    "conservation",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "canebrake ecological reserve",
+    "south fork valley",
+    "willow flycatcher",
+    "ranch history"
+  ],
+  "followOn": [
+    "ca-kern-county-kern-river-preserve-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

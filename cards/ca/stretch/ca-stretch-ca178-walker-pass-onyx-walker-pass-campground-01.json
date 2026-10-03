@@ -1,0 +1,185 @@
+{
+  "id": "ca-stretch-ca178-walker-pass-onyx-walker-pass-campground-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca178-walker-pass-onyx",
+    "path": [
+      [
+        -118.026756,
+        35.663005
+      ],
+      [
+        -118.03523,
+        35.66824
+      ],
+      [
+        -118.04073,
+        35.66817
+      ],
+      [
+        -118.04409,
+        35.67668
+      ],
+      [
+        -118.04934,
+        35.68455
+      ],
+      [
+        -118.05526,
+        35.69303
+      ],
+      [
+        -118.06206,
+        35.70028
+      ],
+      [
+        -118.06887,
+        35.70757
+      ],
+      [
+        -118.07033,
+        35.71657
+      ],
+      [
+        -118.07679,
+        35.72479
+      ],
+      [
+        -118.07782,
+        35.73371
+      ],
+      [
+        -118.0816,
+        35.7412
+      ],
+      [
+        -118.08926,
+        35.7473
+      ],
+      [
+        -118.10035,
+        35.75062
+      ],
+      [
+        -118.11125,
+        35.74937
+      ],
+      [
+        -118.11888,
+        35.7426
+      ],
+      [
+        -118.12715,
+        35.73416
+      ],
+      [
+        -118.1384,
+        35.72843
+      ],
+      [
+        -118.1492,
+        35.72576
+      ],
+      [
+        -118.15984,
+        35.72818
+      ],
+      [
+        -118.1691,
+        35.72637
+      ],
+      [
+        -118.17203,
+        35.71706
+      ],
+      [
+        -118.17742,
+        35.70931
+      ],
+      [
+        -118.18328,
+        35.70167
+      ],
+      [
+        -118.19152,
+        35.69566
+      ],
+      [
+        -118.20282,
+        35.69546
+      ],
+      [
+        -118.21293,
+        35.69744
+      ],
+      [
+        -118.219,
+        35.69038
+      ],
+      [
+        -118.22068,
+        35.69028
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Where the Pacific Crest Trail meets the highway",
+  "text": "Walker Pass Campground sits just off Highway 178, at the junction of the Owens Peak and Cache Peak segments of the Pacific Crest National Scenic Trail. It has eleven walk-in sites for Pacific Crest Trail hikers and tent campers, plus two sites for car camping. Pinyon pines and a few Joshua trees grow there, but no drinking water is available at the site.",
+  "sentences": [
+    {
+      "text": "Walker Pass Campground sits just off Highway 178, at the junction of the Owens Peak and Cache Peak segments of the Pacific Crest National Scenic Trail.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It has eleven walk-in sites for Pacific Crest Trail hikers and tent campers, plus two sites for car camping.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Pinyon pines and a few Joshua trees grow there, but no drinking water is available at the site.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Walker Pass Campground",
+      "url": "https://blm.gov/visit/walker-pass-campground",
+      "publisher": "Bureau of Land Management",
+      "retrieved": "2026-10-03",
+      "quote": "located just off of California State Highway 178 and at the junction of the Owens Peak and Cache Peak segments of the Pacific Crest National Scenic Trail ... eleven walk in sites for Pacific Crest Trail hikers and tent campers ... two sites for car camping ... pinyon pines and a few Joshua trees in this semi-arid setting ... No potable water is available at this site."
+    }
+  },
+  "topics": [
+    "recreation",
+    "trails",
+    "pacific crest trail"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "walker pass campground",
+    "pacific crest trail",
+    "thru-hikers",
+    "walker pass"
+  ],
+  "followOn": [
+    "ca-kern-county-walker-pass-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
