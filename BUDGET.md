@@ -1,4 +1,4 @@
-STATUS: GO
+STATUS: HALT
 
 # Budget
 
@@ -13,7 +13,7 @@ says `STATUS: GO` and the phase they were given is marked open below.
 
 | Phase | Batch | Cap | Status | Actual |
 |---|---|---|---|---|
-| 1 | Calibration: McKinley County, county deck only | $15 | **open** | |
+| 1 | Calibration: McKinley County, county deck only | $15 | ran, 9 cards; under review | (cost pending) |
 | 2 | McKinley County: towns, sights, road stretches | $55 | not started | |
 | 3 | Cibola County: all levels | $55 | not started | |
 | 4 | Landscape decks along the corridor (shared statewide) | $40 | not started | |
