@@ -1,0 +1,72 @@
+{
+  "id": "ca-town-ridgecrest-four-ranges-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Ridgecrest"
+  },
+  "title": "A town ringed by four ranges",
+  "text": "Ridgecrest is surrounded by four mountain ranges: the Sierra Nevada to the west, the Coso Range to the north, the Argus Range to the east, and the El Paso Mountains to the south. It sits in the Indian Wells Valley, in northeastern Kern County, next to the Navy's China Lake base.",
+  "sentences": [
+    {
+      "text": "Ridgecrest is surrounded by four mountain ranges: the Sierra Nevada to the west, the Coso Range to the north, the Argus Range to the east, and the El Paso Mountains to the south.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It sits in the Indian Wells Valley, in northeastern Kern County, next to the Navy's China Lake base.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Ridgecrest, California",
+      "url": "https://en.wikipedia.org/wiki/Ridgecrest,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Ridgecrest is surrounded by four mountain ranges; the Sierra Nevada on the west, the Coso Range on the north, the Argus Range on the east, and the El Paso Mountains on the south.",
+      "revision": "1374799772"
+    },
+    "s2": {
+      "title": "Ridgecrest, CA (Digital-Desert)",
+      "url": "https://digital-desert.com/ridgecrest/",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "Ridgecrest is surrounded by four mountain ranges; the Sierra Nevada on the west, the Cosos on the north, the Argus Range on the east, and the El Paso Mountains on the south. It is located in the Indian Wells Valley in northeastern Kern County, California adjacent to the Naval Air Weapons Station China Lake."
+    }
+  },
+  "topics": [
+    "geography",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "ridgecrest",
+    "indian wells valley",
+    "mountain ranges"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6225,
+    "lon": -117.67083,
+    "radiusMeters": 12000,
+    "name": "Ridgecrest",
+    "source": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

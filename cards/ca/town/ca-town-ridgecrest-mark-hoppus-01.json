@@ -1,0 +1,79 @@
+{
+  "id": "ca-town-ridgecrest-mark-hoppus-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Ridgecrest"
+  },
+  "title": "A Blink-182 founder from Ridgecrest",
+  "text": "Mark Hoppus, bassist and singer of the rock band Blink-182, was born in Ridgecrest on March 15, 1972. He left in the summer of 1992 for San Diego, to attend college and work at a local music store. That August, he and Tom DeLonge were introduced and began playing music in DeLonge's garage.",
+  "sentences": [
+    {
+      "text": "Mark Hoppus, bassist and singer of the rock band Blink-182, was born in Ridgecrest on March 15, 1972.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "He left in the summer of 1992 for San Diego, to attend college and work at a local music store.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "That August, he and Tom DeLonge were introduced and began playing music in DeLonge's garage.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Ridgecrest, California",
+      "url": "https://en.wikipedia.org/wiki/Ridgecrest,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Mark Hoppus, co-lead singer and bassist of the rock band Blink-182",
+      "revision": "1374799772"
+    },
+    "s2": {
+      "title": "Mark Hoppus",
+      "url": "https://en.wikipedia.org/wiki/Mark_Hoppus",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Mark Allan Hoppus (born March 15, 1972) ... Ridgecrest, California. ... Hoppus left Ridgecrest in summer 1992 to attend college and get a job at a local music store in San Diego. ... In August 1992, Anne introduced the two, and Hoppus and DeLonge immediately began performing music in DeLonge's garage.",
+      "revision": "1376470998"
+    }
+  },
+  "topics": [
+    "people",
+    "music"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "mark hoppus",
+    "blink-182",
+    "ridgecrest native"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6225,
+    "lon": -117.67083,
+    "radiusMeters": 12000,
+    "name": "Ridgecrest",
+    "source": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

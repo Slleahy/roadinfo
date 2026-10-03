@@ -1,0 +1,94 @@
+{
+  "id": "ca-town-ridgecrest-naming-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Ridgecrest"
+  },
+  "title": "Crumville, and a one-vote name",
+  "text": "Ridgecrest began in 1912 as a farming community called Crumville, named for two local dairymen, James and Robert Crum. In 1941, the community wanted a new name, but postal authorities rejected its first choice, Sierra View, because there were already too many Sierras. Ada Thompson suggested Ridgecrest, and it won by a single vote over the name Gilmore. The first post office opened that same year.",
+  "sentences": [
+    {
+      "text": "Ridgecrest began in 1912 as a farming community called Crumville, named for two local dairymen, James and Robert Crum.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1941, the community wanted a new name, but postal authorities rejected its first choice, Sierra View, because there were already too many Sierras.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Ada Thompson suggested Ridgecrest, and it won by a single vote over the name Gilmore.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "The first post office opened that same year.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Ridgecrest, California",
+      "url": "https://en.wikipedia.org/wiki/Ridgecrest,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "began as a farming community called Crumville in 1912, honoring James and Robert Crum, local dairymen. The first post office opened in 1941.",
+      "revision": "1374799772"
+    },
+    "s2": {
+      "title": "Ridgecrest history (Ridgecrest Guide)",
+      "url": "https://ridgecrestguide.com/blogs/history",
+      "publisher": "Ridgecrest Guide",
+      "retrieved": "2026-10-03",
+      "quote": "Named after the Crum brothers, Robert and James, who set up a dairy here, Crumville was the embryo of what would become Ridgecrest. ... The folks initially wanted 'Sierra View,' but the postal authorities rejected this due to there being too many 'Sierra' locations ... 'Ridgecrest' was born, thanks to Ada Thompson's winning suggestion which one by a single vote over the name 'Gilmore'."
+    },
+    "s3": {
+      "title": "Ridgecrest, CA (Digital-Desert)",
+      "url": "https://digital-desert.com/ridgecrest-ca/",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "It was in 1941 that Ridgecrest received its official name by a community vote. The community originally wanted to be named 'Sierra View,' but it was overturned by the postal authorities because there were too many 'Sierras' in California. ... Ada Thompson suggested the name Ridgecrest, which won by a single vote over the name 'Gilmore.'"
+    }
+  },
+  "topics": [
+    "history",
+    "names"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "crumville",
+    "ridgecrest name",
+    "ada thompson",
+    "1941"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6225,
+    "lon": -117.67083,
+    "radiusMeters": 12000,
+    "name": "Ridgecrest",
+    "source": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

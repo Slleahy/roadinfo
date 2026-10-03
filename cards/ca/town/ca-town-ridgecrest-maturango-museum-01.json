@@ -1,0 +1,70 @@
+{
+  "id": "ca-town-ridgecrest-maturango-museum-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Ridgecrest"
+  },
+  "title": "The Maturango Museum",
+  "text": "The Maturango Museum in Ridgecrest was founded in 1962 to highlight the history of Ridgecrest and nearby China Lake. It is best known for guided tours of the Coso Rock Art District on the China Lake base, but because of restrictions from the base command, those tours were not available to the public when last reported. The museum is also an archaeological repository for qualified individuals, taking in artifacts from the Sierra Nevada to Death Valley.",
+  "sentences": [
+    {
+      "text": "The Maturango Museum in Ridgecrest was founded in 1962 to highlight the history of Ridgecrest and nearby China Lake.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is best known for guided tours of the Coso Rock Art District on the China Lake base, but because of restrictions from the base command, those tours were not available to the public when last reported.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The museum is also an archaeological repository for qualified individuals, taking in artifacts from the Sierra Nevada to Death Valley.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Maturango Museum",
+      "url": "https://en.wikipedia.org/wiki/Maturango_Museum",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "This small museum was founded in 1962 and originally designed to highlight the history of Ridgecrest and nearby China Lake. ... best known for the guided tours of the Coso Rock Art District located on China Lake Naval Weapons Station, although due to restrictions from the base command, the petroglyphs are currently not available for public tours at this time. ... also an archeological repository for qualified individuals ... accepts and stores historic and prehistoric artifacts from the Upper Mojave Desert region ... on the east by Death Valley",
+      "revision": "1363490320"
+    }
+  },
+  "topics": [
+    "culture",
+    "museums",
+    "archaeology"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "maturango museum",
+    "coso rock art"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6225,
+    "lon": -117.67083,
+    "radiusMeters": 12000,
+    "name": "Ridgecrest",
+    "source": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

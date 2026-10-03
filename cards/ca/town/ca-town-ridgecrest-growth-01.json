@@ -1,0 +1,85 @@
+{
+  "id": "ca-town-ridgecrest-growth-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Ridgecrest"
+  },
+  "title": "From dairy settlement to city",
+  "text": "Ridgecrest grew to more than 5,000 people by the 1950s, after the Naval Ordnance Test Station was set up at Harvey Field in 1943. It incorporated as a city in 1963. The 2020 census counted 27,959 people.",
+  "sentences": [
+    {
+      "text": "Ridgecrest grew to more than 5,000 people by the 1950s, after the Naval Ordnance Test Station was set up at Harvey Field in 1943.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It incorporated as a city in 1963.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "The 2020 census counted 27,959 people.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Ridgecrest, California",
+      "url": "https://en.wikipedia.org/wiki/Ridgecrest,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "It was incorporated as a city in 1963. The population was 27,959 at the 2020 census",
+      "revision": "1374799772"
+    },
+    "s2": {
+      "title": "Ridgecrest history (Ridgecrest Guide)",
+      "url": "https://ridgecrestguide.com/blogs/history",
+      "publisher": "Ridgecrest Guide",
+      "retrieved": "2026-10-03",
+      "quote": "The real game-changer came in 1943 with the establishment of the Naval Ordnance Test Station (NOTS) at Harvey Field. ... By the 1950s, Ridgecrest's population had exploded to over 5,000."
+    },
+    "s3": {
+      "title": "Ridgecrest, CA (Digital-Desert)",
+      "url": "https://digital-desert.com/ridgecrest/",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "Ridgecrest, formerly known as Crumville, was incorporated as a city in 1963."
+    }
+  },
+  "topics": [
+    "history",
+    "population"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "ridgecrest population",
+    "incorporation",
+    "navy boom"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6225,
+    "lon": -117.67083,
+    "radiusMeters": 12000,
+    "name": "Ridgecrest",
+    "source": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

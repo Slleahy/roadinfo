@@ -1,0 +1,64 @@
+{
+  "id": "ca-town-ridgecrest-holes-film-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Ridgecrest"
+  },
+  "title": "Holes in the desert",
+  "text": "The 2003 film Holes was shot in several locations, including Ridgecrest. Because of the constant heat, the cast was allowed to stay in the holes for only about five minutes at a time, and would be pulled out even in the middle of a take.",
+  "sentences": [
+    {
+      "text": "The 2003 film Holes was shot in several locations, including Ridgecrest.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Because of the constant heat, the cast was allowed to stay in the holes for only about five minutes at a time, and would be pulled out even in the middle of a take.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Holes (film)",
+      "url": "https://en.wikipedia.org/wiki/Holes_(film)",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The film was shot in several locations, including Ridgecrest, California. ... Due to the constant heat, the cast was only allowed to remain in the holes for about five minutes at a time and would be pulled out, even while they were in the middle of a take. ... released in the United States on April 18, 2003.",
+      "revision": "1377473724"
+    }
+  },
+  "topics": [
+    "film",
+    "desert"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2003",
+  "themeKeys": [
+    "holes",
+    "film location",
+    "heat"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6225,
+    "lon": -117.67083,
+    "radiusMeters": 12000,
+    "name": "Ridgecrest",
+    "source": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

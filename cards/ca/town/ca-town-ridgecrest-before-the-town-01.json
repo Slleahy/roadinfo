@@ -1,0 +1,76 @@
+{
+  "id": "ca-town-ridgecrest-before-the-town-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Ridgecrest"
+  },
+  "title": "Before the town",
+  "text": "The Paiute, Shoshone, and Kawaiisu peoples all lived in the Indian Wells Valley long before Ridgecrest existed. Permanent non-Native communities did not form until the early 1900s, when the Los Angeles Aqueduct and the Southern Pacific Railroad helped spark farming settlements.",
+  "sentences": [
+    {
+      "text": "The Paiute, Shoshone, and Kawaiisu peoples all lived in the Indian Wells Valley long before Ridgecrest existed.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Permanent non-Native communities did not form until the early 1900s, when the Los Angeles Aqueduct and the Southern Pacific Railroad helped spark farming settlements.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Ridgecrest, California",
+      "url": "https://en.wikipedia.org/wiki/Ridgecrest,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Native American tribes of the Paiute, Shoshone, and Kawaiisu thrived in the Indian Wells Valley.",
+      "revision": "1374799772"
+    },
+    "s2": {
+      "title": "Ridgecrest history (Ridgecrest Guide)",
+      "url": "https://ridgecrestguide.com/blogs/history",
+      "publisher": "Ridgecrest Guide",
+      "retrieved": "2026-10-03",
+      "quote": "The Paiute, known for their intricate basketry, and the Shoshone, with their detailed petroglyphs, left behind a rich cultural legacy ... permanent non-Native communities didn't truly form until the early 1900s, when the Los Angeles Aqueduct (built 1908–1913) and the arrival of the Southern Pacific Railroad helped spark the creation of lasting farming settlements"
+    }
+  },
+  "topics": [
+    "history",
+    "tribal lands"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "indian wells valley",
+    "paiute",
+    "shoshone",
+    "kawaiisu",
+    "settlement"
+  ],
+  "followOn": [
+    "ca-kern-county-kawaiisu-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.6225,
+    "lon": -117.67083,
+    "radiusMeters": 12000,
+    "name": "Ridgecrest",
+    "source": "https://en.wikipedia.org/wiki/Ridgecrest%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
