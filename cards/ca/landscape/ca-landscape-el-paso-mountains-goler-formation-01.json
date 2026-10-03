@@ -1,0 +1,85 @@
+{
+  "id": "ca-landscape-el-paso-mountains-goler-formation-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "El Paso Mountains"
+  },
+  "title": "Sediments from an ancient sea",
+  "text": "The Goler Formation is the oldest of the Cenozoic rock units in the El Paso Mountains, laid down between about 55 and 65 million years ago. A basin subsided here during the Paleocene and Eocene, and the formation holds as much as 13,050 feet of continental sediments in places. Near the top of the formation is fossiliferous mudstone, laid down when the sea reached this basin in a marine incursion. The formation was later tilted northward and eroded nearly flat before the Miocene.",
+  "sentences": [
+    {
+      "text": "The Goler Formation is the oldest of the Cenozoic rock units in the El Paso Mountains, laid down between about 55 and 65 million years ago.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "A basin subsided here during the Paleocene and Eocene, and the formation holds as much as 13,050 feet of continental sediments in places.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Near the top of the formation is fossiliferous mudstone, laid down when the sea reached this basin in a marine incursion.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The formation was later tilted northward and eroded nearly flat before the Miocene.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Red Rock Canyon State Park (Geological Gems of California State Parks, GeoGem Note 38)",
+      "url": "https://www.parks.ca.gov/pages/734/files/GeoGem%20Note%2038%20Red%20Rock%20Canyon%20State%20Park.pdf",
+      "publisher": "California Geological Survey for California State Parks (Will Harris, 2010)",
+      "retrieved": "2026-10-03",
+      "quote": "The strata are divided into two major groups: the Goler Formation (55 to 65 million years old) and the overlying Ricardo Group (5 to 20 million years old)."
+    },
+    "s2": {
+      "title": "Geologic map of the El Paso Mountains Wilderness Study Area, Kern County, California (MF-1827)",
+      "url": "https://pubs.usgs.gov/mf/1986/1827/report.pdf",
+      "publisher": "U.S. Geological Survey (Cox and Diggles, 1986)",
+      "retrieved": "2026-10-03",
+      "quote": "The sedimentary basin of the Goler Formation, containing as much as 13,050 ft of continental sediments, subsided astride the structural zone during Paleocene and Eocene time. Pronounced tectonic subsidence of the basin ultimately resulted in a marine incursion and deposition of fossiliferous mudstone near the top of the formation. The Goler Formation was tilted northward and eroded to a nearly featureless plain before early Miocene time"
+    }
+  },
+  "topics": [
+    "geology",
+    "rocks",
+    "fossils"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "goler formation",
+    "marine incursion",
+    "paleocene",
+    "eocene"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.43774,
+    "lon": -117.8159,
+    "radiusMeters": 25000,
+    "name": "El Paso Mountains",
+    "source": "https://en.wikipedia.org/wiki/El_Paso_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

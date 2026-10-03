@@ -1,0 +1,79 @@
+{
+  "id": "ca-landscape-el-paso-mountains-fault-block-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "El Paso Mountains"
+  },
+  "title": "A mountain range on a fault block",
+  "text": "The El Paso Mountains are a typical fault block, pushed upward by strain just north of the Garlock Fault. The El Paso Fault, a branch of the Garlock, formed in response to the tearing caused by the Garlock Fault, and it trends northeast. The present topography began to form about 18 million years ago, when movement started on the Garlock Fault and its splays. Most of the uplifted rock has since been eroded away, leaving tilted layers with younger rock atop older rock in the canyon walls.",
+  "sentences": [
+    {
+      "text": "The El Paso Mountains are a typical fault block, pushed upward by strain just north of the Garlock Fault.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The El Paso Fault, a branch of the Garlock, formed in response to the tearing caused by the Garlock Fault, and it trends northeast.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The present topography began to form about 18 million years ago, when movement started on the Garlock Fault and its splays.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Most of the uplifted rock has since been eroded away, leaving tilted layers with younger rock atop older rock in the canyon walls.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Red Rock Canyon State Park (Geological Gems of California State Parks, GeoGem Note 38)",
+      "url": "https://www.parks.ca.gov/pages/734/files/GeoGem%20Note%2038%20Red%20Rock%20Canyon%20State%20Park.pdf",
+      "publisher": "California Geological Survey for California State Parks (Will Harris, 2010)",
+      "retrieved": "2026-10-03",
+      "quote": "The El Paso Fault formed in response to the tearing caused by the Garlock Fault. Strain just north of the Garlock's trace pushed a block of terrain upward, causing the landscape to break along the northeasterly oriented El Paso Fault thus uplifting the El Paso Mountains—a typical 'fault block.' Most of the uplifted rock has since been eroded away. ... The present topography began to form about 18 million years ago as movement initiated on the Garlock Fault and its related splays like the El Paso Fault."
+    }
+  },
+  "topics": [
+    "geology",
+    "faults",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "el paso mountains",
+    "el paso fault",
+    "garlock fault",
+    "fault block"
+  ],
+  "followOn": [
+    "ca-stretch-us395-ridgecrest-johannesburg-garlock-fault-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.43774,
+    "lon": -117.8159,
+    "radiusMeters": 25000,
+    "name": "El Paso Mountains",
+    "source": "https://en.wikipedia.org/wiki/El_Paso_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

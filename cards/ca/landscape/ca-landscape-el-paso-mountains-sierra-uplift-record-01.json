@@ -1,0 +1,71 @@
+{
+  "id": "ca-landscape-el-paso-mountains-sierra-uplift-record-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "El Paso Mountains"
+  },
+  "title": "A record of the Sierra Nevada rising",
+  "text": "Granitic gravels in the upper Ricardo Formation of the El Paso Mountains were shed eastward from the southern Sierra Nevada, beginning about 8 million years ago. They match the age of the Kern River Formation on the west side of the Sierra Nevada. They point to uplift of the Sierra Nevada along its eastern frontal fault.",
+  "sentences": [
+    {
+      "text": "Granitic gravels in the upper Ricardo Formation of the El Paso Mountains were shed eastward from the southern Sierra Nevada, beginning about 8 million years ago.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They match the age of the Kern River Formation on the west side of the Sierra Nevada.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They point to uplift of the Sierra Nevada along its eastern frontal fault.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Geologic map of the El Paso Mountains Wilderness Study Area, Kern County, California (MF-1827)",
+      "url": "https://pubs.usgs.gov/mf/1986/1827/report.pdf",
+      "publisher": "U.S. Geological Survey (Cox and Diggles, 1986)",
+      "retrieved": "2026-10-03",
+      "quote": "The upper part of the Ricardo Formation consists of granitic alluvial-fan deposits that were shed eastward from the southern Sierra Nevada, beginning about 8 m.y. ago during late Miocene time. These deposits are correlated temporally with the Kern River Formation on the west side of the southern Sierra Nevada. They indicate uplift of the Sierra Nevada along its eastern frontal fault"
+    }
+  },
+  "topics": [
+    "geology",
+    "mountains",
+    "uplift"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "sierra nevada uplift",
+    "ricardo formation",
+    "kern river formation",
+    "basin and range"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.43774,
+    "lon": -117.8159,
+    "radiusMeters": 25000,
+    "name": "El Paso Mountains",
+    "source": "https://en.wikipedia.org/wiki/El_Paso_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

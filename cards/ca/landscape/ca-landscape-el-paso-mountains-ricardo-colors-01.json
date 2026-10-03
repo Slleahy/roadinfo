@@ -1,0 +1,79 @@
+{
+  "id": "ca-landscape-el-paso-mountains-ricardo-colors-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "El Paso Mountains"
+  },
+  "title": "Why the cliffs are red and white",
+  "text": "The Ricardo Group, which gives the El Paso Mountains their famous red sandstone beds, is nearly 7,000 feet of coarse volcanic ash, lava flows, sandstones, lake-deposited silts and clays, and sandy gravels. Much of its red and pink color comes from the oxidation of iron-bearing minerals, and its white layers are mostly volcanic ash. Rain that runs over the exposed layers erodes the softer beds and leaves the effect of fluted columns. Because many of the deposits are volcanic ash or interlayered with lava flows, geologists can date them with good precision.",
+  "sentences": [
+    {
+      "text": "The Ricardo Group, which gives the El Paso Mountains their famous red sandstone beds, is nearly 7,000 feet of coarse volcanic ash, lava flows, sandstones, lake-deposited silts and clays, and sandy gravels.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Much of its red and pink color comes from the oxidation of iron-bearing minerals, and its white layers are mostly volcanic ash.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Rain that runs over the exposed layers erodes the softer beds and leaves the effect of fluted columns.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Because many of the deposits are volcanic ash or interlayered with lava flows, geologists can date them with good precision.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Red Rock Canyon State Park (Geological Gems of California State Parks, GeoGem Note 38)",
+      "url": "https://www.parks.ca.gov/pages/734/files/GeoGem%20Note%2038%20Red%20Rock%20Canyon%20State%20Park.pdf",
+      "publisher": "California Geological Survey for California State Parks (Will Harris, 2010)",
+      "retrieved": "2026-10-03",
+      "quote": "The Ricardo Group contains the red sandstone beds for which this region is famous. It consists of nearly 7,000 feet of coarse volcanic ash, lava flows, sandstones, lake-deposited silts and clays, and sandy gravels. Most of these deposits contain or consist entirely of volcanic ash, and some are inter-layered with lava flows. This is fortuitous as geologists can determine the ages of these deposits with good precision ... Much of the red and pink hues of the Ricardo Group derived from oxidization of iron-bearing minerals. The white layers consist dominantly of volcanic ash. ... increased by water from periodic rainfall that flows down over the exposed layers, eroding away the softer beds leaving the effect of fluted columns."
+    }
+  },
+  "topics": [
+    "geology",
+    "rocks",
+    "colors"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "ricardo group",
+    "red sandstone",
+    "volcanic ash",
+    "badlands"
+  ],
+  "followOn": [
+    "ca-stretch-ca14-freeman-junction-red-rock-canyon-miocene-fossils-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.43774,
+    "lon": -117.8159,
+    "radiusMeters": 25000,
+    "name": "El Paso Mountains",
+    "source": "https://en.wikipedia.org/wiki/El_Paso_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

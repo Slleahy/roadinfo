@@ -1,0 +1,77 @@
+{
+  "id": "ca-landscape-el-paso-mountains-black-mountain-basalt-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "El Paso Mountains"
+  },
+  "title": "Lava that is older than it looks",
+  "text": "The Black Mountain Basalt in the El Paso Mountains was once thought to be Pleistocene in age, but it was shown to be Miocene. Four potassium-argon ages range from 15.1 to 17.9 million years. The basalt erupted mostly from east-west fissures, which reflects north-south extension between the Mojave Desert block and the southwestern Basin and Range. It is chemically distinctive, a potassium-poor high-alumina basalt.",
+  "sentences": [
+    {
+      "text": "The Black Mountain Basalt in the El Paso Mountains was once thought to be Pleistocene in age, but it was shown to be Miocene.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Four potassium-argon ages range from 15.1 to 17.9 million years.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The basalt erupted mostly from east-west fissures, which reflects north-south extension between the Mojave Desert block and the southwestern Basin and Range.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is chemically distinctive, a potassium-poor high-alumina basalt.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Geologic map of the El Paso Mountains Wilderness Study Area, Kern County, California (MF-1827)",
+      "url": "https://pubs.usgs.gov/mf/1986/1827/report.pdf",
+      "publisher": "U.S. Geological Survey (Cox and Diggles, 1986)",
+      "retrieved": "2026-10-03",
+      "quote": "The Black Mountain Basalt, formerly considered to be Pleistocene in age, is determined to be Miocene on the basis of its stratigraphic relations with the Ricardo Formation; this age assignment is confirmed by four potassium-argon ages ranging from 15.1±0.5 m.y. to 17.9±1.6 m.y. The Black Mountain Basalt is chemically distinctive, consisting of potassium-poor high-alumina basalt ... The basalt was erupted mostly from east-west fissures, reflecting north-south extension between the Mojave Desert block and southwestern Basin and Range during early and middle Miocene time."
+    }
+  },
+  "topics": [
+    "geology",
+    "volcanoes",
+    "rocks"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1986",
+  "themeKeys": [
+    "black mountain basalt",
+    "miocene volcanism",
+    "fissure eruptions",
+    "el paso mountains"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.43774,
+    "lon": -117.8159,
+    "radiusMeters": 25000,
+    "name": "El Paso Mountains",
+    "source": "https://en.wikipedia.org/wiki/El_Paso_Mountains"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
