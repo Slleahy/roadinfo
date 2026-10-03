@@ -86,6 +86,13 @@
         },
         "name": {
           "type": "string"
+        },
+        "bothDirections": {
+          "type": "boolean",
+          "description": "Segments: true if the card fits travel in either direction along the path; otherwise it fits travel in path order only."
+        },
+        "stretchId": {
+          "type": "string"
         }
       }
     },
@@ -226,13 +233,7 @@
         "string",
         "null"
       ],
-      "enum": [
-        "eastbound",
-        "westbound",
-        "northbound",
-        "southbound",
-        null
-      ]
+      "description": "Segments: plain-language direction the card is written for, e.g. 'Ridgecrest to Inyokern'; null if both."
     },
     "checked": {
       "type": "object",

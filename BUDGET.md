@@ -1,4 +1,4 @@
-STATUS: HALT
+STATUS: GO
 
 # Budget
 
@@ -29,7 +29,7 @@ Funded from the New Mexico phases 2–5 above, which are paused. One layer at a 
 | R1 | Kern County deck (county level, eastern Kern focus) | $10 | done: 30 checked cards | $5 |
 | R2 | San Bernardino and Los Angeles county decks | $10 | not started | |
 | R3 | Towns along the three drives | $25 | done: 60 checked cards, 16 towns | $18 |
-| R4 | Road stretches, both directions | $20 | not started | |
+| R4 | Road stretches, both directions | $20 | **open** | |
 | R5 | Sights | $40 | not started | |
 | R6 | Landscape units | $25 | not started | |
 | R7 | California and Mojave region deck | $20 | not started | |

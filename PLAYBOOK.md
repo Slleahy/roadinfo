@@ -99,6 +99,13 @@ One JSON object per card, conforming to [`schema/card.schema.json`](schema/card.
   article's coordinates or the GNIS record are fine), a `radiusMeters` (towns about 8,000;
   sights about 5,000, more if visible from far off; a spot in a county card about 40,000), and
   the page's URL in `source`. Leave `near` out of cards about the whole county or region.
+- **Stretch cards** use `anchor` `{"type": "segment", "stretchId": …, "path": […], "bothDirections": …}`.
+  Copy `path` from the stretches file, **in the order of travel the card is written for**
+  (reverse it for the opposite direction). Set `bothDirections` to true when the card fits
+  either direction (most history does) and false when it describes what lies ahead in one
+  direction ("as the road climbs toward the pass…"). Stretch cards are about the road and what
+  the driver sees along it: why the road goes here, its history, the land on each side, what
+  is coming up. Do not repeat town or county cards. No `near` block on stretch cards.
 - `direction` is used only for `stretch` cards: `"eastbound"`, `"westbound"`, or null for both.
 
 ## 4. Writing for the ear
