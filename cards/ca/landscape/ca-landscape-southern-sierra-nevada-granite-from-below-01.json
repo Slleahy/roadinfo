@@ -1,0 +1,71 @@
+{
+  "id": "ca-landscape-southern-sierra-nevada-granite-from-below-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Southern Sierra Nevada"
+  },
+  "title": "Granite from six miles down",
+  "text": "Most of the southern half of the Sierra Nevada is made of granite and other plutonic rocks of Mesozoic age. That granite was emplaced about 6 miles below the surface. The Sierra Nevada batholith pushed into strongly deformed but weakly metamorphosed sedimentary and volcanic rocks of Paleozoic and early Mesozoic age, known as the framework rocks.",
+  "sentences": [
+    {
+      "text": "Most of the southern half of the Sierra Nevada is made of granite and other plutonic rocks of Mesozoic age.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That granite was emplaced about 6 miles below the surface.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Sierra Nevada batholith pushed into strongly deformed but weakly metamorphosed sedimentary and volcanic rocks of Paleozoic and early Mesozoic age, known as the framework rocks.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Physical Geology (California Geography, The Sierra Nevada)",
+      "url": "https://geo.libretexts.org/Bookshelves/Geography_(Physical)/California_Geography_(Patrich)/10%3A_The_Sierra_Nevada/10.04%3A_PHYSICAL_GEOLOGY",
+      "publisher": "LibreTexts (California Geography, Patrich)",
+      "retrieved": "2026-10-03",
+      "quote": "The Sierra Nevada batholith was emplaced into strongly deformed but weakly metamorphosed sedimentary and volcanic rocks of Paleozoic and early Mesozoic age, which can be referred to as the \"framework\" rocks."
+    }
+  },
+  "topics": [
+    "geology",
+    "granite",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "sierra nevada batholith",
+    "granite",
+    "framework rocks",
+    "plutonic"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.73826,
+    "lon": -117.99697,
+    "radiusMeters": 40000,
+    "name": "Southern Sierra Nevada",
+    "source": "https://en.wikipedia.org/wiki/Owens_Peak"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

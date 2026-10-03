@@ -1,0 +1,82 @@
+{
+  "id": "ca-landscape-southern-sierra-nevada-owens-peak-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Southern Sierra Nevada"
+  },
+  "title": "Owens Peak",
+  "text": "Owens Peak rises to about 8,450 feet in the southern Sierra Nevada, near the center of the Owens Peak Wilderness. It stands about 12 miles west-northwest of Inyokern. It is named for Richard Owens, an Ohio-born explorer who accompanied John C. Frémont on his third expedition to California in 1845 and 1846.",
+  "sentences": [
+    {
+      "text": "Owens Peak rises to about 8,450 feet in the southern Sierra Nevada, near the center of the Owens Peak Wilderness.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It stands about 12 miles west-northwest of Inyokern.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It is named for Richard Owens, an Ohio-born explorer who accompanied John C. Frémont on his third expedition to California in 1845 and 1846.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Analytical results and sample locality map of heavy-mineral-concentrate and rock samples from the Owens Peak Wilderness Study Area (Open-File Report 86-282)",
+      "url": "https://pubs.usgs.gov/of/1986/0282/report.pdf",
+      "publisher": "U.S. Geological Survey (Adrian, Frisken, Diggles, and Malcolm, 1986)",
+      "retrieved": "2026-10-03",
+      "quote": "elevations ranging from about 4,500 ft ... to 8,453 ft at the summit of Owens Peak in the east"
+    },
+    "s2": {
+      "title": "Owens Peak",
+      "url": "https://en.wikipedia.org/wiki/Owens_Peak",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "8,452 ft (2,576 m) NAVD 88 ... about 12 miles (19 km) west-northwest of Inyokern ... near the center of the Owens Peak Wilderness ... Richard Owens (1812–1902), an Ohio-born explorer ... who accompanied John C. Frémont on his third expedition to California (1845–1846)",
+      "revision": "1369593565"
+    }
+  },
+  "topics": [
+    "geography",
+    "mountains",
+    "history"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "owens peak",
+    "richard owens",
+    "fremont",
+    "southern sierra"
+  ],
+  "followOn": [
+    "ca-stretch-ca178-ridgecrest-inyokern-owens-peak-wilderness-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.73826,
+    "lon": -117.99697,
+    "radiusMeters": 40000,
+    "name": "Southern Sierra Nevada",
+    "source": "https://en.wikipedia.org/wiki/Owens_Peak"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}

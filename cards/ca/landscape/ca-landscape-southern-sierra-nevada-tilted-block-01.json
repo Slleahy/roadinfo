@@ -1,0 +1,84 @@
+{
+  "id": "ca-landscape-southern-sierra-nevada-tilted-block-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Southern Sierra Nevada"
+  },
+  "title": "A tilted block with a dry east side",
+  "text": "The Sierra Nevada is a huge block of the earth's crust that has been sharply uplifted and exposed on the east along the Sierra Nevada fault system and tilted westward. Rocks west of the Sierra fault moved up to create the modern mountains, while those to the east moved down to form a valley. The range forms a barrier to storms from the Pacific and creates a rain shadow east of the crest. The shallow western slope has pine forests and alpine lakes, while the steep eastern slope is barren and dry.",
+  "sentences": [
+    {
+      "text": "The Sierra Nevada is a huge block of the earth's crust that has been sharply uplifted and exposed on the east along the Sierra Nevada fault system and tilted westward.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Rocks west of the Sierra fault moved up to create the modern mountains, while those to the east moved down to form a valley.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The range forms a barrier to storms from the Pacific and creates a rain shadow east of the crest.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The shallow western slope has pine forests and alpine lakes, while the steep eastern slope is barren and dry.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Physical Geology (California Geography, The Sierra Nevada)",
+      "url": "https://geo.libretexts.org/Bookshelves/Geography_(Physical)/California_Geography_(Patrich)/10%3A_The_Sierra_Nevada/10.04%3A_PHYSICAL_GEOLOGY",
+      "publisher": "LibreTexts (California Geography, Patrich)",
+      "retrieved": "2026-10-03",
+      "quote": "has been sharply uplifted and exposed on the east along the Sierra Nevada fault system and has been tilted westward"
+    },
+    "s2": {
+      "title": "Sierra Nevada (EBSCO Research Starters, Geology)",
+      "url": "https://www.ebsco.com/research-starters/geology/sierra-nevada/",
+      "publisher": "EBSCO Research Starters",
+      "retrieved": "2026-10-03",
+      "quote": "Rocks west of the Sierra fault moved up to create the modern mountains, while those to the east moved down to form a valley. ... The Sierra Nevada forms a barrier to storms that enter California from the Pacific Ocean and creates a rain shadow east of the range crest. Thus, the shallow western slope has pine forests and alpine lakes, whereas the steep eastern slope is barren and dry."
+    }
+  },
+  "topics": [
+    "geology",
+    "faults",
+    "climate"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "sierra nevada fault",
+    "tilted block",
+    "rain shadow",
+    "eastern escarpment"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.73826,
+    "lon": -117.99697,
+    "radiusMeters": 40000,
+    "name": "Southern Sierra Nevada",
+    "source": "https://en.wikipedia.org/wiki/Owens_Peak"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

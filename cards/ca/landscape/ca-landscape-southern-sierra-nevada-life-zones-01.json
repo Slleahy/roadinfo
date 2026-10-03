@@ -1,0 +1,77 @@
+{
+  "id": "ca-landscape-southern-sierra-nevada-life-zones-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Southern Sierra Nevada"
+  },
+  "title": "From sagebrush to Jeffrey pine",
+  "text": "The Owens Peak Wilderness area is steep and rugged, with elevations ranging from about 4,500 feet to 8,453 feet at the summit of Owens Peak. Sagebrush and mountain mahogany grow on the lower slopes. The middle elevations have digger pine, live oak, ceanothus, manzanita, and chinquapin. Higher country is covered by Jeffrey pine, incense cedar, black oak, and ceanothus, with rare sugar pine on the north side of Lamont Peak.",
+  "sentences": [
+    {
+      "text": "The Owens Peak Wilderness area is steep and rugged, with elevations ranging from about 4,500 feet to 8,453 feet at the summit of Owens Peak.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Sagebrush and mountain mahogany grow on the lower slopes.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The middle elevations have digger pine, live oak, ceanothus, manzanita, and chinquapin.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Higher country is covered by Jeffrey pine, incense cedar, black oak, and ceanothus, with rare sugar pine on the north side of Lamont Peak.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Analytical results and sample locality map of heavy-mineral-concentrate and rock samples from the Owens Peak Wilderness Study Area (Open-File Report 86-282)",
+      "url": "https://pubs.usgs.gov/of/1986/0282/report.pdf",
+      "publisher": "U.S. Geological Survey (Adrian, Frisken, Diggles, and Malcolm, 1986)",
+      "retrieved": "2026-10-03",
+      "quote": "The terrane is generally steep and rugged with elevations ranging from about 4,500 ft in the Canebrake Creek valley in the southwest to 8,453 ft at the summit of Owens Peak in the east. The vegetation is typically sagebrush and mountain mahogany on lower slopes. Higher country is covered by Jeffrey Pine, incense cedar, black oak, ceanothus, and rare Sugar Pine on the north side of Lament Peak. The middle elevations have Digger Pine, live oak, ceanothus, manzanita, and chinquapin."
+    }
+  },
+  "topics": [
+    "nature",
+    "plants",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1986",
+  "themeKeys": [
+    "owens peak",
+    "jeffrey pine",
+    "digger pine",
+    "sugar pine"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.73826,
+    "lon": -117.99697,
+    "radiusMeters": 40000,
+    "name": "Southern Sierra Nevada",
+    "source": "https://en.wikipedia.org/wiki/Owens_Peak"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ca-landscape-southern-sierra-nevada-three-granites-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Southern Sierra Nevada"
+  },
+  "title": "Three generations of granite west of Owens Peak",
+  "text": "The granite of the Sierra Nevada batholith at Rockhouse Basin, 15 miles west of Owens Peak, comes from at least three major periods of intrusion. Most of that area is Cretaceous granite and granodiorite that is pale and shows no foliation. An older, darker set of granitic rocks is Jurassic or Cretaceous, and the oldest intrusive rocks are probably Jurassic or Triassic. The granite intrudes older quartz-mica schist, quartzite, and marble, with zones of calc-silicate hornfels where marble meets granite.",
+  "sentences": [
+    {
+      "text": "The granite of the Sierra Nevada batholith at Rockhouse Basin, 15 miles west of Owens Peak, comes from at least three major periods of intrusion.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Most of that area is Cretaceous granite and granodiorite that is pale and shows no foliation.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "An older, darker set of granitic rocks is Jurassic or Cretaceous, and the oldest intrusive rocks are probably Jurassic or Triassic.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The granite intrudes older quartz-mica schist, quartzite, and marble, with zones of calc-silicate hornfels where marble meets granite.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Analytical results and sample locality map of heavy-mineral-concentrate and rock samples from the Owens Peak Wilderness Study Area (Open-File Report 86-282)",
+      "url": "https://pubs.usgs.gov/of/1986/0282/report.pdf",
+      "publisher": "U.S. Geological Survey (Adrian, Frisken, Diggles, and Malcolm, 1986)",
+      "retrieved": "2026-10-03",
+      "quote": "The geology and mineral resource potential of the Rockhouse Basin Wilderness Study Area, 15 mi west of the study areas ... consists dominantly of granitic rocks of the Sierra Nevada batholith that represent at least three major periods of intrusive activity. The majority of the study area is underlain by leucocratic, nonfoliated Cretaceous rocks of granitic to granodioritic composition."
+    }
+  },
+  "topics": [
+    "geology",
+    "granite",
+    "rocks"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1986",
+  "themeKeys": [
+    "owens peak",
+    "granodiorite",
+    "marble",
+    "hornfels"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.73826,
+    "lon": -117.99697,
+    "radiusMeters": 40000,
+    "name": "Southern Sierra Nevada",
+    "source": "https://en.wikipedia.org/wiki/Owens_Peak"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
