@@ -1,0 +1,145 @@
+{
+  "id": "ca-stretch-ca178-ridgecrest-inyokern-owens-peak-wilderness-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca178-ridgecrest-inyokern",
+    "path": [
+      [
+        -117.67083,
+        35.622488
+      ],
+      [
+        -117.6698,
+        35.63123
+      ],
+      [
+        -117.66976,
+        35.64044
+      ],
+      [
+        -117.66983,
+        35.64959
+      ],
+      [
+        -117.68115,
+        35.65169
+      ],
+      [
+        -117.69665,
+        35.65174
+      ],
+      [
+        -117.70854,
+        35.65187
+      ],
+      [
+        -117.72186,
+        35.6519
+      ],
+      [
+        -117.74089,
+        35.65195
+      ],
+      [
+        -117.75267,
+        35.65198
+      ],
+      [
+        -117.76758,
+        35.65201
+      ],
+      [
+        -117.78146,
+        35.65204
+      ],
+      [
+        -117.7928,
+        35.65204
+      ],
+      [
+        -117.80574,
+        35.64939
+      ],
+      [
+        -117.8125,
+        35.64695
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "The wilderness above the valley",
+  "text": "Owens Peak Wilderness, in the mountains west of the Indian Wells Valley, was designated by the California Desert Protection Act of 1994. It is a transition zone between the Great Basin, Mojave Desert, and Sierra Nevada ecoregions. Its canyons hold springs with extensive riparian vegetation, with cottonwood and oak trees in the canyons and valleys. The Pacific Crest Trail passes through the wilderness along the crest and western side.",
+  "sentences": [
+    {
+      "text": "Owens Peak Wilderness, in the mountains west of the Indian Wells Valley, was designated by the California Desert Protection Act of 1994.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It is a transition zone between the Great Basin, Mojave Desert, and Sierra Nevada ecoregions.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Its canyons hold springs with extensive riparian vegetation, with cottonwood and oak trees in the canyons and valleys.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Pacific Crest Trail passes through the wilderness along the crest and western side.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Owens Peak Wilderness",
+      "url": "https://en.wikipedia.org/wiki/Owens_Peak_Wilderness",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The land was set aside with the passage of the California Desert Protection Act of 1994. This area is a transition zone between the Great Basin, Mojave Desert and Sierra Nevada ecoregions. Cottonwood and oak trees in the canyons and valleys. The Pacific Crest Trail passes through the wilderness along the crest and western side.",
+      "revision": "1362890503"
+    },
+    "s2": {
+      "title": "Indian Wells Valley",
+      "url": "https://en.wikipedia.org/wiki/Indian_Wells_Valley",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Owens Peak, located west of the Indian Wells Valley, overlooks the basin from the west",
+      "revision": "1362142218"
+    }
+  },
+  "topics": [
+    "nature",
+    "wilderness",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "owens peak wilderness",
+    "indian wells valley",
+    "pacific crest trail",
+    "wilderness"
+  ],
+  "followOn": [
+    "ca-kern-county-walker-pass-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
