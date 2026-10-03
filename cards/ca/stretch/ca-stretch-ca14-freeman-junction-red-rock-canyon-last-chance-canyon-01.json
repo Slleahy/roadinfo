@@ -1,0 +1,181 @@
+{
+  "id": "ca-stretch-ca14-freeman-junction-red-rock-canyon-last-chance-canyon-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-freeman-junction-red-rock-canyon",
+    "path": [
+      [
+        -117.902954,
+        35.601617
+      ],
+      [
+        -117.90856,
+        35.59015
+      ],
+      [
+        -117.91344,
+        35.57937
+      ],
+      [
+        -117.91997,
+        35.56499
+      ],
+      [
+        -117.92502,
+        35.55372
+      ],
+      [
+        -117.92999,
+        35.54272
+      ],
+      [
+        -117.93444,
+        35.5329
+      ],
+      [
+        -117.9393,
+        35.52212
+      ],
+      [
+        -117.94469,
+        35.5102
+      ],
+      [
+        -117.94889,
+        35.50084
+      ],
+      [
+        -117.95445,
+        35.48852
+      ],
+      [
+        -117.95857,
+        35.47947
+      ],
+      [
+        -117.96363,
+        35.46823
+      ],
+      [
+        -117.9687,
+        35.45694
+      ],
+      [
+        -117.97443,
+        35.44428
+      ],
+      [
+        -117.97863,
+        35.43564
+      ],
+      [
+        -117.97887,
+        35.42553
+      ],
+      [
+        -117.98047,
+        35.41563
+      ],
+      [
+        -117.98427,
+        35.40353
+      ],
+      [
+        -117.98526,
+        35.39269
+      ],
+      [
+        -117.98414,
+        35.38362
+      ],
+      [
+        -117.9815,
+        35.37506
+      ],
+      [
+        -117.98203,
+        35.36484
+      ],
+      [
+        -117.98692,
+        35.37119
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Last Chance Canyon",
+  "text": "Last Chance Canyon runs through the El Paso Mountains from Saltdale in the south to Black Mountain in the north. It was added to the National Register of Historic Places on December 5, 1972, and is known as the Last Chance Archaeological District. The canyon includes pictographs, villages, rock shelters, mills, and quarries, along with gold mining camps. The canyon is open to hiking, camping, and four-wheel-drive vehicles in most parts.",
+  "sentences": [
+    {
+      "text": "Last Chance Canyon runs through the El Paso Mountains from Saltdale in the south to Black Mountain in the north.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It was added to the National Register of Historic Places on December 5, 1972, and is known as the Last Chance Archaeological District.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The canyon includes pictographs, villages, rock shelters, mills, and quarries, along with gold mining camps.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The canyon is open to hiking, camping, and four-wheel-drive vehicles in most parts.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Last Chance Canyon",
+      "url": "https://en.wikipedia.org/wiki/Last_Chance_Canyon",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The canyon runs from Saltdale in the south to Black Mountain in the north ... added to the National Register of Historic Places on December 5, 1972 ... pictographs, villages, rock shelters, mills, and quarries. Historic sites such as gold mining camps ... Hiking, camping, and 4-wheel drive vehicles are permitted in most parts of the canyon.",
+      "revision": "1373471128"
+    },
+    "s2": {
+      "title": "El Paso Mountains Wilderness",
+      "url": "https://en.wikipedia.org/wiki/El_Paso_Mountains_Wilderness",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "The southern portion of the wilderness is included in the Last Chance Archaeological District and is listed on the National Register of Historic Places",
+      "revision": "1362724932"
+    }
+  },
+  "topics": [
+    "history",
+    "archaeology",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "last chance canyon",
+    "archaeological district",
+    "el paso mountains",
+    "saltdale"
+  ],
+  "followOn": [
+    "ca-kern-county-burro-schmidt-tunnel-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "id": "ca-stretch-ca14-freeman-junction-red-rock-canyon-el-paso-wilderness-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-freeman-junction-red-rock-canyon",
+    "path": [
+      [
+        -117.902954,
+        35.601617
+      ],
+      [
+        -117.90856,
+        35.59015
+      ],
+      [
+        -117.91344,
+        35.57937
+      ],
+      [
+        -117.91997,
+        35.56499
+      ],
+      [
+        -117.92502,
+        35.55372
+      ],
+      [
+        -117.92999,
+        35.54272
+      ],
+      [
+        -117.93444,
+        35.5329
+      ],
+      [
+        -117.9393,
+        35.52212
+      ],
+      [
+        -117.94469,
+        35.5102
+      ],
+      [
+        -117.94889,
+        35.50084
+      ],
+      [
+        -117.95445,
+        35.48852
+      ],
+      [
+        -117.95857,
+        35.47947
+      ],
+      [
+        -117.96363,
+        35.46823
+      ],
+      [
+        -117.9687,
+        35.45694
+      ],
+      [
+        -117.97443,
+        35.44428
+      ],
+      [
+        -117.97863,
+        35.43564
+      ],
+      [
+        -117.97887,
+        35.42553
+      ],
+      [
+        -117.98047,
+        35.41563
+      ],
+      [
+        -117.98427,
+        35.40353
+      ],
+      [
+        -117.98526,
+        35.39269
+      ],
+      [
+        -117.98414,
+        35.38362
+      ],
+      [
+        -117.9815,
+        35.37506
+      ],
+      [
+        -117.98203,
+        35.36484
+      ],
+      [
+        -117.98692,
+        35.37119
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "The wilderness of the El Paso Mountains",
+  "text": "The El Paso Mountains Wilderness covers about 23,780 acres and was created in 1994. Its central feature is Black Mountain, an extinct volcano and the highest point in the range. Wildlife there includes raptors, the Mohave ground squirrel, and the desert tortoise. Joshua trees grow on the western side of the mountain.",
+  "sentences": [
+    {
+      "text": "The El Paso Mountains Wilderness covers about 23,780 acres and was created in 1994.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Its central feature is Black Mountain, an extinct volcano and the highest point in the range.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Wildlife there includes raptors, the Mohave ground squirrel, and the desert tortoise.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Joshua trees grow on the western side of the mountain.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "El Paso Mountains Wilderness",
+      "url": "https://en.wikipedia.org/wiki/El_Paso_Mountains_Wilderness",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "23,780 acres ... Established October 31, 1994 ... The highest point and central feature of this wilderness is Black Mountain, 5,244 feet, an extinct volcano ... Wildlife includes raptors, Mohave ground squirrel, and the desert tortoise ... Joshua trees on the western side of the mountain",
+      "revision": "1362724932"
+    },
+    "s2": {
+      "title": "El Paso Mountains",
+      "url": "https://en.wikipedia.org/wiki/El_Paso_Mountains",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Black Mountain is the highest point of the range at 5,244 feet (1,598 m).",
+      "revision": "1368971063"
+    }
+  },
+  "topics": [
+    "nature",
+    "wilderness",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "el paso mountains",
+    "black mountain",
+    "wilderness",
+    "desert tortoise"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

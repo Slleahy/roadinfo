@@ -1,0 +1,164 @@
+{
+  "id": "ca-stretch-ca14-freeman-junction-red-rock-canyon-miocene-fossils-01",
+  "level": "stretch",
+  "anchor": {
+    "type": "segment",
+    "stretchId": "ca14-freeman-junction-red-rock-canyon",
+    "path": [
+      [
+        -117.902954,
+        35.601617
+      ],
+      [
+        -117.90856,
+        35.59015
+      ],
+      [
+        -117.91344,
+        35.57937
+      ],
+      [
+        -117.91997,
+        35.56499
+      ],
+      [
+        -117.92502,
+        35.55372
+      ],
+      [
+        -117.92999,
+        35.54272
+      ],
+      [
+        -117.93444,
+        35.5329
+      ],
+      [
+        -117.9393,
+        35.52212
+      ],
+      [
+        -117.94469,
+        35.5102
+      ],
+      [
+        -117.94889,
+        35.50084
+      ],
+      [
+        -117.95445,
+        35.48852
+      ],
+      [
+        -117.95857,
+        35.47947
+      ],
+      [
+        -117.96363,
+        35.46823
+      ],
+      [
+        -117.9687,
+        35.45694
+      ],
+      [
+        -117.97443,
+        35.44428
+      ],
+      [
+        -117.97863,
+        35.43564
+      ],
+      [
+        -117.97887,
+        35.42553
+      ],
+      [
+        -117.98047,
+        35.41563
+      ],
+      [
+        -117.98427,
+        35.40353
+      ],
+      [
+        -117.98526,
+        35.39269
+      ],
+      [
+        -117.98414,
+        35.38362
+      ],
+      [
+        -117.9815,
+        35.37506
+      ],
+      [
+        -117.98203,
+        35.36484
+      ],
+      [
+        -117.98692,
+        35.37119
+      ]
+    ],
+    "bothDirections": true
+  },
+  "title": "Rhinos and palms in the Miocene",
+  "text": "The rocks around Red Rock Canyon preserve fossils from the Miocene, between about 13.5 and 7.3 million years ago. They include horses, camels, and three kinds of rhinoceros, along with a shovel-tusker named Serbelodon burnhami. Fossil plants include oak, cypress, and a palm.",
+  "sentences": [
+    {
+      "text": "The rocks around Red Rock Canyon preserve fossils from the Miocene, between about 13.5 and 7.3 million years ago.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They include horses, camels, and three kinds of rhinoceros, along with a shovel-tusker named Serbelodon burnhami.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Fossil plants include oak, cypress, and a palm.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Dove Spring Formation",
+      "url": "https://en.wikipedia.org/wiki/Dove_Spring_Formation",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "geologic formation in the western Mojave Desert of California ... Red Rock Canyon ... Last Chance Gulch ... It preserves fossils dating back to the Miocene epoch of the Neogene period. ... ~13.5–7.3 Ma ... Hipparion, Cormohipparion, Dinohippus ... Aphelops, Peraceras, Teleoceras ... Serbelodon burnhami, a new shovel-tusker ... Quercus ricardensis ... Palmoxylodon mohavensis ... LACM ... UCMP",
+      "revision": "1352599986"
+    }
+  },
+  "topics": [
+    "geology",
+    "fossils",
+    "history"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "dove spring formation",
+    "miocene fossils",
+    "red rock canyon",
+    "ancient animals"
+  ],
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 1
+  }
+}
