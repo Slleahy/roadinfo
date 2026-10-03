@@ -1,0 +1,73 @@
+{
+  "id": "ca-town-mojave-name-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Mojave"
+  },
+  "title": "A name from the Colorado River",
+  "text": "Mojave takes its name from the Mohave Indian nation, whose homeland was on the Colorado River. The word Mojave is Spanish for Hamakhava, the name of that nation.",
+  "sentences": [
+    {
+      "text": "Mojave takes its name from the Mohave Indian nation, whose homeland was on the Colorado River.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The word Mojave is Spanish for Hamakhava, the name of that nation.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave, CA (Digital-Desert)",
+      "url": "https://www.digital-desert.com/mojave-ca",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "The name Mojave comes from the name of the Mohave Indian nation influencing the desert area before the arrival of European settlers."
+    },
+    "s2": {
+      "title": "Mojave Railroad Workers During the 1890s",
+      "url": "https://www.lancastermoah.org/single-post/mojave-railroad-workers-during-the-1890s",
+      "publisher": "Lancaster Museum of Art and History",
+      "retrieved": "2026-10-03",
+      "quote": "The word 'Mojave' is Spanish for 'Hamakhava' (or 'Hamakhaaav'), the name of the Native American nation on the Colorado River"
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "tribal lands"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "mojave",
+    "mohave",
+    "hamakhava",
+    "colorado river"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.0525,
+    "lon": -118.17389,
+    "radiusMeters": 8000,
+    "name": "Mojave",
+    "source": "https://en.wikipedia.org/wiki/Mojave%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

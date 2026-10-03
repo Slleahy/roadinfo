@@ -1,0 +1,79 @@
+{
+  "id": "ca-town-mojave-railroad-town-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Mojave"
+  },
+  "title": "A town laid out by the railroad",
+  "text": "During World War II, several local women in Mojave worked for the Southern Pacific maintaining locomotives in the railroad's roundhouse. The railroad established a yard in Mojave and made it a division point. The railroad also laid out the town, and its layout and street names were still in use after 135 years. Wind turbine components now move from rail cars to trucks at the Mojave Air and Space Port.",
+  "sentences": [
+    {
+      "text": "During World War II, several local women in Mojave worked for the Southern Pacific maintaining locomotives in the railroad's roundhouse.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The railroad established a yard in Mojave and made it a division point.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The railroad also laid out the town, and its layout and street names were still in use after 135 years.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Wind turbine components now move from rail cars to trucks at the Mojave Air and Space Port.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave, CA (Union Pacific Train Town)",
+      "url": "https://www.up.com/aboutup/train_town/mojave_ca/index.htm",
+      "publisher": "Union Pacific Railroad",
+      "retrieved": "2026-10-03",
+      "quote": "During World War II, several local women worked for SP maintaining locomotives in the railroad's roundhouse ... The railroad established a yard in Mojave and made it a division point. ... SP laid out the town in a format and street names still in use after 135 years. ... transload wind turbine components from rail cars to trucks on what is now the Mojave Air and Space Port"
+    }
+  },
+  "topics": [
+    "history",
+    "railroads",
+    "mojave"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "mojave",
+    "southern pacific",
+    "roundhouse",
+    "division point"
+  ],
+  "followOn": [
+    "ca-kern-county-mojave-borax-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.0525,
+    "lon": -118.17389,
+    "radiusMeters": 8000,
+    "name": "Mojave",
+    "source": "https://en.wikipedia.org/wiki/Mojave%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

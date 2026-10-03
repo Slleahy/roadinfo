@@ -1,0 +1,65 @@
+{
+  "id": "ca-town-mojave-morrissey-hotel-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Mojave"
+  },
+  "title": "Hotels and Harvey Girls",
+  "text": "Mojave's hospitality trade began with the opening of the Morrissey Hotel in 1876. The Fred Harvey organization also operated a Harvey House there, with Harvey Girls serving meals.",
+  "sentences": [
+    {
+      "text": "Mojave's hospitality trade began with the opening of the Morrissey Hotel in 1876.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Fred Harvey organization also operated a Harvey House there, with Harvey Girls serving meals.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave, CA (Digital-Desert)",
+      "url": "https://www.digital-desert.com/mojave-ca",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "Mojave provided hospitality to travelers, begining with the opening of the Morrissey Hotel in 1876. ... the Fred Harvey organization operated a 'Harvey House', complete with 'Harvey Girls' serving meals to weary travelers and miners."
+    }
+  },
+  "topics": [
+    "history",
+    "travel",
+    "railroads"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "morrissey hotel",
+    "harvey house",
+    "harvey girls",
+    "mojave"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.0525,
+    "lon": -118.17389,
+    "radiusMeters": 8000,
+    "name": "Mojave",
+    "source": "https://en.wikipedia.org/wiki/Mojave%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ca-town-mojave-stratolaunch-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Mojave"
+  },
+  "title": "The longest wingspan ever flown",
+  "text": "The Stratolaunch Roc, which has the longest wingspan ever flown at 385 feet, first flew from Mojave Air and Space Port on April 13, 2019. Its twin fuselages are each 238 feet long, and it is powered by six Pratt and Whitney engines. About half of its empty weight comes from parts of a Boeing 747-400. It was designed to carry rockets aloft for launch into orbit, and it has since carried a hypersonic test vehicle.",
+  "sentences": [
+    {
+      "text": "The Stratolaunch Roc, which has the longest wingspan ever flown at 385 feet, first flew from Mojave Air and Space Port on April 13, 2019.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Its twin fuselages are each 238 feet long, and it is powered by six Pratt and Whitney engines.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "About half of its empty weight comes from parts of a Boeing 747-400.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It was designed to carry rockets aloft for launch into orbit, and it has since carried a hypersonic test vehicle.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Stratolaunch Roc",
+      "url": "https://en.wikipedia.org/wiki/Stratolaunch_Roc",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "the longest wingspan ever flown, at 385 feet (117 m), surpassing the Hughes H-4 Hercules ... flew for the first time on April 13, 2019 ... Mojave Air and Space Port ... powered by six Pratt & Whitney PW4056 engines ... twin-fuselage design ... each 238 ft (73 m) long ... Approximately 250,000 lb of the aircraft's empty weight of 500,000 lb is from B747-400 components ... to carry air-launch-to-orbit (ALTO) rockets ... first captive carry flight with the Talon-A separation test vehicle",
+      "revision": "1368508541"
+    },
+    "s2": {
+      "title": "Largest aircraft by wingspan",
+      "url": "https://www.guinnessworldrecords.com/world-records/largest-aircraft-by-wingspan/",
+      "publisher": "Guinness World Records",
+      "retrieved": "2026-10-03",
+      "quote": "117.35 m (385 ft) ... Mojave Air & Space Port in California, USA ... April 13, 2019"
+    }
+  },
+  "topics": [
+    "aerospace",
+    "records",
+    "mojave"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2019",
+  "themeKeys": [
+    "stratolaunch",
+    "roc",
+    "largest aircraft",
+    "mojave air and space port"
+  ],
+  "followOn": [
+    "ca-kern-county-mojave-spaceport-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.0525,
+    "lon": -118.17389,
+    "radiusMeters": 8000,
+    "name": "Mojave",
+    "source": "https://en.wikipedia.org/wiki/Mojave%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}

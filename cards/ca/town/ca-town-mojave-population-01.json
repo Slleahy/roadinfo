@@ -1,0 +1,76 @@
+{
+  "id": "ca-town-mojave-population-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Mojave"
+  },
+  "title": "Mojave by the numbers",
+  "text": "About 4,700 people lived in Mojave at the 2020 census, up from 4,238 in 2010. The 2000 census counted 3,836. Mojave is 50 miles southeast of Bakersfield and 100 miles north of Los Angeles.",
+  "sentences": [
+    {
+      "text": "About 4,700 people lived in Mojave at the 2020 census, up from 4,238 in 2010.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The 2000 census counted 3,836.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Mojave is 50 miles southeast of Bakersfield and 100 miles north of Los Angeles.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mojave, California",
+      "url": "https://en.wikipedia.org/wiki/Mojave,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-03",
+      "quote": "Mojave is located 50 miles (80 km) southeast of Bakersfield, and 100 miles (161 km) north of Los Angeles ... up from 4,238 at the 2010 census",
+      "revision": "1367775259"
+    },
+    "s2": {
+      "title": "Mojave, CA (Digital-Desert)",
+      "url": "https://www.digital-desert.com/mojave-ca",
+      "publisher": "Digital-Desert",
+      "retrieved": "2026-10-03",
+      "quote": "The population was 3,836 at the 2000 census."
+    }
+  },
+  "topics": [
+    "people",
+    "population"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 2,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "mojave population",
+    "census"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.0525,
+    "lon": -118.17389,
+    "radiusMeters": 8000,
+    "name": "Mojave",
+    "source": "https://en.wikipedia.org/wiki/Mojave%2C_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-03",
+    "removed": 0
+  }
+}
