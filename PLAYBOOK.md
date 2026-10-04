@@ -120,6 +120,13 @@ warm, specific, and never padded.
 - **Never name the source out loud.** No "according to the National Park Service", no "the
   county's website says". Attribution lives in the silent citations. The only exception is a
   claim that is genuinely disputed, where saying who claims it is part of the fact.
+- **Only words the narrator can say.** Do not reach for an obscure term in another language
+  when plain English carries the fact. A word in an Indigenous or foreign language earns its
+  place only when it *is* the story (a town's own name for itself, a name on a road sign), and
+  then it goes on the hand-over list in `PRONUNCIATIONS-NEEDED.md` for the owner to source from
+  someone who says it. Never invent a pronunciation, and never spell a name with colons or
+  other marks that a voice will read aloud ("A:shiwi"). If a term cannot be sourced, write the
+  sentence without it.
 - **Plain words.** A passenger is not a geologist. Explain a technical term in a few plain
   words the first time ("rhyolite, a pale volcanic rock"), or say the idea without it. Leave
   out formation names, epoch names, and units like kilometers unless they carry the story;

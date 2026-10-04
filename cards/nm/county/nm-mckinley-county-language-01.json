@@ -6,7 +6,7 @@
     "fips": "35031"
   },
   "title": "Languages at home",
-  "text": "About half of McKinley County residents speak a language other than English at home, as of 2024, and Spanish accounts for only about 3,000 of them. One of the languages heard here is Zuni, a language isolate with no known relatives. It is spoken mostly around Zuni Pueblo. Its speakers call it Shiwi'ma.",
+  "text": "About half of McKinley County residents speak a language other than English at home, as of 2024, and Spanish accounts for only about 3,000 of them. One of the languages heard here is Zuni, a language isolate with no known relatives. It is spoken mostly around Zuni Pueblo.",
   "sentences": [
     {
       "text": "About half of McKinley County residents speak a language other than English at home, as of 2024, and Spanish accounts for only about 3,000 of them.",
@@ -23,12 +23,6 @@
     },
     {
       "text": "It is spoken mostly around Zuni Pueblo.",
-      "sources": [
-        "s2"
-      ]
-    },
-    {
-      "text": "Its speakers call it Shiwi'ma.",
       "sources": [
         "s2"
       ]

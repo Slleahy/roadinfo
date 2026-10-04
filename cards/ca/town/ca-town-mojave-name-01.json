@@ -6,7 +6,7 @@
     "name": "Mojave"
   },
   "title": "A name from the Colorado River",
-  "text": "Mojave takes its name from the Mohave Indian nation, whose homeland was on the Colorado River. The word Mojave is Spanish for Hamakhava, the name of that nation.",
+  "text": "Mojave takes its name from the Mohave Indian nation, whose homeland was on the Colorado River. Mojave is the Spanish spelling of that nation's own name for itself.",
   "sentences": [
     {
       "text": "Mojave takes its name from the Mohave Indian nation, whose homeland was on the Colorado River.",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "text": "The word Mojave is Spanish for Hamakhava, the name of that nation.",
+      "text": "Mojave is the Spanish spelling of that nation's own name for itself.",
       "sources": [
         "s2"
       ]
