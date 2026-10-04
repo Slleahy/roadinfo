@@ -7,7 +7,7 @@ from the corridor files.
 
 Usage: python3 scripts/pack_cards.py [--out dist/roadinfo-cards.json]
 """
-import argparse, glob, json, os
+import argparse, glob, json, os, re, sys
 from datetime import date
 
 STATES = {"06": "California", "35": "New Mexico", "04": "Arizona"}
@@ -24,17 +24,49 @@ def county_names():
     return names
 
 
+# A distance written into a card goes stale the moment the car moves. Sentences must use the
+# {distance} placeholder instead, which the app fills from the current position as it speaks.
+BAKED_IN_DISTANCE = re.compile(
+    r"\b\d[\d,.]*\s*(?:mi|mile|miles|km|kilometres|kilometers)\b[^.]{0,30}?"
+    r"\b(?:from here|away|to the (?:north|south|east|west)|"
+    r"(?:north|south|east|west|northeast|northwest|southeast|southwest) of (?:here|town))",
+    re.IGNORECASE,
+)
+PLACEHOLDER = re.compile(r"\{(distance|direction)\}")
+
+
+def tie_to_drive_faults(card):
+    """Ways a card breaks the tie-it-to-the-drive rule in the playbook. Mechanical checks only:
+    whether the card actually opens with something local, and whether a distant fact earns its
+    place, are judgement calls that belong to the ear pass."""
+    faults = []
+    text = card["text"]
+    placeholders = set(PLACEHOLDER.findall(text))
+    elsewhere = card.get("elsewhere")
+
+    if placeholders and not elsewhere:
+        faults.append("uses {distance}/{direction} but has no elsewhere coordinates to measure to")
+    if elsewhere and "distance" not in placeholders:
+        faults.append(f"names elsewhere '{elsewhere.get('name')}' but never says how far it is")
+    if match := BAKED_IN_DISTANCE.search(text):
+        faults.append(f"has a distance written into the text ({match.group(0)!r}); use {{distance}}")
+    return faults
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", default="dist/roadinfo-cards.json")
     args = parser.parse_args()
 
     names = county_names()
-    packed, skipped = [], []
+    packed, skipped, rejected = [], [], []
     for path in sorted(glob.glob("cards/**/*.json", recursive=True)):
         card = json.load(open(path))
         if "checked" not in card:
             skipped.append(card["id"])
+            continue
+        if faults := tie_to_drive_faults(card):
+            rejected.append((card["id"], faults))
             continue
         anchor = dict(card["anchor"])
         if anchor.get("type") == "place" and not anchor.get("state"):
@@ -60,6 +92,7 @@ def main():
             "pronunciations": card.get("pronunciations", {}),
             "direction": card.get("direction"),
             "near": {k: card["near"][k] for k in ("lat", "lon", "radiusMeters", "name") if k in card["near"]} if card.get("near") else None,
+            "elsewhere": {k: card["elsewhere"][k] for k in ("lat", "lon", "name") if k in card["elsewhere"]} if card.get("elsewhere") else None,
         })
     os.makedirs(os.path.dirname(args.out), exist_ok=True)
     json.dump({"version": date.today().isoformat(), "license": "CC BY-SA 4.0, https://github.com/Slleahy/roadinfo",
@@ -68,6 +101,13 @@ def main():
     missing = [c["id"] for c in packed if c["anchor"].get("type") == "county" and not c["anchor"].get("county")]
     if missing:
         print("WARNING: no county name for", missing)
+    for card_id, faults in rejected:
+        print(f"REJECTED {card_id}")
+        for fault in faults:
+            print(f"    {fault}")
+    if rejected:
+        print(f"\n{len(rejected)} card(s) left out: see 'Tie it to the drive' in PLAYBOOK.md")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

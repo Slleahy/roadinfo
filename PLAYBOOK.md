@@ -120,6 +120,22 @@ warm, specific, and never padded.
 - **Never name the source out loud.** No "according to the National Park Service", no "the
   county's website says". Attribution lives in the silent citations. The only exception is a
   claim that is genuinely disputed, where saying who claims it is part of the fact.
+- **Tie it to the drive.** A fact about somewhere else is welcome, but only as an extension of
+  something true where the car is. Two obligations, both required:
+  1. **Open with here.** The card's first sentence is about what the listener is in or can see.
+     The distant thing is the elaboration, never the subject.
+  2. **Say how far.** The distant part carries `{distance}` (and optionally `{direction}`), which
+     the app fills from the car's position as it speaks. Fill in the card's `elsewhere` field with
+     that place's coordinates. Never write a distance as a fixed number — it is wrong as soon as
+     the car moves, and the packer rejects it.
+
+  The shape to copy, from the owner:
+
+  > "The native vegetation here, creosote bush, is endemic to the Mojave Desert. One old example
+  > was discovered by Professor Schmuckatelli in 1974, in the Lucerne Valley, {distance} from here."
+
+  What this rule exists to stop: a card about the Lucerne Valley playing near Trona, a hundred
+  miles away, with nothing said about why a driver there should care.
 - **Only words the narrator can say.** Do not reach for an obscure term in another language
   when plain English carries the fact. A word in an Indigenous or foreign language earns its
   place only when it *is* the story (a town's own name for itself, a name on a road sign), and
@@ -201,7 +217,12 @@ For every card, a checker who did not write it:
 2. Confirms numbers against the named table and year.
 3. Confirms two sources for anything surprising.
 4. Removes any sentence that fails. If the card no longer stands on its own, drops the card.
-5. Records the result in the card: `"checked": { "by": "checker", "date": "…", "removed": n }`.
+5. **The ear pass.** Reads the card aloud as if sitting beside a driver at the spot it plays,
+   and asks two questions. Does it open with something true *here* — a thing the listener is in
+   or can see? And does anything far away say how far, with `{distance}`, rather than a number
+   written into the text? A card that fails either is rewritten or dropped. The packer rejects
+   the mechanical half of this, but only a reader can tell whether a fact earns its place.
+6. Records the result in the card: `"checked": { "by": "checker", "date": "…", "removed": n }`.
 
 Only checked cards are merged.
 

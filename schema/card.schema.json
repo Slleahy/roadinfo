@@ -276,6 +276,31 @@
           "description": "URL of the page the coordinates come from."
         }
       }
+    },
+    "elsewhere": {
+      "type": "object",
+      "required": [
+        "name",
+        "lat",
+        "lon",
+        "source"
+      ],
+      "description": "A place the card mentions that is away from where the card plays. A distant fact is only ever an extension of a local subject: the card must open with what is true here, and the distant part must say how far away it is. Write that distance as the placeholder {distance} (and optionally {direction}) in the sentence; the app fills it from the car's position when it speaks, so it is right wherever the listener happens to be. Never write a distance as a fixed number, because it goes stale the moment the car moves.",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "lat": {
+          "type": "number"
+        },
+        "lon": {
+          "type": "number"
+        },
+        "source": {
+          "type": "string",
+          "description": "URL of the page the coordinates come from."
+        }
+      }
     }
   }
 }

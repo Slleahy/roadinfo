@@ -6,7 +6,7 @@
     "name": "Antelope Valley"
   },
   "title": "A volcano split in two",
-  "text": "A volcano that erupted about 23 million years ago near present-day Lancaster was cut in half by the San Andreas Fault. One half stayed in the Antelope Valley area as the Neenach Formation. The other half is now Pinnacles National Park, about 195 miles away.",
+  "text": "A volcano that erupted about 23 million years ago near present-day Lancaster was cut in half by the San Andreas Fault. One half stayed in the Antelope Valley area as the Neenach Formation. The other half is now Pinnacles National Park, {distance} {direction} of here.",
   "sentences": [
     {
       "text": "A volcano that erupted about 23 million years ago near present-day Lancaster was cut in half by the San Andreas Fault.",
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "text": "The other half is now Pinnacles National Park, about 195 miles away.",
+      "text": "The other half is now Pinnacles National Park, {distance} {direction} of here.",
       "sources": [
         "s1",
         "s2"
@@ -78,5 +78,11 @@
     "by": "checker",
     "date": "2026-10-03",
     "removed": 1
+  },
+  "elsewhere": {
+    "name": "Pinnacles National Park",
+    "lat": 36.4906,
+    "lon": -121.1825,
+    "source": "https://en.wikipedia.org/wiki/Pinnacles_National_Park"
   }
 }
