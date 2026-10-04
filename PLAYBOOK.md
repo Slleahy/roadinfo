@@ -108,6 +108,37 @@ One JSON object per card, conforming to [`schema/card.schema.json`](schema/card.
   is coming up. Do not repeat town or county cards. No `near` block on stretch cards.
 - `direction` is used only for `stretch` cards: `"eastbound"`, `"westbound"`, or null for both.
 
+## 3a. Biography cards (`"level": "person"`)
+
+Almost every town in the country is somebody's home town, and a driver passing through has no
+way of knowing. These cards fill that in. Source them from the "Notable people" section of a
+town's Wikipedia article and from the `People from <place>` categories, then read the person's
+own article for the facts.
+
+**The bar.** A listener should recognise the name, or the reason should be interesting on its
+own. Err towards leaving people out: a card about somebody nobody has heard of, who did nothing
+the listener would find worth hearing, is dead air with a name in it. A state legislator from
+1931 is not a card. The person who invented the thing in your glovebox is.
+
+**The connection must be to this place, and real.** Born here, raised here, or did the work here.
+Not "died here", not "briefly attended school here", not "owned property here". If the article
+does not plainly say they are from this place, there is no card.
+
+**What goes in.** Lead with why the listener knows the name, then the local tie, then one
+concrete detail. Two to four sentences:
+
+> "Mark Hoppus, bassist and singer of the rock band Blink one eighty two, was born in Ridgecrest
+> on March 15, 1972. He left in the summer of 1992 for San Diego, to attend college and work at
+> a local music store."
+
+**Living people.** Stick to what is uncontroversial and plainly on the public record: what they
+are known for, where they are from, when they left. No health, no family trouble, no legal
+trouble, no politics, nothing a person would resent hearing said about them to strangers in a
+car. If a fact would need a lawyer's eye, it is not going in a road narration.
+
+**One card per person**, anchored with `near` on the town. Several people from one town means
+several cards, and the program director spaces them out.
+
 ## 4. Writing for the ear
 
 Write like a well-read friend in the passenger seat, or a good public-radio host: plain,

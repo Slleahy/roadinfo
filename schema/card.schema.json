@@ -28,10 +28,12 @@
         "sight",
         "stretch",
         "town",
+        "person",
         "county",
         "landscape",
         "region"
-      ]
+      ],
+      "description": "What the card is about. 'person' is a biography card: somebody born or raised at this place. It is anchored like a town card and plays where the person is from."
     },
     "anchor": {
       "type": "object",
