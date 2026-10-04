@@ -19,7 +19,9 @@ for c in cards:
         w = tok.text.strip()
         if not re.search(r"[A-Za-z]", w): continue
         if w in lex or w.lower() in lex: continue
-        if tok.phonemes in (None, "", "❓"):
+        # A word can come back as several unknown markers ("McKinley" -> "❓❓"), so look
+        # for the marker anywhere in the result, not just on its own.
+        if tok.phonemes is None or tok.phonemes == "" or "❓" in tok.phonemes:
             unknown.setdefault(w, []).append(c["id"])
 print(f"{len(unknown)} words the voice cannot pronounce, across {len(cards)} cards:\n")
 for w, ids in sorted(unknown.items(), key=lambda kv: -len(kv[1])):
