@@ -1,0 +1,87 @@
+{
+  "id": "ca-landscape-paso-robles-wine-country-highway-46-line-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "paso-robles-wine-country",
+    "name": "Paso Robles wine country"
+  },
+  "title": "Highway 46 as a wine line",
+  "text": "East of Paso Robles, stretches of Highway 46 form the line between two wine districts, the Paso Robles Estrella District and the Paso Robles Geneseo District. They are two of eleven districts drawn inside the larger Paso Robles wine region in 2014. The Estrella District is the rolling plain of the Estrella River valley, while the Geneseo District is hills pushed up along a fault through old river terraces. A wine labeled with one of the district names must also say Paso Robles, unless the district's name already includes it.",
+  "sentences": [
+    {
+      "text": "East of Paso Robles, stretches of Highway 46 form the line between two wine districts, the Paso Robles Estrella District and the Paso Robles Geneseo District.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They are two of eleven districts drawn inside the larger Paso Robles wine region in 2014.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Estrella District is the rolling plain of the Estrella River valley, while the Geneseo District is hills pushed up along a fault through old river terraces.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A wine labeled with one of the district names must also say Paso Robles, unless the district's name already includes it.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Establishment of the Adelaida District, Creston District, El Pomar District, Paso Robles Estrella District, Paso Robles Geneseo District, Paso Robles Highlands District, Paso Robles Willow Creek District, San Juan Creek, San Miguel District, Santa Margarita Ranch, and Templeton Gap District Viticultural Areas (T.D. TTB-125)",
+      "url": "https://www.federalregister.gov/documents/full_text/html/2014/10/09/2014-24169.html",
+      "publisher": "Alcohol and Tobacco Tax and Trade Bureau, Federal Register 79 FR 60945",
+      "retrieved": "2026-10-05",
+      "quote": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) establishes the Adelaida District, Creston District, El Pomar District, Paso Robles Estrella District, Paso Robles Geneseo District, Paso Robles Highlands District, Paso Robles Willow Creek District, San Juan Creek, San Miguel District, Santa Margarita Ranch, and Templeton Gap District viticultural areas within the boundary of the existing Paso Robles viticultural area ... This final rule is effective November 10, 2014. ... continue west on State Route 46 approximately 2.1 miles ... The beginning point is on the Paso Robles map at the intersection of State Route 46 and Golden Hill Road ... proceed east on State Route 46 for 1 mile ... Rolling plains of Estrella River valley and terraces ... Upfaulted hills through old river terraces along Huerhuero-La Panza fault ... That law will require any label using one of the 11 proposed AVAs as an appellation of origin on its wine labels to also use the Paso Robles AVA name, unless the AVA name includes the term “Paso Robles.”"
+    },
+    "s2": {
+      "title": "Paso Robles AVA",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles_AVA",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1364648339",
+      "quote": "On October 9, 2014, the TTB issued a Final Rule in the Federal Register after reviewing the petitions submitted in 2007 by the Paso Robles American Viticultural Area Committee (PRAVAC) establishing eleven new viticultural areas located entirely within the existing 669,253-acre (1,046 sq mi) Paso Robles viticultural area"
+    }
+  },
+  "topics": [
+    "wine",
+    "roads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "wine",
+    "highway 46",
+    "estrella",
+    "geneseo"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6071502,
+    "lon": -120.6081466,
+    "radiusMeters": 12000,
+    "name": "Paso Robles wine country",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles_AVA"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

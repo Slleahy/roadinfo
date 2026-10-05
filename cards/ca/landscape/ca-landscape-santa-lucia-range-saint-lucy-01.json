@@ -1,0 +1,91 @@
+{
+  "id": "ca-landscape-santa-lucia-range-saint-lucy-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "santa-lucia-range",
+    "name": "Santa Lucia Range"
+  },
+  "title": "Named for Saint Lucy",
+  "text": "The mountains west of Paso Robles, where Adelaida sits, are the Santa Lucia Range, a rugged range that runs along the central California coast. The Spanish explorer Sebastián Vizcaíno named them in 1602, sailing past around Saint Lucy's feast day in December. For early Spanish explorers, the range was a barrier along the coast. In 1769 the Spanish Portolá expedition, traveling overland, found the coast impassable and had to turn inland through the mountains.",
+  "sentences": [
+    {
+      "text": "The mountains west of Paso Robles, where Adelaida sits, are the Santa Lucia Range, a rugged range that runs along the central California coast.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Spanish explorer Sebastián Vizcaíno named them in 1602, sailing past around Saint Lucy's feast day in December.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "For early Spanish explorers, the range was a barrier along the coast.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1769 the Spanish Portolá expedition, traveling overland, found the coast impassable and had to turn inland through the mountains.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Adelaida, California",
+      "url": "https://en.wikipedia.org/wiki/Adelaida,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376495774",
+      "quote": "Adelaida lies in the Santa Lucia Range about 10 miles (16 km) west of Paso Robles"
+    },
+    "s2": {
+      "title": "Santa Lucia Range",
+      "url": "https://en.wikipedia.org/wiki/Santa_Lucia_Range",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1369703368",
+      "quote": "The Santa Lucia Range (sæntə luˈsiːə) or Santa Lucia Mountains is a rugged mountain range in coastal Central California ... The range was a barrier to exploring the coast of central California for early Spanish explorers. ... The present name for the range was documented in 1602 by Sebastián Vizcaíno ... Passing by the range around December 14th, he named the range Sierra de Santa Lucia in honor of Saint Lucy of Syracuse, for whom many Christians celebrate the feast of Saint Lucy's Day on December 13th. The first European land exploration of Alta California, the Spanish Portolá expedition, camped on the coast near Ragged Point in present-day San Luis Obispo County on September 13, 1769. The expedition was forced to bypass the inaccessible coast and travel inland through the San Antonio Valley."
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "santa lucia range",
+    "vizcaino",
+    "portola expedition",
+    "place names"
+  ],
+  "pronunciations": {
+    "Santa Lucia": "SAN-tuh loo-SEE-uh, IPA sæntə luˈsiːə"
+  },
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.64555556,
+    "lon": -120.87361111,
+    "radiusMeters": 20000,
+    "name": "Adelaida",
+    "source": "https://en.wikipedia.org/wiki/Adelaida,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

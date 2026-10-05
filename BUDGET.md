@@ -1,4 +1,4 @@
-STATUS: GO, P4 open
+STATUS: GO, P5 open
 
 # Budget
 
@@ -53,7 +53,7 @@ road stretches dearer at about $0.62.
 | P2 | Caliente to Bakersfield: Caliente, Bena, Edison, the Bakersfield town deck, and the Bakersfield Sound as the first `person` cards | ~24 | $12 | done: 24 checked cards, 6 subjects (incl. 6 person cards) | $0 cloud |
 | P3 | West Kern and I-5: Buttonwillow, Lost Hills oilfield, Kern National Wildlife Refuge, the California Aqueduct | ~14 | $8 | done: 14 checked cards, 7 subjects | $0 cloud |
 | P4 | CA-46, Lost Hills to Shandon: Cholame and James Dean, the San Andreas crossing, Antelope Grade, Shandon, Estrella | ~14 | $8 | done: 13 checked cards, 6 subjects | $0 cloud |
-| P5 | Paso Robles and Adelaide: the town, the 1886 hot springs, the 2003 earthquake, the wine district, the Santa Lucia Range, Nacimiento | ~18 | $10 | not started | |
+| P5 | Paso Robles and Adelaide: the town, the 1886 hot springs, the 2003 earthquake, the wine district, the Santa Lucia Range, Nacimiento | ~18 | $10 | done: 20 checked cards, 7 subjects (incl. 1 person card) | $0 cloud |
 | P6 | San Luis Obispo county deck (new county; the app has no county-level fallback west of Kern) | ~15 | $8 | not started | |
 | P7 | Road stretches, both directions: CA-58 over the pass, the I-5 leg, both CA-46 legs | ~12 | $10 | not started | |
 | | **Total** | **~119** | **$68** | | |
@@ -98,3 +98,4 @@ on the route. Stop there, drive it, and judge three things before opening P3:
 | 2026-10-05 | P2 Caliente to Bakersfield (owner's local Claude Code session, not cloud credit): written 2026-10-04, independent re-check 2026-10-05 (99 sources opened for P2 and P3 together) | P2 | 24 | $0 cloud | $200 |
 | 2026-10-05 | P3 West Kern and I-5 (owner's local session, not cloud credit): one card dropped in check (farm acreage from prose) | P3 | 14 | $0 cloud | $200 |
 | 2026-10-05 | P4 CA-46 Lost Hills to Shandon (owner's local Claude Code session, not cloud credit): writer ~45 fetches, checker re-opened every source | P4 | 13 | $0 cloud | $200 |
+| 2026-10-05 | P5 Paso Robles and Adelaide (owner's local Claude Code session, not cloud credit): writer 29 fetches, checker re-opened every source | P5 | 20 | $0 cloud | $200 |

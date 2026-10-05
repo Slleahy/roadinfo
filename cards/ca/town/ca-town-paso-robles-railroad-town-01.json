@@ -1,0 +1,86 @@
+{
+  "id": "ca-town-paso-robles-railroad-town-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Paso Robles"
+  },
+  "title": "The railroad makes a town",
+  "text": "The railroad reached Paso Robles on October 31, 1886, and the next month the new town's lots went up for auction. Before that, the place was a hot springs resort, owned by a partnership of the Blackburn brothers and Drury James. The city incorporated in 1889, and a larger hotel and bathhouse followed in 1891. In 1910 the Southern Pacific Railroad put out a brochure calling it the great hot springs resort of America.",
+  "sentences": [
+    {
+      "text": "The railroad reached Paso Robles on October 31, 1886, and the next month the new town's lots went up for auction.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Before that, the place was a hot springs resort, owned by a partnership of the Blackburn brothers and Drury James.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The city incorporated in 1889, and a larger hotel and bathhouse followed in 1891.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 1910 the Southern Pacific Railroad put out a brochure calling it the great hot springs resort of America.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Paso Robles, California",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377211382",
+      "quote": "Development around the hot springs included a hotel and baths in 1864. Drury James subsequently acquired an interest in the property. The first train arrived on October 31, 1886, and an auction the following month sold 228 town lots. A larger hotel and bathhouse opened in 1891. The city incorporated on March 11, 1889."
+    },
+    "s2": {
+      "title": "Paso Robles Hot Springs",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles_Hot_Springs",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1364831481",
+      "quote": "Daniel took the portion of the property with the hot springs (where the townsite was eventually built) ... The three men then formed a partnership in 1873, called Blackburn Bros. & James, Owners & Proprietors. ... In 1910 a brochure was published called, Paso Robles Hot Springs; the great hot springs resort of America by the Southern Pacific Railroad Company."
+    }
+  },
+  "topics": [
+    "history",
+    "railroads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "southern pacific",
+    "railroad towns",
+    "hot springs"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.628513,
+    "lon": -120.650356,
+    "radiusMeters": 8000,
+    "name": "Paso Robles",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

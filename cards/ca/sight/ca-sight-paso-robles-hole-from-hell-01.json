@@ -1,0 +1,97 @@
+{
+  "id": "ca-sight-paso-robles-hole-from-hell-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.62555556,
+    "lon": -120.69138889,
+    "reachMeters": 5000,
+    "name": "Downtown Paso Robles"
+  },
+  "title": "The Hole From Hell",
+  "text": "The 2003 earthquake broke open a hot spring under the parking lot of the new Paso Robles City Hall and library. Crews at first took the rotten-egg smell for a broken sewer line, until a local geophysicist, called in to look, saw the steam and knew it was a hot spring. A bathhouse had once stood on the spot, and its spring had been capped when it closed. Digging for the source left a huge pit, known around town as the Hole From Hell, and crews dug a trench to pipe the water to the Salinas River. It took until 2010 to fill the hole.",
+  "sentences": [
+    {
+      "text": "The 2003 earthquake broke open a hot spring under the parking lot of the new Paso Robles City Hall and library.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Crews at first took the rotten-egg smell for a broken sewer line, until a local geophysicist, called in to look, saw the steam and knew it was a hot spring.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "A bathhouse had once stood on the spot, and its spring had been capped when it closed.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Digging for the source left a huge pit, known around town as the Hole From Hell, and crews dug a trench to pipe the water to the Salinas River.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It took until 2010 to fill the hole.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "2003 San Simeon earthquake",
+      "url": "https://en.wikipedia.org/wiki/2003_San_Simeon_earthquake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1367242737",
+      "quote": "Two sulfur hot springs in Paso Robles erupted after the earthquake. One was underneath the parking lot of the recently opened city hall/library building. There was formerly a bath house at the location, and the spring was capped after it closed down. ... forming a large sinkhole and endangering the building. ... However, it took until 2010 to fully repair the damage and fill in the hole."
+    },
+    "s2": {
+      "title": "Quake left natural gift: a hot spring at City Hall",
+      "url": "https://www.nbcnews.com/news/amp/wbna4485599",
+      "publisher": "Associated Press, via NBC News (March 9, 2004)",
+      "retrieved": "2026-10-05",
+      "quote": "Affectionately known as “The Hole From Hell,” a stinking, steaming, simmering cauldron wafts a rotten-egg fog through City Hall ... local geophysicist Floyd Butterfield ... Butterfield was called to City Hall on Dec. 22 ... Amid the wreckage, emergency crews had spotted what they assumed as a busted sewer line — what else could it be with that horrible reek? But Butterfield’s nose knew better, and the steam rising from the little gusher confirmed it — this was a geothermal spring. ... They dug through the floor of a former bath house and then its brick foundation. ... Backhoes hauled away load after load of liquefied mud, as the pit consumed an 80-foot wide, 25-foot deep chunk of the parking lot ... dug a half-mile trench to pipe the water to the nearby Salinas River."
+    }
+  },
+  "topics": [
+    "earthquakes",
+    "hot springs",
+    "odd facts"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "san simeon earthquake",
+    "hot springs",
+    "city hall"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.62555556,
+    "lon": -120.69138889,
+    "radiusMeters": 5000,
+    "name": "Downtown Paso Robles hot springs",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles_Hot_Springs"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

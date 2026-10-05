@@ -1,0 +1,96 @@
+{
+  "id": "ca-town-paso-robles-jesse-james-uncle-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Paso Robles"
+  },
+  "title": "Jesse James's uncle",
+  "text": "One of the founders of Paso Robles, Drury James, was the uncle of the outlaws Jesse and Frank James. Drury James first stopped here on a cattle drive in 1851, found the hot mineral waters, and later set out to make the springs a famous health resort. According to local legend, after a Kentucky bank robbery in 1868 was blamed on them, his nephews came west and spent that winter on his ranch east of town. The story goes that Jesse's health improved in the mineral waters, but no firsthand record has been found that the brothers were ever here.",
+  "sentences": [
+    {
+      "text": "One of the founders of Paso Robles, Drury James, was the uncle of the outlaws Jesse and Frank James.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Drury James first stopped here on a cattle drive in 1851, found the hot mineral waters, and later set out to make the springs a famous health resort.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "According to local legend, after a Kentucky bank robbery in 1868 was blamed on them, his nephews came west and spent that winter on his ranch east of town.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The story goes that Jesse's health improved in the mineral waters, but no firsthand record has been found that the brothers were ever here.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Paso Robles Hot Springs",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles_Hot_Springs",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1364831481",
+      "quote": "In 1860, Drury Woodson James, who happened to be the uncle of Frank and Jesse James purchased a tract of land nearby and in 1869, purchased a portion of the townsite of Paso Robles from the Blackburn brothers."
+    },
+    "s2": {
+      "title": "Jesse & Frank James",
+      "url": "https://www.pasorobleshistorymuseum.org/jess",
+      "publisher": "Paso Robles Historical Society",
+      "retrieved": "2026-10-05",
+      "quote": "He was also the nephew of one of the founders of Paso Robles, Drury Woodson James ... It is generally known, however, that the James boys did stay with their Uncle Drury on his La Panza Ranch east of the budding town of “Hot Springs” through the winter of 1868-1869 ... In the Spring of 1868, when a bank robbery in Russellville, Kentucky was attributed to both Frank and Jesse, the boys headed out to California. ... According to legend, Jesse’s health did improve while in the Paso Robles area due to the mineral waters’ healing properties. ... Disclaimer: No first-hand or primary documentary evidence has been found to verify that Frank or Jesse James were physically present in Paso Robles or on the La Panza Ranch during 1868 - 1869."
+    },
+    "s3": {
+      "title": "Drury Woodson James",
+      "url": "https://pasorobleshistorymuseum.org/about-5",
+      "publisher": "Paso Robles Historical Society",
+      "retrieved": "2026-10-05",
+      "quote": "It was on one of these trips, in 1851, that Mr. James first stopped in Paso Robles and it was here that he discovered the hot mineral waters, a wonderful reprieve for a weary traveler. ... Having known the curative powers of the waters from his early journeys through this vicinity, Mr. James visualized the possibilities of a famous health resort and worked diligently toward that end."
+    }
+  },
+  "topics": [
+    "history",
+    "people",
+    "legends"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [
+    "crime"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "jesse james",
+    "drury james",
+    "outlaws",
+    "hot springs"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.628513,
+    "lon": -120.650356,
+    "radiusMeters": 8000,
+    "name": "Paso Robles",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

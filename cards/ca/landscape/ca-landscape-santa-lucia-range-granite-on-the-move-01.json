@@ -1,0 +1,104 @@
+{
+  "id": "ca-landscape-santa-lucia-range-granite-on-the-move-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "santa-lucia-range",
+    "name": "Santa Lucia Range"
+  },
+  "title": "Granite on the move",
+  "text": "The Santa Lucia Range, the mountains around Adelaida, has a core of granite on a slab of the earth's crust that lies west of the San Andreas Fault and is still moving northwest along it. Over roughly the past 30 million years, slivers of that granite have been carried northwest from where it formed. Where that was is still debated: it has been matched to the Sierra Nevada, but some geologists say it looks more like granite from the Mojave Desert.",
+  "sentences": [
+    {
+      "text": "The Santa Lucia Range, the mountains around Adelaida, has a core of granite on a slab of the earth's crust that lies west of the San Andreas Fault and is still moving northwest along it.",
+      "sources": [
+        "s4",
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Over roughly the past 30 million years, slivers of that granite have been carried northwest from where it formed.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Where that was is still debated: it has been matched to the Sierra Nevada, but some geologists say it looks more like granite from the Mojave Desert.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Santa Lucia Range",
+      "url": "https://en.wikipedia.org/wiki/Santa_Lucia_Range",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1369703368",
+      "quote": "The rock of the Santa Lucias is dominated by granitic basement of the Salinian Block, between the San Andreas Fault and Sur-Nacimiento Fault."
+    },
+    "s2": {
+      "title": "Salinian Block",
+      "url": "https://en.wikipedia.org/wiki/Salinian_Block",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1314412442",
+      "quote": "The Salinian Block or Salinian terrane is a geologic terrane which lies west of the main trace of the San Andreas Fault system in California. ... The block's granitic core, fragments of the batholith of the Peninsular Ranges, shares its origins with the  Sierra Nevada mountains far to the east. During the past 30 million years the North American Plate has been overriding the East Pacific Rise and transform faulting along the developing San Andreas fault zone. Successive \"stretched out\" slivers of the Sierra Nevada - the Peninsular Batholith - have been moving to the northwest to their current location, which movement continues. ... In the years since the 1974 study by Johnson and Normark the connection with the southern Sierra Nevada has been questioned, stating that \"it more nearly resembles granite in the Mojave Desert\"."
+    },
+    "s3": {
+      "title": "Fission-track ages of sphene and apatite of granitic rocks of the Salinian block, Coast Ranges, California",
+      "url": "https://pubs.usgs.gov/publication/70232782",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "The overall pattern of the sphene and apatite fission-track ages, distinctly different from that of the central Sierra Nevada, may be a \"fingerprint\" of correlative value in locating the parent terrane of the \"ripped-off\" Salinian block."
+    },
+    "s4": {
+      "title": "Adelaida, California",
+      "url": "https://en.wikipedia.org/wiki/Adelaida,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376495774",
+      "quote": "Adelaida lies in the Santa Lucia Range about 10 miles (16 km) west of Paso Robles"
+    }
+  },
+  "topics": [
+    "geology",
+    "mountains",
+    "faults"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "santa lucia range",
+    "san andreas fault",
+    "granite",
+    "adelaida"
+  ],
+  "pronunciations": {
+    "Santa Lucia": "SAN-tuh loo-SEE-uh, IPA sæntə luˈsiːə"
+  },
+  "followOn": [
+    "ca-landscape-san-andreas-fault-locked-south-of-cholame-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.64555556,
+    "lon": -120.87361111,
+    "radiusMeters": 20000,
+    "name": "Adelaida",
+    "source": "https://en.wikipedia.org/wiki/Adelaida,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 1
+  }
+}

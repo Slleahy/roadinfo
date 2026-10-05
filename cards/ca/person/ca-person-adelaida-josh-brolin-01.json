@@ -1,0 +1,89 @@
+{
+  "id": "ca-person-adelaida-josh-brolin-01",
+  "level": "person",
+  "anchor": {
+    "type": "place",
+    "name": "Adelaida"
+  },
+  "title": "Josh Brolin grew up out here",
+  "text": "Josh Brolin, who played Thanos in the Avengers films and starred in No Country for Old Men, was raised on a ranch in the Adelaida area west of Paso Robles. He went to elementary and middle school in Templeton, and moved to the Santa Barbara area at about the age of eleven. His first big film role was Brandon Walsh in The Goonies, in 1985. He was later nominated for an Academy Award for his part in the film Milk.",
+  "sentences": [
+    {
+      "text": "Josh Brolin, who played Thanos in the Avengers films and starred in No Country for Old Men, was raised on a ranch in the Adelaida area west of Paso Robles.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "He went to elementary and middle school in Templeton, and moved to the Santa Barbara area at about the age of eleven.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "His first big film role was Brandon Walsh in The Goonies, in 1985.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He was later nominated for an Academy Award for his part in the film Milk.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Josh Brolin",
+      "url": "https://en.wikipedia.org/wiki/Josh_Brolin",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1375644488",
+      "quote": "Josh James Brolin (/ˈbroʊlɪn/; born February 12, 1968) is an American actor. A son of actor James Brolin, he gained fame in his youth for his role in the adventure film The Goonies (1985). Brolin had a resurgence with his starring role in the crime film No Country for Old Men (2007). Brolin received a nomination for the Academy Award for Best Supporting Actor for portraying Dan White in the biopic Milk (2008). ... He gained wider recognition for playing Thanos in the Marvel Cinematic Universe (MCU), including in the films Avengers: Infinity War (2018) and Avengers: Endgame (2019) ... Brolin was raised on a ranch in the Adelaida area of Paso Robles, attending elementary and middle school in Templeton, California. Brolin moved to the Santa Barbara area around the age of 11 ... landing a more notable role as Brandon Walsh in the Richard Donner-directed film The Goonies (1985)."
+    },
+    "s2": {
+      "title": "Adelaida, California",
+      "url": "https://en.wikipedia.org/wiki/Adelaida,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376495774",
+      "quote": "Adelaida lies in the Santa Lucia Range about 10 miles (16 km) west of Paso Robles"
+    }
+  },
+  "topics": [
+    "people",
+    "film"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "josh brolin",
+    "adelaida",
+    "the goonies",
+    "actors"
+  ],
+  "pronunciations": {
+    "Brolin": "BROH-lin, IPA ˈbroʊlɪn"
+  },
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.64555556,
+    "lon": -120.87361111,
+    "radiusMeters": 8000,
+    "name": "Adelaida",
+    "source": "https://en.wikipedia.org/wiki/Adelaida,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

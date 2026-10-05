@@ -1,0 +1,87 @@
+{
+  "id": "ca-town-adelaida-mining-town-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Adelaida"
+  },
+  "title": "The town that moved to Paso Robles",
+  "text": "Adelaida was once a busy mining town, kept going in the 1880s by two mercury mines, the Klau and the Buena Vista. It had a saloon, a dance hall and a general store, and its post office lasted from 1877 to 1936. Most of its businesses later moved to Paso Robles, even though the mines kept running until about 1970. What is left of old Adelaida is the cemetery and a 1917 schoolhouse on Chimney Rock Road, which stayed open until 1964.",
+  "sentences": [
+    {
+      "text": "Adelaida was once a busy mining town, kept going in the 1880s by two mercury mines, the Klau and the Buena Vista.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It had a saloon, a dance hall and a general store, and its post office lasted from 1877 to 1936.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Most of its businesses later moved to Paso Robles, even though the mines kept running until about 1970.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "What is left of old Adelaida is the cemetery and a 1917 schoolhouse on Chimney Rock Road, which stayed open until 1964.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Adelaida, California",
+      "url": "https://en.wikipedia.org/wiki/Adelaida,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376495774",
+      "quote": "The community had a post office from 1877 to 1936. ... In the 1880s, the population of Adelaida was approximately 500, supported by the prospering Klau and Buena Vista mercury mines.  The town boasted a community center, saloon, dance hall, general store, and four schools. ... The Adelaida School, located near the entrance to the Osgood Ranch on Chimney Rock Road, was built in 1917. ... This school and the Adelaida Road cemetery are all that is left of old Adelaida. The Adelaida School remained open until 1964 ... Although the quicksilver mines were in operation into the 1970s, most of the local businesses had long since relocated to Paso Robles."
+    },
+    "s2": {
+      "title": "San Luis Obispo, Calif. mine added to Superfund list",
+      "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/f1a42c124cfe4b428525715500731e92.html",
+      "publisher": "U.S. Environmental Protection Agency",
+      "retrieved": "2026-10-05",
+      "quote": "The Buena Vista and adjacent Klau Mine operated from 1868 through 1970 mining mercury and processing ore."
+    }
+  },
+  "topics": [
+    "history",
+    "mining"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "adelaida",
+    "mercury mining",
+    "ghost towns",
+    "chimney rock road"
+  ],
+  "followOn": [
+    "ca-town-adelaida-mercury-in-the-creek-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.64555556,
+    "lon": -120.87361111,
+    "radiusMeters": 8000,
+    "name": "Adelaida",
+    "source": "https://en.wikipedia.org/wiki/Adelaida,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

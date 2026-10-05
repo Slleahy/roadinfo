@@ -1,0 +1,113 @@
+{
+  "id": "ca-town-paso-robles-oldest-watering-place-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Paso Robles"
+  },
+  "title": "California's oldest watering place",
+  "text": "Paso Robles grew up around hot sulfur springs, and Spanish explorers recorded that the local Indigenous people were already using the hot springs and hot mud. The town has long been called California's oldest watering place. The first hotel and bathhouse at the springs went up in 1864. By 1868, visitors were coming from as far as Nevada, Oregon and Idaho for the mud baths. In 1882 the owners advertised the springs as the Only Natural Mud Baths in the World.",
+  "sentences": [
+    {
+      "text": "Paso Robles grew up around hot sulfur springs, and Spanish explorers recorded that the local Indigenous people were already using the hot springs and hot mud.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The town has long been called California's oldest watering place.",
+      "sources": [
+        "s1",
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "The first hotel and bathhouse at the springs went up in 1864.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "By 1868, visitors were coming from as far as Nevada, Oregon and Idaho for the mud baths.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "In 1882 the owners advertised the springs as the Only Natural Mud Baths in the World.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Paso Robles Hot Springs",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles_Hot_Springs",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1364831481",
+      "quote": "There are records by Spanish explorers that the hot springs and hot mud deposits were used by the local Indigenous peoples. As long ago as 1795, Paso Robles has been described as \"California's oldest watering place\", as a place with plentiful hot sulphur springs and natural mud baths. ... The first mineral spring bath house, the El Paso de Robles Hotel, was built in the town of Paso Robles in 1864. ... By 1868, travelers were already arriving from Nevada, Oregon, and Idaho to visit the mud baths and the Sand Spring and Iron Spring at Paso Robles. In 1882, the two published an advertising brochure titled, El Paso de Robles Hot and Cold Sulphur Springs and the Only Natural Mud Baths in the World."
+    },
+    "s2": {
+      "title": "Paso Robles, California",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377211382",
+      "quote": "The modern town developed around mineral springs and the railroad and incorporated in 1889. ... Development around the hot springs included a hotel and baths in 1864."
+    },
+    "s3": {
+      "title": "Nobody Asked Me, But... No. 269 Hotel History: Paso Robles Inn (1891)",
+      "url": "https://www.hotel-online.com/news/nobody-asked-me-but-no-269-hotel-history-paso-robles-inn-1891-stanley-turkel-cmhs",
+      "publisher": "Hotel Online (Stanley Turkel)",
+      "retrieved": "2026-10-05",
+      "quote": "In 1864, the 14-room Hot Springs Hotel was built and operated in conjunction with the hot and cold sulphur springs. ... As far back as 1795, Paso Robles has been known as California’s oldest watering place. By 1868, people came from Oregon, Nevada, Idaho and Alabama to enjoy the hot springs, mud baths and the iron and sand springs."
+    },
+    "s4": {
+      "title": "California's Oldest Watering Place",
+      "url": "https://pasorobleshistorymuseum.org/copy-of-black-pioneers-of-paso-robles",
+      "publisher": "Paso Robles Historical Society",
+      "retrieved": "2026-10-05",
+      "quote": "California's Oldest Watering Place | Paso Robles Historical Society"
+    }
+  },
+  "topics": [
+    "history",
+    "hot springs"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "hot springs",
+    "mud baths",
+    "resorts"
+  ],
+  "followOn": [
+    "ca-town-paso-robles-fireproof-hotel-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.628513,
+    "lon": -120.650356,
+    "radiusMeters": 8000,
+    "name": "Paso Robles",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

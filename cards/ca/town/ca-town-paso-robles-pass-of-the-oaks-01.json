@@ -1,0 +1,87 @@
+{
+  "id": "ca-town-paso-robles-pass-of-the-oaks-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Paso Robles"
+  },
+  "title": "The Pass of the Oaks",
+  "text": "Paso Robles is short for the city's official name, El Paso de Robles, which is Spanish for the Pass of the Oaks. The name goes back to the mission era, when travelers between Mission San Miguel and Mission San Luis Obispo gave it. In 1844 the Mexican governor granted a ranch by that name, Rancho Paso de Robles. That old grant took in the land where Paso Robles, Templeton and Adelaida stand today.",
+  "sentences": [
+    {
+      "text": "Paso Robles is short for the city's official name, El Paso de Robles, which is Spanish for the Pass of the Oaks.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The name goes back to the mission era, when travelers between Mission San Miguel and Mission San Luis Obispo gave it.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1844 the Mexican governor granted a ranch by that name, Rancho Paso de Robles.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "That old grant took in the land where Paso Robles, Templeton and Adelaida stand today.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Paso Robles, California",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377211382",
+      "quote": "Paso Robles, officially El Paso de Robles, is a city in San Luis Obispo County, California ... The official name, El Paso de Robles, means \"Pass of the Oaks\" in Spanish and is commonly shortened to Paso Robles. ... Mexican governor Manuel Micheltorena granted Rancho Paso de Robles to Pedro Narváez in 1844"
+    },
+    "s2": {
+      "title": "Paso Robles AVA",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles_AVA",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1364648339",
+      "quote": "The name of the area dates from the late 18th Century, the missionary settlement period. The full Spanish name is \"El Paso de Robles\" ... or \"the Pass of the Oaks.\" This name was given by travelers between the San Miguel mission, located within the boundaries of the viticultural area, and Mission San Luis Obispo. A land grant, in this name, was conveyed by Governor Micheltorena to Pedro Narvaez on May 12, 1844. This land grant includes the present areas of Paso Robles, Templeton, and Adelaida."
+    }
+  },
+  "topics": [
+    "history",
+    "names"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "el paso de robles",
+    "place names",
+    "rancho paso de robles"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.628513,
+    "lon": -120.650356,
+    "radiusMeters": 8000,
+    "name": "Paso Robles",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

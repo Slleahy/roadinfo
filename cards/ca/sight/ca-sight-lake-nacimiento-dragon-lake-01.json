@@ -1,0 +1,94 @@
+{
+  "id": "ca-sight-lake-nacimiento-dragon-lake-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.75861111,
+    "lon": -120.885,
+    "reachMeters": 15000,
+    "name": "Lake Nacimiento"
+  },
+  "title": "Dragon Lake",
+  "text": "Lake Nacimiento, northwest of Paso Robles, is a reservoir on the Nacimiento River, known locally as Dragon Lake for its shape. The lake lies in San Luis Obispo County, but the dam is owned and run by Monterey County's water agency. Its main job is to catch winter floods and let the water out slowly, so it can soak into the underground water that Salinas Valley farms depend on.",
+  "sentences": [
+    {
+      "text": "Lake Nacimiento, northwest of Paso Robles, is a reservoir on the Nacimiento River, known locally as Dragon Lake for its shape.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The lake lies in San Luis Obispo County, but the dam is owned and run by Monterey County's water agency.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "Its main job is to catch winter floods and let the water out slowly, so it can soak into the underground water that Salinas Valley farms depend on.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Nacimiento Dam",
+      "url": "https://en.wikipedia.org/wiki/Nacimiento_Dam",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1362095851",
+      "quote": "Nacimiento Dam is a dam on the Nacimiento River about 10 miles (16 km) northwest of Paso Robles, California in the United States. The primary purpose of the dam is to provide groundwater recharge for agriculture in Monterey County and northern San Luis Obispo County supported by the Salinas Valley aquifer ... It forms Lake Nacimiento, popular for boating, fishing and camping, and known locally as the \"Dragon Lake\" due to its shape. Although located in San Luis Obispo County, the Nacimiento Dam and nearby San Antonio Dam, which forms Lake San Antonio, are both owned and operated by the Monterey County Water Resources Agency. ... proposed a reservoir on the Nacimiento River to capture winter floods, and release it at a low enough rate throughout the year to maximize groundwater recharge."
+    },
+    "s2": {
+      "title": "Lake Nacimiento",
+      "url": "https://en.wikipedia.org/wiki/Lake_Nacimiento",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376971595",
+      "quote": "Lake Nacimiento is an 18-mile (29 km) long reservoir on the Nacimiento River in northern San Luis Obispo County, California. ... Due to the dragon-like shape created by the positions of these arms, it is sometimes referred to as Dragon Lake."
+    },
+    "s3": {
+      "title": "Nacimiento Water Project",
+      "url": "https://www.slocounty.ca.gov/departments/public-works/current-public-works-projects/nacimiento-water-project",
+      "publisher": "County of San Luis Obispo, Department of Public Works",
+      "retrieved": "2026-10-05",
+      "quote": "The Nacimiento Water Project intake facility is located at Lake Nacimiento, just north of the Nacimiento Dam spillway, in north San Luis Obispo County."
+    }
+  },
+  "topics": [
+    "water",
+    "lakes"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "lake nacimiento",
+    "nacimiento river",
+    "monterey county",
+    "dragon lake",
+    "reservoirs"
+  ],
+  "followOn": [
+    "ca-sight-lake-nacimiento-water-for-paso-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.75861111,
+    "lon": -120.885,
+    "radiusMeters": 15000,
+    "name": "Nacimiento Dam",
+    "source": "https://en.wikipedia.org/wiki/Nacimiento_Dam"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 1
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "ca-town-paso-robles-fireproof-hotel-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Paso Robles"
+  },
+  "title": "The fireproof hotel",
+  "text": "In 1891 a new hotel opened at the Paso Robles hot springs, the El Paso de Robles Hotel, and it was declared to be absolutely fireproof. It had a large garden, a golf course and a hot springs plunge bath. Theodore Roosevelt visited, and the Pittsburgh Pirates and the Chicago White Sox stayed there when they held spring training in Paso Robles. In 1940 a fire destroyed the fireproof hotel. By February 1942 a new Paso Robles Inn had opened, and it remains one of the town's hot springs resorts.",
+  "sentences": [
+    {
+      "text": "In 1891 a new hotel opened at the Paso Robles hot springs, the El Paso de Robles Hotel, and it was declared to be absolutely fireproof.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It had a large garden, a golf course and a hot springs plunge bath.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Theodore Roosevelt visited, and the Pittsburgh Pirates and the Chicago White Sox stayed there when they held spring training in Paso Robles.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 1940 a fire destroyed the fireproof hotel.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "By February 1942 a new Paso Robles Inn had opened, and it remains one of the town's hot springs resorts.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Nobody Asked Me, But... No. 269 Hotel History: Paso Robles Inn (1891)",
+      "url": "https://www.hotel-online.com/news/nobody-asked-me-but-no-269-hotel-history-paso-robles-inn-1891-stanley-turkel-cmhs",
+      "publisher": "Hotel Online (Stanley Turkel)",
+      "retrieved": "2026-10-05",
+      "quote": "In 1891, a magnificent new three-story hotel was built to designs by architect Jacob Leuzen which was declared to be “absolutely fireproof”. The El Paso de Robles Hotel featured a seven-acre garden and a nine-hole golf course. It also contained a 20’x40’ hot springs plunge bath ... During the next twenty-seven years the hotel was visited by U.S. president Theodore Roosevelt ... When Major League baseball teams used Paso Robles for spring training, the Pittsburgh Pirates and Chicago White Sox stayed at the hotel and soaked in the mineral hot springs. Then, in 1940, a spectacular fire completely destroyed the “fire-proof” Paso Robles Hotel. ... by February 1942, a new Paso Robles Inn opened for business."
+    },
+    "s2": {
+      "title": "Paso Robles, California",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377211382",
+      "quote": "A larger hotel and bathhouse opened in 1891."
+    },
+    "s3": {
+      "title": "Paso Robles Hot Springs",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles_Hot_Springs",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1364831481",
+      "quote": "In 1940, the Inn burned down. ... As of 2023, there are three commercial hot springs facilities that remain: Franklin Hot Springs, Paso Robles Inn, and River Oaks Hot Springs."
+    }
+  },
+  "topics": [
+    "history",
+    "hot springs",
+    "architecture"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "paso robles inn",
+    "el paso de robles hotel",
+    "hot springs",
+    "fire"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.628513,
+    "lon": -120.650356,
+    "radiusMeters": 8000,
+    "name": "Paso Robles",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

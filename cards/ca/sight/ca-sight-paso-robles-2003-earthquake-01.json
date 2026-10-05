@@ -1,0 +1,118 @@
+{
+  "id": "ca-sight-paso-robles-2003-earthquake-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.62555556,
+    "lon": -120.69138889,
+    "reachMeters": 5000,
+    "name": "Downtown Paso Robles"
+  },
+  "title": "The day downtown fell",
+  "text": "Downtown Paso Robles took the worst of the San Simeon earthquake, which struck at a quarter past eleven on the morning of December 22, 2003. The magnitude 6.5 quake was centered in the Santa Lucia Mountains near San Simeon, {distance} from here, and the break in the fault ran southeast toward Paso Robles. Two women were killed when the Acorn Building, an unreinforced masonry building from 1892, collapsed. Some old masonry buildings that had been strengthened against earthquakes came through standing. Afterward California passed Jenna's Bill, named for one of the women who died, requiring warning notices on old masonry buildings that have not been strengthened.",
+  "sentences": [
+    {
+      "text": "Downtown Paso Robles took the worst of the San Simeon earthquake, which struck at a quarter past eleven on the morning of December 22, 2003.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The magnitude 6.5 quake was centered in the Santa Lucia Mountains near San Simeon, {distance} from here, and the break in the fault ran southeast toward Paso Robles.",
+      "sources": [
+        "s1",
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "text": "Two women were killed when the Acorn Building, an unreinforced masonry building from 1892, collapsed.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Some old masonry buildings that had been strengthened against earthquakes came through standing.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Afterward California passed Jenna's Bill, named for one of the women who died, requiring warning notices on old masonry buildings that have not been strengthened.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Preliminary Report on the 22 December 2003, M 6.5 San Simeon, California Earthquake",
+      "url": "https://www.cisn.org/special/evt.03.12.22/prelimreport.html",
+      "publisher": "California Integrated Seismic Network",
+      "retrieved": "2026-10-05",
+      "quote": "A magnitude 6.5 earthquake struck the central California coast on December 22, 2003 at 11:15:56 am (PST). The event was located 11 km NE of San Simeon, and 39 km WNW of Paso Robles, where the brunt of the damage and casualties occurred. Two deaths have been confirmed due to a building collapse in Paso Robles. ... Some unreinforced masonry structures that had been retrofitted survived the earthquake. ... Line source calculations reveal that the earthquake ruptured primarily to the SE in the direction toward Paso Robles."
+    },
+    "s2": {
+      "title": "2003 San Simeon earthquake",
+      "url": "https://en.wikipedia.org/wiki/2003_San_Simeon_earthquake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1367242737",
+      "quote": "The 2003 San Simeon earthquake struck at 11:15 PST (19:15 UTC) on December 22 on the Central Coast of California, about 7 miles (11 km) northeast of San Simeon. Probably centered in the Oceanic fault zone within the Santa Lucia Mountains ... Two women were killed when the Acorn Building, an unreinforced masonry structure built in 1892, collapsed. ... No structure that had even partial retrofitting collapsed. ... requiring that certain unreinforced masonry buildings that have not been seismically retrofitted have posted notice of the potential earthquake hazard. The law was called Jenna's Bill, after Jennifer Myrick, who died in the quake."
+    },
+    "s4": {
+      "title": "M 6.5 - 10 km NE of San Simeon, California",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc21323712",
+      "publisher": "U.S. Geological Survey, ANSS Comprehensive Catalog",
+      "retrieved": "2026-10-05",
+      "quote": "M 6.5 - 10 km NE of San Simeon, California",
+      "table": "USGS ComCat event nc21323712, magnitude 6.5 Mw"
+    }
+  },
+  "topics": [
+    "earthquakes",
+    "history",
+    "disasters"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "san simeon earthquake",
+    "2003 earthquake",
+    "acorn building",
+    "unreinforced masonry"
+  ],
+  "followOn": [
+    "ca-sight-paso-robles-hole-from-hell-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.62555556,
+    "lon": -120.69138889,
+    "radiusMeters": 5000,
+    "name": "Downtown Paso Robles hot springs",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles_Hot_Springs"
+  },
+  "elsewhere": {
+    "name": "San Simeon earthquake epicenter",
+    "lat": 35.62,
+    "lon": -121.07,
+    "source": "https://en.wikipedia.org/wiki/2003_San_Simeon_earthquake"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

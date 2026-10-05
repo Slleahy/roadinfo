@@ -1,0 +1,89 @@
+{
+  "id": "ca-landscape-paso-robles-wine-country-adelaida-district-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "paso-robles-wine-country",
+    "name": "Paso Robles wine country"
+  },
+  "title": "The Adelaida District",
+  "text": "Chimney Rock Road and Nacimiento Lake Drive form part of the boundary of the Adelaida District, the wine district in the far western part of the Paso Robles region. The district climbs the Santa Lucia Range, from foothills at about 900 feet to high slopes at about 2,200 feet. Here the ocean's influence is modest, with light sea breezes and little fog. Its soils are thin, lying on bedrock, and much of it is calcareous, meaning rich in lime.",
+  "sentences": [
+    {
+      "text": "Chimney Rock Road and Nacimiento Lake Drive form part of the boundary of the Adelaida District, the wine district in the far western part of the Paso Robles region.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The district climbs the Santa Lucia Range, from foothills at about 900 feet to high slopes at about 2,200 feet.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Here the ocean's influence is modest, with light sea breezes and little fog.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Its soils are thin, lying on bedrock, and much of it is calcareous, meaning rich in lime.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Establishment of the Adelaida District, Creston District, El Pomar District, Paso Robles Estrella District, Paso Robles Geneseo District, Paso Robles Highlands District, Paso Robles Willow Creek District, San Juan Creek, San Miguel District, Santa Margarita Ranch, and Templeton Gap District Viticultural Areas (T.D. TTB-125)",
+      "url": "https://www.federalregister.gov/documents/full_text/html/2014/10/09/2014-24169.html",
+      "publisher": "Alcohol and Tobacco Tax and Trade Bureau, Federal Register 79 FR 60945",
+      "retrieved": "2026-10-05",
+      "quote": "§ 9.238 Adelaida District. ... Proceed easterly on San Miguel Road (locally known as Chimney Rock Road, then Nacimiento Lake Drive, then Godfrey Road, and then San Marcos Road) ... Proposed Adelaida District Region II-III transitional area with modest marine influence (light sea breezes and little marine fog) 25 30 Santa Lucia Range high mountain slopes grading to foothills; 900-2200 feet Shallow, bedrock residual soils and patchy colluvial hillside soils from middle member of Monterey Formation and older rocks; largely calcareous soils."
+    },
+    "s2": {
+      "title": "Adelaida, California",
+      "url": "https://en.wikipedia.org/wiki/Adelaida,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376495774",
+      "quote": "The district covers about 53,000 acres (21,448 ha) in the westernmost part of the Paso Robles area ... It is characterized by high rolling slopes at elevations between 900 and 2,200 feet (274 and 671 m), a modest marine influence"
+    }
+  },
+  "topics": [
+    "wine",
+    "geology",
+    "roads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "adelaida",
+    "wine",
+    "chimney rock road",
+    "santa lucia range"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.64555556,
+    "lon": -120.87361111,
+    "radiusMeters": 10000,
+    "name": "Adelaida",
+    "source": "https://en.wikipedia.org/wiki/Adelaida,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ca-landscape-paso-robles-wine-country-hot-days-cold-nights-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "paso-robles-wine-country",
+    "name": "Paso Robles wine country"
+  },
+  "title": "Hot days, cold nights",
+  "text": "Summer days in Paso Robles are hot: at the airport, the average high in July is about 93 degrees. But the nights are much cooler, and across the wine region the gap between a growing-season day's high and that night's low runs from 20 to 50 degrees. The climate is set by the sea in the west and turns more continental, less touched by the ocean, toward the east.",
+  "sentences": [
+    {
+      "text": "Summer days in Paso Robles are hot: at the airport, the average high in July is about 93 degrees.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "But the nights are much cooler, and across the wine region the gap between a growing-season day's high and that night's low runs from 20 to 50 degrees.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The climate is set by the sea in the west and turns more continental, less touched by the ocean, toward the east.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00093209&dataTypes=MLY-TMAX-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-05",
+      "quote": "MLY-TMAX-NORMAL, DATE 07, 1991-2020, PASO ROBLES MUNI AP: 93.2 degrees F",
+      "table": "NOAA Climate Normals 1991-2020 monthly, USW00093209, MLY-TMAX-NORMAL"
+    },
+    "s2": {
+      "title": "Establishment of the Adelaida District, Creston District, El Pomar District, Paso Robles Estrella District, Paso Robles Geneseo District, Paso Robles Highlands District, Paso Robles Willow Creek District, San Juan Creek, San Miguel District, Santa Margarita Ranch, and Templeton Gap District Viticultural Areas (T.D. TTB-125)",
+      "url": "https://www.federalregister.gov/documents/full_text/html/2014/10/09/2014-24169.html",
+      "publisher": "Alcohol and Tobacco Tax and Trade Bureau, Federal Register 79 FR 60945",
+      "retrieved": "2026-10-05",
+      "quote": "Paso Robles Maritime climate becoming more continental to the east, with growing degree-day Regions II, III and IV 8-30 20-50"
+    }
+  },
+  "topics": [
+    "wine",
+    "climate"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1991-2020",
+  "themeKeys": [
+    "paso robles",
+    "wine",
+    "climate",
+    "temperature swing"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6071502,
+    "lon": -120.6081466,
+    "radiusMeters": 30000,
+    "name": "Paso Robles wine country",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles_AVA"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 1
+  }
+}

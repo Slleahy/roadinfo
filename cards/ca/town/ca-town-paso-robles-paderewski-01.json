@@ -1,0 +1,102 @@
+{
+  "id": "ca-town-paso-robles-paderewski-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Paso Robles"
+  },
+  "title": "The pianist who stayed",
+  "text": "In 1913 the Polish concert pianist Ignacy Paderewski came to Paso Robles to treat his arthritis in the hot springs. After three months he went back on tour, and in 1914 he bought ranch land west of town. He planted Zinfandel there, the grape the Paso Robles wine region still calls its heritage variety. Paderewski was also a Polish statesman, and he kept his Paso Robles land until his death in 1941. The town holds a Paderewski Festival in his memory.",
+  "sentences": [
+    {
+      "text": "In 1913 the Polish concert pianist Ignacy Paderewski came to Paso Robles to treat his arthritis in the hot springs.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "After three months he went back on tour, and in 1914 he bought ranch land west of town.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "He planted Zinfandel there, the grape the Paso Robles wine region still calls its heritage variety.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Paderewski was also a Polish statesman, and he kept his Paso Robles land until his death in 1941.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The town holds a Paderewski Festival in his memory.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Nobody Asked Me, But... No. 269 Hotel History: Paso Robles Inn (1891)",
+      "url": "https://www.hotel-online.com/news/nobody-asked-me-but-no-269-hotel-history-paso-robles-inn-1891-stanley-turkel-cmhs",
+      "publisher": "Hotel Online (Stanley Turkel)",
+      "retrieved": "2026-10-05",
+      "quote": "In 1913, the world-famous Polish concert pianist, Ignace Paderewski, visited the Paso Robles Hotel. After three months of treatment at the hotel’s mineral hot springs for arthritis, he resumed his concert tour. He later returned to live at the hotel and bought two beautiful ranches just west of Paso Robles where he produced award-winning wines."
+    },
+    "s2": {
+      "title": "Paso Robles, California",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377211382",
+      "quote": "The pianist and Polish statesman Ignacy Jan Paderewski bought ranch property near Paso Robles in February 1914 and retained it until his death in 1941. ... The Paderewski Festival commemorates the pianist's association with the area."
+    },
+    "s3": {
+      "title": "Paso Robles AVA",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles_AVA",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1364648339",
+      "quote": "In 1914, Ignacy Jan Paderewski, the famous Polish pianist, conductor, and statesman, established a vineyard on his ranch. The Zinfandel grape was introduced to the area in this vineyard. ... The Paso Robles AVA is still acknowledged for its heritage grape, Zinfandel"
+    }
+  },
+  "topics": [
+    "people",
+    "history",
+    "wine",
+    "music"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "paderewski",
+    "zinfandel",
+    "hot springs",
+    "poland"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.628513,
+    "lon": -120.650356,
+    "radiusMeters": 8000,
+    "name": "Paso Robles",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

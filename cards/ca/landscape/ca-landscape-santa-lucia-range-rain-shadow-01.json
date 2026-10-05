@@ -1,0 +1,116 @@
+{
+  "id": "ca-landscape-santa-lucia-range-rain-shadow-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "santa-lucia-range",
+    "name": "Santa Lucia Range"
+  },
+  "title": "Wet side, dry side",
+  "text": "The Santa Lucia Range, the mountains around Adelaida, catches the Pacific's moisture on its western slopes and leaves the valley to its east, where Paso Robles lies, much drier. Here on the drier east side, the slopes carry chaparral and open woods of pine and oak, while the ocean side of the range grows redwoods and Douglas fir. At the Paso Robles airport, only about 12 inches of rain falls in an average year. In the Adelaida wine district, up on the range's slopes, it is about 25 inches.",
+  "sentences": [
+    {
+      "text": "The Santa Lucia Range, the mountains around Adelaida, catches the Pacific's moisture on its western slopes and leaves the valley to its east, where Paso Robles lies, much drier.",
+      "sources": [
+        "s5",
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Here on the drier east side, the slopes carry chaparral and open woods of pine and oak, while the ocean side of the range grows redwoods and Douglas fir.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "At the Paso Robles airport, only about 12 inches of rain falls in an average year.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "In the Adelaida wine district, up on the range's slopes, it is about 25 inches.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Santa Lucia Range",
+      "url": "https://en.wikipedia.org/wiki/Santa_Lucia_Range",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1369703368",
+      "quote": "the mountains' close proximity to the Pacific Ocean causes moisture to be deposited on the west-facing slopes, creating a suitable environment for conifers. This creates a rain shadow over the Salinas Valley to the east, which is considerably drier. ... The western slopes of the range facing the Pacific Ocean are moist with growths of coast redwood, Douglas fir ... The east side is drier, with chaparral and open woods of pine (including Coulter pine and gray pine) and oak woodlands of several Quercus species."
+    },
+    "s2": {
+      "title": "Paso Robles, California",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377211382",
+      "quote": "The city lies along the Salinas River on California's Central Coast."
+    },
+    "s3": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093209&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-05",
+      "quote": "ANN-PRCP-NORMAL, 1991-2020, PASO ROBLES MUNI AP: 12.15 inches",
+      "table": "NOAA Climate Normals 1991-2020, USW00093209"
+    },
+    "s4": {
+      "title": "Establishment of the Adelaida District, Creston District, El Pomar District, Paso Robles Estrella District, Paso Robles Geneseo District, Paso Robles Highlands District, Paso Robles Willow Creek District, San Juan Creek, San Miguel District, Santa Margarita Ranch, and Templeton Gap District Viticultural Areas (T.D. TTB-125)",
+      "url": "https://www.federalregister.gov/documents/full_text/html/2014/10/09/2014-24169.html",
+      "publisher": "Alcohol and Tobacco Tax and Trade Bureau, Federal Register 79 FR 60945",
+      "retrieved": "2026-10-05",
+      "quote": "Proposed Adelaida District Region II-III transitional area with modest marine influence (light sea breezes and little marine fog) 25 30 Santa Lucia Range high mountain slopes grading to foothills; 900-2200 feet"
+    },
+    "s5": {
+      "title": "Adelaida, California",
+      "url": "https://en.wikipedia.org/wiki/Adelaida,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376495774",
+      "quote": "Adelaida lies in the Santa Lucia Range about 10 miles (16 km) west of Paso Robles"
+    }
+  },
+  "topics": [
+    "climate",
+    "plants",
+    "mountains"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1991-2020",
+  "themeKeys": [
+    "santa lucia range",
+    "rain shadow",
+    "paso robles",
+    "adelaida",
+    "climate"
+  ],
+  "pronunciations": {
+    "Santa Lucia": "SAN-tuh loo-SEE-uh, IPA sæntə luˈsiːə"
+  },
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.64555556,
+    "lon": -120.87361111,
+    "radiusMeters": 20000,
+    "name": "Adelaida",
+    "source": "https://en.wikipedia.org/wiki/Adelaida,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

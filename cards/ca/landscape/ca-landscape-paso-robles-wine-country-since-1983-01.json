@@ -1,0 +1,98 @@
+{
+  "id": "ca-landscape-paso-robles-wine-country-since-1983-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "paso-robles-wine-country",
+    "name": "Paso Robles wine country"
+  },
+  "title": "A wine region since 1983",
+  "text": "The vineyards around Paso Robles grow inside the Paso Robles wine region, which the federal government recognized as an official American Viticultural Area in 1983. Commercial winemaking here began in the 1880s, with the Ascension Winery, later called York Mountain Winery. The Paso Robles wine festival began the same year the region was recognized, and growth in the 1990s made wine tourism part of the local economy.",
+  "sentences": [
+    {
+      "text": "The vineyards around Paso Robles grow inside the Paso Robles wine region, which the federal government recognized as an official American Viticultural Area in 1983.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Commercial winemaking here began in the 1880s, with the Ascension Winery, later called York Mountain Winery.",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "text": "The Paso Robles wine festival began the same year the region was recognized, and growth in the 1990s made wine tourism part of the local economy.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Paso Robles AVA",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles_AVA",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1364648339",
+      "quote": "Paso Robles is an American Viticultural Area (AVA) located in northern San Luis Obispo (SLO) County, California. It was established as the nation's 44th, the state's 29th and the county's fourth wine appellation on October 4, 1983 by the Bureau of Alcohol, Tobacco and Firearms (ATF) ... Commercial wine growing, however, was not started until the 1880s with the establishment of Ascension Winery, later known as York Mountain Winery, and today known as Epoch Estate Wines."
+    },
+    "s2": {
+      "title": "27 CFR 9.84 Paso Robles",
+      "url": "https://www.ecfr.gov/current/title-27/chapter-I/subchapter-A/part-9/subpart-C/section-9.84",
+      "publisher": "Electronic Code of Federal Regulations",
+      "retrieved": "2026-10-05",
+      "quote": "The Paso Robles viticultural area is located within San Luis Obispo County, California. ... [T.D. ATF-148, 48 FR 45241 , Oct. 4, 1983"
+    },
+    "s3": {
+      "title": "Paso Robles, California",
+      "url": "https://en.wikipedia.org/wiki/Paso_Robles,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377211382",
+      "quote": "Paso Robles is a center of the surrounding Paso Robles wine region. ... The Paso Robles wine festival began in 1983, the same year that the surrounding region received an American Viticultural Area designation. Further growth during the 1990s helped turn wine tourism into a part of the local economy."
+    },
+    "s4": {
+      "title": "Nobody Asked Me, But... No. 269 Hotel History: Paso Robles Inn (1891)",
+      "url": "https://www.hotel-online.com/news/nobody-asked-me-but-no-269-hotel-history-paso-robles-inn-1891-stanley-turkel-cmhs",
+      "publisher": "Hotel Online (Stanley Turkel)",
+      "retrieved": "2026-10-05",
+      "quote": "Commercial winemaking was introduced to the Paso Robles region in 1882 when Andrew York from Indiana began planting vineyards and established the Ascension Winery, now the Epoch Winery."
+    }
+  },
+  "topics": [
+    "wine",
+    "agriculture",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "paso robles",
+    "wine",
+    "american viticultural area",
+    "vineyards"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.6071502,
+    "lon": -120.6081466,
+    "radiusMeters": 30000,
+    "name": "Paso Robles wine country",
+    "source": "https://en.wikipedia.org/wiki/Paso_Robles_AVA"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 1
+  }
+}

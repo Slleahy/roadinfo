@@ -1,0 +1,98 @@
+{
+  "id": "ca-town-adelaida-mercury-in-the-creek-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Adelaida"
+  },
+  "title": "Mercury in the creek",
+  "text": "On a ridge of the Santa Lucia Range near Adelaida lie the old Klau and Buena Vista mines, which mined and processed mercury ore from 1868 to 1970. Mercury washed off the old workings into Las Tablas Creek and on downstream into Lake Nacimiento. Crews hauled away contaminated material from a drainage channel in 2000, and in 2006 the federal government made the mines a Superfund cleanup site. Because of the mercury, the state warns anglers about eating some kinds of fish from the lake.",
+  "sentences": [
+    {
+      "text": "On a ridge of the Santa Lucia Range near Adelaida lie the old Klau and Buena Vista mines, which mined and processed mercury ore from 1868 to 1970.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Mercury washed off the old workings into Las Tablas Creek and on downstream into Lake Nacimiento.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Crews hauled away contaminated material from a drainage channel in 2000, and in 2006 the federal government made the mines a Superfund cleanup site.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Because of the mercury, the state warns anglers about eating some kinds of fish from the lake.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Adelaida, California",
+      "url": "https://en.wikipedia.org/wiki/Adelaida,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376495774",
+      "quote": "The Klau/Buena Vista Mines site, on a ridge of the Santa Lucia Range about 12 miles (19 km) west of Paso Robles, was taken up by the United States Environmental Protection Agency after mercury and other mine waste, including thallium, iron, cobalt and arsenic, washed from the workings into two tributaries of Las Tablas Creek. The creek carries the contamination about 7 miles (11 km) downstream into Lake Nacimiento. ... removing 120,000 cubic yards (91,747 m3) of polluted material from a drainage channel in 2000"
+    },
+    "s2": {
+      "title": "San Luis Obispo, Calif. mine added to Superfund list",
+      "url": "https://www.epa.gov/archive/epapages/newsroom_archive/newsreleases/f1a42c124cfe4b428525715500731e92.html",
+      "publisher": "U.S. Environmental Protection Agency",
+      "retrieved": "2026-10-05",
+      "quote": "Release Date: 04/19/2006 ... The U.S. Environmental Protection Agency finalized the Klau/Buena Vista Mine outside Paso Robles, Calif. as a federal Superfund site today ... which consists of two abandoned mercury mines on adjacent properties along a ridge of the Santa Lucia Range of mountains. For years, mercury has leached off the site and contaminated local waterways, including the north fork of Tablas Creek and several nearby ponds and reservoirs. State and local authorities have numerous health advisories in place warning anglers of eating mercury-contaminated fish from waterways impacted by the mine. ... The EPA removed 114,000 cubic yards of contaminated materials from the drainage channel in 2000 ... The Buena Vista and adjacent Klau Mine operated from 1868 through 1970 mining mercury and processing ore."
+    },
+    "s3": {
+      "title": "Lake Nacimiento",
+      "url": "https://en.wikipedia.org/wiki/Lake_Nacimiento",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376971595",
+      "quote": "The California Office of Environmental Health Hazard Assessment (OEHHA) has developed a safe eating advisory for Lake Nacimiento, based on levels of mercury found in fish caught from this water body."
+    }
+  },
+  "topics": [
+    "mining",
+    "environment",
+    "water"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "adelaida",
+    "mercury mining",
+    "superfund",
+    "lake nacimiento",
+    "las tablas creek"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.64555556,
+    "lon": -120.87361111,
+    "radiusMeters": 8000,
+    "name": "Adelaida",
+    "source": "https://en.wikipedia.org/wiki/Adelaida,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

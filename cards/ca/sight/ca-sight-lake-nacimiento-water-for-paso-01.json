@@ -1,0 +1,99 @@
+{
+  "id": "ca-sight-lake-nacimiento-water-for-paso-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.75861111,
+    "lon": -120.885,
+    "reachMeters": 15000,
+    "name": "Lake Nacimiento"
+  },
+  "title": "Water for Paso Robles",
+  "text": "Since 2011 a pipeline has carried water from Lake Nacimiento to Paso Robles, Templeton, Atascadero and San Luis Obispo. San Luis Obispo County had secured its share of the lake's water back in 1959, two years after the dam was finished. The Nacimiento River floods readily, so in a wet winter the lake can fill fast from downpours in the Santa Lucia Range upstream. In droughts it can sit low for several years in a row.",
+  "sentences": [
+    {
+      "text": "Since 2011 a pipeline has carried water from Lake Nacimiento to Paso Robles, Templeton, Atascadero and San Luis Obispo.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "San Luis Obispo County had secured its share of the lake's water back in 1959, two years after the dam was finished.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "The Nacimiento River floods readily, so in a wet winter the lake can fill fast from downpours in the Santa Lucia Range upstream.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In droughts it can sit low for several years in a row.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Nacimiento Dam",
+      "url": "https://en.wikipedia.org/wiki/Nacimiento_Dam",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1362095851",
+      "quote": "San Luis Obispo County has a smaller allocation of 17,500 acre-feet (21,600,000 m3) per year which is used for domestic water supply via the Nacimiento Water Project, providing water to Paso Robles, Templeton, Atascadero and San Luis Obispo. Although proposed since the 1950s, the Nacimiento Water Project was not completed until 2011. ... It was completed in 1957. ... Due to the flooding tendency of the Nacimiento River, which has been called \"the most active watershed in the state\", the reservoir can fill quickly to capacity during wet winters. ... In contrast, it is often at low levels for multiple consecutive years during droughts."
+    },
+    "s2": {
+      "title": "Lake Nacimiento",
+      "url": "https://en.wikipedia.org/wiki/Lake_Nacimiento",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376971595",
+      "quote": "In October 2007, construction started on a pipeline to bring water from the lake to Paso Robles, Templeton, Atascadero, and San Luis Obispo. The project went online in January 2011. ... The lake can fill quickly in the winter from river surges resulting from downpours upstream in the Santa Lucia Range"
+    },
+    "s3": {
+      "title": "Nacimiento Water Project",
+      "url": "https://www.slocounty.ca.gov/departments/public-works/current-public-works-projects/nacimiento-water-project",
+      "publisher": "County of San Luis Obispo, Department of Public Works",
+      "retrieved": "2026-10-05",
+      "quote": "In 1959, San Luis Obispo County secured the rights to 17,500 acre-feet of water per year from Lake Nacimiento. ... The Participants in the Project are the City of Paso Robles, Templeton Community Services District, Atascadero Mutual Water Company, the City of San Luis Obispo, and Community Services Area 10, Benefit Zone A. ... The project began operations on January 7, 2011."
+    }
+  },
+  "topics": [
+    "water",
+    "lakes"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "lake nacimiento",
+    "nacimiento water project",
+    "paso robles",
+    "water supply"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.75861111,
+    "lon": -120.885,
+    "radiusMeters": 15000,
+    "name": "Nacimiento Dam",
+    "source": "https://en.wikipedia.org/wiki/Nacimiento_Dam"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}
