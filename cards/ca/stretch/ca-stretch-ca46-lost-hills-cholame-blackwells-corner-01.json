@@ -1,0 +1,307 @@
+{
+ "id": "ca-stretch-ca46-lost-hills-cholame-blackwells-corner-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca46-lost-hills-cholame",
+  "path": [
+   [
+    -119.69429,
+    35.6164
+   ],
+   [
+    -119.70684,
+    35.61599
+   ],
+   [
+    -119.72019,
+    35.6159
+   ],
+   [
+    -119.732,
+    35.61582
+   ],
+   [
+    -119.74308,
+    35.61574
+   ],
+   [
+    -119.75694,
+    35.6157
+   ],
+   [
+    -119.76982,
+    35.61593
+   ],
+   [
+    -119.78258,
+    35.61589
+   ],
+   [
+    -119.7965,
+    35.61579
+   ],
+   [
+    -119.81107,
+    35.61575
+   ],
+   [
+    -119.82324,
+    35.61564
+   ],
+   [
+    -119.84056,
+    35.61546
+   ],
+   [
+    -119.8537,
+    35.6153
+   ],
+   [
+    -119.86503,
+    35.61513
+   ],
+   [
+    -119.87955,
+    35.61487
+   ],
+   [
+    -119.90224,
+    35.61478
+   ],
+   [
+    -119.92137,
+    35.61471
+   ],
+   [
+    -119.9346,
+    35.61464
+   ],
+   [
+    -119.94623,
+    35.61456
+   ],
+   [
+    -119.95932,
+    35.61446
+   ],
+   [
+    -119.97003,
+    35.6172
+   ],
+   [
+    -119.98008,
+    35.62203
+   ],
+   [
+    -119.99114,
+    35.62733
+   ],
+   [
+    -120.00133,
+    35.63221
+   ],
+   [
+    -120.01254,
+    35.63759
+   ],
+   [
+    -120.02223,
+    35.64227
+   ],
+   [
+    -120.03205,
+    35.64726
+   ],
+   [
+    -120.04263,
+    35.65231
+   ],
+   [
+    -120.0532,
+    35.65735
+   ],
+   [
+    -120.06345,
+    35.66228
+   ],
+   [
+    -120.07422,
+    35.66742
+   ],
+   [
+    -120.08533,
+    35.67274
+   ],
+   [
+    -120.09551,
+    35.67763
+   ],
+   [
+    -120.10545,
+    35.68239
+   ],
+   [
+    -120.11656,
+    35.6877
+   ],
+   [
+    -120.12849,
+    35.6934
+   ],
+   [
+    -120.13857,
+    35.69823
+   ],
+   [
+    -120.15027,
+    35.70383
+   ],
+   [
+    -120.15931,
+    35.70977
+   ],
+   [
+    -120.16947,
+    35.7143
+   ],
+   [
+    -120.18068,
+    35.71998
+   ],
+   [
+    -120.19002,
+    35.72484
+   ],
+   [
+    -120.20078,
+    35.72938
+   ],
+   [
+    -120.20942,
+    35.73528
+   ],
+   [
+    -120.21572,
+    35.74299
+   ],
+   [
+    -120.22903,
+    35.74368
+   ],
+   [
+    -120.2406,
+    35.74281
+   ],
+   [
+    -120.25272,
+    35.74153
+   ],
+   [
+    -120.26536,
+    35.73977
+   ],
+   [
+    -120.27687,
+    35.73862
+   ],
+   [
+    -120.2878,
+    35.73634
+   ],
+   [
+    -120.29476,
+    35.72951
+   ],
+   [
+    -120.29638,
+    35.72387
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "James Dean's last stop",
+ "text": "West of Lost Hills, Highway 46 runs almost perfectly straight across the valley floor to Blackwells Corner, where it crosses Highway 33. The corner is named for George Blackwell, who started a rest stop there in 1921. On September 30, 1955, James Dean stopped there briefly for refreshments on his way to a sports car race in Salinas, and met two fellow racers bound for the same event. At about a quarter past five he drove on west on this road, then U.S. Route 466, toward Paso Robles, and crested Polonio Pass.",
+ "sentences": [
+  {
+   "text": "West of Lost Hills, Highway 46 runs almost perfectly straight across the valley floor to Blackwells Corner, where it crosses Highway 33.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "The corner is named for George Blackwell, who started a rest stop there in 1921.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "On September 30, 1955, James Dean stopped there briefly for refreshments on his way to a sports car race in Salinas, and met two fellow racers bound for the same event.",
+   "sources": [
+    "s3"
+   ]
+  },
+  {
+   "text": "At about a quarter past five he drove on west on this road, then U.S. Route 466, toward Paso Robles, and crested Polonio Pass.",
+   "sources": [
+    "s3",
+    "s2"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 46 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_46",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1374511198",
+   "quote": "Once it enters the San Joaquin Valley, SR 46, known as the Paso Robles Highway, follows an almost perfectly straight eastward alignment, crossing SR 33 at Blackwells Corner, passing through the Lost Hills Oil Field"
+  },
+  "s2": {
+   "title": "Blackwells Corner, California (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Blackwells_Corner,_California",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1377763484",
+   "quote": "Blackwells Corner is at the intersection of SR 46 (formerly US 466) and SR 33, and was the last place James Dean was seen alive prior to his death in a car wreck. The name honors George Blackwell, who started a rest stop there in 1921."
+  },
+  "s3": {
+   "title": "Death of James Dean (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Death_of_James_Dean",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1377687170",
+   "quote": "was traveling to a sports car racing competition in Salinas, California ... At Blackwells Corner, Dean stopped briefly for refreshments and met fellow racers Lance Reventlow and Bruce Kessler, who were also driving to Salinas in Reventlow's Mercedes-Benz 300 SL coupe. ... At approximately 5:15 p.m., Dean and Hickman left Blackwells Corner, driving west on US 466 toward Paso Robles ... Further along on US 466, Dean crested Polonio Pass and headed down the long Antelope Grade"
+  }
+ },
+ "topics": [
+  "history",
+  "roads",
+  "film"
+ ],
+ "scores": {
+  "relevance": 5,
+  "interest": 5,
+  "confidence": 4
+ },
+ "sensitive": [
+  "tragedy"
+ ],
+ "asOf": null,
+ "themeKeys": [
+  "blackwells corner",
+  "james dean",
+  "us 466",
+  "highway 33"
+ ],
+ "followOn": [
+  "ca-sight-james-dean-crash-site-last-drive-01"
+ ],
+ "direction": "Lost Hills to Cholame",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

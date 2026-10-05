@@ -1,0 +1,301 @@
+{
+ "id": "ca-stretch-ca46-lost-hills-cholame-antelope-grade-climb-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca46-lost-hills-cholame",
+  "path": [
+   [
+    -120.29638,
+    35.72387
+   ],
+   [
+    -120.29476,
+    35.72951
+   ],
+   [
+    -120.2878,
+    35.73634
+   ],
+   [
+    -120.27687,
+    35.73862
+   ],
+   [
+    -120.26536,
+    35.73977
+   ],
+   [
+    -120.25272,
+    35.74153
+   ],
+   [
+    -120.2406,
+    35.74281
+   ],
+   [
+    -120.22903,
+    35.74368
+   ],
+   [
+    -120.21572,
+    35.74299
+   ],
+   [
+    -120.20942,
+    35.73528
+   ],
+   [
+    -120.20078,
+    35.72938
+   ],
+   [
+    -120.19002,
+    35.72484
+   ],
+   [
+    -120.18068,
+    35.71998
+   ],
+   [
+    -120.16947,
+    35.7143
+   ],
+   [
+    -120.15931,
+    35.70977
+   ],
+   [
+    -120.15027,
+    35.70383
+   ],
+   [
+    -120.13857,
+    35.69823
+   ],
+   [
+    -120.12849,
+    35.6934
+   ],
+   [
+    -120.11656,
+    35.6877
+   ],
+   [
+    -120.10545,
+    35.68239
+   ],
+   [
+    -120.09551,
+    35.67763
+   ],
+   [
+    -120.08533,
+    35.67274
+   ],
+   [
+    -120.07422,
+    35.66742
+   ],
+   [
+    -120.06345,
+    35.66228
+   ],
+   [
+    -120.0532,
+    35.65735
+   ],
+   [
+    -120.04263,
+    35.65231
+   ],
+   [
+    -120.03205,
+    35.64726
+   ],
+   [
+    -120.02223,
+    35.64227
+   ],
+   [
+    -120.01254,
+    35.63759
+   ],
+   [
+    -120.00133,
+    35.63221
+   ],
+   [
+    -119.99114,
+    35.62733
+   ],
+   [
+    -119.98008,
+    35.62203
+   ],
+   [
+    -119.97003,
+    35.6172
+   ],
+   [
+    -119.95932,
+    35.61446
+   ],
+   [
+    -119.94623,
+    35.61456
+   ],
+   [
+    -119.9346,
+    35.61464
+   ],
+   [
+    -119.92137,
+    35.61471
+   ],
+   [
+    -119.90224,
+    35.61478
+   ],
+   [
+    -119.87955,
+    35.61487
+   ],
+   [
+    -119.86503,
+    35.61513
+   ],
+   [
+    -119.8537,
+    35.6153
+   ],
+   [
+    -119.84056,
+    35.61546
+   ],
+   [
+    -119.82324,
+    35.61564
+   ],
+   [
+    -119.81107,
+    35.61575
+   ],
+   [
+    -119.7965,
+    35.61579
+   ],
+   [
+    -119.78258,
+    35.61589
+   ],
+   [
+    -119.76982,
+    35.61593
+   ],
+   [
+    -119.75694,
+    35.6157
+   ],
+   [
+    -119.74308,
+    35.61574
+   ],
+   [
+    -119.732,
+    35.61582
+   ],
+   [
+    -119.72019,
+    35.6159
+   ],
+   [
+    -119.70684,
+    35.61599
+   ],
+   [
+    -119.69429,
+    35.6164
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "Up the Antelope Grade",
+ "text": "Leaving Cholame, Highway 46 climbs east up the Antelope Grade into Kern County, to a summit near Bluestone Ridge, then descends through Polonio Pass into the San Joaquin Valley. The road over the pass has been rebuilt before: in 1959 it was moved onto a straighter line, and the original Antelope Grade road was abandoned. The steep grade makes it hard for big trucks to pick up speed, and traffic bunches up behind them. Caltrans plans to rebuild this climb as a four-lane expressway on a new line north of today's road, closing the gap in a continuous four-lane expressway from Interstate 5 to Highway 101. As of early 2026, the state had set aside construction money for the first section in its 2026 to 2027 budget year.",
+ "sentences": [
+  {
+   "text": "Leaving Cholame, Highway 46 climbs east up the Antelope Grade into Kern County, to a summit near Bluestone Ridge, then descends through Polonio Pass into the San Joaquin Valley.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "The road over the pass has been rebuilt before: in 1959 it was moved onto a straighter line, and the original Antelope Grade road was abandoned.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "The steep grade makes it hard for big trucks to pick up speed, and traffic bunches up behind them.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "Caltrans plans to rebuild this climb as a four-lane expressway on a new line north of today's road, closing the gap in a continuous four-lane expressway from Interstate 5 to Highway 101.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "As of early 2026, the state had set aside construction money for the first section in its 2026 to 2027 budget year.",
+   "sources": [
+    "s2"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 46 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_46",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1374511198",
+   "quote": "After crossing into Kern County, the highway continues to rise as it heads east up the Antelope Grade to a summit near Bluestone Ridge before descending through Polonio Pass into the San Joaquin Valley."
+  },
+  "s2": {
+   "title": "California Highways: Route 46",
+   "url": "https://www.cahighways.org/ROUTE046.html",
+   "publisher": "California Highways (cahighways.org)",
+   "retrieved": "2026-10-05",
+   "quote": "US 466 over Polonio Pass was relocated to a straightened alignment whereas the original so-called Antelope Grade was abandoned. ... the improvements to Polino Pass were complete during August 1959. ... The steep grade makes it harder for larger trucks to speed up causing bottleneck congestion. ... The project would construct a four-lane expressway with a 62-foot median on a new alignment that roughly parallels the existing highway corridor to the north. The project would also connect the existing four-lane expressway section in Kern County with the four-lane expressway currently under construction, the Wye segment, creating a continuous east-west corridor of four-lane expressway from I-5 to US 101. ... In March 2026, the CTC adopted the 2026 STIP, which included the following as continued programming from 2024: PPNO 05-0226M (Interregional), “Rt 46 Convert Expwy, Antelope Grade Child Seg1 (splt fr 0266L)(RIP,TCEP,CMGC)”. ... 2026 and Future Programming ($×1000): $35,920 $47,990 FY26-27. Programming Breakdown ($×1000): $0 (PA&ED), $0 (PS&E), $30,000 $40,000 (Const)"
+  }
+ },
+ "topics": [
+  "roads",
+  "history",
+  "geography"
+ ],
+ "scores": {
+  "relevance": 5,
+  "interest": 3,
+  "confidence": 3
+ },
+ "sensitive": [],
+ "asOf": "2026",
+ "themeKeys": [
+  "antelope grade",
+  "polonio pass",
+  "bluestone ridge",
+  "highway 46 widening"
+ ],
+ "followOn": [
+  "ca-sight-antelope-grade-over-the-coast-ranges-01"
+ ],
+ "direction": "Cholame to Lost Hills",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

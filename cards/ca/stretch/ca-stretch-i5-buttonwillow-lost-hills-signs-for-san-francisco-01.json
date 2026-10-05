@@ -1,0 +1,173 @@
+{
+ "id": "ca-stretch-i5-buttonwillow-lost-hills-signs-for-san-francisco-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "i5-buttonwillow-lost-hills",
+  "path": [
+   [
+    -119.46955,
+    35.40044
+   ],
+   [
+    -119.47411,
+    35.40695
+   ],
+   [
+    -119.47396,
+    35.41631
+   ],
+   [
+    -119.47364,
+    35.42778
+   ],
+   [
+    -119.47348,
+    35.43955
+   ],
+   [
+    -119.47483,
+    35.4497
+   ],
+   [
+    -119.47681,
+    35.45727
+   ],
+   [
+    -119.51754,
+    35.48663
+   ],
+   [
+    -119.52759,
+    35.4939
+   ],
+   [
+    -119.5373,
+    35.50253
+   ],
+   [
+    -119.54829,
+    35.51262
+   ],
+   [
+    -119.55868,
+    35.52218
+   ],
+   [
+    -119.56624,
+    35.52915
+   ],
+   [
+    -119.58645,
+    35.54771
+   ],
+   [
+    -119.59888,
+    35.55909
+   ],
+   [
+    -119.60983,
+    35.5691
+   ],
+   [
+    -119.62143,
+    35.58098
+   ],
+   [
+    -119.63008,
+    35.59002
+   ],
+   [
+    -119.63859,
+    35.59887
+   ],
+   [
+    -119.64572,
+    35.60647
+   ],
+   [
+    -119.65118,
+    35.61442
+   ],
+   [
+    -119.6633,
+    35.61624
+   ],
+   [
+    -119.681,
+    35.61603
+   ],
+   [
+    -119.69289,
+    35.61611
+   ],
+   [
+    -119.69429,
+    35.6164
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "A freeway built to miss the towns",
+ "text": "This is the West Side Freeway, the part of Interstate 5 that runs from Wheeler Ridge to Woodland along the remote western edge of the Central Valley. When the Interstate system was created in 1956, the other choice was to turn Highway 99 into a freeway, a route that would have served the valley's farming towns. This route won because it bypassed all of them, making a faster and more direct way north. It bypasses the San Francisco Bay Area too, yet the signs for northbound Interstate 5 here still list San Francisco as a destination.",
+ "sentences": [
+  {
+   "text": "This is the West Side Freeway, the part of Interstate 5 that runs from Wheeler Ridge to Woodland along the remote western edge of the Central Valley.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "When the Interstate system was created in 1956, the other choice was to turn Highway 99 into a freeway, a route that would have served the valley's farming towns.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "This route won because it bypassed all of them, making a faster and more direct way north.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "It bypasses the San Francisco Bay Area too, yet the signs for northbound Interstate 5 here still list San Francisco as a destination.",
+   "sources": [
+    "s1"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "Interstate 5 in California (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Interstate_5_in_California",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1372172184",
+   "quote": "From SR 99 at Wheeler Ridge to Woodland, I-5 is known as the West Side Freeway. I-5 parallels SR 33, skirting along the far more remote western edge of the Central Valley ... When the Interstate Highway System was created in 1956, there was discussion about which way to route the interstate through the San Joaquin Valley (Central Valley). Two proposals were considered. One was to convert the Golden State Highway (US 99, later SR 99) into a freeway. ... The Golden State Highway route would serve many farming communities across the San Joaquin Valley, but the West Side Freeway proposal would bypass all the Central Valley communities and thus provide a faster and more direct north–south route through the state and so was eventually chosen. ... I-5's more direct Los Angeles-to-Sacramento route bypasses San Francisco, San Jose, Oakland, and the rest of the San Francisco Bay Area. ... Nevertheless, San Francisco is still listed as a control city on northbound I-5 between SR 99 and I-580."
+  }
+ },
+ "topics": [
+  "roads",
+  "history"
+ ],
+ "scores": {
+  "relevance": 5,
+  "interest": 4,
+  "confidence": 3
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "interstate 5",
+  "west side freeway",
+  "highway 99",
+  "san francisco"
+ ],
+ "followOn": [],
+ "direction": "Buttonwillow to Lost Hills",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

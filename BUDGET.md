@@ -1,4 +1,4 @@
-STATUS: GO, P6 open
+STATUS: HALT
 
 # Budget
 
@@ -55,7 +55,7 @@ road stretches dearer at about $0.62.
 | P4 | CA-46, Lost Hills to Shandon: Cholame and James Dean, the San Andreas crossing, Antelope Grade, Shandon, Estrella | ~14 | $8 | done: 13 checked cards, 6 subjects | $0 cloud |
 | P5 | Paso Robles and Adelaide: the town, the 1886 hot springs, the 2003 earthquake, the wine district, the Santa Lucia Range, Nacimiento | ~18 | $10 | done: 20 checked cards, 7 subjects (incl. 1 person card) | $0 cloud |
 | P6 | San Luis Obispo county deck (new county; the app has no county-level fallback west of Kern) | ~15 | $8 | done: 15 checked cards, 1 subject | $0 cloud |
-| P7 | Road stretches, both directions: CA-58 over the pass, the I-5 leg, both CA-46 legs | ~12 | $10 | not started | |
+| P7 | Road stretches, both directions: CA-58 over the pass, the I-5 leg, both CA-46 legs | ~12 | $10 | done: 13 checked cards, 6 stretches (7 per direction) | $0 cloud |
 | | **Total** | **~119** | **$68** | | |
 
 **Recommended first tranche: P1 and P2 only — about 46 cards, $24.** That fills Mojave to
@@ -100,3 +100,4 @@ on the route. Stop there, drive it, and judge three things before opening P3:
 | 2026-10-05 | P4 CA-46 Lost Hills to Shandon (owner's local Claude Code session, not cloud credit): writer ~45 fetches, checker re-opened every source | P4 | 13 | $0 cloud | $200 |
 | 2026-10-05 | P5 Paso Robles and Adelaide (owner's local Claude Code session, not cloud credit): writer 29 fetches, checker re-opened every source | P5 | 20 | $0 cloud | $200 |
 | 2026-10-05 | P6 San Luis Obispo county deck (owner's local Claude Code session, not cloud credit): writer 28 fetches, checker re-opened every source | P6 | 15 | $0 cloud | $200 |
+| 2026-10-05 | P7 road stretches (owner's local Claude Code session, not cloud credit): writer 14 distinct pages, checker re-opened every source; geometry from OSRM | P7 | 13 | $0 cloud | $200 |

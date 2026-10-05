@@ -1,0 +1,217 @@
+{
+ "id": "ca-stretch-ca58-mojave-tehachapi-route-466-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca58-mojave-tehachapi",
+  "path": [
+   [
+    -118.17369,
+    35.05254
+   ],
+   [
+    -118.17647,
+    35.06129
+   ],
+   [
+    -118.17975,
+    35.07127
+   ],
+   [
+    -118.18147,
+    35.08109
+   ],
+   [
+    -118.18413,
+    35.09434
+   ],
+   [
+    -118.18658,
+    35.10316
+   ],
+   [
+    -118.18044,
+    35.11088
+   ],
+   [
+    -118.18304,
+    35.11503
+   ],
+   [
+    -118.19395,
+    35.1163
+   ],
+   [
+    -118.21102,
+    35.11751
+   ],
+   [
+    -118.22212,
+    35.11822
+   ],
+   [
+    -118.23332,
+    35.11409
+   ],
+   [
+    -118.24429,
+    35.10906
+   ],
+   [
+    -118.25445,
+    35.10541
+   ],
+   [
+    -118.26587,
+    35.10512
+   ],
+   [
+    -118.27718,
+    35.10325
+   ],
+   [
+    -118.2879,
+    35.10077
+   ],
+   [
+    -118.30095,
+    35.09755
+   ],
+   [
+    -118.30958,
+    35.10165
+   ],
+   [
+    -118.31808,
+    35.10771
+   ],
+   [
+    -118.33061,
+    35.11042
+   ],
+   [
+    -118.34317,
+    35.11044
+   ],
+   [
+    -118.36017,
+    35.11311
+   ],
+   [
+    -118.3724,
+    35.11523
+   ],
+   [
+    -118.39469,
+    35.11983
+   ],
+   [
+    -118.40537,
+    35.12267
+   ],
+   [
+    -118.41281,
+    35.1275
+   ],
+   [
+    -118.42472,
+    35.12913
+   ],
+   [
+    -118.43588,
+    35.1307
+   ],
+   [
+    -118.44751,
+    35.13211
+   ],
+   [
+    -118.4486,
+    35.13226
+   ]
+  ],
+  "bothDirections": true
+ },
+ "title": "Route 466, from the sea to Hoover Dam",
+ "text": "This highway through Tehachapi Pass was built in the 1930s as U.S. Route 466, and it has been State Route 58 since 1964. Route 466 was commissioned on April 25, 1933, running from Barstow to the Pacific Ocean at Morro Bay. That October an extension was approved east through Las Vegas to Kingman, Arizona, crossing the Colorado River on Boulder Dam, the dam now called Hoover Dam. California retired the number in its 1964 renumbering, turning its part of Route 466 into Highways 46, 99 and 58, and the designation disappeared altogether in 1971.",
+ "sentences": [
+  {
+   "text": "This highway through Tehachapi Pass was built in the 1930s as U.S. Route 466, and it has been State Route 58 since 1964.",
+   "sources": [
+    "s3",
+    "s1"
+   ]
+  },
+  {
+   "text": "Route 466 was commissioned on April 25, 1933, running from Barstow to the Pacific Ocean at Morro Bay.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "That October an extension was approved east through Las Vegas to Kingman, Arizona, crossing the Colorado River on Boulder Dam, the dam now called Hoover Dam.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "California retired the number in its 1964 renumbering, turning its part of Route 466 into Highways 46, 99 and 58, and the designation disappeared altogether in 1971.",
+   "sources": [
+    "s2"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 58 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_58",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1376833534",
+   "quote": "Prior to 1964, the segment of State Route 58 between Bakersfield and Barstow was signed U.S. Route 466."
+  },
+  "s2": {
+   "title": "U.S. Route 466 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/U.S._Route_466",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1334886044",
+   "quote": "U.S. Route 466 (US 466) was originally commissioned on April 25, 1933, extending from U.S. Route 66 in Barstow, California to the Pacific Ocean at Morro Bay, California. On October 9, 1933, the American Association of State Highway Officials (AASHO) approved an extension of US 466 from Barstow to US 66 in Kingman, Arizona. From Kingman to Las Vegas, Nevada, US 466 replaced the original Arizona State Route 69 (SR 69) and Nevada State Route 26 (SR 26). US 466 would use the Boulder Dam to cross the Colorado River ... Hoover Dam (formerly Boulder Dam) ... California decommissioned its section of US 466 during the 1964 state highway renumbering. The California state legislature re-designated the stand alone section of US 466 between Morro Bay and Barstow as California State Route 46 (SR 46), SR 99 and SR 58 respectively. On December 3, 1971, AASHTO approved a request from Arizona and Nevada to remove the US 466 entirely from both states, after which, the US 466 designation ceased to exist."
+  },
+  "s3": {
+   "title": "Tehachapi Pass (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Tehachapi_Pass",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1362438327",
+   "quote": "U.S. Route 466 was built in the 1930s, and the road is now State Route 58."
+  }
+ },
+ "topics": [
+  "roads",
+  "history"
+ ],
+ "scores": {
+  "relevance": 4,
+  "interest": 4,
+  "confidence": 4
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "us 466",
+  "route 466",
+  "hoover dam",
+  "1964 renumbering"
+ ],
+ "followOn": [
+  "ca-stretch-ca58-tehachapi-bakersfield-old-466-down-the-creek-01",
+  "ca-stretch-ca46-cholame-paso-robles-route-466-moves-01"
+ ],
+ "direction": null,
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "id": "ca-stretch-ca46-cholame-paso-robles-widening-blood-alley-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca46-cholame-paso-robles",
+  "path": [
+   [
+    -120.69,
+    35.62674
+   ],
+   [
+    -120.68236,
+    35.63046
+   ],
+   [
+    -120.67241,
+    35.63413
+   ],
+   [
+    -120.66304,
+    35.63726
+   ],
+   [
+    -120.65441,
+    35.64247
+   ],
+   [
+    -120.6433,
+    35.64465
+   ],
+   [
+    -120.63193,
+    35.64631
+   ],
+   [
+    -120.62225,
+    35.65147
+   ],
+   [
+    -120.61256,
+    35.65659
+   ],
+   [
+    -120.60174,
+    35.65936
+   ],
+   [
+    -120.59064,
+    35.65946
+   ],
+   [
+    -120.57892,
+    35.65951
+   ],
+   [
+    -120.56456,
+    35.6595
+   ],
+   [
+    -120.55154,
+    35.65952
+   ],
+   [
+    -120.54014,
+    35.65761
+   ],
+   [
+    -120.52949,
+    35.65501
+   ],
+   [
+    -120.51777,
+    35.65578
+   ],
+   [
+    -120.50619,
+    35.65841
+   ],
+   [
+    -120.49447,
+    35.65911
+   ],
+   [
+    -120.48002,
+    35.65914
+   ],
+   [
+    -120.46788,
+    35.65981
+   ],
+   [
+    -120.4565,
+    35.66044
+   ],
+   [
+    -120.44335,
+    35.66115
+   ],
+   [
+    -120.42957,
+    35.66163
+   ],
+   [
+    -120.41512,
+    35.66163
+   ],
+   [
+    -120.4038,
+    35.66211
+   ],
+   [
+    -120.39075,
+    35.66278
+   ],
+   [
+    -120.36134,
+    35.66452
+   ],
+   [
+    -120.35295,
+    35.67224
+   ],
+   [
+    -120.3439,
+    35.67807
+   ],
+   [
+    -120.33949,
+    35.68648
+   ],
+   [
+    -120.33394,
+    35.69611
+   ],
+   [
+    -120.32219,
+    35.70456
+   ],
+   [
+    -120.31113,
+    35.71144
+   ],
+   [
+    -120.30128,
+    35.71906
+   ],
+   [
+    -120.29638,
+    35.72387
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "Widening Blood Alley",
+ "text": "Heading east from Paso Robles, Highway 46 passes Whitley Gardens and runs partly alongside the Estrella River toward Shandon, on a road known in its two-lane days as Blood Alley, for its many crashes. In December 1995, as a stopgap, Caltrans began requiring daytime headlights west of Cholame and added a concrete barrier and rumble strips. Then came widening: the first widened stretch opened at Paso Robles in 2010, and the work moved east from there, reaching the stretch from Shandon to Cholame in 2022.",
+ "sentences": [
+  {
+   "text": "Heading east from Paso Robles, Highway 46 passes Whitley Gardens and runs partly alongside the Estrella River toward Shandon, on a road known in its two-lane days as Blood Alley, for its many crashes.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "In December 1995, as a stopgap, Caltrans began requiring daytime headlights west of Cholame and added a concrete barrier and rumble strips.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "Then came widening: the first widened stretch opened at Paso Robles in 2010, and the work moved east from there, reaching the stretch from Shandon to Cholame in 2022.",
+   "sources": [
+    "s1",
+    "s2"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 46 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_46",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1374511198",
+   "quote": "and then heads east through a hilly area with several wineries and the community of Whitley Gardens. It then runs partially alongside the Estrella River to a merge with SR 41 near Shandon and a rest area. ... The two-lane stretch from Paso Robles to Cholame was known as \"Blood Alley\" for the large number of vehicle incidents, mainly head-on collisions, among the high volume of commuters, truck drivers and tourists. ... The California Department of Transportation (Caltrans) carried out an interim safety project west of Cholame in December 1995, mandating daytime headlights and installing thermoplastic striping, a concrete barrier and rumble strips. ... In 2010, the first stretch of newly widened road opened in Paso Robles, utilizing funds from a 2006 statewide ballot proposition. A series of additional projects and progressed eastward over the next decade. ... In March 2022, construction began on the section near Cholame that led to the Wye."
+  },
+  "s2": {
+   "title": "California Highways: Route 46",
+   "url": "https://www.cahighways.org/ROUTE046.html",
+   "publisher": "California Highways (cahighways.org)",
+   "retrieved": "2026-10-05",
+   "quote": "In April 2022, it was reported that Caltrans has broken ground on the project that will double lanes along Route 46 in northern San Luis Obispo County. The project will widen Route 46 East from Shandon to Cholame."
+  }
+ },
+ "topics": [
+  "roads",
+  "history",
+  "safety"
+ ],
+ "scores": {
+  "relevance": 5,
+  "interest": 4,
+  "confidence": 4
+ },
+ "sensitive": [
+  "tragedy"
+ ],
+ "asOf": null,
+ "themeKeys": [
+  "blood alley",
+  "highway 46 widening",
+  "whitley gardens",
+  "estrella river"
+ ],
+ "followOn": [
+  "ca-sight-james-dean-crash-site-the-wye-01"
+ ],
+ "direction": "Paso Robles to Cholame",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 1
+ }
+}

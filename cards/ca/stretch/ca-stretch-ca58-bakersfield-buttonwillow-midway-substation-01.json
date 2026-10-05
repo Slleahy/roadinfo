@@ -1,0 +1,243 @@
+{
+ "id": "ca-stretch-ca58-bakersfield-buttonwillow-midway-substation-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca58-bakersfield-buttonwillow",
+  "path": [
+   [
+    -119.46955,
+    35.40044
+   ],
+   [
+    -119.46088,
+    35.39957
+   ],
+   [
+    -119.44763,
+    35.3991
+   ],
+   [
+    -119.43575,
+    35.39905
+   ],
+   [
+    -119.42106,
+    35.39898
+   ],
+   [
+    -119.40746,
+    35.39938
+   ],
+   [
+    -119.39642,
+    35.3998
+   ],
+   [
+    -119.3944,
+    35.39694
+   ],
+   [
+    -119.38346,
+    35.38903
+   ],
+   [
+    -119.37059,
+    35.37973
+   ],
+   [
+    -119.36166,
+    35.37333
+   ],
+   [
+    -119.34523,
+    35.36168
+   ],
+   [
+    -119.33653,
+    35.35597
+   ],
+   [
+    -119.32333,
+    35.35481
+   ],
+   [
+    -119.30562,
+    35.35469
+   ],
+   [
+    -119.28914,
+    35.3546
+   ],
+   [
+    -119.26946,
+    35.35447
+   ],
+   [
+    -119.25251,
+    35.35448
+   ],
+   [
+    -119.24158,
+    35.35433
+   ],
+   [
+    -119.22809,
+    35.35432
+   ],
+   [
+    -119.21315,
+    35.35435
+   ],
+   [
+    -119.19875,
+    35.35441
+   ],
+   [
+    -119.1858,
+    35.35443
+   ],
+   [
+    -119.17374,
+    35.35646
+   ],
+   [
+    -119.16294,
+    35.35971
+   ],
+   [
+    -119.15084,
+    35.36013
+   ],
+   [
+    -119.13775,
+    35.36212
+   ],
+   [
+    -119.12592,
+    35.36205
+   ],
+   [
+    -119.11318,
+    35.36205
+   ],
+   [
+    -119.10039,
+    35.362
+   ],
+   [
+    -119.0919,
+    35.36729
+   ],
+   [
+    -119.0813,
+    35.36751
+   ],
+   [
+    -119.07058,
+    35.37025
+   ],
+   [
+    -119.0582,
+    35.37134
+   ],
+   [
+    -119.04737,
+    35.37303
+   ],
+   [
+    -119.03633,
+    35.37348
+   ],
+   [
+    -119.02528,
+    35.37344
+   ],
+   [
+    -119.01893,
+    35.37333
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "Where two power grids meet",
+ "text": "Just east of Buttonwillow stands Midway Substation, where two of California's big power transmission corridors meet. From the north come the high-voltage lines of Path 15, which run from Los Banos generally a few miles west of Interstate 5. At Midway they connect with Southern California Edison's Path 26 lines, which cross the Tehachapi Mountains, as this highway does farther east, into the Antelope Valley. Path 26 is a crucial link between the grid of Pacific Gas and Electric, tied to the Pacific Northwest, and Edison's, tied to the Southwest.",
+ "sentences": [
+  {
+   "text": "Just east of Buttonwillow stands Midway Substation, where two of California's big power transmission corridors meet.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "From the north come the high-voltage lines of Path 15, which run from Los Banos generally a few miles west of Interstate 5.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "At Midway they connect with Southern California Edison's Path 26 lines, which cross the Tehachapi Mountains, as this highway does farther east, into the Antelope Valley.",
+   "sources": [
+    "s2",
+    "s3",
+    "s1"
+   ]
+  },
+  {
+   "text": "Path 26 is a crucial link between the grid of Pacific Gas and Electric, tied to the Pacific Northwest, and Edison's, tied to the Southwest.",
+   "sources": [
+    "s3"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 58 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_58",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1376833534",
+   "quote": "SR 58 then reaches the Tehachapi city limits and traverses the Tehachapi Pass"
+  },
+  "s2": {
+   "title": "Path 15 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Path_15",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1322433518",
+   "quote": "Path 15 is an 84-mile (135 km) portion of the north–south power transmission corridor in California ... The route is generally 3 to 7 miles (4.8 to 11.3 km) west of Interstate 5 from the Los Banos substation, west of Los Banos, to the Midway substation, near Buttonwillow. ... Southern California Edison's (SCE) two Path 26 lines connect to PG&E's grid at the Midway Substation. ... Midway, one mile (1.6 km) east of Buttonwillow"
+  },
+  "s3": {
+   "title": "Path 26 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Path_26",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1373456131",
+   "quote": "The Path 26 lines are located in the San Joaquin Valley of the southern Central Valley, the Tehachapi Mountains and other central Transverse Ranges, and the Antelope Valley section of the Mojave Desert. ... Since PG&E's power grid and SCE's grid both have interconnections to elsewhere, in the Pacific Northwest (PG&E) and the Southwestern United States (SCE), Path 26 is a southern extension of Path 15 and Path 66, and a crucial link between the two regions' grids."
+  }
+ },
+ "topics": [
+  "infrastructure",
+  "energy"
+ ],
+ "scores": {
+  "relevance": 4,
+  "interest": 4,
+  "confidence": 3
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "midway substation",
+  "path 15",
+  "path 26",
+  "power grid"
+ ],
+ "followOn": [],
+ "direction": "Buttonwillow to Bakersfield",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

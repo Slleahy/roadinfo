@@ -1,0 +1,239 @@
+{
+ "id": "ca-stretch-ca58-bakersfield-buttonwillow-westside-parkway-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca58-bakersfield-buttonwillow",
+  "path": [
+   [
+    -119.01893,
+    35.37333
+   ],
+   [
+    -119.02528,
+    35.37344
+   ],
+   [
+    -119.03633,
+    35.37348
+   ],
+   [
+    -119.04737,
+    35.37303
+   ],
+   [
+    -119.0582,
+    35.37134
+   ],
+   [
+    -119.07058,
+    35.37025
+   ],
+   [
+    -119.0813,
+    35.36751
+   ],
+   [
+    -119.0919,
+    35.36729
+   ],
+   [
+    -119.10039,
+    35.362
+   ],
+   [
+    -119.11318,
+    35.36205
+   ],
+   [
+    -119.12592,
+    35.36205
+   ],
+   [
+    -119.13775,
+    35.36212
+   ],
+   [
+    -119.15084,
+    35.36013
+   ],
+   [
+    -119.16294,
+    35.35971
+   ],
+   [
+    -119.17374,
+    35.35646
+   ],
+   [
+    -119.1858,
+    35.35443
+   ],
+   [
+    -119.19875,
+    35.35441
+   ],
+   [
+    -119.21315,
+    35.35435
+   ],
+   [
+    -119.22809,
+    35.35432
+   ],
+   [
+    -119.24158,
+    35.35433
+   ],
+   [
+    -119.25251,
+    35.35448
+   ],
+   [
+    -119.26946,
+    35.35447
+   ],
+   [
+    -119.28914,
+    35.3546
+   ],
+   [
+    -119.30562,
+    35.35469
+   ],
+   [
+    -119.32333,
+    35.35481
+   ],
+   [
+    -119.33653,
+    35.35597
+   ],
+   [
+    -119.34523,
+    35.36168
+   ],
+   [
+    -119.36166,
+    35.37333
+   ],
+   [
+    -119.37059,
+    35.37973
+   ],
+   [
+    -119.38346,
+    35.38903
+   ],
+   [
+    -119.3944,
+    35.39694
+   ],
+   [
+    -119.39642,
+    35.3998
+   ],
+   [
+    -119.40746,
+    35.39938
+   ],
+   [
+    -119.42106,
+    35.39898
+   ],
+   [
+    -119.43575,
+    35.39905
+   ],
+   [
+    -119.44763,
+    35.3991
+   ],
+   [
+    -119.46088,
+    35.39957
+   ],
+   [
+    -119.46955,
+    35.40044
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "Fifty years to a west side freeway",
+ "text": "Leaving Bakersfield, Highway 58 runs west on the Westside Parkway, a freeway finished in 2015 after opening in stages from 2013. In 1973, Kern County's planners called for a west side freeway to replace Rosedale Highway as Route 58. The parkway's link east to Highway 99, the Centennial Corridor, displaced dozens of homes and businesses, and it opened to traffic on February 17, 2024. Before the parkway, Route 58 ran in and out of the city along Rosedale Highway. Farther west the route follows Stockdale Highway, which is planned to become a freeway too, and then joins Interstate 5 for a few miles to Buttonwillow.",
+ "sentences": [
+  {
+   "text": "Leaving Bakersfield, Highway 58 runs west on the Westside Parkway, a freeway finished in 2015 after opening in stages from 2013.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "In 1973, Kern County's planners called for a west side freeway to replace Rosedale Highway as Route 58.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "The parkway's link east to Highway 99, the Centennial Corridor, displaced dozens of homes and businesses, and it opened to traffic on February 17, 2024.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "Before the parkway, Route 58 ran in and out of the city along Rosedale Highway.",
+   "sources": [
+    "s1",
+    "s2"
+   ]
+  },
+  {
+   "text": "Farther west the route follows Stockdale Highway, which is planned to become a freeway too, and then joins Interstate 5 for a few miles to Buttonwillow.",
+   "sources": [
+    "s1"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 58 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_58",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1376833534",
+   "quote": "In Bakersfield, the route follows the Westside Parkway to reach State Route 99 at the West Bakersfield Interchange. ... the Westside Parkway, a freeway running from Stockdale Highway (near Heath Road) east to Truxtun Avenue, was completed on April 15, 2015 ... Opening in stages since 2013 ... Although construction was controversial since it displaced dozens of homes and businesses ... Prior to, SR 58 immediately headed due east from I-5 to briefly join SR 43, then ran to Bakersfield along Rosedale Highway. The Centennial Corridor was inaugurated on February 9, 2024, with a ceremonial bicycle ride, and officially opened to traffic on February 17, 2024. ... Future plans are to upgrade Stockdale Highway from I-5 to Heath Road as a freeway. ... SR 58 then joins with the north-south Interstate 5 (I-5) for a few miles to Stockdale Highway"
+  },
+  "s2": {
+   "title": "California Highways: Route 58",
+   "url": "https://www.cahighways.org/ROUTE058.html",
+   "publisher": "California Highways (cahighways.org)",
+   "retrieved": "2026-10-05",
+   "quote": "During 1973 the Kern Council of Governments (Kern COG) identified a need for a \"Westside Freeway\" to replace Rosedale Highway as the alignment of Route 58 ... From Route 99, the routing of Route 58 continued west to I-5 along Rosedale Highway."
+  }
+ },
+ "topics": [
+  "roads",
+  "history"
+ ],
+ "scores": {
+  "relevance": 5,
+  "interest": 3,
+  "confidence": 4
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "westside parkway",
+  "centennial corridor",
+  "rosedale highway",
+  "stockdale highway"
+ ],
+ "followOn": [],
+ "direction": "Bakersfield to Buttonwillow",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

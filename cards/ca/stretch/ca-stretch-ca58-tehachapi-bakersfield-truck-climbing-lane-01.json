@@ -1,0 +1,300 @@
+{
+ "id": "ca-stretch-ca58-tehachapi-bakersfield-truck-climbing-lane-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca58-tehachapi-bakersfield",
+  "path": [
+   [
+    -119.01893,
+    35.37333
+   ],
+   [
+    -119.01634,
+    35.3734
+   ],
+   [
+    -119.00529,
+    35.37336
+   ],
+   [
+    -119.00286,
+    35.36805
+   ],
+   [
+    -119.00292,
+    35.35883
+   ],
+   [
+    -118.99871,
+    35.35253
+   ],
+   [
+    -118.98545,
+    35.35256
+   ],
+   [
+    -118.97398,
+    35.35265
+   ],
+   [
+    -118.96179,
+    35.35298
+   ],
+   [
+    -118.94864,
+    35.35238
+   ],
+   [
+    -118.93654,
+    35.35245
+   ],
+   [
+    -118.92023,
+    35.35251
+   ],
+   [
+    -118.90845,
+    35.35203
+   ],
+   [
+    -118.89535,
+    35.35041
+   ],
+   [
+    -118.87391,
+    35.34496
+   ],
+   [
+    -118.86304,
+    35.34322
+   ],
+   [
+    -118.85217,
+    35.34063
+   ],
+   [
+    -118.83947,
+    35.33758
+   ],
+   [
+    -118.82493,
+    35.33408
+   ],
+   [
+    -118.80798,
+    35.33
+   ],
+   [
+    -118.7986,
+    35.3254
+   ],
+   [
+    -118.77903,
+    35.30844
+   ],
+   [
+    -118.76288,
+    35.29663
+   ],
+   [
+    -118.75241,
+    35.29249
+   ],
+   [
+    -118.74206,
+    35.28836
+   ],
+   [
+    -118.72815,
+    35.28172
+   ],
+   [
+    -118.71631,
+    35.27779
+   ],
+   [
+    -118.70641,
+    35.27329
+   ],
+   [
+    -118.69295,
+    35.26861
+   ],
+   [
+    -118.68212,
+    35.27001
+   ],
+   [
+    -118.67129,
+    35.2677
+   ],
+   [
+    -118.65811,
+    35.26427
+   ],
+   [
+    -118.64579,
+    35.26377
+   ],
+   [
+    -118.63431,
+    35.26378
+   ],
+   [
+    -118.62352,
+    35.26271
+   ],
+   [
+    -118.61349,
+    35.25738
+   ],
+   [
+    -118.60414,
+    35.2518
+   ],
+   [
+    -118.59436,
+    35.24775
+   ],
+   [
+    -118.58722,
+    35.24092
+   ],
+   [
+    -118.57695,
+    35.2376
+   ],
+   [
+    -118.56945,
+    35.2308
+   ],
+   [
+    -118.56503,
+    35.22301
+   ],
+   [
+    -118.55441,
+    35.21871
+   ],
+   [
+    -118.54604,
+    35.2125
+   ],
+   [
+    -118.53485,
+    35.20739
+   ],
+   [
+    -118.52491,
+    35.20139
+   ],
+   [
+    -118.51548,
+    35.19627
+   ],
+   [
+    -118.49982,
+    35.18415
+   ],
+   [
+    -118.48838,
+    35.1809
+   ],
+   [
+    -118.48007,
+    35.17504
+   ],
+   [
+    -118.47359,
+    35.16752
+   ],
+   [
+    -118.4738,
+    35.15819
+   ],
+   [
+    -118.46953,
+    35.14993
+   ],
+   [
+    -118.46743,
+    35.14153
+   ],
+   [
+    -118.45672,
+    35.13984
+   ],
+   [
+    -118.45138,
+    35.13701
+   ],
+   [
+    -118.4486,
+    35.13226
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "Two lanes and a lot of trucks",
+ "text": "Climbing from Bakersfield toward Tehachapi, Highway 58 is a vital freight corridor, and from Caliente to Keene it has just two lanes in each direction. Slow tractor-trailers on the climb interrupt the flow of traffic behind them. Caltrans calls the stretch from just east of Highway 223 to just short of Hart Flat Road the most critical section of Route 58 through the Tehachapi Mountains, and plans an eastbound truck climbing lane there. As of August 2026, that lane was to be built together with a repaving of the road and new wildlife undercrossings, with work likely starting in 2028.",
+ "sentences": [
+  {
+   "text": "Climbing from Bakersfield toward Tehachapi, Highway 58 is a vital freight corridor, and from Caliente to Keene it has just two lanes in each direction.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "Slow tractor-trailers on the climb interrupt the flow of traffic behind them.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "Caltrans calls the stretch from just east of Highway 223 to just short of Hart Flat Road the most critical section of Route 58 through the Tehachapi Mountains, and plans an eastbound truck climbing lane there.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "As of August 2026, that lane was to be built together with a repaving of the road and new wildlife undercrossings, with work likely starting in 2028.",
+   "sources": [
+    "s1"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California Highways: Route 58",
+   "url": "https://www.cahighways.org/ROUTE058.html",
+   "publisher": "California Highways (cahighways.org)",
+   "retrieved": "2026-10-05",
+   "quote": "truck-climbing lanes that would allow motorists to pass slow-moving tractor-trailers traveling on Route 58 from Bakersfield to Tehachapi. ... the project expected to be underway first is what Caltrans calls the most critical section of Route 58 through the Tehachapi Mountains — from approximately 0.8 miles east of the junction with Route 223 to 0.4 miles west of Hart Flat Road. ... drivers on a vital freight corridor will face less safety risks from tractor-trailers interrupting traffic flow along what are now just two lanes in each direction from Caliente to Keene. ... In August 2026, there was an update on the Keene Paving Project. The project will involve repaving and rehabilitating a 12.3-mile stretch of Route 58 between Bakersfield and Tehachapi, between the Tehachapi Creek Bridge to Bealville Road, as well as a 3.5-mile truck climbing lane. The $247 million project will be constructed in three segments over three years, likely starting in 2028. ... The third segment would also include an eastbound truck climbing lane ... two new wildlife undercrossings"
+  }
+ },
+ "topics": [
+  "roads",
+  "trucking"
+ ],
+ "scores": {
+  "relevance": 5,
+  "interest": 3,
+  "confidence": 3
+ },
+ "sensitive": [],
+ "asOf": "2026",
+ "themeKeys": [
+  "truck climbing lane",
+  "keene",
+  "caliente",
+  "freight"
+ ],
+ "followOn": [],
+ "direction": "Bakersfield to Tehachapi",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

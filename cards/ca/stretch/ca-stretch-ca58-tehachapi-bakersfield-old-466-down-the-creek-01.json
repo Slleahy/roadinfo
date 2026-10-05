@@ -1,0 +1,302 @@
+{
+ "id": "ca-stretch-ca58-tehachapi-bakersfield-old-466-down-the-creek-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca58-tehachapi-bakersfield",
+  "path": [
+   [
+    -118.4486,
+    35.13226
+   ],
+   [
+    -118.45138,
+    35.13701
+   ],
+   [
+    -118.45672,
+    35.13984
+   ],
+   [
+    -118.46743,
+    35.14153
+   ],
+   [
+    -118.46953,
+    35.14993
+   ],
+   [
+    -118.4738,
+    35.15819
+   ],
+   [
+    -118.47359,
+    35.16752
+   ],
+   [
+    -118.48007,
+    35.17504
+   ],
+   [
+    -118.48838,
+    35.1809
+   ],
+   [
+    -118.49982,
+    35.18415
+   ],
+   [
+    -118.51548,
+    35.19627
+   ],
+   [
+    -118.52491,
+    35.20139
+   ],
+   [
+    -118.53485,
+    35.20739
+   ],
+   [
+    -118.54604,
+    35.2125
+   ],
+   [
+    -118.55441,
+    35.21871
+   ],
+   [
+    -118.56503,
+    35.22301
+   ],
+   [
+    -118.56945,
+    35.2308
+   ],
+   [
+    -118.57695,
+    35.2376
+   ],
+   [
+    -118.58722,
+    35.24092
+   ],
+   [
+    -118.59436,
+    35.24775
+   ],
+   [
+    -118.60414,
+    35.2518
+   ],
+   [
+    -118.61349,
+    35.25738
+   ],
+   [
+    -118.62352,
+    35.26271
+   ],
+   [
+    -118.63431,
+    35.26378
+   ],
+   [
+    -118.64579,
+    35.26377
+   ],
+   [
+    -118.65811,
+    35.26427
+   ],
+   [
+    -118.67129,
+    35.2677
+   ],
+   [
+    -118.68212,
+    35.27001
+   ],
+   [
+    -118.69295,
+    35.26861
+   ],
+   [
+    -118.70641,
+    35.27329
+   ],
+   [
+    -118.71631,
+    35.27779
+   ],
+   [
+    -118.72815,
+    35.28172
+   ],
+   [
+    -118.74206,
+    35.28836
+   ],
+   [
+    -118.75241,
+    35.29249
+   ],
+   [
+    -118.76288,
+    35.29663
+   ],
+   [
+    -118.77903,
+    35.30844
+   ],
+   [
+    -118.7986,
+    35.3254
+   ],
+   [
+    -118.80798,
+    35.33
+   ],
+   [
+    -118.82493,
+    35.33408
+   ],
+   [
+    -118.83947,
+    35.33758
+   ],
+   [
+    -118.85217,
+    35.34063
+   ],
+   [
+    -118.86304,
+    35.34322
+   ],
+   [
+    -118.87391,
+    35.34496
+   ],
+   [
+    -118.89535,
+    35.35041
+   ],
+   [
+    -118.90845,
+    35.35203
+   ],
+   [
+    -118.92023,
+    35.35251
+   ],
+   [
+    -118.93654,
+    35.35245
+   ],
+   [
+    -118.94864,
+    35.35238
+   ],
+   [
+    -118.96179,
+    35.35298
+   ],
+   [
+    -118.97398,
+    35.35265
+   ],
+   [
+    -118.98545,
+    35.35256
+   ],
+   [
+    -118.99871,
+    35.35253
+   ],
+   [
+    -119.00292,
+    35.35883
+   ],
+   [
+    -119.00286,
+    35.36805
+   ],
+   [
+    -119.00529,
+    35.37336
+   ],
+   [
+    -119.01634,
+    35.3734
+   ],
+   [
+    -119.01893,
+    35.37333
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "The old road down the mountain",
+ "text": "The old highway down this side of the mountains, U.S. Route 466, took a very different line from today's road. Heading west, it followed what is now Woodford-Tehachapi Road, climbing onto a cliff above the railroad and passing the Tehachapi Loop before coming down through Keene. West of Keene it took Bena Road, following Caliente Creek down into the San Joaquin Valley, and went on through Edison into Bakersfield. The route was not rebuilt as an expressway or freeway until after it had become Route 58.",
+ "sentences": [
+  {
+   "text": "The old highway down this side of the mountains, U.S. Route 466, took a very different line from today's road.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "Heading west, it followed what is now Woodford-Tehachapi Road, climbing onto a cliff above the railroad and passing the Tehachapi Loop before coming down through Keene.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "West of Keene it took Bena Road, following Caliente Creek down into the San Joaquin Valley, and went on through Edison into Bakersfield.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "The route was not rebuilt as an expressway or freeway until after it had become Route 58.",
+   "sources": [
+    "s1"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "Legacy of US Route 466 Part 2; Tehachapi to Bakersfield",
+   "url": "https://gribblenation.org/2018/08/legacy-of-us-route-466-part-2-tehachapi.html",
+   "publisher": "Gribblenation Blog",
+   "retrieved": "2026-10-05",
+   "quote": "The routing of US 466 compared to modern CA 58 is substantially different from Tehachapi west to Bakersfield. ... US 466 diverged from Valley Boulevard and CA 202 at Woodford-Tehachapi Road heading northward ... Woodford-Tehachapi Road begins to curve up and emerges on a cliff above the Union Pacific Lines in addition CA 58 below. ... US 466 passed by the Tehachapi Loop on Woodford-Tehachapi Road. ... Woodford-Tehachapi Road passes through Keene before dead-ending at the CA 58 expressway. US 466 traffic would have continued over lanes that are now part of the expressway westward to Bena Road. ... US 466 would have followed Bena Road westward as it crosses under the grade of CA 58. ... Bena Road and US 466 followed Caliente Creek into San Joaquin Valley. ... US 466 continued west through the community of Edison on Edison Highway. ... US 466 from Tehachapi west to Bakersfield wasn't upgraded to an expressway/freeway until it was renumbered to CA 58."
+  }
+ },
+ "topics": [
+  "roads",
+  "history"
+ ],
+ "scores": {
+  "relevance": 4,
+  "interest": 4,
+  "confidence": 3
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "us 466",
+  "woodford-tehachapi road",
+  "bena road",
+  "caliente creek"
+ ],
+ "followOn": [
+  "ca-sight-tehachapi-loop-train-over-itself-01"
+ ],
+ "direction": "Tehachapi to Bakersfield",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

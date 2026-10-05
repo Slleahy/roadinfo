@@ -1,0 +1,212 @@
+{
+ "id": "ca-stretch-ca58-mojave-tehachapi-the-pass-and-the-summit-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca58-mojave-tehachapi",
+  "path": [
+   [
+    -118.17369,
+    35.05254
+   ],
+   [
+    -118.17647,
+    35.06129
+   ],
+   [
+    -118.17975,
+    35.07127
+   ],
+   [
+    -118.18147,
+    35.08109
+   ],
+   [
+    -118.18413,
+    35.09434
+   ],
+   [
+    -118.18658,
+    35.10316
+   ],
+   [
+    -118.18044,
+    35.11088
+   ],
+   [
+    -118.18304,
+    35.11503
+   ],
+   [
+    -118.19395,
+    35.1163
+   ],
+   [
+    -118.21102,
+    35.11751
+   ],
+   [
+    -118.22212,
+    35.11822
+   ],
+   [
+    -118.23332,
+    35.11409
+   ],
+   [
+    -118.24429,
+    35.10906
+   ],
+   [
+    -118.25445,
+    35.10541
+   ],
+   [
+    -118.26587,
+    35.10512
+   ],
+   [
+    -118.27718,
+    35.10325
+   ],
+   [
+    -118.2879,
+    35.10077
+   ],
+   [
+    -118.30095,
+    35.09755
+   ],
+   [
+    -118.30958,
+    35.10165
+   ],
+   [
+    -118.31808,
+    35.10771
+   ],
+   [
+    -118.33061,
+    35.11042
+   ],
+   [
+    -118.34317,
+    35.11044
+   ],
+   [
+    -118.36017,
+    35.11311
+   ],
+   [
+    -118.3724,
+    35.11523
+   ],
+   [
+    -118.39469,
+    35.11983
+   ],
+   [
+    -118.40537,
+    35.12267
+   ],
+   [
+    -118.41281,
+    35.1275
+   ],
+   [
+    -118.42472,
+    35.12913
+   ],
+   [
+    -118.43588,
+    35.1307
+   ],
+   [
+    -118.44751,
+    35.13211
+   ],
+   [
+    -118.4486,
+    35.13226
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "Which part is the pass",
+ "text": "Tehachapi Pass, the gap this highway climbs through on its way up from Mojave, is a principal connector between the San Joaquin Valley and the Mojave Desert. The Kitanemuk people used the pass as a trade route before Americans settled the region in the 1800s. The name itself often causes confusion. On U.S. Geological Survey maps, Tehachapi Pass is the narrowest part of the canyon on the eastern approach to the summit. The actual high point comes later, just east of the town of Tehachapi, on the railroad next to Tehachapi Boulevard, and the highway sign there calls it Tehachapi Summit.",
+ "sentences": [
+  {
+   "text": "Tehachapi Pass, the gap this highway climbs through on its way up from Mojave, is a principal connector between the San Joaquin Valley and the Mojave Desert.",
+   "sources": [
+    "s2",
+    "s1"
+   ]
+  },
+  {
+   "text": "The Kitanemuk people used the pass as a trade route before Americans settled the region in the 1800s.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "The name itself often causes confusion.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "On U.S. Geological Survey maps, Tehachapi Pass is the narrowest part of the canyon on the eastern approach to the summit.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "The actual high point comes later, just east of the town of Tehachapi, on the railroad next to Tehachapi Boulevard, and the highway sign there calls it Tehachapi Summit.",
+   "sources": [
+    "s2"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 58 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_58",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1376833534",
+   "quote": "SR 58 then reaches the Tehachapi city limits and traverses the Tehachapi Pass before dropping out of the Tehachapi Mountains into the Antelope Valley at the town of Mojave."
+  },
+  "s2": {
+   "title": "Tehachapi Pass (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Tehachapi_Pass",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1362438327",
+   "quote": "The route is a principal connector between the San Joaquin Valley and the Mojave Desert. The Native American Kitanemuk people used the pass as a trade route before the American settlement of the region in the 19th century. ... The meaning of the name Tehachapi Pass is often a source of confusion. Technically, i.e., as noted on USGS topographic maps, the name refers to the narrowest part of the canyon on the eastern approach to the summit ... The actual high point is just east of the town of Tehachapi, at an elevation of 4,031 feet (1,229 m), on the railroad next to Tehachapi Boulevard. The highway sign refers to this location as Tehachapi Summit."
+  }
+ },
+ "topics": [
+  "roads",
+  "geography",
+  "history"
+ ],
+ "scores": {
+  "relevance": 5,
+  "interest": 4,
+  "confidence": 3
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "tehachapi pass",
+  "tehachapi summit",
+  "kitanemuk"
+ ],
+ "followOn": [],
+ "direction": "Mojave to Tehachapi",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

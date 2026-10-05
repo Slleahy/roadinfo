@@ -1,0 +1,172 @@
+{
+ "id": "ca-stretch-i5-buttonwillow-lost-hills-long-and-lonely-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "i5-buttonwillow-lost-hills",
+  "path": [
+   [
+    -119.46955,
+    35.40044
+   ],
+   [
+    -119.47411,
+    35.40695
+   ],
+   [
+    -119.47396,
+    35.41631
+   ],
+   [
+    -119.47364,
+    35.42778
+   ],
+   [
+    -119.47348,
+    35.43955
+   ],
+   [
+    -119.47483,
+    35.4497
+   ],
+   [
+    -119.47681,
+    35.45727
+   ],
+   [
+    -119.51754,
+    35.48663
+   ],
+   [
+    -119.52759,
+    35.4939
+   ],
+   [
+    -119.5373,
+    35.50253
+   ],
+   [
+    -119.54829,
+    35.51262
+   ],
+   [
+    -119.55868,
+    35.52218
+   ],
+   [
+    -119.56624,
+    35.52915
+   ],
+   [
+    -119.58645,
+    35.54771
+   ],
+   [
+    -119.59888,
+    35.55909
+   ],
+   [
+    -119.60983,
+    35.5691
+   ],
+   [
+    -119.62143,
+    35.58098
+   ],
+   [
+    -119.63008,
+    35.59002
+   ],
+   [
+    -119.63859,
+    35.59887
+   ],
+   [
+    -119.64572,
+    35.60647
+   ],
+   [
+    -119.65118,
+    35.61442
+   ],
+   [
+    -119.6633,
+    35.61624
+   ],
+   [
+    -119.681,
+    35.61603
+   ],
+   [
+    -119.69289,
+    35.61611
+   ],
+   [
+    -119.69429,
+    35.6164
+   ]
+  ],
+  "bothDirections": true
+ },
+ "title": "The long and lonely freeway",
+ "text": "This part of Interstate 5 opened in 1972, when the freeway was extended south to Wheeler Ridge to meet Highway 99. At first it was a long and lonely road, with no businesses alongside it. The nearest towns were miles away and mostly out of sight, and it was common for cars to run out of fuel. Businesses serving travelers grew up over time, and the median is wide enough to add more lanes if they are ever needed.",
+ "sentences": [
+  {
+   "text": "This part of Interstate 5 opened in 1972, when the freeway was extended south to Wheeler Ridge to meet Highway 99.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "At first it was a long and lonely road, with no businesses alongside it.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "The nearest towns were miles away and mostly out of sight, and it was common for cars to run out of fuel.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "Businesses serving travelers grew up over time, and the median is wide enough to add more lanes if they are ever needed.",
+   "sources": [
+    "s1"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "Interstate 5 in California (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/Interstate_5_in_California",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1372172184",
+   "quote": "The second phase, completed in 1972, extended the freeway south to Wheeler Ridge and connected it to SR 99. ... When the second phase of the freeway opened in 1972, it was a long and lonely route with no businesses alongside. Services were not easily available as the nearest towns were miles away and generally out of sight. It was common for cars to run out of fuel. Over time the West Side Freeway (I-5) saw the development of businesses serving the needs of travelers. ... The median on I-5 between Wheeler Ridge and Tracy is wide enough to accommodate widening the West Side Freeway to six or eight lanes, should the need arise."
+  }
+ },
+ "topics": [
+  "roads",
+  "history"
+ ],
+ "scores": {
+  "relevance": 5,
+  "interest": 4,
+  "confidence": 3
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "interstate 5",
+  "west side freeway",
+  "1972"
+ ],
+ "followOn": [],
+ "direction": null,
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

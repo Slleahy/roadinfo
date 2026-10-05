@@ -1,0 +1,204 @@
+{
+ "id": "ca-stretch-ca58-mojave-tehachapi-not-an-interstate-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca58-mojave-tehachapi",
+  "path": [
+   [
+    -118.4486,
+    35.13226
+   ],
+   [
+    -118.44751,
+    35.13211
+   ],
+   [
+    -118.43588,
+    35.1307
+   ],
+   [
+    -118.42472,
+    35.12913
+   ],
+   [
+    -118.41281,
+    35.1275
+   ],
+   [
+    -118.40537,
+    35.12267
+   ],
+   [
+    -118.39469,
+    35.11983
+   ],
+   [
+    -118.3724,
+    35.11523
+   ],
+   [
+    -118.36017,
+    35.11311
+   ],
+   [
+    -118.34317,
+    35.11044
+   ],
+   [
+    -118.33061,
+    35.11042
+   ],
+   [
+    -118.31808,
+    35.10771
+   ],
+   [
+    -118.30958,
+    35.10165
+   ],
+   [
+    -118.30095,
+    35.09755
+   ],
+   [
+    -118.2879,
+    35.10077
+   ],
+   [
+    -118.27718,
+    35.10325
+   ],
+   [
+    -118.26587,
+    35.10512
+   ],
+   [
+    -118.25445,
+    35.10541
+   ],
+   [
+    -118.24429,
+    35.10906
+   ],
+   [
+    -118.23332,
+    35.11409
+   ],
+   [
+    -118.22212,
+    35.11822
+   ],
+   [
+    -118.21102,
+    35.11751
+   ],
+   [
+    -118.19395,
+    35.1163
+   ],
+   [
+    -118.18304,
+    35.11503
+   ],
+   [
+    -118.18044,
+    35.11088
+   ],
+   [
+    -118.18658,
+    35.10316
+   ],
+   [
+    -118.18413,
+    35.09434
+   ],
+   [
+    -118.18147,
+    35.08109
+   ],
+   [
+    -118.17975,
+    35.07127
+   ],
+   [
+    -118.17647,
+    35.06129
+   ],
+   [
+    -118.17369,
+    35.05254
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "Why Route 58 is not an interstate",
+ "text": "Past the summit, Highway 58 drops out of the Tehachapi Mountains into the Antelope Valley at Mojave, then carries on east as a freeway past Edwards Air Force Base and Boron. Drivers use this road and Interstate 5 to travel between Northern California and Las Vegas or the Interstate 40 corridor without facing the traffic of greater Los Angeles. Route 58 was submitted for the Interstate system in 1956 and again in 1968, and was turned down both times. The question is often raised of why it has not been made a continuation of Interstate 40.",
+ "sentences": [
+  {
+   "text": "Past the summit, Highway 58 drops out of the Tehachapi Mountains into the Antelope Valley at Mojave, then carries on east as a freeway past Edwards Air Force Base and Boron.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "Drivers use this road and Interstate 5 to travel between Northern California and Las Vegas or the Interstate 40 corridor without facing the traffic of greater Los Angeles.",
+   "sources": [
+    "s1"
+   ]
+  },
+  {
+   "text": "Route 58 was submitted for the Interstate system in 1956 and again in 1968, and was turned down both times.",
+   "sources": [
+    "s2"
+   ]
+  },
+  {
+   "text": "The question is often raised of why it has not been made a continuation of Interstate 40.",
+   "sources": [
+    "s2"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 58 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_58",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1376833534",
+   "quote": "SR 58 then reaches the Tehachapi city limits and traverses the Tehachapi Pass before dropping out of the Tehachapi Mountains into the Antelope Valley at the town of Mojave. Freeway conditions continue from State Route 14 east of Mojave bypassing North Edwards, Edwards Air Force Base, Boron, and Kramer Junction. ... I-5 and SR 58 are used by motorists to travel between Northern California and points to the southeast, such as Las Vegas (via I-15) and the Interstate 40 corridor, without having to face the extreme traffic congestion of greater Los Angeles."
+  },
+  "s2": {
+   "title": "California Highways: Route 58",
+   "url": "https://www.cahighways.org/ROUTE058.html",
+   "publisher": "California Highways (cahighways.org)",
+   "retrieved": "2026-10-05",
+   "quote": "Submitted for inclusion in the interstate system in 1956 and 1968; not accepted either time. ... The question is often raised of why this has not been designated as a continuation of I-40."
+  }
+ },
+ "topics": [
+  "roads",
+  "history"
+ ],
+ "scores": {
+  "relevance": 4,
+  "interest": 4,
+  "confidence": 3
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "route 58",
+  "interstate 40",
+  "antelope valley",
+  "las vegas"
+ ],
+ "followOn": [],
+ "direction": "Tehachapi to Mojave",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}

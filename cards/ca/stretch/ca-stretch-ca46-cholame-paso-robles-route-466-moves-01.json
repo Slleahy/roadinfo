@@ -1,0 +1,237 @@
+{
+ "id": "ca-stretch-ca46-cholame-paso-robles-route-466-moves-01",
+ "level": "stretch",
+ "anchor": {
+  "type": "segment",
+  "stretchId": "ca46-cholame-paso-robles",
+  "path": [
+   [
+    -120.29638,
+    35.72387
+   ],
+   [
+    -120.30128,
+    35.71906
+   ],
+   [
+    -120.31113,
+    35.71144
+   ],
+   [
+    -120.32219,
+    35.70456
+   ],
+   [
+    -120.33394,
+    35.69611
+   ],
+   [
+    -120.33949,
+    35.68648
+   ],
+   [
+    -120.3439,
+    35.67807
+   ],
+   [
+    -120.35295,
+    35.67224
+   ],
+   [
+    -120.36134,
+    35.66452
+   ],
+   [
+    -120.39075,
+    35.66278
+   ],
+   [
+    -120.4038,
+    35.66211
+   ],
+   [
+    -120.41512,
+    35.66163
+   ],
+   [
+    -120.42957,
+    35.66163
+   ],
+   [
+    -120.44335,
+    35.66115
+   ],
+   [
+    -120.4565,
+    35.66044
+   ],
+   [
+    -120.46788,
+    35.65981
+   ],
+   [
+    -120.48002,
+    35.65914
+   ],
+   [
+    -120.49447,
+    35.65911
+   ],
+   [
+    -120.50619,
+    35.65841
+   ],
+   [
+    -120.51777,
+    35.65578
+   ],
+   [
+    -120.52949,
+    35.65501
+   ],
+   [
+    -120.54014,
+    35.65761
+   ],
+   [
+    -120.55154,
+    35.65952
+   ],
+   [
+    -120.56456,
+    35.6595
+   ],
+   [
+    -120.57892,
+    35.65951
+   ],
+   [
+    -120.59064,
+    35.65946
+   ],
+   [
+    -120.60174,
+    35.65936
+   ],
+   [
+    -120.61256,
+    35.65659
+   ],
+   [
+    -120.62225,
+    35.65147
+   ],
+   [
+    -120.63193,
+    35.64631
+   ],
+   [
+    -120.6433,
+    35.64465
+   ],
+   [
+    -120.65441,
+    35.64247
+   ],
+   [
+    -120.66304,
+    35.63726
+   ],
+   [
+    -120.67241,
+    35.63413
+   ],
+   [
+    -120.68236,
+    35.63046
+   ],
+   [
+    -120.69,
+    35.62674
+   ]
+  ],
+  "bothDirections": false
+ },
+ "title": "How Route 466 came to Paso Robles",
+ "text": "Heading west, Highway 46 follows old U.S. Route 466 as far as Shandon, but the road on from Shandon to Paso Robles only became part of Route 466 in 1958. Before that, Route 466 turned off at Shandon on what is now Highway 41, bound for Atascadero and Morro Bay. The road toward Atascadero was substandard, while this road to Paso Robles had recently been improved and was by far the favored road for traffic. In the 1964 renumbering, this road became Highway 46, and the old route on to Morro Bay became part of Highway 41.",
+ "sentences": [
+  {
+   "text": "Heading west, Highway 46 follows old U.S. Route 466 as far as Shandon, but the road on from Shandon to Paso Robles only became part of Route 466 in 1958.",
+   "sources": [
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "text": "Before that, Route 466 turned off at Shandon on what is now Highway 41, bound for Atascadero and Morro Bay.",
+   "sources": [
+    "s2",
+    "s3"
+   ]
+  },
+  {
+   "text": "The road toward Atascadero was substandard, while this road to Paso Robles had recently been improved and was by far the favored road for traffic.",
+   "sources": [
+    "s3"
+   ]
+  },
+  {
+   "text": "In the 1964 renumbering, this road became Highway 46, and the old route on to Morro Bay became part of Highway 41.",
+   "sources": [
+    "s3",
+    "s1"
+   ]
+  }
+ ],
+ "sources": {
+  "s1": {
+   "title": "California State Route 46 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/California_State_Route_46",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1374511198",
+   "quote": "US 466 was eliminated in the 1964 renumbering, becoming SR 46 east from Paso Robles."
+  },
+  "s2": {
+   "title": "U.S. Route 466 (Wikipedia)",
+   "url": "https://en.wikipedia.org/wiki/U.S._Route_466",
+   "publisher": "Wikipedia",
+   "retrieved": "2026-10-05",
+   "revision": "1334886044",
+   "quote": "US 466 began in Morro Bay, continuing to US 101 before turning north and following the path of today's SR 41 to Shandon in San Luis Obispo County. From there, US 466 followed the path of today's SR 46 east."
+  },
+  "s3": {
+   "title": "California Highways: Route 46",
+   "url": "https://www.cahighways.org/ROUTE046.html",
+   "publisher": "California Highways (cahighways.org)",
+   "retrieved": "2026-10-05",
+   "quote": "In 1958, the Division of Highways sought and obtained permission to relocate US 466 off of LRN 125 (today's Route 41) between Atascadero and Shandon. The Division of Highways noted that Sign Route 41/LRN 33 between Paso Robles-Shandon had recently been improved and was by far the favored highway for traffic. LRN 125 between Atascadero-Shandon was substandard in design ... Note that in 1964, Sign Route 41 W of Shandon to Paso Robles (former post-1958 US 466) became Route 46, former Sign Route 41 from Paso Robles to Cambria became Route 46, and former US 466 from Atascadero to Morro Bay became Route 41."
+  }
+ },
+ "topics": [
+  "roads",
+  "history"
+ ],
+ "scores": {
+  "relevance": 4,
+  "interest": 3,
+  "confidence": 4
+ },
+ "sensitive": [],
+ "asOf": null,
+ "themeKeys": [
+  "us 466",
+  "highway 41",
+  "shandon",
+  "atascadero"
+ ],
+ "followOn": [
+  "ca-stretch-ca58-mojave-tehachapi-route-466-01"
+ ],
+ "direction": "Cholame to Paso Robles",
+ "checked": {
+  "by": "checker",
+  "date": "2026-10-05",
+  "removed": 0
+ }
+}
