@@ -1,0 +1,83 @@
+{
+  "id": "ca-sight-cesar-chavez-national-monument-chavez-home-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.227222,
+    "lon": -118.561389,
+    "reachMeters": 5000,
+    "name": "Cesar E. Chavez National Monument"
+  },
+  "title": "Where Cesar Chavez lived and is buried",
+  "text": "Cesar Chavez and his wife Helen moved into a small house here in 1971 and raised their younger children in it. From this place the United Farm Workers ran a national lettuce boycott and pushed through the California Agricultural Labor Relations Act of 1975. Chavez died in his sleep in April 1993, and Helen buried him here in what is now the memorial garden.",
+  "sentences": [
+    {
+      "text": "Cesar Chavez and his wife Helen moved into a small house here in 1971 and raised their younger children in it.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "From this place the United Farm Workers ran a national lettuce boycott and pushed through the California Agricultural Labor Relations Act of 1975.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Chavez died in his sleep in April 1993, and Helen buried him here in what is now the memorial garden.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Chavez Home",
+      "url": "https://www.nps.gov/places/000/ch-vez-home.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-04",
+      "quote": "This humble building was the home of Cesar Chavez and his wife Helen. When they moved here in 1971, the oldest of their eight children had already moved out of the family home but their younger children were raised here. ... The house's modesty and simplicity depict the values of the Chavez family."
+    },
+    "s2": {
+      "title": "California: Cesar E. Chavez National Monument / Nuestra Senora Reina de la Paz",
+      "url": "https://www.nps.gov/articles/chavez.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-04",
+      "quote": "From La Paz, the UFW led a national lettuce boycott and fought to pass the California Agricultural Labor Relations Act of 1975. ... In April 1993, Chavez died in his sleep ... Helen Chavez buried her husband at La Paz ... the Cesar Chavez Memorial Garden and burial site"
+    }
+  },
+  "topics": [
+    "labor",
+    "history",
+    "people"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "cesar chavez",
+    "united farm workers",
+    "la paz",
+    "lettuce boycott"
+  ],
+  "followOn": [
+    "ca-sight-cesar-chavez-national-monument-designation-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.227222,
+    "lon": -118.561389,
+    "radiusMeters": 5000,
+    "name": "Cesar E. Chavez National Monument",
+    "source": "https://en.wikipedia.org/wiki/C%C3%A9sar_E._Ch%C3%A1vez_National_Monument"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

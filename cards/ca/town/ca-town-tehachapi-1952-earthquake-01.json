@@ -1,0 +1,94 @@
+{
+  "id": "ca-town-tehachapi-1952-earthquake-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Tehachapi"
+  },
+  "title": "The morning the town came down",
+  "text": "At 4:52 on the morning of July 21, 1952, an earthquake wrecked Tehachapi. Fifteen homes here were destroyed, 53 were heavily damaged, and another 75 took lighter damage. At least eleven people died in the town, out of twelve killed in all, and it was the strongest earthquake anywhere in California since the great San Francisco quake of 1906. The shock started {distance} from here, out on the White Wolf Fault under the south end of the San Joaquin Valley.",
+  "sentences": [
+    {
+      "text": "At 4:52 on the morning of July 21, 1952, an earthquake wrecked Tehachapi.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Fifteen homes here were destroyed, 53 were heavily damaged, and another 75 took lighter damage.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "At least eleven people died in the town, out of twelve killed in all, and it was the strongest earthquake anywhere in California since the great San Francisco quake of 1906.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The shock started {distance} from here, out on the White Wolf Fault under the south end of the San Joaquin Valley.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "1952 Kern County earthquake",
+      "url": "https://en.wikipedia.org/wiki/1952_Kern_County_earthquake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The 1952 Kern County earthquake occurred on July 21 at 04:52 Pacific Daylight Time ... the strongest to occur in California since the 1906 San Francisco earthquake ... in the southern San Joaquin Valley ... the epicenter ... near Wheeler Ridge ... on the White Wolf Fault ... Tehachapi suffered the greatest impact, with at least 11 deaths and 35 injuries. Fifteen homes were destroyed there, 53 were heavily damaged, and another 75 sustained light damage."
+    },
+    "s2": {
+      "title": "1952 Kern County Earthquake Information",
+      "url": "https://scedc.caltech.edu/earthquake/kern1952.html",
+      "publisher": "Southern California Earthquake Data Center, Caltech",
+      "retrieved": "2026-10-04",
+      "quote": "The Kern County earthquake claimed 12 lives, was responsible for at least 18 injuries, and caused at least $50 million in property damage. ... The largest earthquake in southern California since the Fort Tejon earthquake of 1857 and the Owens Valley earthquake of 1872."
+    }
+  },
+  "topics": [
+    "earthquakes",
+    "history",
+    "disasters"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1952",
+  "themeKeys": [
+    "1952 kern county earthquake",
+    "white wolf fault",
+    "tehachapi"
+  ],
+  "followOn": [
+    "ca-landscape-tehachapi-mountains-white-wolf-fault-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.132222,
+    "lon": -118.448889,
+    "radiusMeters": 8000,
+    "name": "Tehachapi",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi,_California"
+  },
+  "elsewhere": {
+    "name": "the 1952 earthquake epicenter, near Wheeler Ridge",
+    "lat": 34.86,
+    "lon": -119.1,
+    "source": "https://en.wikipedia.org/wiki/1952_Kern_County_earthquake"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

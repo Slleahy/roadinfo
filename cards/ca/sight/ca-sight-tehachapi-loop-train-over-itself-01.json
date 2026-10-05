@@ -1,0 +1,82 @@
+{
+  "id": "ca-sight-tehachapi-loop-train-over-itself-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.200833,
+    "lon": -118.536944,
+    "reachMeters": 6000,
+    "name": "Tehachapi Loop"
+  },
+  "title": "A train that passes over itself",
+  "text": "To gain height here, the railroad goes round in a full circle and crosses over its own track. The circle is about 1,210 feet across, and a train climbing it gains 77 feet at a steady grade of around two percent. Any train longer than about 3,800 feet, roughly 56 boxcars, passes over itself going around.",
+  "sentences": [
+    {
+      "text": "To gain height here, the railroad goes round in a full circle and crosses over its own track.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The circle is about 1,210 feet across, and a train climbing it gains 77 feet at a steady grade of around two percent.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Any train longer than about 3,800 feet, roughly 56 boxcars, passes over itself going around.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Loop",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Loop",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The Tehachapi Loop is a 3,779-foot-long (0.72 mi; 1.15 km) spiral, or helix, on the Union Pacific Railroad Mojave Subdivision through Tehachapi Pass ... rises at a steady two-percent grade ... a 1,210-foot-diameter (370 m) circle ... gaining 77 feet (23 m) in elevation. ... Any train that is more than 3,800 feet (1,200 m) long—about 56 boxcars—passes over itself going around the loop."
+    },
+    "s2": {
+      "title": "Tehachapi Pass Railroad Line, National Historic Civil Engineering Landmark",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/tehachapi-pass-railroad-line",
+      "publisher": "American Society of Civil Engineers",
+      "retrieved": "2026-10-04",
+      "quote": "The Tehachapi Loop ... 3,799-feet long, with a diameter of about 1,210 feet ... averages 2.2% in gradient across its 28-mile length"
+    }
+  },
+  "topics": [
+    "railroads",
+    "engineering"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi loop",
+    "railroad engineering",
+    "spiral"
+  ],
+  "followOn": [
+    "ca-sight-tehachapi-loop-three-thousand-workers-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.200833,
+    "lon": -118.536944,
+    "radiusMeters": 6000,
+    "name": "Tehachapi Loop",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Loop"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

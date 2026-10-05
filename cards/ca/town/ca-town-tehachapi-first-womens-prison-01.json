@@ -1,0 +1,90 @@
+{
+  "id": "ca-town-tehachapi-first-womens-prison-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Tehachapi"
+  },
+  "title": "A three-to-ten stretch in Tehachapi",
+  "text": "The prison at Tehachapi began as California's first prison for women, opened in 1932. The 1952 earthquake left its brick dormitories unsafe and the place was closed, then reopened in 1954 as a men's prison. For a while the town's name was shorthand for a woman's sentence at the movies, as in Double Indemnity, where a character says of a wife who killed her husband, all she collected was a three to ten stretch in Tehachapi.",
+  "sentences": [
+    {
+      "text": "The prison at Tehachapi began as California's first prison for women, opened in 1932.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "The 1952 earthquake left its brick dormitories unsafe and the place was closed, then reopened in 1954 as a men's prison.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "For a while the town's name was shorthand for a woman's sentence at the movies, as in Double Indemnity, where a character says of a wife who killed her husband, all she collected was a three to ten stretch in Tehachapi.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California Correctional Institution",
+      "url": "https://en.wikipedia.org/wiki/California_Correctional_Institution",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The original California Institution for Women, the first women's facility in California, opened on the site of what is now CCI in 1932. ... After the 1952 Kern County earthquake on July 21, 'made the brick dormitories unsafe', the institution was closed. ... The prison was reopened in 1954 as CCI, an all-men's prison."
+    },
+    "s2": {
+      "title": "Tehachapi, California",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "In Double Indemnity, Fred MacMurray's character tells of one woman who killed her husband: 'All she collected was a three-to-ten stretch in Tehachapi.'"
+    },
+    "s3": {
+      "title": "Hard Time at Tehachapi: California's First Women's Prison (Kathleen A. Cairns)",
+      "url": "https://psychiatryonline.org/doi/10.1176/ps.2010.61.5.535",
+      "publisher": "University of New Mexico Press, reviewed in Psychiatric Services",
+      "retrieved": "2026-10-04",
+      "quote": "Hard Time at Tehachapi: California's First Women's Prison ... by Kathleen A. Cairns; Albuquerque, University of New Mexico Press, 2009"
+    }
+  },
+  "topics": [
+    "history",
+    "prisons",
+    "film"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [
+    "crime"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "california correctional institution",
+    "tehachapi",
+    "double indemnity",
+    "film noir"
+  ],
+  "followOn": [
+    "ca-town-tehachapi-1952-earthquake-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.132222,
+    "lon": -118.448889,
+    "radiusMeters": 8000,
+    "name": "Tehachapi",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ca-sight-monolith-the-town-that-was-removed-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.12,
+    "lon": -118.374167,
+    "reachMeters": 5000,
+    "name": "Monolith"
+  },
+  "title": "The company decided it did not want a town",
+  "text": "Monolith was once a real town, with as many as 350 residents living across the road from the cement plant. Investors bought the works in the early 1920s, gave it the name Monolith and started selling cement on the open market, and the company put up houses for families and a bunkhouse for single men. Then in the 1960s the company decided it did not want to own a town anymore, the store closed in 1971, and the remaining houses were pulled down over the next few years.",
+  "sentences": [
+    {
+      "text": "Monolith was once a real town, with as many as 350 residents living across the road from the cement plant.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Investors bought the works in the early 1920s, gave it the name Monolith and started selling cement on the open market, and the company put up houses for families and a bunkhouse for single men.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Then in the 1960s the company decided it did not want to own a town anymore, the store closed in 1971, and the remaining houses were pulled down over the next few years.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Monolith: the vanished little town to the east",
+      "url": "https://www.tehachapinews.com/lifestyle/monolith-the-vanished-little-town-to-the-east/article_a7f4ceb4-aed2-5b36-90fd-2c1e5eb31dc7.html",
+      "publisher": "Tehachapi News",
+      "retrieved": "2026-10-04",
+      "quote": "In the early 1920s, a group of investors bought the facility, renamed it Monolith and began producing cement for general use and sale. ... Across the road from the plant, the company built homes for workers with families and a bunkhouse for single men. ... as many as 350 residents including hard-working men, their busy wives and their playing children ... In the 1960s, the company decided it didn't want to own a town anymore. ... the remaining houses were demolished over the next few years."
+    }
+  },
+  "topics": [
+    "history",
+    "company towns",
+    "industry"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "monolith",
+    "company town",
+    "cement plant"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.12,
+    "lon": -118.374167,
+    "radiusMeters": 5000,
+    "name": "Monolith",
+    "source": "https://en.wikipedia.org/wiki/Monolith,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

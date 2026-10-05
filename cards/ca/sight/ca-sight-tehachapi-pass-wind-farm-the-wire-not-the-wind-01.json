@@ -1,0 +1,73 @@
+{
+  "id": "ca-sight-tehachapi-pass-wind-farm-the-wire-not-the-wind-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.102222,
+    "lon": -118.282778,
+    "reachMeters": 18000,
+    "name": "Tehachapi Pass Wind Farm"
+  },
+  "title": "The limit was the wire, not the wind",
+  "text": "For years what held back the wind farms in Tehachapi Pass was not wind but wire. A transmission project to fix that began in 2008 and was finished in 2016, with room for 4,500 megawatts. That opened the pass and the country around it to as much as 10,000 megawatts of wind.",
+  "sentences": [
+    {
+      "text": "For years what held back the wind farms in Tehachapi Pass was not wind but wire.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A transmission project to fix that began in 2008 and was finished in 2016, with room for 4,500 megawatts.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "That opened the pass and the country around it to as much as 10,000 megawatts of wind.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Pass Wind Farm",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Pass_Wind_Farm",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The Tehachapi Renewable Transmission Project ... 4.5 GW capacity ... began in 2008 and was completed by 2016 ... enabling potential expansion to 10 GW."
+    }
+  },
+  "topics": [
+    "wind",
+    "energy",
+    "infrastructure"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2016",
+  "themeKeys": [
+    "tehachapi renewable transmission project",
+    "wind farm",
+    "transmission"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.102222,
+    "lon": -118.282778,
+    "radiusMeters": 18000,
+    "name": "Tehachapi Pass Wind Farm",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Pass_Wind_Farm"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

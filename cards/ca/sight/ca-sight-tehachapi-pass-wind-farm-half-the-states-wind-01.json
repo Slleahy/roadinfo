@@ -1,0 +1,76 @@
+{
+  "id": "ca-sight-tehachapi-pass-wind-farm-half-the-states-wind-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.102222,
+    "lon": -118.282778,
+    "reachMeters": 18000,
+    "name": "Tehachapi Pass Wind Farm"
+  },
+  "title": "More than half the state's wind is here",
+  "text": "The turbines standing on both sides of Tehachapi Pass are a large share of California's wind power. The projects here and out in the Antelope Valley add up to 3,254 megawatts, out of 6,171 megawatts operating in the whole state. In 2024 California's wind farms generated about 7 percent of all the power made inside the state.",
+  "sentences": [
+    {
+      "text": "The turbines standing on both sides of Tehachapi Pass are a large share of California's wind power.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The projects here and out in the Antelope Valley add up to 3,254 megawatts, out of 6,171 megawatts operating in the whole state.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 2024 California's wind farms generated about 7 percent of all the power made inside the state.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Fast Facts about California Wind Energy",
+      "url": "https://www.calwea.org/fast-facts",
+      "publisher": "California Wind Energy Association",
+      "table": "U.S. Wind Turbine Database V8.3 (25 March 2026), compiled by CalWEA; California Energy Commission Q4 2024",
+      "retrieved": "2026-10-04",
+      "quote": "Wind energy projects totaling over 6,171 megawatts (MW) of capacity are operating in California today ... Kern County (Tehachapi - Antelope Valley) 3,254 ... In 2024, California wind projects generated 15,761 gigawatt-hours (GWh) of electricity - 7.3% of all power generated within California ... Data compiled by CalWEA primarily from the U.S. Wind Turbine Database V8.3 (March 25, 2026)"
+    }
+  },
+  "topics": [
+    "wind",
+    "energy"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2026",
+  "themeKeys": [
+    "tehachapi pass",
+    "wind farm",
+    "kern county wind",
+    "electricity"
+  ],
+  "followOn": [
+    "ca-landscape-tehachapi-mountains-pass-wind-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.102222,
+    "lon": -118.282778,
+    "radiusMeters": 18000,
+    "name": "Tehachapi Pass Wind Farm",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Pass_Wind_Farm"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

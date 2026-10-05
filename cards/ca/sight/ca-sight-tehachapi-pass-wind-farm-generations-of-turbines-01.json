@@ -1,0 +1,74 @@
+{
+  "id": "ca-sight-tehachapi-pass-wind-farm-generations-of-turbines-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.102222,
+    "lon": -118.282778,
+    "reachMeters": 18000,
+    "name": "Tehachapi Pass Wind Farm"
+  },
+  "title": "Turbines of several eras, side by side",
+  "text": "The turbines in Tehachapi Pass are not all of one age. Several generations of the technology stand here together, from early machines rated in kilowatts to modern ones producing up to three megawatts each. Wind development started in this pass in the early 1980s, and about 3,400 turbines stand here now.",
+  "sentences": [
+    {
+      "text": "The turbines in Tehachapi Pass are not all of one age.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Several generations of the technology stand here together, from early machines rated in kilowatts to modern ones producing up to three megawatts each.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Wind development started in this pass in the early 1980s, and about 3,400 turbines stand here now.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Pass Wind Farm",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Pass_Wind_Farm",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The Tehachapi Pass wind farm is one of the first large-scale wind farms installed in the U.S., with around 710 megawatts (950,000 hp) produced by about 3400 wind turbines. ... The area has multiple generations of wind turbine technology installed ... The older generation turbines generate kilowatts, and the modern turbines installed generate up to 3 megawatts. ... Wind development in the Tehachapi Pass began in the early 1980s by James Dehlsen and Zond Corporation."
+    }
+  },
+  "topics": [
+    "wind",
+    "energy",
+    "technology"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi pass",
+    "wind farm",
+    "turbines",
+    "repowering"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.102222,
+    "lon": -118.282778,
+    "radiusMeters": 18000,
+    "name": "Tehachapi Pass Wind Farm",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Pass_Wind_Farm"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 1
+  }
+}

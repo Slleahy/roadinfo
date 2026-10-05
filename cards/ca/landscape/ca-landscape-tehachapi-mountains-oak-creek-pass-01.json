@@ -1,0 +1,80 @@
+{
+  "id": "ca-landscape-tehachapi-mountains-oak-creek-pass-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Tehachapi Mountains"
+  },
+  "title": "The pass everyone used before this one",
+  "text": "Until the railroad was pushed through Tehachapi Pass in 1876, the way over these mountains was not this pass but Oak Creek Pass, {distance} from here. Father Francisco Garces used it in 1776 to get back to the Mojave after exploring the San Joaquin Valley, and Fremont came through it in 1844.",
+  "sentences": [
+    {
+      "text": "Until the railroad was pushed through Tehachapi Pass in 1876, the way over these mountains was not this pass but Oak Creek Pass, {distance} from here.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Father Francisco Garces used it in 1776 to get back to the Mojave after exploring the San Joaquin Valley, and Fremont came through it in 1844.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California Historical Landmarks in Kern County",
+      "url": "https://ohp.parks.ca.gov/?page_id=21423",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-04",
+      "quote": "No. 97 Oak Creek Pass: In 1776, Father Francisco Garces used the Oak Creek Pass to return to the Mojave after exploring the San Joaquin Valley, as did Fremont in 1844-1845. Until the railroad was built through the Tehachapi Pass in 1876, Oak Creek Pass was the only route used through the Tehachapi Mountains."
+    },
+    "s2": {
+      "title": "Oak Creek Pass",
+      "url": "https://en.wikipedia.org/wiki/Oak_Creek_Pass",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Oak Creek Pass ... Coordinates 35°03′40″N 118°23′20″W ... Elevation 4,820 ft (1,470 m) ... In 1776, Father Francisco Garcés used the Oak Creek Pass to return to the Mojave after exploring the San Joaquin Valley ... Until the railroad was built through the Tehachapi Pass in 1876, Oak Creek Pass was the only route used through the Tehachapi Mountains."
+    }
+  },
+  "topics": [
+    "history",
+    "exploration",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "oak creek pass",
+    "tehachapi pass",
+    "garces",
+    "fremont"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.10222,
+    "lon": -118.28278,
+    "radiusMeters": 12000,
+    "name": "Tehachapi Pass",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Pass"
+  },
+  "elsewhere": {
+    "name": "Oak Creek Pass",
+    "lat": 35.061,
+    "lon": -118.389,
+    "source": "https://en.wikipedia.org/wiki/Oak_Creek_Pass"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 1
+  }
+}

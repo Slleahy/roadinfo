@@ -1,0 +1,98 @@
+{
+  "id": "ca-sight-monolith-cement-for-the-aqueduct-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.12,
+    "lon": -118.374167,
+    "reachMeters": 5000,
+    "name": "Monolith"
+  },
+  "title": "Los Angeles built a cement plant up here",
+  "text": "The cement works at Monolith was built by the city of Los Angeles, to make cement for the aqueduct that brings its water down from the Owens Valley. The settlement was simply called Aqueduct at first, and its post office opened under that name in 1908. William Mulholland, the engineer behind the aqueduct, renamed the place Monolith in 1910 for the huge limestone deposit in the hill. In its first two and a half years the plant turned out 1,200,000 barrels of cement, and 900,000 of them went into the aqueduct.",
+  "sentences": [
+    {
+      "text": "The cement works at Monolith was built by the city of Los Angeles, to make cement for the aqueduct that brings its water down from the Owens Valley.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The settlement was simply called Aqueduct at first, and its post office opened under that name in 1908.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "William Mulholland, the engineer behind the aqueduct, renamed the place Monolith in 1910 for the huge limestone deposit in the hill.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In its first two and a half years the plant turned out 1,200,000 barrels of cement, and 900,000 of them went into the aqueduct.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Monolith, California",
+      "url": "https://en.wikipedia.org/wiki/Monolith,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Monolith began as a camp for workers at a cement plant for the Owens Valley aqueduct project, supplying materials for the construction of concrete structures. ... The Aqueduct post office opened in 1908, and changed its name to Monolith in 1910. ... William Mulholland bestowed the name change, due to a huge limestone deposit."
+    },
+    "s2": {
+      "title": "Monolith: the vanished little town to the east",
+      "url": "https://www.tehachapinews.com/lifestyle/monolith-the-vanished-little-town-to-the-east/article_a7f4ceb4-aed2-5b36-90fd-2c1e5eb31dc7.html",
+      "publisher": "Tehachapi News",
+      "retrieved": "2026-10-04",
+      "quote": "The townsite was originally known as Aqueduct and dates to about 1908, when the plant was being used by the City of Los Angeles to supply cement for the L.A. Aqueduct and other L.A. Department of Water and Power projects."
+    },
+    "s3": {
+      "title": "The scar on the Mountain",
+      "url": "https://www.theloopnewspaper.com/story/2017/10/28/community/the-scar-on-the-mountain/3962.html",
+      "publisher": "The Loop Newspaper",
+      "retrieved": "2026-10-04",
+      "quote": "Of the 1,200,000 barrels, 900,000 barrels went to the aqueduct project."
+    }
+  },
+  "topics": [
+    "industry",
+    "water",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "monolith",
+    "cement plant",
+    "los angeles aqueduct",
+    "william mulholland"
+  ],
+  "followOn": [
+    "ca-sight-monolith-the-town-that-was-removed-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.12,
+    "lon": -118.374167,
+    "radiusMeters": 5000,
+    "name": "Monolith",
+    "source": "https://en.wikipedia.org/wiki/Monolith,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "ca-town-tehachapi-depot-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Tehachapi"
+  },
+  "title": "The depot that burned twice",
+  "text": "Tehachapi's railroad depot was built in 1904, after fire destroyed the original station building. It went on the National Register of Historic Places in October 1999, and nine years later it burned down too. The town rebuilt it in 2009, and it is now the Tehachapi Depot Railroad Museum, watching an average of about 36 freight trains a day go by.",
+  "sentences": [
+    {
+      "text": "Tehachapi's railroad depot was built in 1904, after fire destroyed the original station building.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It went on the National Register of Historic Places in October 1999, and nine years later it burned down too.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The town rebuilt it in 2009, and it is now the Tehachapi Depot Railroad Museum, watching an average of about 36 freight trains a day go by.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Railroad Depot",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Railroad_Depot",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The depot was built in 1904 after the original station building was destroyed in a fire. ... The original depot was added to the National Register of Historic Places on October 20, 1999. ... In 2008, the depot burned down; it was rebuilt in 2009 and now serves as the Tehachapi Depot Railroad Museum."
+    },
+    "s2": {
+      "title": "Tehachapi Pass Railroad Line, National Historic Civil Engineering Landmark",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/tehachapi-pass-railroad-line",
+      "publisher": "American Society of Civil Engineers",
+      "retrieved": "2026-10-04",
+      "quote": "remains in use today and accommodates an average of 36 freight trains per day"
+    }
+  },
+  "topics": [
+    "railroads",
+    "history",
+    "museums"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi depot",
+    "railroad museum",
+    "southern pacific"
+  ],
+  "followOn": [
+    "ca-sight-tehachapi-loop-still-working-track-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.132222,
+    "lon": -118.448889,
+    "radiusMeters": 8000,
+    "name": "Tehachapi",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "ca-sight-cesar-chavez-national-monument-sanatorium-first-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.227222,
+    "lon": -118.561389,
+    "reachMeters": 5000,
+    "name": "Cesar E. Chavez National Monument"
+  },
+  "title": "A sanatorium before it was a union headquarters",
+  "text": "The farm workers' headquarters here was a tuberculosis hospital first. Kern County opened a rock quarry on the site in 1913, and a few years later the state's tuberculosis bureau chose the property for a sanatorium called Stony Brook Retreat, which took patients from the 1930s until it closed in 1967. In 1970 the United Farm Workers heard that the 187-acre property was going to public auction, and that year it was turned over to Cesar Chavez and the farm worker movement. The old sanatorium officially became the union's headquarters in January 1972.",
+  "sentences": [
+    {
+      "text": "The farm workers' headquarters here was a tuberculosis hospital first.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Kern County opened a rock quarry on the site in 1913, and a few years later the state's tuberculosis bureau chose the property for a sanatorium called Stony Brook Retreat, which took patients from the 1930s until it closed in 1967.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1970 the United Farm Workers heard that the 187-acre property was going to public auction, and that year it was turned over to Cesar Chavez and the farm worker movement.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The old sanatorium officially became the union's headquarters in January 1972.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California: Cesar E. Chavez National Monument / Nuestra Senora Reina de la Paz",
+      "url": "https://www.nps.gov/articles/chavez.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-04",
+      "quote": "Early development of the La Paz site began in 1913, when the Kern County Highway Department opened a rock quarry near Keene. ... the California Bureau of Tuberculosis chose the property for a new sanatorium for TB patients, called Stony Brook Retreat. ... The United Farm Workers Service Center received a tip in 1970 about a 187-acre developed property up for public auction in Keene, California. ... The old sanatorium officially became the UFW headquarters in January 1972."
+    },
+    "s2": {
+      "title": "Dormitory and Former Tuberculosis Sanatorium",
+      "url": "https://www.nps.gov/places/000/dormitory-and-former-tuberculosis-sanatorium.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-04",
+      "quote": "people were sent there from the 1930s until it closed in 1967 ... in 1970, turned it over to Cesar Chavez and the farmworker movement for their use"
+    }
+  },
+  "topics": [
+    "history",
+    "labor",
+    "medicine"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "la paz",
+    "stony brook retreat",
+    "united farm workers",
+    "cesar chavez"
+  ],
+  "followOn": [
+    "ca-sight-cesar-chavez-national-monument-chavez-home-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.227222,
+    "lon": -118.561389,
+    "radiusMeters": 5000,
+    "name": "Cesar E. Chavez National Monument",
+    "source": "https://en.wikipedia.org/wiki/C%C3%A9sar_E._Ch%C3%A1vez_National_Monument"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

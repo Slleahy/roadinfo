@@ -1,0 +1,88 @@
+{
+  "id": "ca-town-tehachapi-railroad-moved-the-town-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Tehachapi"
+  },
+  "title": "The railroad moved the town",
+  "text": "Tehachapi is not where the town started. The original settlement in the valley was founded in 1869 by James Williams, who named it for himself before it became Tehichipa, and it was the shipping point for gold mines in the Owens Valley. When the Southern Pacific built its line through in 1876 it bypassed the old place and laid out a new town at the summit, and people drifted away to the rails. The new town grew into the city of Tehachapi, the old one died, and a single building from it, the Errea House, still stands here.",
+  "sentences": [
+    {
+      "text": "Tehachapi is not where the town started.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The original settlement in the valley was founded in 1869 by James Williams, who named it for himself before it became Tehichipa, and it was the shipping point for gold mines in the Owens Valley.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "When the Southern Pacific built its line through in 1876 it bypassed the old place and laid out a new town at the summit, and people drifted away to the rails.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The new town grew into the city of Tehachapi, the old one died, and a single building from it, the Errea House, still stands here.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehichipa, California",
+      "url": "https://en.wikipedia.org/wiki/Tehichipa,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Tehichipa, originally known as Williamsburg, was founded in 1869 by James Williams; while Williams originally named the town for himself, its name was changed to Tehichipa by 1872. ... The town was a shipping center for Owens Valley gold mines prior to the construction of a railroad in the area. ... when the Southern Pacific Railroad built a railroad in 1876, it bypassed Tehichipa, instead establishing a new town named 'Tehachapi Summit'. ... Tehachapi Summit evolved into the city of Tehachapi, while Tehichipa ultimately died out. ... The only surviving building from Tehichipa, the Errea House, is now located in Tehachapi."
+    },
+    "s2": {
+      "title": "California Historical Landmarks in Kern County",
+      "url": "https://ohp.parks.ca.gov/?page_id=21423",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-04",
+      "quote": "No. 643 Old Town (Tehachapi): The oldest settlement in Tehachapi Valley, known as 'Old Town,' was established here during the 1860s. Long an important station on the road between Southern California and the San Joaquin Valley, the community began to decline when residents gradually moved to nearby Greenwich, later renamed Tehachapi, after completion of the Southern Pacific Railroad in 1876."
+    }
+  },
+  "topics": [
+    "history",
+    "railroads",
+    "town names"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi",
+    "tehichipa",
+    "southern pacific",
+    "old town"
+  ],
+  "followOn": [
+    "ca-town-tehachapi-depot-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.132222,
+    "lon": -118.448889,
+    "radiusMeters": 8000,
+    "name": "Tehachapi",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

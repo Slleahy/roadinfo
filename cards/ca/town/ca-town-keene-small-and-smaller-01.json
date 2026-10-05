@@ -1,0 +1,67 @@
+{
+  "id": "ca-town-keene-small-and-smaller-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Keene"
+  },
+  "title": "Small, and the smaller place next door",
+  "text": "Keene had 469 people at the 2020 census, up from 431 ten years earlier, sitting a little above 2,600 feet in the foothills of the Tehachapi Mountains. A smaller place still, Woodford, about 30 buildings in all, once stood just outside Keene.",
+  "sentences": [
+    {
+      "text": "Keene had 469 people at the 2020 census, up from 431 ten years earlier, sitting a little above 2,600 feet in the foothills of the Tehachapi Mountains.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A smaller place still, Woodford, about 30 buildings in all, once stood just outside Keene.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Keene, California",
+      "url": "https://en.wikipedia.org/wiki/Keene,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "table": "U.S. Census 2020 and 2010",
+      "quote": "The 2020 census reported a population of 469 ... up from 431 in the 2010 census ... Elevation 2,602 ft (793 m) ... in the foothills of the Tehachapi Mountains ... A small community, Woodford, of about 30 buildings once existed about 1 mile southeast of Keene."
+    }
+  },
+  "topics": [
+    "population",
+    "geography",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "keene",
+    "woodford",
+    "population"
+  ],
+  "followOn": [
+    "ca-sight-cesar-chavez-national-monument-designation-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.223611,
+    "lon": -118.562222,
+    "radiusMeters": 8000,
+    "name": "Keene",
+    "source": "https://en.wikipedia.org/wiki/Keene,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 1
+  }
+}

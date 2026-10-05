@@ -1,0 +1,82 @@
+{
+  "id": "ca-sight-monolith-battery-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.12,
+    "lon": -118.374167,
+    "reachMeters": 5000,
+    "name": "Monolith"
+  },
+  "title": "Six hundred thousand batteries at Monolith",
+  "text": "At the Monolith substation here, Southern California Edison switched on a battery in 2014 built out of 608,832 lithium-ion cells. It held 32 megawatt-hours and could deliver 8 megawatts, enough to run between 1,600 and 2,400 houses for four hours. When it was switched on it was the largest lithium-ion battery system running in North America, and it lasted eight years before it was shut down in 2022.",
+  "sentences": [
+    {
+      "text": "At the Monolith substation here, Southern California Edison switched on a battery in 2014 built out of 608,832 lithium-ion cells.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It held 32 megawatt-hours and could deliver 8 megawatts, enough to run between 1,600 and 2,400 houses for four hours.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "When it was switched on it was the largest lithium-ion battery system running in North America, and it lasted eight years before it was shut down in 2022.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Energy Storage Project",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Energy_Storage_Project",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The Tehachapi Energy Storage Project ... is an 8MW/32MWh lithium-ion battery-based grid energy storage system at the Monolith Substation of Southern California Edison (SCE) in Tehachapi, California. ... The TSP system is constructed of 608,832 lithium-ion battery cells ... At the time of commissioning in 2014, it was the largest lithium-ion battery system operating in North America ... could power between 1,600 and 2,400 homes for four hours ... operated successfully for eight years before formal decommissioning in 2022."
+    },
+    "s2": {
+      "title": "Monolith, California",
+      "url": "https://en.wikipedia.org/wiki/Monolith,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "In 2014, Southern California Edison commissioned the Tehachapi Energy Storage Project at Monolith Substation, the largest lithium-ion battery system operating in North America at the time."
+    }
+  },
+  "topics": [
+    "energy",
+    "technology"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2022",
+  "themeKeys": [
+    "monolith",
+    "battery storage",
+    "southern california edison",
+    "tehachapi energy storage project"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.12,
+    "lon": -118.374167,
+    "radiusMeters": 5000,
+    "name": "Monolith",
+    "source": "https://en.wikipedia.org/wiki/Monolith,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

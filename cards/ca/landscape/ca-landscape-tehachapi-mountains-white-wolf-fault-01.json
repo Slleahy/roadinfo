@@ -1,0 +1,97 @@
+{
+  "id": "ca-landscape-tehachapi-mountains-white-wolf-fault-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Tehachapi Mountains"
+  },
+  "title": "The White Wolf Fault",
+  "text": "Where the Tehachapi Mountains drop away to the San Joaquin Valley, they meet the White Wolf Fault, which broke in 1952 in a magnitude 7.3 earthquake. It is a reverse fault, meaning one side rode up over the other, with some sideways movement as well. That earthquake was the largest in southern California since 1857, and it killed twelve people.",
+  "sentences": [
+    {
+      "text": "Where the Tehachapi Mountains drop away to the San Joaquin Valley, they meet the White Wolf Fault, which broke in 1952 in a magnitude 7.3 earthquake.",
+      "sources": [
+        "s1",
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "text": "It is a reverse fault, meaning one side rode up over the other, with some sideways movement as well.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "That earthquake was the largest in southern California since 1857, and it killed twelve people.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "1952 Kern County earthquake",
+      "url": "https://en.wikipedia.org/wiki/1952_Kern_County_earthquake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The 1952 Kern County earthquake ... 7.3 Mw ... The rupture occurred on the White Wolf Fault, an oblique-slip fault roughly 90 km long."
+    },
+    "s2": {
+      "title": "Birth of a fault: Connecting the Kern County and Walker Pass, California, earthquakes",
+      "url": "https://pubs.usgs.gov/publication/70021492",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-04",
+      "quote": "A band of seismicity transects the southern Sierra Nevada range between the northeastern end of the site of the 1952 MW (moment magnitude) 7.3 Kern County earthquake and the site of the 1946 MW 6.1 Walker Pass earthquake."
+    },
+    "s3": {
+      "title": "1952 Kern County Earthquake Information",
+      "url": "https://scedc.caltech.edu/earthquake/kern1952.html",
+      "publisher": "Southern California Earthquake Data Center, Caltech",
+      "retrieved": "2026-10-04",
+      "quote": "White Wolf fault ... a reverse fault (with some left-lateral component of slip) ... The Kern County earthquake claimed 12 lives ... The largest earthquake in southern California since the Fort Tejon earthquake of 1857 and the Owens Valley earthquake of 1872."
+    },
+    "s4": {
+      "title": "White Wolf Fault",
+      "url": "https://en.wikipedia.org/wiki/White_Wolf_Fault",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The White Wolf Fault is located along the northwestern transition of the Tejon Hills and Tehachapi Mountains with the San Joaquin Valley. ... classed as a reverse (vertical motion) fault with a left lateral (sinistral) component ... was the source of the 1952 Kern County earthquake on July 21 (M=7.3)."
+    }
+  },
+  "topics": [
+    "geology",
+    "earthquakes"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1952",
+  "themeKeys": [
+    "white wolf fault",
+    "1952 kern county earthquake",
+    "tehachapi mountains"
+  ],
+  "followOn": [
+    "ca-town-tehachapi-1952-earthquake-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.132222,
+    "lon": -118.448889,
+    "radiusMeters": 30000,
+    "name": "Tehachapi Mountains",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

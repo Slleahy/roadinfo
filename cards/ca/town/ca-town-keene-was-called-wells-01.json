@@ -1,0 +1,81 @@
+{
+  "id": "ca-town-keene-was-called-wells-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Keene"
+  },
+  "title": "The town that was called Wells",
+  "text": "Keene was founded in 1876 as a railroad town, and its first name was Wells, for a local rancher called Madison P. Wells. It was renamed for James P. Keene, a financier who settled in the area. The post office here opened in 1879, closed two years later, and opened again in 1885.",
+  "sentences": [
+    {
+      "text": "Keene was founded in 1876 as a railroad town, and its first name was Wells, for a local rancher called Madison P. Wells.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It was renamed for James P. Keene, a financier who settled in the area.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The post office here opened in 1879, closed two years later, and opened again in 1885.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Keene, California",
+      "url": "https://en.wikipedia.org/wiki/Keene,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Keene was founded in 1876 with the name Wells as a railroad town. ... The Keene post office opened in 1879, closed in 1881, and re-opened in 1885."
+    },
+    "s2": {
+      "title": "History of Keene and Hart Flat, Calif.",
+      "url": "https://www.desertnews.com/news/article_3d23808e-2096-11ec-92b8-0f053d2bfe08.html",
+      "publisher": "Desert News (Kern County)",
+      "retrieved": "2026-10-04",
+      "quote": "Keene was founded in 1876 with the name Wells as a railroad town. The name Wells honored Madison P. Wells who was a local rancher in the area; the town was renamed after James P. Keene who was a financier that settled in the area. ... The first post office opened in Keene in 1879, closed in 1881 and re-opened in 1885."
+    }
+  },
+  "topics": [
+    "history",
+    "town names",
+    "railroads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "keene",
+    "wells",
+    "town names",
+    "southern pacific"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.223611,
+    "lon": -118.562222,
+    "radiusMeters": 8000,
+    "name": "Keene",
+    "source": "https://en.wikipedia.org/wiki/Keene,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

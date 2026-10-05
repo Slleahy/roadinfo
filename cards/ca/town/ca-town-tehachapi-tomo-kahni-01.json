@@ -1,0 +1,87 @@
+{
+  "id": "ca-town-tehachapi-tomo-kahni-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Tehachapi"
+  },
+  "title": "The winter village",
+  "text": "The Kawaiisu have made these mountains their home for two to three thousand years. One of their winter village sites, Tomo-Kahni, which is Kawaiisu for winter village, became a California state historic park in 1993, {distance} from here. The ground is treated as so fragile that it can be visited only on a guided tour.",
+  "sentences": [
+    {
+      "text": "The Kawaiisu have made these mountains their home for two to three thousand years.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "One of their winter village sites, Tomo-Kahni, which is Kawaiisu for winter village, became a California state historic park in 1993, {distance} from here.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The ground is treated as so fragile that it can be visited only on a guided tour.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tomo-Kahni State Historic Park",
+      "url": "https://www.parks.ca.gov/?page_id=610",
+      "publisher": "California State Parks",
+      "retrieved": "2026-10-04",
+      "quote": "Tomo-Kahni, or 'Winter Village,' was the site of a Kawaiisu (Nuwa) village. ... The Kawaiisu migrated from the Great Basin and made the Tehachapi their home for two to three thousand years. ... Tomo-Kahni State Historic Park was created as a unit of California State Parks in 1993 to protect and preserve the integrity of this unique site. ... Due to the extremely sensitive nature of the site, Tomo-Kahni is available to the public by guided tour only."
+    },
+    "s2": {
+      "title": "Tomo-Kahni State Historic Park",
+      "url": "https://en.wikipedia.org/wiki/Tomo-Kahni_State_Historic_Park",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Tomo-Kahni State Historic Park ... Coordinates 35°14′8″N 118°35′00″W ... Nearest city Tehachapi, California ... Established 1993"
+    }
+  },
+  "topics": [
+    "native history",
+    "place names",
+    "parks"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kawaiisu",
+    "tomo-kahni",
+    "tehachapi",
+    "winter village"
+  ],
+  "followOn": [
+    "ca-kern-county-kawaiisu-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.132222,
+    "lon": -118.448889,
+    "radiusMeters": 8000,
+    "name": "Tehachapi",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi,_California"
+  },
+  "elsewhere": {
+    "name": "Tomo-Kahni State Historic Park",
+    "lat": 35.23556,
+    "lon": -118.58333,
+    "source": "https://en.wikipedia.org/wiki/Tomo-Kahni_State_Historic_Park"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 1
+  }
+}

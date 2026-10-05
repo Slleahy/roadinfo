@@ -1,0 +1,71 @@
+{
+  "id": "ca-town-tehachapi-apples-and-wine-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Tehachapi"
+  },
+  "title": "Apples up here, and now wine",
+  "text": "Tehachapi sits close to 4,000 feet above sea level, up between the San Joaquin Valley and the Mojave Desert. The town has long been farming country, growing apples, peaches, grain, vegetables and hay year round. Wine is the newer crop, and the Tehachapi Mountains were approved as an official American wine-growing area in 2020.",
+  "sentences": [
+    {
+      "text": "Tehachapi sits close to 4,000 feet above sea level, up between the San Joaquin Valley and the Mojave Desert.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The town has long been farming country, growing apples, peaches, grain, vegetables and hay year round.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Wine is the newer crop, and the Tehachapi Mountains were approved as an official American wine-growing area in 2020.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi, California",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Tehachapi ... Elevation 3,970 ft (1,210 m) ... in the Tehachapi Mountains, between the San Joaquin Valley and the Mojave Desert ... Tehachapi has historically been agrarian, with apples, peaches, grain, vegetables and hay grown year-round. ... The Tehachapi Mountains American Viticultural Area was approved in 2020."
+    }
+  },
+  "topics": [
+    "agriculture",
+    "wine",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi",
+    "apples",
+    "viticultural area",
+    "elevation"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.132222,
+    "lon": -118.448889,
+    "radiusMeters": 8000,
+    "name": "Tehachapi",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "ca-town-keene-reopened-in-25-days-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Keene"
+  },
+  "title": "Twenty-five days to reopen the line",
+  "text": "The railroad that made Keene was broken by the earthquake of July 21, 1952. Two tunnels collapsed on the grade and six more were damaged. The shaking cracked reinforced concrete tunnel walls eighteen inches thick, and squeezed the two ends of one tunnel more than eight feet closer together. A thousand men had trains running through again in 25 days.",
+  "sentences": [
+    {
+      "text": "The railroad that made Keene was broken by the earthquake of July 21, 1952.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Two tunnels collapsed on the grade and six more were damaged.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The shaking cracked reinforced concrete tunnel walls eighteen inches thick, and squeezed the two ends of one tunnel more than eight feet closer together.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A thousand men had trains running through again in 25 days.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "1952 Kern County earthquake",
+      "url": "https://en.wikipedia.org/wiki/1952_Kern_County_earthquake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Two tunnels used by the Southern Pacific Railroad and the Santa Fe Railroad collapsed between Tehachapi and Marcel, six more tunnels received lesser damage, and 3.5 miles (5.6 km) of track was distorted through two horseshoe curves. ... Southeast of Bealville 46 cm (18 in) thick reinforced concrete railroad tunnel walls were cracked, tracks were warped, and the gap between tunnel entrances was reduced by up to 2.5 meters (8 ft 2 in). ... The railroad was reopened in 25 days by a construction force of one thousand men and 175 pieces of earth-moving equipment."
+    },
+    "s2": {
+      "title": "Keene, California",
+      "url": "https://en.wikipedia.org/wiki/Keene,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Keene was founded in 1876 with the name Wells as a railroad town."
+    }
+  },
+  "topics": [
+    "earthquakes",
+    "railroads",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1952",
+  "themeKeys": [
+    "1952 kern county earthquake",
+    "tehachapi grade",
+    "tunnels",
+    "keene"
+  ],
+  "followOn": [
+    "ca-town-tehachapi-1952-earthquake-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.223611,
+    "lon": -118.562222,
+    "radiusMeters": 8000,
+    "name": "Keene",
+    "source": "https://en.wikipedia.org/wiki/Keene,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

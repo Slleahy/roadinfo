@@ -49,7 +49,7 @@ road stretches dearer at about $0.62.
 
 | Phase | Batch | Cards | Cap | Status | Actual |
 |---|---|---|---|---|---|
-| P1 | Tehachapi Pass and crest: Mojave to Keene. Tehachapi and Keene towns, the Loop, the wind farm, the 1952 earthquake, Monolith, Cameron, the Cesar Chavez monument | ~22 | $12 | not started | |
+| P1 | Tehachapi Pass and crest: Mojave to Keene. Tehachapi and Keene towns, the Loop, the wind farm, the 1952 earthquake, Monolith, Cameron, the Cesar Chavez monument | ~22 | $12 | done: 23 checked cards, 7 subjects | $0 cloud |
 | P2 | Caliente to Bakersfield: Caliente, Bena, Edison, the Bakersfield town deck, and the Bakersfield Sound as the first `person` cards | ~24 | $12 | not started | |
 | P3 | West Kern and I-5: Buttonwillow, Lost Hills oilfield, Kern National Wildlife Refuge, the California Aqueduct | ~14 | $8 | not started | |
 | P4 | CA-46, Lost Hills to Shandon: Cholame and James Dean, the San Andreas crossing, Antelope Grade, Shandon, Estrella | ~14 | $8 | not started | |
@@ -94,3 +94,4 @@ on the route. Stop there, drive it, and judge three things before opening P3:
 | 2026-10-03 | R3 towns (cloud, Sonnet): 16 towns, writer 83 fetches, checker 80 | R3 | 60 | $18 | $225 |
 | 2026-10-03 | R4 stretches (cloud, Sonnet): 12 stretches, writer ~50 fetches, checker ~44 | R4 | 21 | $13 | $212 |
 | 2026-10-03 | R6 landscape (cloud, Sonnet): 12 units, writer ~58 fetches, checker ~42 | R6 | 43 | $12 | $200 |
+| 2026-10-04 | P1 Tehachapi Pass (run in the owner's local Claude Code session, not cloud credit): writer 30 fetches, checker 36 | P1 | 23 | $0 cloud | $200 |

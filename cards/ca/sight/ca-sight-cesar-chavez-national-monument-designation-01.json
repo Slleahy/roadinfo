@@ -1,0 +1,82 @@
+{
+  "id": "ca-sight-cesar-chavez-national-monument-designation-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.227222,
+    "lon": -118.561389,
+    "reachMeters": 5000,
+    "name": "Cesar E. Chavez National Monument"
+  },
+  "title": "A national monument in a village of a few hundred",
+  "text": "The United Farm Workers headquarters outside Keene has a second name, Nuestra Señora Reina de la Paz, which means Our Lady Queen of Peace. On the 8th of October, 2012, President Obama made it a national monument by proclamation, the 398th unit of the National Park System. The National Park Service runs it together with the National Chavez Center, and the 116-acre site holds a visitor center and the garden where Chavez is buried.",
+  "sentences": [
+    {
+      "text": "The United Farm Workers headquarters outside Keene has a second name, Nuestra Señora Reina de la Paz, which means Our Lady Queen of Peace.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "On the 8th of October, 2012, President Obama made it a national monument by proclamation, the 398th unit of the National Park System.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The National Park Service runs it together with the National Chavez Center, and the 116-acre site holds a visitor center and the garden where Chavez is buried.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Cesar E. Chavez National Monument",
+      "url": "https://en.wikipedia.org/wiki/C%C3%A9sar_E._Ch%C3%A1vez_National_Monument",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Cesar E. Chavez National Monument, also known as Nuestra Senora Reina de la Paz (Our Lady Queen of Peace) ... President Barack Obama established the monument on October 8, 2012 by proclamation under authority of the Antiquities Act ... the 398th unit in the National Park System ... managed collaboratively by the National Park Service and the National Chavez Center ... The 116-acre site ... a visitor center and memorial garden where Chavez is buried"
+    },
+    "s2": {
+      "title": "California: Cesar E. Chavez National Monument / Nuestra Senora Reina de la Paz",
+      "url": "https://www.nps.gov/articles/chavez.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-04",
+      "quote": "On October 8, 2012, President Barack Obama issued a proclamation establishing the La Paz property as the Cesar E. Chavez National Monument."
+    }
+  },
+  "topics": [
+    "history",
+    "labor",
+    "parks"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": "2012",
+  "themeKeys": [
+    "cesar chavez national monument",
+    "la paz",
+    "national park service",
+    "keene"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.227222,
+    "lon": -118.561389,
+    "radiusMeters": 5000,
+    "name": "Cesar E. Chavez National Monument",
+    "source": "https://en.wikipedia.org/wiki/C%C3%A9sar_E._Ch%C3%A1vez_National_Monument"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

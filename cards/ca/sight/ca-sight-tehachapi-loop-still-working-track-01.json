@@ -1,0 +1,82 @@
+{
+  "id": "ca-sight-tehachapi-loop-still-working-track-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.200833,
+    "lon": -118.536944,
+    "reachMeters": 6000,
+    "name": "Tehachapi Loop"
+  },
+  "title": "Still working track",
+  "text": "The Tehachapi Loop is not a monument, it is working railroad. BNSF runs about 20 trains a day through it and Union Pacific about 16, which comes to an average of around 36 freight trains a day. The siding on the loop is called Walong, named for a Southern Pacific district roadmaster, W. A. Long.",
+  "sentences": [
+    {
+      "text": "The Tehachapi Loop is not a monument, it is working railroad.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "BNSF runs about 20 trains a day through it and Union Pacific about 16, which comes to an average of around 36 freight trains a day.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The siding on the loop is called Walong, named for a Southern Pacific district roadmaster, W. A. Long.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Loop",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Loop",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "BNSF operates about 20 trains through the Loop per day, while Union Pacific sends about 16 trains daily. ... The siding on the loop is known as Walong after Southern Pacific District Roadmaster W. A. Long."
+    },
+    "s2": {
+      "title": "Tehachapi Pass Railroad Line, National Historic Civil Engineering Landmark",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/tehachapi-pass-railroad-line",
+      "publisher": "American Society of Civil Engineers",
+      "retrieved": "2026-10-04",
+      "quote": "remains in use today and accommodates an average of 36 freight trains per day"
+    }
+  },
+  "topics": [
+    "railroads",
+    "freight"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi loop",
+    "walong",
+    "bnsf",
+    "union pacific"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.200833,
+    "lon": -118.536944,
+    "radiusMeters": 6000,
+    "name": "Tehachapi Loop",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Loop"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}

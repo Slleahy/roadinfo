@@ -1,0 +1,93 @@
+{
+  "id": "ca-sight-tehachapi-loop-three-thousand-workers-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.200833,
+    "lon": -118.536944,
+    "reachMeters": 6000,
+    "name": "Tehachapi Loop"
+  },
+  "title": "Three thousand men and a lot of blasting powder",
+  "text": "The loop in the track here was cut through solid and decomposed granite by about 3,000 Chinese workers between 1875 and 1876. They had little more than hand tools, picks, shovels, horse-drawn carts and blasting powder. The line over the mountains originally needed 18 tunnels and ten bridges, and the whole thing was finished in under two years, under the Southern Pacific engineer William Hood.",
+  "sentences": [
+    {
+      "text": "The loop in the track here was cut through solid and decomposed granite by about 3,000 Chinese workers between 1875 and 1876.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "They had little more than hand tools, picks, shovels, horse-drawn carts and blasting powder.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The line over the mountains originally needed 18 tunnels and ten bridges, and the whole thing was finished in under two years, under the Southern Pacific engineer William Hood.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tehachapi Loop",
+      "url": "https://en.wikipedia.org/wiki/Tehachapi_Loop",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Between 1875 and 1876, about 3,000 Chinese workers equipped with little more than hand tools, picks, shovels, horse-drawn carts and blasting powder cut through solid and decomposed granite. ... Construction began in 1874, and the line opened in 1876 ... William Hood"
+    },
+    "s2": {
+      "title": "Tehachapi Pass Railroad Line, National Historic Civil Engineering Landmark",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/tehachapi-pass-railroad-line",
+      "publisher": "American Society of Civil Engineers",
+      "retrieved": "2026-10-04",
+      "quote": "cut through solid and decomposed granite by about 3,000 Chinese laborers using nothing more than picks, shovels, horse drawn carts, and blasting powder ... originally included 18 tunnels, ten bridges and several water towers ... Completed in less than two years"
+    },
+    "s3": {
+      "title": "California Historical Landmarks in Kern County",
+      "url": "https://ohp.parks.ca.gov/?page_id=21423",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-04",
+      "quote": "No. 508 Tehachapi Loop: From this spot may be seen a portion of the world-renowned Loop completed in 1876 under the direction of William Hood, Southern Pacific railroad engineer."
+    }
+  },
+  "topics": [
+    "railroads",
+    "history",
+    "labor"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "tehachapi loop",
+    "chinese laborers",
+    "william hood",
+    "southern pacific"
+  ],
+  "followOn": [
+    "ca-sight-tehachapi-loop-still-working-track-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.200833,
+    "lon": -118.536944,
+    "radiusMeters": 6000,
+    "name": "Tehachapi Loop",
+    "source": "https://en.wikipedia.org/wiki/Tehachapi_Loop"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}
