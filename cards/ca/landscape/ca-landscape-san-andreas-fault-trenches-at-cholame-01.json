@@ -1,0 +1,93 @@
+{
+  "id": "ca-landscape-san-andreas-fault-trenches-at-cholame-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "san-andreas-fault",
+    "name": "San Andreas Fault"
+  },
+  "title": "Digging into the fault",
+  "text": "Highway 46 crosses the San Andreas Fault here at Cholame. In 1966 an earthquake broke the ground along the fault and shifted the highway's pavement by about 4 inches. Before building a new bridge here, Caltrans geologists dug two trenches, each 300 feet long, across the fault, to see whether the bridge could avoid its active strands. They called the dig the James Dean Paleoseismic Site, for the actor who died in a crash nearby in 1955.",
+  "sentences": [
+    {
+      "text": "Highway 46 crosses the San Andreas Fault here at Cholame.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1966 an earthquake broke the ground along the fault and shifted the highway's pavement by about 4 inches.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Before building a new bridge here, Caltrans geologists dug two trenches, each 300 feet long, across the fault, to see whether the bridge could avoid its active strands.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They called the dig the James Dean Paleoseismic Site, for the actor who died in a crash nearby in 1955.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "What's shaking in Cholame? Seismic research!",
+      "url": "https://dot.ca.gov/ctnews/archive/2021-01/news/05-cholame",
+      "publisher": "Caltrans",
+      "retrieved": "2026-10-05",
+      "quote": "near a section of State Route 46 East in Cholame in northern San Luis Obispo County. ... referred to during this study as the James Dean Paleoseismic Site (Dean died in a traffic collision nearby in September 1955) included excavating two trenches across the fault zone ... The most recent surface rupture at the site in 1966 produced about 4 inches of offset in the pavement of State Route 46 ... This investigative work took place where a new bridge will be built ... to determine if the new bridge could be sited without crossing the active fault splays ... a pair of 300-foot-long trenches were excavated, approximately 8 feet deep."
+    },
+    "s2": {
+      "title": "Cholame, California",
+      "url": "https://en.wikipedia.org/wiki/Cholame,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376444540",
+      "quote": "It sits within a mile of the San Andreas Fault at an elevation of 1,157 feet"
+    }
+  },
+  "topics": [
+    "geology",
+    "earthquakes",
+    "faults",
+    "roads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "san andreas fault",
+    "cholame",
+    "paleoseismology",
+    "1966 parkfield earthquake",
+    "highway 46"
+  ],
+  "followOn": [
+    "ca-landscape-san-andreas-fault-1857-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.723889,
+    "lon": -120.296389,
+    "radiusMeters": 15000,
+    "name": "San Andreas Fault at Cholame",
+    "source": "https://en.wikipedia.org/wiki/Cholame,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

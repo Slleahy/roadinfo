@@ -1,0 +1,124 @@
+{
+  "id": "ca-landscape-san-andreas-fault-parkfield-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "san-andreas-fault",
+    "name": "San Andreas Fault"
+  },
+  "title": "The fault at Parkfield",
+  "text": "The San Andreas Fault runs northwest from here at Cholame to Parkfield, {distance} from here, where the fault breaks with unusual regularity. Earthquakes of about magnitude 6 struck that stretch in 1857, 1881, 1901, 1922, 1934 and 1966, roughly one every 22 years. Scientists expected the next one between 1988 and 1993, and set up instruments there to catch it. It did not come until September 28, 2004. Parkfield's motto is: Be here when it happens.",
+  "sentences": [
+    {
+      "text": "The San Andreas Fault runs northwest from here at Cholame to Parkfield, {distance} from here, where the fault breaks with unusual regularity.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Earthquakes of about magnitude 6 struck that stretch in 1857, 1881, 1901, 1922, 1934 and 1966, roughly one every 22 years.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Scientists expected the next one between 1988 and 1993, and set up instruments there to catch it.",
+      "sources": [
+        "s3",
+        "s4",
+        "s1"
+      ]
+    },
+    {
+      "text": "It did not come until September 28, 2004.",
+      "sources": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "text": "Parkfield's motto is: Be here when it happens.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Parkfield, California",
+      "url": "https://en.wikipedia.org/wiki/Parkfield,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377918957",
+      "quote": "Parkfield lies along the San Andreas Fault ... In 1985, the US Geological Survey predicted that there would be a comparably-sized earthquake in this community by 1993, but no such event came until September 28, 2004 ... The Parkfield motto is, \"Be here when it happens.\""
+    },
+    "s2": {
+      "title": "Tectonic Setting, The Parkfield Earthquake Experiment",
+      "url": "https://earthquake.usgs.gov/learn/parkfield/geology.php",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "since 1857, six similar, M~6 earthquakes have occurred on the San Andreas fault near Parkfield with apparent regularity—one approximately every 22 years."
+    },
+    "s3": {
+      "title": "Earthquake History, The Parkfield Earthquake Experiment",
+      "url": "https://earthquake.usgs.gov/learn/parkfield/hist.php",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "Significant earthquakes have occurred on the Parkfield section of the San Andreas fault at fairly regular intervals - in 1857, 1881, 1901, 1922, 1934 and 1966. The next significant earthquake was anticipated to take place within the time frame 1988 to 1993."
+    },
+    "s4": {
+      "title": "Data Networks, The Parkfield Earthquake Experiment",
+      "url": "https://earthquake.usgs.gov/learn/parkfield/overview.php",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "The geophysical instruments operated at Parkfield by the USGS and its collaborators are designed to monitor tectonic processes leading up to the expected earthquake and to record the strong shaking and crustal deformation that will result from it."
+    },
+    "s5": {
+      "title": "2004 Parkfield Earthquake, The Parkfield Earthquake Experiment",
+      "url": "https://earthquake.usgs.gov/learn/parkfield/2004.php",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "Map showing M>2 aftershocks following the September 28, 2004 M6.0 earthquake in Parkfield, CA."
+    }
+  },
+  "topics": [
+    "geology",
+    "earthquakes",
+    "science"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "san andreas fault",
+    "parkfield",
+    "earthquake prediction",
+    "parkfield experiment"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.723889,
+    "lon": -120.296389,
+    "radiusMeters": 15000,
+    "name": "San Andreas Fault at Cholame",
+    "source": "https://en.wikipedia.org/wiki/Cholame,_California"
+  },
+  "elsewhere": {
+    "name": "Parkfield",
+    "lat": 35.899722,
+    "lon": -120.432778,
+    "source": "https://en.wikipedia.org/wiki/Parkfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "ca-town-shandon-chapel-hill-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Shandon"
+  },
+  "title": "The chapel on the hill",
+  "text": "On a hilltop near Shandon stands Chapel Hill, a mission-style chapel built by William Clark, who served President Reagan as national security adviser and secretary of the interior. In 1988 Clark crashed his own plane on his ranch here and was badly hurt, and he built the chapel in thanksgiving for his recovery. Its ceilings and other features came from European buildings that Clark bought from the Hearst Corporation. The chapel stands on private land, and has been used for Sunday Mass and classical music concerts.",
+  "sentences": [
+    {
+      "text": "On a hilltop near Shandon stands Chapel Hill, a mission-style chapel built by William Clark, who served President Reagan as national security adviser and secretary of the interior.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "In 1988 Clark crashed his own plane on his ranch here and was badly hurt, and he built the chapel in thanksgiving for his recovery.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Its ceilings and other features came from European buildings that Clark bought from the Hearst Corporation.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The chapel stands on private land, and has been used for Sunday Mass and classical music concerts.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Shandon, California",
+      "url": "https://en.wikipedia.org/wiki/Shandon,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1360652752",
+      "quote": "Former Deputy Secretary of State, National Security Advisor, and United States Secretary of the Interior William P. Clark, Jr. resided near Shandon until his death in August 2013; he built Chapel Hill on the hill above his ranch."
+    },
+    "s2": {
+      "title": "William P. Clark Jr.",
+      "url": "https://en.wikipedia.org/wiki/William_P._Clark_Jr.",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1375112198",
+      "quote": "served under President Ronald Reagan as the deputy secretary of state from 1981 to 1982, United States national security advisor from 1982 to 1983, and the secretary of the interior from 1983 to 1985. ... In 1988, Clark was severely injured when he crashed his airplane on his ranch in Shandon ... In part due to his gratitude to God for his recovery, he and his family created a chapel on their ranch ... Each contains ceilings and other features from European buildings, purchased by Clark from the Hearst Corporation"
+    },
+    "s3": {
+      "title": "3 Private Chapels Built by Catholics in California",
+      "url": "https://www.ncregister.com/blog/3-private-chapels-built-by-catholics-in-california",
+      "publisher": "National Catholic Register",
+      "retrieved": "2026-10-05",
+      "quote": "Clark, who was a pilot, was nearly killed in a plane crash ... He resolved to build the chapel in thanksgiving to God for his life ... Chapel Hill is built in the mission style ... it sits alone on top of a hill. Although it is officially a nondenominational church, it has been used regularly for Sunday Mass. It is also the site of classical music concerts. It is located on private property and has no address."
+    }
+  },
+  "topics": [
+    "history",
+    "architecture",
+    "people"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "shandon",
+    "chapel hill",
+    "william clark",
+    "hearst"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.65611,
+    "lon": -120.37889,
+    "radiusMeters": 8000,
+    "name": "Shandon",
+    "source": "https://en.wikipedia.org/wiki/Shandon,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

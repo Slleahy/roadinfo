@@ -1,0 +1,97 @@
+{
+  "id": "ca-town-shandon-where-the-estrella-begins-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Shandon"
+  },
+  "title": "Where the Estrella begins",
+  "text": "Shandon sits where San Juan Creek and Cholame Creek come together to form the Estrella River. Cholame Creek comes down the Cholame Valley, between the Diablo Range on the east and the Cholame Hills on the west. From Shandon the river runs west, and Highway 46 follows it part of the way. Shandon is also where Highways 41 and 46 join, sharing one road northeast to Cholame.",
+  "sentences": [
+    {
+      "text": "Shandon sits where San Juan Creek and Cholame Creek come together to form the Estrella River.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Cholame Creek comes down the Cholame Valley, between the Diablo Range on the east and the Cholame Hills on the west.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "From Shandon the river runs west, and Highway 46 follows it part of the way.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "Shandon is also where Highways 41 and 46 join, sharing one road northeast to Cholame.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Shandon, California",
+      "url": "https://en.wikipedia.org/wiki/Shandon,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1360652752",
+      "quote": "Shandon is located at the bottom of the San Juan Valley, where San Juan Creek and Cholame Creek come together to form the Estrella River, which flows west to meet the Salinas River north of Paso Robles. Shandon is also at the junction of State Routes 41 and 46, at the southwestern portion of the stretch where the two highways merge for approximately six miles."
+    },
+    "s2": {
+      "title": "Estrella River",
+      "url": "https://en.wikipedia.org/wiki/Estrella_River",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1370166652",
+      "quote": "The river forms at the confluence of Cholame Creek, from the north, and San Juan Creek, from the south, near the town of Shandon. ... The creek drains the Cholame Valley, which is bordered by Diablo Range on the east and Cholame Hills, a northern extension of the Temblor Range, on the west."
+    },
+    "s3": {
+      "title": "California State Route 46",
+      "url": "https://en.wikipedia.org/wiki/California_State_Route_46",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1374511198",
+      "quote": "It then runs partially alongside the Estrella River to a merge with SR 41 near Shandon and a rest area. There, it turns northeast, following Cholame Creek through Cholame Pass between the Cholame Hills and Temblor Range to the settlement of Cholame and the split with SR 41."
+    }
+  },
+  "topics": [
+    "geography",
+    "rivers",
+    "roads"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "shandon",
+    "estrella river",
+    "cholame creek",
+    "san juan creek"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.65611,
+    "lon": -120.37889,
+    "radiusMeters": 8000,
+    "name": "Shandon",
+    "source": "https://en.wikipedia.org/wiki/Shandon,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

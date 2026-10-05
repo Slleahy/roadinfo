@@ -1,0 +1,107 @@
+{
+  "id": "ca-sight-antelope-grade-over-the-coast-ranges-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.723679,
+    "lon": -120.193286,
+    "reachMeters": 8000,
+    "name": "Antelope Grade and Polonio Pass"
+  },
+  "title": "Antelope Grade",
+  "text": "Antelope Grade is the western side of Polonio Pass, a low pass where the Temblor Range to the south meets the Diablo Range to the north. The hills on either side are mostly gently rolling grassland. Highway 46 crosses here at the southern end of the Diablo Range, on one of the routes linking the Central Valley to the coast. In 1912 an ethnographer described Cholame as sitting at the easiest pass to the Tulare Lakes. Voters approved this highway, linking the valley with the coast, in a state bond issue in 1916, and it was fully paved by December 1930.",
+  "sentences": [
+    {
+      "text": "Antelope Grade is the western side of Polonio Pass, a low pass where the Temblor Range to the south meets the Diablo Range to the north.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The hills on either side are mostly gently rolling grassland.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Highway 46 crosses here at the southern end of the Diablo Range, on one of the routes linking the Central Valley to the coast.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In 1912 an ethnographer described Cholame as sitting at the easiest pass to the Tulare Lakes.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Voters approved this highway, linking the valley with the coast, in a state bond issue in 1916, and it was fully paved by December 1930.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Polonio Pass",
+      "url": "https://en.wikipedia.org/wiki/Polonio_Pass",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1367616337",
+      "quote": "Polonio Pass is a low mountain pass in the California Coast Ranges, marking the boundary between the Temblor Range to the south and the Diablo Range to the north. ... The name Polonio Pass is traditionally associated with the eastern approach to the summit, while the western approach is known as the Antelope Grade. The terrain consists mostly of gently rolling grass-covered hills."
+    },
+    "s2": {
+      "title": "California State Route 46",
+      "url": "https://en.wikipedia.org/wiki/California_State_Route_46",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1374511198",
+      "quote": "the highway continues to rise as it heads east up the Antelope Grade to a summit near Bluestone Ridge before descending through Polonio Pass into the San Joaquin Valley. State Route 46 takes the southernmost crossing of the Diablo Range, which is one of the routes linking the Central Valley to the coast. ... As part of the second state highway bond issue, approved by the state's voters in 1916, Route 33 was created ... linking the San Joaquin Valley trunk ... with the coast trunk ... passing through the Coast Ranges via Cholame Pass. ... By 1925, the Cholame Pass highway had been improved, and paving was completed in December 1930."
+    },
+    "s3": {
+      "title": "The Ethnology of the Salinan Indians (J. Alden Mason, 1912)",
+      "url": "https://archive.org/details/ethnologyindians00masorich",
+      "publisher": "University of California Publications in American Archaeology and Ethnology, via Internet Archive",
+      "retrieved": "2026-10-05",
+      "quote": "Modern maps place the town, rancho, and creek of Cholame about twenty-two miles east of San Miguel at the head of Antelope Valley, the easiest pass to the Tulare Lakes."
+    }
+  },
+  "topics": [
+    "roads",
+    "geography",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "antelope grade",
+    "polonio pass",
+    "diablo range",
+    "temblor range",
+    "highway 46"
+  ],
+  "followOn": [
+    "ca-sight-james-dean-crash-site-last-drive-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.723679,
+    "lon": -120.193286,
+    "radiusMeters": 8000,
+    "name": "Polonio Pass",
+    "source": "https://en.wikipedia.org/wiki/Polonio_Pass"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

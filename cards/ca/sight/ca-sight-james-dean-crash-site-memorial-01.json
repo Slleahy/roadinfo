@@ -1,0 +1,101 @@
+{
+  "id": "ca-sight-james-dean-crash-site-memorial-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.723889,
+    "lon": -120.296389,
+    "reachMeters": 5000,
+    "name": "James Dean Memorial, Cholame"
+  },
+  "title": "A memorial from Kobe",
+  "text": "In Cholame, in front of the old post office, stands a stainless steel memorial to James Dean, built around a tree of heaven. It was put up in 1977 by Seita Ohnishi, a retired businessman from Kobe, Japan, who admired Dean's film East of Eden. The sculpture was designed in Japan, and Ohnishi chose this spot after examining the nearby crash site. Etched into it is one of Dean's favorite lines, from The Little Prince: what is essential is invisible to the eye.",
+  "sentences": [
+    {
+      "text": "In Cholame, in front of the old post office, stands a stainless steel memorial to James Dean, built around a tree of heaven.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It was put up in 1977 by Seita Ohnishi, a retired businessman from Kobe, Japan, who admired Dean's film East of Eden.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The sculpture was designed in Japan, and Ohnishi chose this spot after examining the nearby crash site.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "Etched into it is one of Dean's favorite lines, from The Little Prince: what is essential is invisible to the eye.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Death of James Dean",
+      "url": "https://en.wikipedia.org/wiki/Death_of_James_Dean",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377687170",
+      "quote": "In 1977, a memorial to Dean was erected in Cholame, California. The stylized sculpture is composed of stainless steel around a tree of heaven growing in front of the former Cholame post-office building. The sculpture was designed in Japan and transported to Cholame, accompanied by the project's benefactor, Seita Ohnishi of Kobe. Ohnishi chose the site after examining the location of the crash scene less than a mile away. ... The dates and hours of Dean's birth and death are etched into the sculpture along with a handwritten description by Dean's friend William Bast quoting one of Dean's favorite lines from Antoine de Saint-Exupéry's The Little Prince: \"What is essential is invisible to the eye.\""
+    },
+    "s2": {
+      "title": "Cholame, California",
+      "url": "https://en.wikipedia.org/wiki/Cholame,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376444540",
+      "quote": "A memorial to Dean was erected in 1977 near the Jack Ranch Cafe (then Stella's Country Kitchen) by a retired Japanese businessman from Kobe, Seita Ohnishi, costing $13,000 at the time. The monument is made of stainless steel and surrounds a tree of heaven. In particular, Ohnishi was fond of Dean's movie East of Eden, inspiring him to fund the memorial"
+    },
+    "s3": {
+      "title": "Calif. interchange where James Dean died set for $171M reconfiguration",
+      "url": "https://enr.com/articles/55587-calif-interchange-where-james-dean-died-set-for-171m-reconfiguration",
+      "publisher": "Engineering News-Record",
+      "retrieved": "2026-10-05",
+      "quote": "Caltrans says the reconfiguration would not impact a memorial to Dean approximately a half-mile from the interchange."
+    }
+  },
+  "topics": [
+    "history",
+    "film",
+    "monuments"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "james dean",
+    "james dean memorial",
+    "cholame",
+    "seita ohnishi"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.723889,
+    "lon": -120.296389,
+    "radiusMeters": 5000,
+    "name": "James Dean Memorial, Cholame",
+    "source": "https://en.wikipedia.org/wiki/Cholame,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

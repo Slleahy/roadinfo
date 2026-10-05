@@ -1,0 +1,95 @@
+{
+  "id": "ca-landscape-san-andreas-fault-1857-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "san-andreas-fault",
+    "name": "San Andreas Fault"
+  },
+  "title": "The great earthquake of 1857",
+  "text": "The ground here at Cholame was torn open by the Fort Tejon earthquake of 1857, one of the largest earthquakes in California's recorded history. It was about magnitude 7.9, it began not far from here, and the break ran southeast along the fault for some 160 miles. In places the two sides of the fault slipped about 30 feet. Trenches dug beside Highway 46 here show the 1857 break in the layers of soil, along with signs of the Great Flood of 1861.",
+  "sentences": [
+    {
+      "text": "The ground here at Cholame was torn open by the Fort Tejon earthquake of 1857, one of the largest earthquakes in California's recorded history.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "It was about magnitude 7.9, it began not far from here, and the break ran southeast along the fault for some 160 miles.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "In places the two sides of the fault slipped about 30 feet.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Trenches dug beside Highway 46 here show the 1857 break in the layers of soil, along with signs of the Great Flood of 1861.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "What's shaking in Cholame? Seismic research!",
+      "url": "https://dot.ca.gov/ctnews/archive/2021-01/news/05-cholame",
+      "publisher": "Caltrans",
+      "retrieved": "2026-10-05",
+      "quote": "A closer look at the layers of soil deep within the trench shows evidence of the surface rupture during the 1857 Fort Tejon earthquake, perhaps the largest historical quake in California, a massive event estimated at magnitude 7.9 with an epicenter, approximately near the Cholame area, rupturing some 20 miles northwest and 160 miles to the southeast with up to 30 feet of surface offset. ... This investigation also showed evidence of flooding in this region during the Great Flood of 1861"
+    },
+    "s2": {
+      "title": "1857 Fort Tejon Earthquake, The Parkfield Earthquake Experiment",
+      "url": "https://earthquake.usgs.gov/learn/parkfield/1857.php",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "the maximum fault movement of about 9 meters occurred in the Carrizo Plain section ... definitely includes slip on the Cholame section estimated at 3 to 7 meters. ... Sieh believed the slip in the great Fort Tejon earthquake actually began near Parkfield at the northwest end of the 1857 rupture zone and extended along the fault to the southeast through the Carrizo Plain to the vicinity of San Bernardino"
+    },
+    "s3": {
+      "title": "Revisiting California's past great earthquakes and long-term earthquake rate",
+      "url": "https://www.usgs.gov/publications/revisiting-californias-past-great-earthquakes-and-long-term-earthquake-rate",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "we revisit the three largest historical earthquakes in California—the 1857 Fort Tejon, 1872 Owens Valley, and 1906 San Francisco earthquakes"
+    }
+  },
+  "topics": [
+    "geology",
+    "earthquakes",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "san andreas fault",
+    "1857 fort tejon earthquake",
+    "cholame",
+    "great flood of 1861"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.723889,
+    "lon": -120.296389,
+    "radiusMeters": 15000,
+    "name": "San Andreas Fault at Cholame",
+    "source": "https://en.wikipedia.org/wiki/Cholame,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

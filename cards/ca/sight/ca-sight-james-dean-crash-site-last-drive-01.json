@@ -1,0 +1,113 @@
+{
+  "id": "ca-sight-james-dean-crash-site-last-drive-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.734444,
+    "lon": -120.284444,
+    "reachMeters": 5000,
+    "name": "James Dean Memorial Junction"
+  },
+  "title": "James Dean's last drive",
+  "text": "Near the junction of Highways 46 and 41, just east of Cholame, the actor James Dean was killed in a crash on September 30, 1955. He was 24, and was driving his new Porsche Spyder to a sports car race in Salinas. Coming west down the long Antelope Grade, he met a Ford turning left across his path onto Highway 41, and the two cars collided almost head-on. Dean was pronounced dead on arrival at the hospital, and his passenger, a Porsche mechanic who was thrown from the car, survived.",
+  "sentences": [
+    {
+      "text": "Near the junction of Highways 46 and 41, just east of Cholame, the actor James Dean was killed in a crash on September 30, 1955.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "He was 24, and was driving his new Porsche Spyder to a sports car race in Salinas.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "Coming west down the long Antelope Grade, he met a Ford turning left across his path onto Highway 41, and the two cars collided almost head-on.",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    },
+    {
+      "text": "Dean was pronounced dead on arrival at the hospital, and his passenger, a Porsche mechanic who was thrown from the car, survived.",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Death of James Dean",
+      "url": "https://en.wikipedia.org/wiki/Death_of_James_Dean",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377687170",
+      "quote": "American actor James Dean was killed at the age of 24 in an auto accident on September 30, 1955, near Cholame, California. ... was traveling to a sports car racing competition in Salinas, California ... a new, more powerful and faster 1955 Porsche 550 Spyder ... Dean crested Polonio Pass and headed down the long Antelope Grade ... turned left onto SR 41 headed north toward Fresno. As Turnupseed's Ford crossed the center line ... the two cars collided almost head-on. ... his Porsche factory-trained mechanic, Rolf Wütherich ... Dean was pronounced dead on arrival at 6:20 p.m. ... The original highway 41 and 46 junction where the collision occurred has shifted slightly as the two roadways were realigned over the decades to improve safety."
+    },
+    "s2": {
+      "title": "Overpass to improve safety at notorious Highway 46/41 intersection near Cholame set to open",
+      "url": "https://keyt.com/news/traffic/2025/06/11/overpass-to-improve-safety-at-notorious-highway-46-41-intersection-near-cholame-set-to-open/",
+      "publisher": "KEYT",
+      "retrieved": "2026-10-05",
+      "quote": "was killed in a crash at the site in 1955"
+    },
+    "s3": {
+      "title": "Calif. interchange where James Dean died set for $171M reconfiguration",
+      "url": "https://enr.com/articles/55587-calif-interchange-where-james-dean-died-set-for-171m-reconfiguration",
+      "publisher": "Engineering News-Record",
+      "retrieved": "2026-10-05",
+      "quote": "Dean, the star of \"Rebel Without a Cause\" and \"Giant,\" was 24 at the time of his fatal crash. The Los Angeles Times reported then that Dean had been driving a new Porsche 550 Spyder to races in Salinas"
+    },
+    "s4": {
+      "title": "Cholame, California",
+      "url": "https://en.wikipedia.org/wiki/Cholame,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376444540",
+      "quote": "Donald Turnupseed made a left turn without seeing Dean's Porsche 550 Spyder approaching at the junction of State Routes 41 and 46. ... His passenger, named Rolf Wutherich, was thrown from the vehicle but survived. Dean was pronounced dead on arrival at the hospital."
+    }
+  },
+  "topics": [
+    "history",
+    "film",
+    "road safety"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "james dean",
+    "1955 crash",
+    "cholame",
+    "antelope grade",
+    "porsche"
+  ],
+  "followOn": [
+    "ca-sight-james-dean-crash-site-the-wye-01",
+    "ca-sight-james-dean-crash-site-memorial-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.734444,
+    "lon": -120.284444,
+    "radiusMeters": 5000,
+    "name": "James Dean Memorial Junction",
+    "source": "https://en.wikipedia.org/wiki/Death_of_James_Dean"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

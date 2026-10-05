@@ -1,0 +1,93 @@
+{
+  "id": "ca-town-cholame-persistent-name-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Cholame"
+  },
+  "title": "A name that would not go away",
+  "text": "Cholame takes its name from a Salinan village, one of the villages tied to Mission San Miguel, {distance} from here. Writing in 1912, an ethnographer called Cholame the most persistent of native village names. The name is on record from 1804, and in 1844 it went to a Mexican land grant, Rancho Cholame. The creek, the valley and the hills around Cholame all carry the name too.",
+  "sentences": [
+    {
+      "text": "Cholame takes its name from a Salinan village, one of the villages tied to Mission San Miguel, {distance} from here.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Writing in 1912, an ethnographer called Cholame the most persistent of native village names.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The name is on record from 1804, and in 1844 it went to a Mexican land grant, Rancho Cholame.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The creek, the valley and the hills around Cholame all carry the name too.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "The Ethnology of the Salinan Indians (J. Alden Mason, 1912)",
+      "url": "https://archive.org/details/ethnologyindians00masorich",
+      "publisher": "University of California Publications in American Archaeology and Ethnology, via Internet Archive",
+      "retrieved": "2026-10-05",
+      "quote": "Cholame is the most persistent of native village names. ... tco'alamtram At the town of Cholam. This is said to have been the largest and most important of the San Miguel villages."
+    },
+    "s2": {
+      "title": "Cholame, California",
+      "url": "https://en.wikipedia.org/wiki/Cholame,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376444540",
+      "quote": "Cholam was a Salinan rancheria recorded as lying fourteen leagues from Mission San Miguel Arcángel. It is mentioned under the date January 29, 1804, in the form Cholan ... The ethnographer J. Alden Mason recorded the village name as tco'alamtram and called Cholame \"the most persistent of native village names\" ... Rancho Cholame was a Mexican land grant of February 5, 1844. ... Cholame lies in the Cholame Hills, which with Cholame Creek and the Cholame Valley carry the same name across San Luis Obispo and Monterey counties"
+    }
+  },
+  "topics": [
+    "names",
+    "history",
+    "native peoples"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "cholame",
+    "place names",
+    "salinan",
+    "mission san miguel"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.723889,
+    "lon": -120.296389,
+    "radiusMeters": 8000,
+    "name": "Cholame",
+    "source": "https://en.wikipedia.org/wiki/Cholame,_California"
+  },
+  "elsewhere": {
+    "name": "Mission San Miguel Arcángel",
+    "lat": 35.744722,
+    "lon": -120.698056,
+    "source": "https://en.wikipedia.org/wiki/Mission_San_Miguel_Arc%C3%A1ngel"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

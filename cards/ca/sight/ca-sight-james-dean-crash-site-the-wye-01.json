@@ -1,0 +1,118 @@
+{
+  "id": "ca-sight-james-dean-crash-site-the-wye-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.734444,
+    "lon": -120.284444,
+    "reachMeters": 5000,
+    "name": "James Dean Memorial Junction"
+  },
+  "title": "The Wye",
+  "text": "The meeting of Highways 46 and 41 here has been named the James Dean Memorial Junction since September 30, 2005, fifty years to the day after the actor died in a crash near the site. It was long known as the Wye, for its triangle shape, a layout built in 1958, after Dean's death, that had a higher than average collision rate. The old two-lane highway running west from here was called Blood Alley, for its many head-on collisions. In June 2025 a new overpass opened here, so drivers heading for Highway 41 no longer turn left across oncoming traffic.",
+  "sentences": [
+    {
+      "text": "The meeting of Highways 46 and 41 here has been named the James Dean Memorial Junction since September 30, 2005, fifty years to the day after the actor died in a crash near the site.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It was long known as the Wye, for its triangle shape, a layout built in 1958, after Dean's death, that had a higher than average collision rate.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "text": "The old two-lane highway running west from here was called Blood Alley, for its many head-on collisions.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "In June 2025 a new overpass opened here, so drivers heading for Highway 41 no longer turn left across oncoming traffic.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Death of James Dean",
+      "url": "https://en.wikipedia.org/wiki/Death_of_James_Dean",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377687170",
+      "quote": "On September 30, 2005, the junction at SR 46 and SR 41 was dedicated as the James Dean Memorial Junction as part of California's official commemoration of the 50th anniversary of Dean's death."
+    },
+    "s2": {
+      "title": "California State Route 46",
+      "url": "https://en.wikipedia.org/wiki/California_State_Route_46",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1374511198",
+      "quote": "The two-lane stretch from Paso Robles to Cholame was known as \"Blood Alley\" for the large number of vehicle incidents, mainly head-on collisions ... The intersection between SR 46 and SR 41, known locally as the Wye, was more accident-prone than the statewide average. The California State Legislature dedicated that intersection as the James Dean Memorial Junction on September 30, 2005"
+    },
+    "s3": {
+      "title": "Calif. interchange where James Dean died set for $171M reconfiguration",
+      "url": "https://enr.com/articles/55587-calif-interchange-where-james-dean-died-set-for-171m-reconfiguration",
+      "publisher": "Engineering News-Record",
+      "retrieved": "2026-10-05",
+      "quote": "The section is referred to as \"the wye\" due to the triangular shape of the intersection ... The current wye configuration was built in 1958, a Caltrans spokesperson says—after Dean’s death. ... unusual configuration of the interchange continues to contribute to a higher than average collision rate, officials say."
+    },
+    "s4": {
+      "title": "Highway 46 interchange at deadly Cholame 'Y' is finally opening",
+      "url": "https://www.noozhawk.com/highway-46-interchange-at-deadly-cholame-y-is-finally-opening",
+      "publisher": "Noozhawk, from the San Luis Obispo Tribune",
+      "retrieved": "2026-10-05",
+      "quote": "Cars and trucks will start to flow over the interchange for the first time on Thursday, June 12, Caltrans public information officer Jim Shivers told The Tribune, finally eliminating the need for travelers to make a left-hand turn onto Highway 41 across oncoming traffic."
+    },
+    "s5": {
+      "title": "The James Dean Memorial Junction interchange (California State Routes 41 and 46)",
+      "url": "https://www.gribblenation.org/2026/06/the-james-dean-memorial-junction.html",
+      "publisher": "Gribblenation",
+      "retrieved": "2026-10-05",
+      "quote": "The James Dean Memorial Junction interchange structure opened during June 2025 as a grade separation between California State Routes 41 and 46 in Cholame Valley. ... The interchange structure was formally opened by Caltrans on June 12, 2025."
+    }
+  },
+  "topics": [
+    "roads",
+    "road safety",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "2025",
+  "themeKeys": [
+    "james dean memorial junction",
+    "the wye",
+    "blood alley",
+    "highway 46",
+    "highway 41"
+  ],
+  "followOn": [
+    "ca-sight-james-dean-crash-site-memorial-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.734444,
+    "lon": -120.284444,
+    "radiusMeters": 5000,
+    "name": "James Dean Memorial Junction",
+    "source": "https://en.wikipedia.org/wiki/Death_of_James_Dean"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

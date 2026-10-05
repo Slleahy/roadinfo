@@ -1,0 +1,99 @@
+{
+  "id": "ca-sight-estrella-adobe-church-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.68051,
+    "lon": -120.640757,
+    "reachMeters": 6000,
+    "name": "Estrella Adobe Church"
+  },
+  "title": "The Estrella Adobe Church",
+  "text": "The Estrella Adobe Church, on Airport Road north of Highway 46, was the first Protestant church built in northern San Luis Obispo County. Settlers on the Estrella Plains built it in 1879, making the adobe bricks on the site and hauling lumber over the mountains. As the congregations moved on to churches of their own, it fell out of use and crumbled into ruins. Young men from a boys' school made thousands of new adobe bricks to rebuild it, and it was rededicated in 1952.",
+  "sentences": [
+    {
+      "text": "The Estrella Adobe Church, on Airport Road north of Highway 46, was the first Protestant church built in northern San Luis Obispo County.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Settlers on the Estrella Plains built it in 1879, making the adobe bricks on the site and hauling lumber over the mountains.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "As the congregations moved on to churches of their own, it fell out of use and crumbled into ruins.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Young men from a boys' school made thousands of new adobe bricks to rebuild it, and it was rededicated in 1952.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "#0542 Estrella Adobe Church",
+      "url": "https://landmarkquest.com/omeka/items/show/946",
+      "publisher": "LandmarkQuest",
+      "retrieved": "2026-10-05",
+      "quote": "On Airport Rd, 2.5 mi N of State Hwy 46, Paso Robles ... The first Protestant church in northern San Luis Obispo county was built in 1879 by early settlers. This nondenominational church on the Estrella Plains prospered with the pioneer community, but by 1912 fell into disuse as the various denominations developed separate facilities. In 1952, this structure, then in ruins was restored"
+    },
+    "s2": {
+      "title": "History of the Estrella Adobe Church and Cemetery",
+      "url": "https://pvecd.specialdistrict.org/history-of-the-estrella-adobe-church-and-cemetery",
+      "publisher": "Pleasant Valley Estrella Cemetery District",
+      "retrieved": "2026-10-05",
+      "quote": "The Estrella Adobe Church was the first Protestant church to be constructed in northern San Luis Obispo County. ... Water was hauled and bricks were made on the site ... Any lumber needed was hauled over the mountains from San Luis Obispo. ... After that the adobe was left to crumble into ruins. ... They supervised the making of over 5,000 adobe bricks, with labor provided by the young men at the El Paso de Robles School for Boys. Restoration was completed and the church was rededicated on May 25, 1952."
+    },
+    "s3": {
+      "title": "Estrella Adobe Church",
+      "url": "https://en.wikipedia.org/wiki/Estrella_Adobe_Church",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1365242350",
+      "quote": "It fell into disuse and was in ruins when, according to the marker, the Paso Robles Women's Club History and Landmarks Committee restored the structure beginning in 1950 and completing in 1952."
+    }
+  },
+  "topics": [
+    "history",
+    "religion",
+    "architecture"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "estrella",
+    "estrella adobe church",
+    "adobe",
+    "pioneers"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.68051,
+    "lon": -120.640757,
+    "radiusMeters": 6000,
+    "name": "Estrella Adobe Church",
+    "source": "https://en.wikipedia.org/wiki/Estrella_Adobe_Church"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

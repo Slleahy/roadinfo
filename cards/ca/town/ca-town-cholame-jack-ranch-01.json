@@ -1,0 +1,96 @@
+{
+  "id": "ca-town-cholame-jack-ranch-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Cholame"
+  },
+  "title": "The Jack Ranch",
+  "text": "The cattle country around Cholame is the Jack Ranch, owned by the Hearst Corporation since the 1960s and still a working cattle ranch. William Welles Hollister bought Rancho Cholame in 1867 and sold a half-interest to Robert Edgar Jack in 1869. Jack married Hollister's daughter, Nellie, and became a leading wool grower before switching to cattle. The ranch is named for the Jack family, and it was Howard Jack, the last rancher in the family, who sold it.",
+  "sentences": [
+    {
+      "text": "The cattle country around Cholame is the Jack Ranch, owned by the Hearst Corporation since the 1960s and still a working cattle ranch.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "William Welles Hollister bought Rancho Cholame in 1867 and sold a half-interest to Robert Edgar Jack in 1869.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "Jack married Hollister's daughter, Nellie, and became a leading wool grower before switching to cattle.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The ranch is named for the Jack family, and it was Howard Jack, the last rancher in the family, who sold it.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Cholame, California",
+      "url": "https://en.wikipedia.org/wiki/Cholame,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376444540",
+      "quote": "In 1867, William Welles Hollister (1818–1886) purchased Rancho Cholame. Hollister sold a half-interest in the rancho to Robert Edgar Jack in 1869. ... Jack married Hollister's daughter, Lucy Ellen (Nellie) in 1870 and became the largest wool grower in Central California, later switching to cattle and agriculture. ... The land was sold to the Hearst Corporation in 1966 and is still a working cattle ranch."
+    },
+    "s2": {
+      "title": "Hearst Ranch",
+      "url": "https://en.wikipedia.org/wiki/Hearst_Ranch",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1365309608",
+      "quote": "Jack Ranch at Cholame, California, which was acquired by the Hearst Corporation in 1966. The Jack Ranch comprises most of Rancho Cholame, an 1844 land grant, plus additional lands."
+    },
+    "s3": {
+      "title": "Cholame Rancho: The Jack Ranch",
+      "url": "https://hearstranch.com/about/cholame-rancho-the-jack-ranch",
+      "publisher": "Hearst Ranch",
+      "retrieved": "2026-10-05",
+      "quote": "In 1965 the Hearst Corporation bought the 58,000-acre Cholame Ranch east of Paso Robles, when seventy-three-year-old Howard Jack—the last surviving rancher in the Jack family—decided to sell. ... the Jack Ranch, named to honor the Jack family, has a rich and storied history dating back to 1869"
+    }
+  },
+  "topics": [
+    "history",
+    "ranching"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "cholame",
+    "jack ranch",
+    "hearst",
+    "cattle ranching",
+    "rancho cholame"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.723889,
+    "lon": -120.296389,
+    "radiusMeters": 8000,
+    "name": "Cholame",
+    "source": "https://en.wikipedia.org/wiki/Cholame,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

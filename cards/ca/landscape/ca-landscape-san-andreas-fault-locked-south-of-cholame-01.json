@@ -1,0 +1,88 @@
+{
+  "id": "ca-landscape-san-andreas-fault-locked-south-of-cholame-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "unitId": "san-andreas-fault",
+    "name": "San Andreas Fault"
+  },
+  "title": "Where the fault locks",
+  "text": "The San Andreas Fault, which runs within a mile of Cholame, marks about 800 miles of the boundary between the Pacific and North American plates. Cholame sits near a turning point in how the fault behaves. Farther northwest, beyond a transition zone, the fault creeps, its two sides slipping past each other slowly, with many small earthquakes but no large ones. South of Cholame the fault appears to be locked, and that is the stretch where large earthquakes, including the great one of 1857, have struck.",
+  "sentences": [
+    {
+      "text": "The San Andreas Fault, which runs within a mile of Cholame, marks about 800 miles of the boundary between the Pacific and North American plates.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Cholame sits near a turning point in how the fault behaves.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Farther northwest, beyond a transition zone, the fault creeps, its two sides slipping past each other slowly, with many small earthquakes but no large ones.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "South of Cholame the fault appears to be locked, and that is the stretch where large earthquakes, including the great one of 1857, have struck.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Tectonic Setting, The Parkfield Earthquake Experiment",
+      "url": "https://earthquake.usgs.gov/learn/parkfield/geology.php",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "A \"creeping\" section (green) separates locked stretches north of San Juan Bautista and south of Cholame. The Parkfield section (red) is a transition zone between the creeping and southern locked section. ... The San Andreas fault defines an approximately 1300 km (800 mi) portion of the boundary between the Pacific and North American plates ... South of Parkfield, large earthquakes (including the M 7.9 Fort Tejon earthquake of 1857 ) have occurred. From both geodetic and seismic data, currently, the southern section appears to be locked producing no movement or small to moderate sized earthquakes. ... Between these locked sections, the San Andreas fault creeps (slips aseismically). From San Juan Bautista to Parkfield, the creeping section produces numerous small (mostly M=5 and smaller) earthquakes but no large ones."
+    },
+    "s2": {
+      "title": "Cholame, California",
+      "url": "https://en.wikipedia.org/wiki/Cholame,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376444540",
+      "quote": "It sits within a mile of the San Andreas Fault at an elevation of 1,157 feet"
+    }
+  },
+  "topics": [
+    "geology",
+    "earthquakes",
+    "faults"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "san andreas fault",
+    "fault creep",
+    "locked fault",
+    "plate boundary",
+    "cholame"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.723889,
+    "lon": -120.296389,
+    "radiusMeters": 15000,
+    "name": "San Andreas Fault at Cholame",
+    "source": "https://en.wikipedia.org/wiki/Cholame,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}
