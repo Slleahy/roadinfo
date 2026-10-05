@@ -35,6 +35,39 @@ Funded from the New Mexico phases 2–5 above, which are paused. One layer at a 
 | R7 | California and Mojave region deck | $20 | not started | |
 | | **Total** | **$250** | | **$50** |
 
+### Ridgecrest to Paso Robles (owner's route, 2026-10-04)
+
+The route: Inyokern, CA-14 south past Red Rock Canyon and Mojave, CA-58 over Tehachapi Pass to
+Bakersfield, I-5 north to exit 278, CA-46 west through Cholame and Shandon to Paso Robles, then
+Nacimiento Lake Drive and Chimney Rock Road to Adelaide. 237 miles, about 4h15.
+
+The first 70 miles are already covered by the Ridgecrest phases — 57 cards as far as Mojave.
+Everything after Tehachapi is bare: **167 miles, about 2h50, with one card in it.**
+
+Costs below are built on what the earlier phases actually ran: $0.31 a card on average, with
+road stretches dearer at about $0.62.
+
+| Phase | Batch | Cards | Cap | Status | Actual |
+|---|---|---|---|---|---|
+| P1 | Tehachapi Pass and crest: Mojave to Keene. Tehachapi and Keene towns, the Loop, the wind farm, the 1952 earthquake, Monolith, Cameron, the Cesar Chavez monument | ~22 | $12 | not started | |
+| P2 | Caliente to Bakersfield: Caliente, Bena, Edison, the Bakersfield town deck, and the Bakersfield Sound as the first `person` cards | ~24 | $12 | not started | |
+| P3 | West Kern and I-5: Buttonwillow, Lost Hills oilfield, Kern National Wildlife Refuge, the California Aqueduct | ~14 | $8 | not started | |
+| P4 | CA-46, Lost Hills to Shandon: Cholame and James Dean, the San Andreas crossing, Antelope Grade, Shandon, Estrella | ~14 | $8 | not started | |
+| P5 | Paso Robles and Adelaide: the town, the 1886 hot springs, the 2003 earthquake, the wine district, the Santa Lucia Range, Nacimiento | ~18 | $10 | not started | |
+| P6 | San Luis Obispo county deck (new county; the app has no county-level fallback west of Kern) | ~15 | $8 | not started | |
+| P7 | Road stretches, both directions: CA-58 over the pass, the I-5 leg, both CA-46 legs | ~12 | $10 | not started | |
+| | **Total** | **~119** | **$68** | | |
+
+**Recommended first tranche: P1 and P2 only — about 46 cards, $24.** That fills Mojave to
+Bakersfield, roughly 75 miles and an hour and a quarter of the gap, and it is the richest ground
+on the route. Stop there, drive it, and judge three things before opening P3:
+
+1. Whether the density feels right, which decides how many cards the rest of the route needs.
+2. Whether the `person` cards clear the notability bar in PLAYBOOK.md §3a. Bakersfield is the
+   right test: Buck Owens and Merle Haggard are obvious, and the long tail after them is not.
+3. Whether the pipeline generalises off the Mojave. Every card so far is desert. Tehachapi crest,
+   Central Valley farmland and the Coast Ranges are the first real test of that.
+
 ## Rules
 
 1. Sessions are started by hand, one at a time, only after the owner's go-ahead. No
