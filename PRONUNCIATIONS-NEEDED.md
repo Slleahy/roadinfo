@@ -7,7 +7,7 @@ Workflow: add the ones you are sure of to the app's `RoadSavant/Resources/Pronun
 then hand what is left to the owner, who will find or phone someone who says the word.
 Never invent a pronunciation. If a word cannot be sourced, rewrite the sentence without it.
 
-7 words across 202 cards.
+7 words across 203 cards.
 
 | Word | Cards | Example card | Say it how? |
 |---|---|---|---|

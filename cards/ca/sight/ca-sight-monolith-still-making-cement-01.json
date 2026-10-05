@@ -1,0 +1,81 @@
+{
+  "id": "ca-sight-monolith-still-making-cement-01",
+  "level": "sight",
+  "anchor": {
+    "type": "place",
+    "name": "Monolith",
+    "state": "California"
+  },
+  "title": "The plant is still at it, under its sixth owner",
+  "text": "The cement works beside the road here is still running, and still the reason Monolith exists. It belongs now to UNACEM, a Peruvian company that bought it from Martin Marietta in the autumn of 2023. That made UNACEM the sixth owner since the city of Los Angeles built the place more than a hundred and fifteen years ago.",
+  "sentences": [
+    {
+      "text": "The cement works beside the road here is still running, and still the reason Monolith exists.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It belongs now to UNACEM, a Peruvian company that bought it from Martin Marietta in the autumn of 2023.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "That made UNACEM the sixth owner since the city of Los Angeles built the place more than a hundred and fifteen years ago.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "url": "https://unacem-na.com/",
+      "title": "UNACEM North America",
+      "quote": "Our Tehachapi cement plant and additional cement terminals ensure dependable supply and efficient delivery for projects throughout Southern California.",
+      "retrieved": "2026-10-04"
+    },
+    "s2": {
+      "url": "https://www.globalcement.com/news/item/16530-unacem-completes-acquisition-of-tehachapi-cement-plant",
+      "title": "UNACEM completes acquisition of Tehachapi cement plant",
+      "quote": "Peru-based UNACEM has completed its acquisition of the Tehachapi cement plant in California from Martin Marietta Materials.",
+      "retrieved": "2026-10-04"
+    },
+    "s3": {
+      "url": "https://www.tehachapinews.com/news/tehachapi-cement-plant-reported-sold-to-peruvian-firm/article_0b21ad48-43b4-11ee-95af-b3aacc2c7a94.html",
+      "title": "Tehachapi cement plant reported sold to Peruvian firm",
+      "quote": "UNACEM would become the sixth owner of the plant since its construction by the city of Los Angeles more than 115 years ago.",
+      "retrieved": "2026-10-04"
+    }
+  },
+  "topics": [
+    "industry",
+    "history"
+  ],
+  "scores": {
+    "interest": 4,
+    "relevance": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": "2023",
+  "themeKeys": [
+    "Monolith cement plant",
+    "UNACEM"
+  ],
+  "pronunciations": {},
+  "followOn": [],
+  "near": {
+    "lat": 35.12,
+    "lon": -118.374167,
+    "radiusMeters": 5000,
+    "name": "Monolith",
+    "source": "https://en.wikipedia.org/wiki/Monolith,_California"
+  },
+  "checked": {
+    "by": "owner session",
+    "date": "2026-10-04",
+    "removed": 0
+  }
+}
