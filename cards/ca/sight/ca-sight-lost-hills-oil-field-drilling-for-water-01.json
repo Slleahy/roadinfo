@@ -1,0 +1,96 @@
+{
+  "id": "ca-sight-lost-hills-oil-field-drilling-for-water-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.615886,
+    "lon": -119.724706,
+    "reachMeters": 12000,
+    "name": "Lost Hills Oil Field"
+  },
+  "title": "They were drilling for water",
+  "text": "Highway 46 runs through the Lost Hills Oil Field, from east to west. The field was found by accident in July 1910, when two drillers named Martin and Dudley were sinking a water well. They hit oil at 530 feet down. Production peaked early: four million barrels came out of the ground in 1917 alone.",
+  "sentences": [
+    {
+      "text": "Highway 46 runs through the Lost Hills Oil Field, from east to west.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "The field was found by accident in July 1910, when two drillers named Martin and Dudley were sinking a water well.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "They hit oil at 530 feet down.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Production peaked early: four million barrels came out of the ground in 1917 alone.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lost Hills Oil Field",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills_Oil_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Drillers Martin and Dudley accidentally discovered the Lost Hills Oil Field in July 1910. They were drilling a water well for livestock grazing; instead of finding groundwater, however, they struck oil ... at a depth of 530 feet (160 m)"
+    },
+    "s2": {
+      "title": "Lost Hills Oil Field",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills_Oil_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The early peak in production took place in 1917, during which 4 million barrels (640,000 m3) of oil were pumped"
+    },
+    "s3": {
+      "title": "Lost Hills Oil Field",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills_Oil_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "the town of Lost Hills is on the other side of the aqueduct along California State Route 46, which passes through the field from east to west"
+    }
+  },
+  "topics": [
+    "oil",
+    "history",
+    "industry"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1917",
+  "themeKeys": [
+    "lost hills oil field",
+    "etchegoin pool",
+    "accidental discovery",
+    "1910"
+  ],
+  "followOn": [
+    "ca-sight-lost-hills-oil-field-diatomite-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.615886,
+    "lon": -119.724706,
+    "source": "https://en.wikipedia.org/wiki/Lost_Hills_Oil_Field",
+    "radiusMeters": 12000,
+    "name": "Lost Hills Oil Field"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

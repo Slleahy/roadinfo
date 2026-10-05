@@ -1,0 +1,86 @@
+{
+  "id": "ca-person-bakersfield-rick-mears-01",
+  "level": "person",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "Four Indianapolis 500 wins out of Bakersfield",
+  "text": "Rick Mears, one of only four men to win the Indianapolis 500 four times, was raised in Bakersfield. He was born in Wichita, Kansas, and started out in off-road racing. He won at Indianapolis in 1979, 1984, 1988 and 1991, and he still holds the record there for pole positions, with six. He was also a three-time Indycar champion, in 1979, 1981 and 1982.",
+  "sentences": [
+    {
+      "text": "Rick Mears, one of only four men to win the Indianapolis 500 four times, was raised in Bakersfield.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He was born in Wichita, Kansas, and started out in off-road racing.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He won at Indianapolis in 1979, 1984, 1988 and 1991, and he still holds the record there for pole positions, with six.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "He was also a three-time Indycar champion, in 1979, 1981 and 1982.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Rick Mears",
+      "url": "https://en.wikipedia.org/wiki/Rick_Mears",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1372423395",
+      "quote": "Mears was born in Wichita, Kansas and raised in Bakersfield, California. ... He is one of four men to win the Indianapolis 500 four times (1979, 1984, 1988, 1991) ... is the current record-holder for pole positions in the race with six (1979, 1982, 1986, 1988, 1989, 1991) ... Mears is also a three-time Indycar series/World Series champion (1979, 1981 and 1982). ... He began his racing career in off-road racing."
+    },
+    "s2": {
+      "title": "Rick Mears",
+      "url": "https://rrdc.org/member/rick-mears/",
+      "publisher": "Road Racing Drivers Club",
+      "retrieved": "2026-10-05",
+      "quote": "Mears won a record number of pole positions in 500-mile races, including six at the prestigious Indianapolis 500 race. Mears was also the Indianapolis 500 champion four times"
+    }
+  },
+  "topics": [
+    "people",
+    "sports",
+    "motor racing"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1991",
+  "themeKeys": [
+    "rick mears",
+    "indianapolis 500",
+    "bakersfield",
+    "motor racing"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "ca-sight-tule-elk-reserve-last-elk-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.3214,
+    "lon": -119.3642,
+    "reachMeters": 20000,
+    "name": "Tule Elk State Natural Reserve"
+  },
+  "title": "The man who kept the last elk",
+  "text": "Miller and Lux, the cattle company with its headquarters and store at Buttonwillow, owned about 1.4 million acres of land. When California's tule elk were thought to be extinct, Henry Miller sheltered the survivors in the wetlands around Buena Vista Lake, gave them 600 acres of open range and rewarded his men for reporting anyone who disturbed them. A count in 1895 found 28 of them left. The state bought 953 acres near Tupman for them in 1932, and the herd there is kept at about 30 to 35 animals, {distance} from here.",
+  "sentences": [
+    {
+      "text": "Miller and Lux, the cattle company with its headquarters and store at Buttonwillow, owned about 1.4 million acres of land.",
+      "sources": [
+        "s1",
+        "s2",
+        "s8"
+      ]
+    },
+    {
+      "text": "When California's tule elk were thought to be extinct, Henry Miller sheltered the survivors in the wetlands around Buena Vista Lake, gave them 600 acres of open range and rewarded his men for reporting anyone who disturbed them.",
+      "sources": [
+        "s7",
+        "s5"
+      ]
+    },
+    {
+      "text": "A count in 1895 found 28 of them left.",
+      "sources": [
+        "s3",
+        "s6"
+      ]
+    },
+    {
+      "text": "The state bought 953 acres near Tupman for them in 1932, and the herd there is kept at about 30 to 35 animals, {distance} from here.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Buttonwillow Tree, California Historical Landmark 492",
+      "url": "https://ohp.parks.ca.gov/ListedResources/Detail/492",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-04",
+      "quote": "This lone tree, which gave the town of Buttonwillow its name, served as a landmark on an old trans-valley trail. An ancient Yokuts Indian meeting place, it later became the site of settlers' stock rodeos. Miller and Lux established their headquarters and store here about 1885."
+    },
+    "s2": {
+      "title": "Henry Miller (rancher)",
+      "url": "https://en.wikipedia.org/wiki/Henry_Miller_(rancher)",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "soon became the largest producer of cattle in California and one of the largest landowners in the United States, owning 1,400,000 acres (5,700 km2) directly"
+    },
+    "s3": {
+      "title": "Tule Elk State Natural Reserve",
+      "url": "https://www.parks.ca.gov/?page_id=584",
+      "publisher": "California Department of Parks and Recreation",
+      "retrieved": "2026-10-04",
+      "quote": "By the time elk hunting was banned by the state legislature in 1873, the Tule elk was believed to be extinct ... An 1895 count showed 28 surviving tule elk."
+    },
+    "s4": {
+      "title": "Tule Elk State Natural Reserve",
+      "url": "https://www.parks.ca.gov/?page_id=584",
+      "publisher": "California Department of Parks and Recreation",
+      "retrieved": "2026-10-04",
+      "quote": "In 1932, the State Parks Commission purchased 953-acres for a preserve near the town of Tupman in Kern County. ... Whenever the herd exceeds its ideal number of 30-35 for this 953-acre preserve, several elk are relocated"
+    },
+    "s5": {
+      "title": "Tule Elk State Natural Reserve",
+      "url": "https://www.parks.ca.gov/?page_id=584",
+      "publisher": "California Department of Parks and Recreation",
+      "retrieved": "2026-10-04",
+      "quote": "cattle rancher Henry Miller led a movement to protect any remaining tule elk by providing 600-acres of open range (near today's reserve) and rewarding his workers who informed on anyone disturbing the elk."
+    },
+    "s6": {
+      "title": "Tule Elk State Natural Reserve",
+      "url": "https://en.wikipedia.org/wiki/Tule_Elk_State_Natural_Reserve",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Under hunting and habitat pressure, the population of indigenous tule elk (Cervus canadensis nannodes) in California collapsed to double digits by the late 1800s."
+    },
+    "s7": {
+      "title": "Tule Elk State Natural Reserve",
+      "url": "https://en.wikipedia.org/wiki/Tule_Elk_State_Natural_Reserve",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Rancher Henry Miller of the Miller and Lux Ranch, however, made a project out of sheltering the surviving individuals that lingered in the wetlands surrounding Kern County's Buena Vista Lake."
+    },
+    "s8": {
+      "title": "Miller & Lux records, circa 1869-1965",
+      "url": "https://oac.cdlib.org/findaid/ark:/13030/tf7c600668",
+      "publisher": "Online Archive of California, The Bancroft Library",
+      "retrieved": "2026-10-05",
+      "quote": "By the time Miller died in 1916, government estimates listed his land holdings as 1,400,000 acres"
+    }
+  },
+  "topics": [
+    "wildlife",
+    "history",
+    "ranching"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1895",
+  "themeKeys": [
+    "tule elk",
+    "henry miller",
+    "miller and lux",
+    "tule elk state natural reserve",
+    "buena vista lake"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.40056,
+    "lon": -119.46944,
+    "source": "https://en.wikipedia.org/wiki/Buttonwillow,_California",
+    "radiusMeters": 20000,
+    "name": "Buttonwillow"
+  },
+  "elsewhere": {
+    "name": "Tule Elk State Natural Reserve",
+    "lat": 35.3214,
+    "lon": -119.3642,
+    "source": "https://en.wikipedia.org/wiki/Tule_Elk_State_Natural_Reserve"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

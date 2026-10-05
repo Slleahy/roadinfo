@@ -1,0 +1,87 @@
+{
+  "id": "ca-town-edison-oil-field-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Edison"
+  },
+  "title": "Oil pumps among the orchards",
+  "text": "Edison sits inside the boundaries of the Edison Oil Field, with working wells around the town. General Petroleum found the oil in July 1928, and the field peaked in 1953, when it produced over 6.6 million barrels in the year. By the end of 2008 it had given up 149 million barrels and still had 914 active wells, worked by about forty separate companies. Oil pumps and storage tanks stand among row crops and orchards across much of the field.",
+  "sentences": [
+    {
+      "text": "Edison sits inside the boundaries of the Edison Oil Field, with working wells around the town.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "General Petroleum found the oil in July 1928, and the field peaked in 1953, when it produced over 6.6 million barrels in the year.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "By the end of 2008 it had given up 149 million barrels and still had 914 active wells, worked by about forty separate companies.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Oil pumps and storage tanks stand among row crops and orchards across much of the field.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Edison, California",
+      "url": "https://en.wikipedia.org/wiki/Edison,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1374307235",
+      "quote": "In 1928 oil was found nearby, and the Edison Oil Field gradually developed, peaking in the 1950s. The community is within the administrative boundaries of the oilfield, and active wells surround the town."
+    },
+    "s2": {
+      "title": "Edison Oil Field",
+      "url": "https://en.wikipedia.org/wiki/Edison_Oil_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The discovery well for the Edison field was drilled by General Petroleum Corporation in July 1928 ... The field reached its peak production in 1953, a time when oil was flowing from all of these areas: in that year over 6.6 million barrels ... were produced ... cumulative production of 149 million barrels ... of oil as of 2008 ... in 2009 there were 40 separate operators on the field ... At the end of 2008, 914 wells remained active on the field ... oil pumps and storage tanks are surrounded with row crops and orchards in much of the field's extent.",
+      "table": "California Department of Oil, Gas, and Geothermal Resources annual report, 2008"
+    }
+  },
+  "topics": [
+    "oil",
+    "industry",
+    "agriculture"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2008",
+  "themeKeys": [
+    "edison oil field",
+    "edison",
+    "oil",
+    "san joaquin valley"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.347306,
+    "lon": -118.869825,
+    "radiusMeters": 8000,
+    "name": "Edison",
+    "source": "https://en.wikipedia.org/wiki/Edison,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

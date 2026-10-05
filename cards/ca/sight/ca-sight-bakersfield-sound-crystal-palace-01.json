@@ -1,0 +1,83 @@
+{
+  "id": "ca-sight-bakersfield-sound-crystal-palace-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.386,
+    "lon": -119.043,
+    "reachMeters": 10000,
+    "name": "Buck Owens Crystal Palace"
+  },
+  "title": "Buck Owens built a palace for it",
+  "text": "In 1996 Buck Owens opened the Crystal Palace in Bakersfield, a nightclub for country performers and a museum of his own career under one roof. The building on Buck Owens Boulevard was built in a Western Revival style, made to look like the Old West, and the museum filled display cases around the ground floor. After nearly thirty years, it closed in August 2025.",
+  "sentences": [
+    {
+      "text": "In 1996 Buck Owens opened the Crystal Palace in Bakersfield, a nightclub for country performers and a museum of his own career under one roof.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The building on Buck Owens Boulevard was built in a Western Revival style, made to look like the Old West, and the museum filled display cases around the ground floor.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "After nearly thirty years, it closed in August 2025.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Bakersfield sound",
+      "url": "https://en.wikipedia.org/wiki/Bakersfield_sound",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1367082682",
+      "quote": "In 1996, Owens opened Buck Owens Crystal Palace in Bakersfield, which served as both a nightclub for country music performers and as a museum."
+    },
+    "s2": {
+      "title": "Buck Owens Crystal Palace",
+      "url": "https://en.wikipedia.org/wiki/Buck_Owens_Crystal_Palace",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1372070714",
+      "quote": "Address 2800 Buck Owens Blvd. ... Opened October 23, 1996 ... The Crystal Palace is designed in the Western Revival style, a style that resembles buildings from the 19th-century American Old West. ... The museum is located in display cases around the first floor ... The Crystal Palace closed in August 2025."
+    }
+  },
+  "topics": [
+    "music",
+    "buildings",
+    "culture"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2025",
+  "themeKeys": [
+    "buck owens crystal palace",
+    "buck owens boulevard",
+    "bakersfield sound"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.386,
+    "lon": -119.043,
+    "radiusMeters": 10000,
+    "name": "Buck Owens Boulevard, Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Buck_Owens_Crystal_Palace"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

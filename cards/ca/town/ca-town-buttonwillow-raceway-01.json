@@ -1,0 +1,95 @@
+{
+  "id": "ca-town-buttonwillow-raceway-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Buttonwillow"
+  },
+  "title": "A road course out in the cotton",
+  "text": "Buttonwillow has a racetrack named after it, Buttonwillow Raceway Park, {distance} from here. It opened in 1995, and it is owned and run by the California Sports Car Club. The layout drivers use most is three miles long with 23 turns. Since 2004 it has held the Super Lap Battle, a time attack event where cars run against the clock.",
+  "sentences": [
+    {
+      "text": "Buttonwillow has a racetrack named after it, Buttonwillow Raceway Park, {distance} from here.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It opened in 1995, and it is owned and run by the California Sports Car Club.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The layout drivers use most is three miles long with 23 turns.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Since 2004 it has held the Super Lap Battle, a time attack event where cars run against the clock.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Buttonwillow Raceway Park",
+      "url": "https://en.wikipedia.org/wiki/Buttonwillow_Raceway_Park",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Race #13 CW (1995–present) Surface Asphalt Length 3.000 mi (4.828 km) Turns 23 ... with the configuration \"Race #13 CW\" being the most popular"
+    },
+    "s2": {
+      "title": "Buttonwillow Raceway Park",
+      "url": "https://en.wikipedia.org/wiki/Buttonwillow_Raceway_Park",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Buttonwillow Raceway Park is a motorsports park in Kern County, California, 10-mile (16 km) north of the town of Buttonwillow ... Opened in 1995, it is owned and operated by the California Sports Car Club, a region of SCCA"
+    },
+    "s3": {
+      "title": "Buttonwillow Raceway Park",
+      "url": "https://en.wikipedia.org/wiki/Buttonwillow_Raceway_Park",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The Super Lap Battle is a time attack event held at Buttonwillow since 2004."
+    }
+  },
+  "topics": [
+    "motorsport",
+    "recreation"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "buttonwillow raceway park",
+    "sports car club of america",
+    "super lap battle"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.40056,
+    "lon": -119.46944,
+    "source": "https://en.wikipedia.org/wiki/Buttonwillow,_California",
+    "radiusMeters": 12000,
+    "name": "Buttonwillow"
+  },
+  "elsewhere": {
+    "name": "Buttonwillow Raceway Park",
+    "lat": 35.491306,
+    "lon": -119.544944,
+    "source": "https://en.wikipedia.org/wiki/Buttonwillow_Raceway_Park"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

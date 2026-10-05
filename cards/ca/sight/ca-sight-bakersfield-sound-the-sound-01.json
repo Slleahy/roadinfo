@@ -1,0 +1,92 @@
+{
+  "id": "ca-sight-bakersfield-sound-the-sound-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.386,
+    "lon": -119.043,
+    "reachMeters": 10000,
+    "name": "The Bakersfield Sound"
+  },
+  "title": "A city with a sound named after it",
+  "text": "Bakersfield has a sound named after it: a hard, electric guitar driven kind of country music that became one of the most popular country styles of the 1960s. It came together in honky-tonk bars here such as The Blackboard, and on local television stations in Bakersfield and around California. The signature was twin Fender Telecasters, picked rather than strummed, a big drum beat and fiddle, with an occasional pedal steel solo. It was a reaction against the slickly produced, orchestra-laden Nashville sound, and Nashville's big radio station did not reach California anyway.",
+  "sentences": [
+    {
+      "text": "Bakersfield has a sound named after it: a hard, electric guitar driven kind of country music that became one of the most popular country styles of the 1960s.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It came together in honky-tonk bars here such as The Blackboard, and on local television stations in Bakersfield and around California.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The signature was twin Fender Telecasters, picked rather than strummed, a big drum beat and fiddle, with an occasional pedal steel solo.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It was a reaction against the slickly produced, orchestra-laden Nashville sound, and Nashville's big radio station did not reach California anyway.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Bakersfield, California",
+      "url": "https://en.wikipedia.org/wiki/Bakersfield,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1376434309",
+      "quote": "The city gained fame in the late 1950s and early 1960s for the Bakersfield Sound, an electric guitar-driven subgenre of country music that commercially dominated the industry for over a decade."
+    },
+    "s2": {
+      "title": "Bakersfield sound",
+      "url": "https://en.wikipedia.org/wiki/Bakersfield_sound",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1367082682",
+      "quote": "The Bakersfield sound was developed at honky-tonk bars such as The Blackboard, and on local television stations in Bakersfield and throughout California in the 1950s and 1960s. ... The Bakersfield sound became one of the most popular and influential country genres of the 1960s ... It was also a reaction against the slickly produced, orchestra-laden Nashville sound, which was becoming popular in the late 1950s. ... The Bakersfield music scene remained markedly separate from the Nashville Music Row industry at the time, as the major radio station in Nashville, WSM, did not reach California. ... The music style features a raw set of twin Fender Telecasters with a picking style (as opposed to strumming), a big drum beat, and fiddle, with an occasional prominent pedal steel guitar solo"
+    }
+  },
+  "topics": [
+    "music",
+    "history",
+    "culture"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "bakersfield sound",
+    "the blackboard",
+    "fender telecaster",
+    "country music"
+  ],
+  "followOn": [
+    "ca-person-bakersfield-buck-owens-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.386,
+    "lon": -119.043,
+    "radiusMeters": 10000,
+    "name": "Buck Owens Boulevard, Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Buck_Owens_Crystal_Palace"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ca-person-bakersfield-merle-haggard-01",
+  "level": "person",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "Merle Haggard was born in a boxcar",
+  "text": "Merle Haggard, who had 38 number one hits on the country charts, was born on April 6, 1937 in Oildale, near Bakersfield. His parents had come to California in 1934 after their farm in Oklahoma burned down, and his father remodeled a railroad boxcar in Oildale into the house where Merle was born. The boxcar was moved to the Kern County Museum in 2015, {distance} from here.",
+  "sentences": [
+    {
+      "text": "Merle Haggard, who had 38 number one hits on the country charts, was born on April 6, 1937 in Oildale, near Bakersfield.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "His parents had come to California in 1934 after their farm in Oklahoma burned down, and his father remodeled a railroad boxcar in Oildale into the house where Merle was born.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The boxcar was moved to the Kern County Museum in 2015, {distance} from here.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Merle Haggard",
+      "url": "https://en.wikipedia.org/wiki/Merle_Haggard",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1375345302",
+      "quote": "Haggard had 38 number-one hits on the US country charts ... Haggard was born in Oildale, California, the son of Flossie Mae (née Harp; 1902–1984) and James Francis Haggard (1899–1946), who, in 1934, had moved to California after their farm in Checotah, Oklahoma, burned down. They settled ... in an apartment in Bakersfield ... A woman who owned a boxcar in nearby Oildale asked Haggard's father about the possibility of converting it into a house. He remodeled and expanded the boxcar, and soon after moved in, also purchasing the lot, where Merle Ronald Haggard was born on April 6, 1937. ... In 2015, the converted boxcar in which the Haggard family lived in Oildale was moved to the Kern County Museum for historic preservation and restoration."
+    }
+  },
+  "topics": [
+    "people",
+    "music"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2015",
+  "themeKeys": [
+    "merle haggard",
+    "oildale",
+    "bakersfield sound",
+    "kern county museum"
+  ],
+  "followOn": [
+    "ca-sight-bakersfield-sound-the-sound-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "elsewhere": {
+    "name": "the Kern County Museum in Bakersfield",
+    "lat": 35.393,
+    "lon": -119.02,
+    "source": "https://en.wikipedia.org/wiki/Kern_County_Museum"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ca-person-bakersfield-buck-owens-01",
+  "level": "person",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "Buck Owens made his career here",
+  "text": "Buck Owens, who co-hosted the television show Hee Haw from 1969 to 1986, led the Buckaroos, a band with 21 number one hits on the Billboard country chart. Born in Texas in 1929, he first saw Bakersfield in the late 1940s while driving a truck through the San Joaquin Valley, and he settled here in 1951. The style he pioneered is named for his adopted home town: the Bakersfield sound. He died at his ranch just north of Bakersfield in 2006.",
+  "sentences": [
+    {
+      "text": "Buck Owens, who co-hosted the television show Hee Haw from 1969 to 1986, led the Buckaroos, a band with 21 number one hits on the Billboard country chart.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Born in Texas in 1929, he first saw Bakersfield in the late 1940s while driving a truck through the San Joaquin Valley, and he settled here in 1951.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The style he pioneered is named for his adopted home town: the Bakersfield sound.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He died at his ranch just north of Bakersfield in 2006.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Buck Owens",
+      "url": "https://en.wikipedia.org/wiki/Buck_Owens",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1361035128",
+      "quote": "Alvis Edgar \"Buck\" Owens Jr. (August 12, 1929 – March 25, 2006) ... He was the frontman for The Buckaroos, which had 21 No. 1 hits on the Billboard country music chart. He pioneered what came to be called the Bakersfield sound, named in honor of Bakersfield, California, Owens's adopted home ... Owens was born August 12, 1929 on a farm in Sherman, Texas ... In the late 1940s, Owens became a truck driver, a job which took him through the San Joaquin Valley of California, where he first experienced and was impressed by the town of Bakersfield. He and his first wife eventually settled there in 1951. ... From 1969 to 1986, Owens co-hosted the popular CBS television variety show Hee Haw ... Owens died at his ranch just north of Bakersfield on March 25, 2006."
+    }
+  },
+  "topics": [
+    "people",
+    "music"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2006",
+  "themeKeys": [
+    "buck owens",
+    "the buckaroos",
+    "hee haw",
+    "bakersfield sound"
+  ],
+  "followOn": [
+    "ca-sight-bakersfield-sound-crystal-palace-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 1
+  }
+}

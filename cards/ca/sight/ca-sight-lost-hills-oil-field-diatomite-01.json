@@ -1,0 +1,95 @@
+{
+  "id": "ca-sight-lost-hills-oil-field-diatomite-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.615886,
+    "lon": -119.724706,
+    "reachMeters": 12000,
+    "name": "Lost Hills Oil Field"
+  },
+  "title": "Rock made of microscopic shells",
+  "text": "The oil under this field is held in diatomite, a rock made of the silica skeletons of countless microscopic water plants. It is up to 70 percent empty space, light enough to float on water, and almost impermeable. There are an estimated 2.2 billion barrels of oil in the ground here, and only about five percent of it has come out. The only way to move it is to fracture the rock.",
+  "sentences": [
+    {
+      "text": "The oil under this field is held in diatomite, a rock made of the silica skeletons of countless microscopic water plants.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is up to 70 percent empty space, light enough to float on water, and almost impermeable.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "There are an estimated 2.2 billion barrels of oil in the ground here, and only about five percent of it has come out.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "The only way to move it is to fracture the rock.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "How did the oil get into the rock? How can the oil get out?",
+      "url": "https://newscenter.lbl.gov/2003/04/04/how-did-the-oil-get-into-the-rock-how-can-the-oil-get-out/",
+      "publisher": "Lawrence Berkeley National Laboratory",
+      "retrieved": "2026-10-04",
+      "quote": "made of countless silica skeletons of microscopic aquatic plants ... up to 70 percent empty space — light enough to float on water but so nearly impermeable"
+    },
+    "s2": {
+      "title": "How did the oil get into the rock? How can the oil get out?",
+      "url": "https://newscenter.lbl.gov/2003/04/04/how-did-the-oil-get-into-the-rock-how-can-the-oil-get-out/",
+      "publisher": "Lawrence Berkeley National Laboratory",
+      "retrieved": "2026-10-04",
+      "quote": "The only way to get the oil out is to fracture the rock"
+    },
+    "s3": {
+      "title": "Lost Hills Oil Field",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills_Oil_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "According to Chevron's estimate, there are approximately 2.2 billion barrels (350,000,000 m3) of oil in place in the Lost Hills Field, only five percent of which has been extracted."
+    }
+  },
+  "topics": [
+    "oil",
+    "geology",
+    "industry"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "diatomite",
+    "belridge diatomite",
+    "monterey formation",
+    "hydraulic fracturing",
+    "lost hills oil field"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.615886,
+    "lon": -119.724706,
+    "source": "https://en.wikipedia.org/wiki/Lost_Hills_Oil_Field",
+    "radiusMeters": 12000,
+    "name": "Lost Hills Oil Field"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

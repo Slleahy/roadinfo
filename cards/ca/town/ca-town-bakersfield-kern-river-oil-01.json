@@ -1,0 +1,81 @@
+{
+  "id": "ca-town-bakersfield-kern-river-oil-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "Two billion barrels next door",
+  "text": "Bakersfield sits beside the Kern River Oil Field, {distance} from here. By the end of 2006 that field had produced close to two billion barrels of oil, and it had more than nine thousand active wells, with Chevron as the principal operator. Steam flooding has made it possible to get out much of the oil that was once thought too hard to recover.",
+  "sentences": [
+    {
+      "text": "Bakersfield sits beside the Kern River Oil Field, {distance} from here.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "By the end of 2006 that field had produced close to two billion barrels of oil, and it had more than nine thousand active wells, with Chevron as the principal operator.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Steam flooding has made it possible to get out much of the oil that was once thought too hard to recover.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Kern River Oil Field",
+      "url": "https://en.wikipedia.org/wiki/Kern_River_Oil_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1357295056",
+      "quote": "Kern River Oil Field is a large oil field in Kern County in the San Joaquin Valley of California, north-northeast of Bakersfield ... Yielding a cumulative production of close to 2 billion barrels (320,000,000 m3) of oil by the end of 2006 ... It had 9,183 active wells ... The principal operator on the field is Chevron Corporation ... enhanced production technologies such as steam flooding have made it possible to extract much of the oil once considered unfeasible to recover",
+      "table": "California Department of Conservation, cumulative production to end of 2006"
+    }
+  },
+  "topics": [
+    "oil",
+    "industry",
+    "geology"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2006",
+  "themeKeys": [
+    "kern river oil field",
+    "steam flooding",
+    "bakersfield oil",
+    "chevron"
+  ],
+  "followOn": [
+    "ca-kern-county-kern-river-oil-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "elsewhere": {
+    "name": "Kern River Oil Field",
+    "lat": 35.4564,
+    "lon": -118.9834,
+    "source": "https://en.wikipedia.org/wiki/Kern_River_Oil_Field"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "ca-landscape-southern-san-joaquin-valley-floor-sinking-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Southern San Joaquin Valley floor"
+  },
+  "title": "The floor of the valley is sinking",
+  "text": "The ground under this valley has been settling since about 1920, when farmers began leaning on groundwater. By 1970 about half the San Joaquin Valley, some 5,200 square miles, had dropped more than a foot, and in places the drop has reached 28 feet. Between 2015 and 2016, satellite measurements found parts of the valley going down as fast as two feet a year. The sinking has cut the carrying capacity of the California Aqueduct and other canals, and the repairs are expensive.",
+  "sentences": [
+    {
+      "text": "The ground under this valley has been settling since about 1920, when farmers began leaning on groundwater.",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "text": "By 1970 about half the San Joaquin Valley, some 5,200 square miles, had dropped more than a foot, and in places the drop has reached 28 feet.",
+      "sources": [
+        "s4",
+        "s1"
+      ]
+    },
+    {
+      "text": "Between 2015 and 2016, satellite measurements found parts of the valley going down as fast as two feet a year.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The sinking has cut the carrying capacity of the California Aqueduct and other canals, and the repairs are expensive.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Central Valley land subsidence",
+      "url": "https://en.wikipedia.org/wiki/Central_Valley_land_subsidence",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The Central Valley has been sinking (subsiding) at differing rates since the 1920s and is estimated to have sunk up to 28 feet (8.5 m)."
+    },
+    "s2": {
+      "title": "Central Valley land subsidence",
+      "url": "https://en.wikipedia.org/wiki/Central_Valley_land_subsidence",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "In a monitoring study from May 2015 to September 2016, NASA found areas that were subsiding as rapidly as two feet per year."
+    },
+    "s3": {
+      "title": "Land Subsidence in the San Joaquin Valley",
+      "url": "https://www.usgs.gov/centers/ca-water-ls/science/land-subsidence-san-joaquin-valley",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-04",
+      "quote": "The resulting land subsidence has reduced the freeboard and flow capacity of the Delta-Mendota Canal—as well as the California Aqueduct and other canals ... expensive repairs"
+    },
+    "s4": {
+      "title": "Land Subsidence in the San Joaquin Valley",
+      "url": "https://www.usgs.gov/centers/ca-water-ls/science/land-subsidence-san-joaquin-valley",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-04",
+      "quote": "By 1970, significant land subsidence (more than one foot) had occurred in about half of the San Joaquin Valley, or about 5,200 square miles ... as much as 28 feet"
+    },
+    "s5": {
+      "title": "Land Subsidence in the San Joaquin Valley",
+      "url": "https://www.usgs.gov/centers/ca-water-ls/science/land-subsidence-san-joaquin-valley",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-04",
+      "quote": "Beginning around the 1920's, farmers relied upon groundwater for water supply. Over time, overpumping caused groundwater-level declines and associated aquifer-system compaction and land subsidence"
+    }
+  },
+  "topics": [
+    "geology",
+    "water",
+    "agriculture"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": "2016",
+  "themeKeys": [
+    "land subsidence",
+    "groundwater",
+    "san joaquin valley",
+    "california aqueduct"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.40056,
+    "lon": -119.46944,
+    "source": "https://en.wikipedia.org/wiki/Buttonwillow,_California",
+    "radiusMeters": 45000,
+    "name": "Southern San Joaquin Valley floor"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

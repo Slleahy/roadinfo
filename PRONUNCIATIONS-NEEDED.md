@@ -7,7 +7,31 @@ Workflow: add the ones you are sure of to the app's `RoadSavant/Resources/Pronun
 then hand what is left to the owner, who will find or phone someone who says the word.
 Never invent a pronunciation. If a word cannot be sourced, rewrite the sentence without it.
 
-0 words across 203 cards.
+24 words across 241 cards.
 
 | Word | Cards | Example card | Say it how? |
 |---|---|---|---|
+| Caliente | 9 | `ca-town-caliente-allens-camp-01` |  |
+| Buttonwillow | 4 | `ca-sight-tule-elk-reserve-last-elk-01` |  |
+| Korn | 3 | `ca-person-bakersfield-jonathan-davis-01` |  |
+| Oildale | 2 | `ca-person-bakersfield-merle-haggard-01` |  |
+| Beale | 2 | `ca-town-caliente-bealville-camels-01` |  |
+| Hee | 1 | `ca-person-bakersfield-buck-owens-01` |  |
+| Cruella | 1 | `ca-person-bakersfield-marc-davis-01` |  |
+| Vil | 1 | `ca-person-bakersfield-marc-davis-01` |  |
+| Walt | 1 | `ca-person-bakersfield-marc-davis-01` |  |
+| Indycar | 1 | `ca-person-bakersfield-rick-mears-01` |  |
+| Edmonston | 1 | `ca-sight-california-aqueduct-over-the-tehachapis-01` |  |
+| Buena | 1 | `ca-sight-tule-elk-reserve-last-elk-01` |  |
+| Tupman | 1 | `ca-sight-tule-elk-reserve-last-elk-01` |  |
+| unreinforced | 1 | `ca-town-bakersfield-1952-aftershock-01` |  |
+| Weedpatch | 1 | `ca-town-bakersfield-okie-camp-01` |  |
+| Steinbeck | 1 | `ca-town-bakersfield-okie-camp-01` |  |
+| Joad | 1 | `ca-town-bakersfield-okie-camp-01` |  |
+| Yokuts | 1 | `ca-town-buttonwillow-lone-tree-01` |  |
+| Allen's | 1 | `ca-town-caliente-allens-camp-01` |  |
+| Allen | 1 | `ca-town-caliente-allens-camp-01` |  |
+| Bealville | 1 | `ca-town-caliente-bealville-camels-01` |  |
+| Fitzgerald | 1 | `ca-town-caliente-bealville-camels-01` |  |
+| Buchanan | 1 | `ca-town-caliente-bealville-camels-01` |  |
+| Jedediah | 1 | `ca-town-edison-jedediah-smith-01` |  |

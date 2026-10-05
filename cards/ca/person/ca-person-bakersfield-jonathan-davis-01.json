@@ -1,0 +1,77 @@
+{
+  "id": "ca-person-bakersfield-jonathan-davis-01",
+  "level": "person",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "Korn started in Bakersfield",
+  "text": "Jonathan Davis, the singer of the band Korn, was born in Bakersfield on January 18, 1971 and raised here. At the age of 16 he found work as a coroner's assistant, and later apprenticed at the Kern County Coroner's Department. He co-founded Korn in Bakersfield in 1993. He also plays the Highland bagpipe, which first turned up on a Korn song called Shoots and Ladders.",
+  "sentences": [
+    {
+      "text": "Jonathan Davis, the singer of the band Korn, was born in Bakersfield on January 18, 1971 and raised here.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "At the age of 16 he found work as a coroner's assistant, and later apprenticed at the Kern County Coroner's Department.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He co-founded Korn in Bakersfield in 1993.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He also plays the Highland bagpipe, which first turned up on a Korn song called Shoots and Ladders.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Jonathan Davis",
+      "url": "https://en.wikipedia.org/wiki/Jonathan_Davis",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1377474946",
+      "quote": "Jonathan Howsmon Davis was born in Bakersfield, California, on January 18, 1971 ... he moved in with and was raised by his father and former stepmother in Bakersfield ... At the age of 16, Davis found employment as a coroner's assistant ... he dropped out after two semesters to apprentice at a mortuary closer to home, in the Kern County Coroner's Department. ... Davis co-founded Korn in Bakersfield in 1993 ... would eventually become the first Korn song to feature a Highland bagpipe."
+    }
+  },
+  "topics": [
+    "people",
+    "music"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1993",
+  "themeKeys": [
+    "jonathan davis",
+    "korn",
+    "bakersfield",
+    "bagpipes"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

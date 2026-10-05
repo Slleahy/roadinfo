@@ -1,0 +1,77 @@
+{
+  "id": "ca-town-caliente-allens-camp-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Caliente"
+  },
+  "title": "Allen's Camp becomes Caliente",
+  "text": "Caliente started out as Allen's Camp, named for Gabriel Allen, who in the 1870s kept a cabin and a stock pasture here. The railroad renamed the place Caliente when its construction reached this point in April 1875. Caliente is Spanish for hot, and the name was shortened from Agua Caliente, proposed for the hot springs in the area.",
+  "sentences": [
+    {
+      "text": "Caliente started out as Allen's Camp, named for Gabriel Allen, who in the 1870s kept a cabin and a stock pasture here.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The railroad renamed the place Caliente when its construction reached this point in April 1875.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Caliente is Spanish for hot, and the name was shortened from Agua Caliente, proposed for the hot springs in the area.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "#0757 Caliente, California State Historical Landmarks",
+      "url": "https://landmarkquest.com/omeka/items/show/439",
+      "publisher": "LandmarkQuest",
+      "retrieved": "2026-10-04",
+      "quote": "Originally known as Allen's Camp after Gabriel Allen, who in the 1870s had a cabin and stock pasture near here, the settlement was named Caliente when railroad construction reached this point in April 1875."
+    },
+    "s2": {
+      "title": "Caliente, California",
+      "url": "https://en.wikipedia.org/wiki/Caliente,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1378562198",
+      "quote": "Caliente (Spanish for \"Hot\") is an unincorporated community in Kern County, California. ... Later, the name Agua Caliente, coming from hot springs in the area, was proposed and may have been used. ... With the railroad's arrival in 1875, the shortened name Caliente was adopted."
+    }
+  },
+  "topics": [
+    "names",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1875",
+  "themeKeys": [
+    "caliente",
+    "place names",
+    "hot springs"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.291111,
+    "lon": -118.627778,
+    "radiusMeters": 8000,
+    "name": "Caliente",
+    "source": "https://en.wikipedia.org/wiki/Caliente,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

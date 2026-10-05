@@ -1,0 +1,93 @@
+{
+  "id": "ca-town-bena-depot-moved-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Bena"
+  },
+  "title": "Bena's depot is in a museum now",
+  "text": "Bena's railroad station was built here in 1885, and the depot is no longer on the spot. In 1961 the Southern Pacific and Santa Fe railroads gave it to Kern Pioneer Village at the Kern County Museum in Bakersfield, {distance} from here. Its restoration was finished in the summer of 2020.",
+  "sentences": [
+    {
+      "text": "Bena's railroad station was built here in 1885, and the depot is no longer on the spot.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 1961 the Southern Pacific and Santa Fe railroads gave it to Kern Pioneer Village at the Kern County Museum in Bakersfield, {distance} from here.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "Its restoration was finished in the summer of 2020.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Bena, California",
+      "url": "https://en.wikipedia.org/wiki/Bena,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1377761166",
+      "quote": "The Bena railroad station was built in 1885. ... The Southern Pacific and Santa Fe Railroads donated the old Bena depot, once located a few miles from the Tehachapi Loop, to Kern Pioneer Village in 1961. Bena Depot was fully restored by the Kern County Museum in 2020."
+    },
+    "s2": {
+      "title": "Recent Restoration Projects",
+      "url": "https://kerncountymuseum.org/recent-restoration-projects/",
+      "publisher": "Kern County Museum",
+      "retrieved": "2026-10-04",
+      "quote": "The full restoration of the Bena Railroad Depot was completed in the Summer of 2020. Thanks to a $20,000 grant from the Wheeler Foundation, the depot received a new coat of exterior paint, a new platform deck, new back porch and interior cleaning."
+    },
+    "s3": {
+      "title": "Kern County Museum",
+      "url": "https://en.wikipedia.org/wiki/Kern_County_Museum",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "quote": "The Kern County Museum is a history museum located in Bakersfield, California. ... Pioneer Village ... contains over 50 original buildings from around the county"
+    }
+  },
+  "topics": [
+    "railroads",
+    "history",
+    "museums"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2020",
+  "themeKeys": [
+    "bena",
+    "bena depot",
+    "kern county museum",
+    "pioneer village"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.326667,
+    "lon": -118.739722,
+    "radiusMeters": 8000,
+    "name": "Bena",
+    "source": "https://en.wikipedia.org/wiki/Bena,_California"
+  },
+  "elsewhere": {
+    "name": "the Kern County Museum in Bakersfield",
+    "lat": 35.393,
+    "lon": -119.02,
+    "source": "https://en.wikipedia.org/wiki/Kern_County_Museum"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "ca-town-bakersfield-fire-of-1889-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "Three hours in July 1889",
+  "text": "On July 7, 1889, a fire burned for three hours and destroyed most of Bakersfield. It took 196 buildings, left 1,500 people homeless and killed one man. It seems to have started when gas fumes from a stove caught fire in a house near 20th Street and Chester Avenue, and there was not enough water pressure in the line to fight it. The town rebuilt larger and grander, and mostly in brick.",
+  "sentences": [
+    {
+      "text": "On July 7, 1889, a fire burned for three hours and destroyed most of Bakersfield.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It took 196 buildings, left 1,500 people homeless and killed one man.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It seems to have started when gas fumes from a stove caught fire in a house near 20th Street and Chester Avenue, and there was not enough water pressure in the line to fight it.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The town rebuilt larger and grander, and mostly in brick.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Great Bakersfield Fire of 1889",
+      "url": "https://en.wikipedia.org/wiki/Great_Bakersfield_Fire_of_1889",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1360496566",
+      "quote": "The fire burned for three hours and destroyed most of the town ... In total, 196 buildings were destroyed, one man killed, and 1,500 people rendered homeless. ... The best-supported view was that it began in Mrs. N. E. Kelesy's residence near the intersection of 20th Street and Chester Avenue ... gas fumes from the stove caught fire ... There was not enough water pressure in the line to deliver water to the fire ... Most of the buildings were rebuilt larger and grander than the previous. Most were constructed out of brick with an ornate and decorative style."
+    }
+  },
+  "topics": [
+    "disasters",
+    "history",
+    "fire"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1889",
+  "themeKeys": [
+    "great bakersfield fire",
+    "1889",
+    "bakersfield downtown",
+    "brick buildings"
+  ],
+  "followOn": [
+    "ca-town-bakersfield-1952-aftershock-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

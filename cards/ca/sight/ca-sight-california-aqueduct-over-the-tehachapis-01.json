@@ -1,0 +1,103 @@
+{
+  "id": "ca-sight-california-aqueduct-over-the-tehachapis-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.40056,
+    "lon": -119.46944,
+    "reachMeters": 20000,
+    "name": "California Aqueduct"
+  },
+  "title": "Water pushed over a mountain range",
+  "text": "The concrete canal running down this side of the valley is the California Aqueduct, and it has a mountain range to get over. At the Edmonston Pumping Plant, {distance} from here, it is lifted 1,926 feet to cross the Tehachapi Mountains. Fourteen pumps of 80,000 horsepower each do the lifting, and the plant can draw 787 megawatts down a power line of its own.",
+  "sentences": [
+    {
+      "text": "The concrete canal running down this side of the valley is the California Aqueduct, and it has a mountain range to get over.",
+      "sources": [
+        "s4",
+        "s1"
+      ]
+    },
+    {
+      "text": "At the Edmonston Pumping Plant, {distance} from here, it is lifted 1,926 feet to cross the Tehachapi Mountains.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Fourteen pumps of 80,000 horsepower each do the lifting, and the plant can draw 787 megawatts down a power line of its own.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California Aqueduct",
+      "url": "https://en.wikipedia.org/wiki/California_Aqueduct",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "At Edmonston Pumping Plant it is pumped 1,926 ft (587 m) over the Tehachapi Mountains."
+    },
+    "s2": {
+      "title": "Edmonston Pumping Plant",
+      "url": "https://en.wikipedia.org/wiki/Edmonston_Pumping_Plant",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "It lifts water 1,926 feet (587 m) to cross the Tehachapi Mountains"
+    },
+    "s3": {
+      "title": "Edmonston Pumping Plant",
+      "url": "https://en.wikipedia.org/wiki/Edmonston_Pumping_Plant",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "There are 14 4-stage 80,000 horsepower (60 MW) centrifugal pumps ... The station needs up to 787 MW of electricity, delivered through a dedicated 230kV transmission line"
+    },
+    "s4": {
+      "title": "Interstate 5 in California",
+      "url": "https://en.wikipedia.org/wiki/Interstate_5_in_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "For most of this section, the Path 15 electrical transmission corridor follows the highway, forming an infrastructure corridor along with the California Aqueduct."
+    }
+  },
+  "topics": [
+    "water",
+    "engineering",
+    "energy"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "edmonston pumping plant",
+    "california aqueduct",
+    "tehachapi mountains",
+    "state water project"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.40056,
+    "lon": -119.46944,
+    "source": "https://en.wikipedia.org/wiki/Buttonwillow,_California",
+    "radiusMeters": 20000,
+    "name": "California Aqueduct near Buttonwillow"
+  },
+  "elsewhere": {
+    "name": "Edmonston Pumping Plant",
+    "lat": 34.942361,
+    "lon": -118.824664,
+    "source": "https://en.wikipedia.org/wiki/Edmonston_Pumping_Plant"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

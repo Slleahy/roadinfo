@@ -1,0 +1,87 @@
+{
+  "id": "ca-town-caliente-flood-of-1932-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Caliente"
+  },
+  "title": "The cloudburst of 1932",
+  "text": "On September 30, 1932, many inches of rain fell in twelve hours above Caliente, and trees, rocks, earth and debris came racing down the creeks. Two people died in Caliente when buildings in the lower part of the town were destroyed, and at least fifteen were killed in all. The railroad lost nine trestles and bridges and many miles of track, built almost on the edge of the streambed, between Tehachapi and Bena. One boxcar that fell in was washed a mile and a quarter downstream before it jammed against a trestle.",
+  "sentences": [
+    {
+      "text": "On September 30, 1932, many inches of rain fell in twelve hours above Caliente, and trees, rocks, earth and debris came racing down the creeks.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Two people died in Caliente when buildings in the lower part of the town were destroyed, and at least fifteen were killed in all.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The railroad lost nine trestles and bridges and many miles of track, built almost on the edge of the streambed, between Tehachapi and Bena.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "One boxcar that fell in was washed a mile and a quarter downstream before it jammed against a trestle.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "The Flood of 1932 Pt. I",
+      "url": "https://www.theloopnewspaper.com/story/2014/01/04/community/the-flood-of-1932-pt-i/204.html",
+      "publisher": "The Loop Newspaper",
+      "retrieved": "2026-10-04",
+      "quote": "Beginning in the mid-morning Sept. 30, 1932, many inches of rain fell in twelve hours in the Tehachapi-Keene area. It was defined as a cloudburst. ... Trees, rocks, earth and debris raced down Tehachapi Creek and through Keene and Caliente towards Arvin."
+    },
+    "s2": {
+      "title": "1932 - Sep 30, cloudburst, Tehachapi Creek Basin flash flood, Kern County, CA",
+      "url": "https://www.usdeadlyevents.com/1932-sep-30-cloudburst-tehachapi-creek-basin-flash-flood-kern-county-ca-16-21/",
+      "publisher": "US Deadly Events, quoting the State of California Department of Public Works report",
+      "retrieved": "2026-10-04",
+      "quote": "caused the death of at least fifteen persons ... lost nine trestles and bridges and many miles of track, built almost on the edge of the streambed, between Tehachapi and Bena ... one of the box cars which fell into the stream was washed about 1¼ miles downstream where it jammed against the railroad trestle ... Two lives were lost when buildings in the lower part of the town [Caliente] were destroyed"
+    }
+  },
+  "topics": [
+    "floods",
+    "disasters",
+    "railroads",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1932",
+  "themeKeys": [
+    "1932 flood",
+    "caliente creek",
+    "tehachapi creek",
+    "caliente"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.291111,
+    "lon": -118.627778,
+    "radiusMeters": 8000,
+    "name": "Caliente",
+    "source": "https://en.wikipedia.org/wiki/Caliente,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

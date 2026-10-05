@@ -1,0 +1,72 @@
+{
+  "id": "ca-town-lost-hills-green-bridge-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lost Hills"
+  },
+  "title": "The green bridge over Highway 46",
+  "text": "A green footbridge crosses Highway 46 at Lost Hills, built after a pedestrian was killed trying to cross the road. Its shape is meant to look like a lizard, and it funnels the rain that lands on it to the sides to be collected. The Wonderful Company paid for it.",
+  "sentences": [
+    {
+      "text": "A green footbridge crosses Highway 46 at Lost Hills, built after a pedestrian was killed trying to cross the road.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Its shape is meant to look like a lizard, and it funnels the rain that lands on it to the sides to be collected.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The Wonderful Company paid for it.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s2": {
+      "title": "Lost Hills, California",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "After the death of a pedestrian trying to cross the highway, a green pedestrian bridge was constructed spanning California Highway 46. It was funded by the Wonderful Company. Its design resembles the shape of a lizard and is able to funnel any precipitation that lands on it to the sides to allow for collection."
+    }
+  },
+  "topics": [
+    "roads",
+    "architecture",
+    "safety"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "lost hills pedestrian bridge",
+    "highway 46",
+    "the wonderful company"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.61639,
+    "lon": -119.69417,
+    "source": "https://en.wikipedia.org/wiki/Lost_Hills,_California",
+    "radiusMeters": 8000,
+    "name": "Lost Hills"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

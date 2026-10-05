@@ -1,0 +1,113 @@
+{
+  "id": "ca-landscape-southern-san-joaquin-valley-floor-tulare-lake-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Southern San Joaquin Valley floor"
+  },
+  "title": "The lake that used to be here",
+  "text": "This end of the San Joaquin Valley is a closed basin, and the rivers running into it never reach the sea. Five rivers, the Kern among them, fed Tulare Lake, {distance} from here, once the largest freshwater lake west of the Mississippi. By 1899 it was dry but for marshes and the occasional flood. The storms of early 2023 brought back more than 114,000 acres of it.",
+  "sentences": [
+    {
+      "text": "This end of the San Joaquin Valley is a closed basin, and the rivers running into it never reach the sea.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Five rivers, the Kern among them, fed Tulare Lake, {distance} from here, once the largest freshwater lake west of the Mississippi.",
+      "sources": [
+        "s1",
+        "s4",
+        "s6"
+      ]
+    },
+    {
+      "text": "By 1899 it was dry but for marshes and the occasional flood.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "The storms of early 2023 brought back more than 114,000 acres of it.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "San Joaquin Valley",
+      "url": "https://en.wikipedia.org/wiki/San_Joaquin_Valley",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The somewhat larger southern portion is the Tulare Basin, an endorheic basin centered on Tulare Lake. Historically, Tulare Lake was fed by the Tule River, the Kings River, the Kaweah River, the White River and the Kern River"
+    },
+    "s2": {
+      "title": "Tulare Lake",
+      "url": "https://en.wikipedia.org/wiki/Tulare_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The numerous storms that struck California during the first few months of 2023 resulted in the reappearance of over 114,000 acres (46,000 ha) of the lake."
+    },
+    "s3": {
+      "title": "Tulare Lake",
+      "url": "https://en.wikipedia.org/wiki/Tulare_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "By 1899, the lake was dry except for residual wetlands and occasional floods."
+    },
+    "s4": {
+      "title": "Tulare Lake",
+      "url": "https://en.wikipedia.org/wiki/Tulare_Lake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Historically, Tulare Lake was once the largest freshwater lake west of the Mississippi River in surface area."
+    },
+    "s6": {
+      "title": "Return of Tulare Lake",
+      "url": "https://science.nasa.gov/earth/earth-observatory/return-of-tulare-lake-151174",
+      "publisher": "NASA Earth Observatory",
+      "retrieved": "2026-10-04",
+      "quote": "Tulare Lake, in California's San Joaquin Valley, was once the largest freshwater lake west of the Mississippi River."
+    }
+  },
+  "topics": [
+    "water",
+    "history",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2023",
+  "themeKeys": [
+    "tulare lake",
+    "endorheic basin",
+    "kern river",
+    "2023 floods"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.40056,
+    "lon": -119.46944,
+    "source": "https://en.wikipedia.org/wiki/Buttonwillow,_California",
+    "radiusMeters": 45000,
+    "name": "Southern San Joaquin Valley floor"
+  },
+  "elsewhere": {
+    "name": "Tulare Lake",
+    "lat": 36.05,
+    "lon": -119.78806,
+    "source": "https://en.wikipedia.org/wiki/Tulare_Lake"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

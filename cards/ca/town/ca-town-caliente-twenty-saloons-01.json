@@ -1,0 +1,78 @@
+{
+  "id": "ca-town-caliente-twenty-saloons-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Caliente"
+  },
+  "title": "Sixty buildings, twenty of them saloons",
+  "text": "While the railroad was being built, Caliente had roughly sixty buildings, twenty or more of them saloons. Stage lines and a freighting company ran through here too. The post office opened in 1875, closed in 1883 once the construction crews had gone, and opened again in 1890. The general store was remodeled in 1980 to house that post office, which is still in operation.",
+  "sentences": [
+    {
+      "text": "While the railroad was being built, Caliente had roughly sixty buildings, twenty or more of them saloons.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Stage lines and a freighting company ran through here too.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The post office opened in 1875, closed in 1883 once the construction crews had gone, and opened again in 1890.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The general store was remodeled in 1980 to house that post office, which is still in operation.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Caliente, California",
+      "url": "https://en.wikipedia.org/wiki/Caliente,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1378562198",
+      "quote": "For a time, the Telegraph Stage Line and the Cerro Gordo Freighting Co. also ran through Caliente and its full-time population grew to 200. There were approximately 60 buildings, including 20 or more saloons. ... The Caliente post office opened in 1875, closed in 1883, and was re-established in 1890. ... The Caliente General Store was remodeled in 1980 to house the post office which is still in operation today."
+    }
+  },
+  "topics": [
+    "history",
+    "railroads",
+    "towns"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1875",
+  "themeKeys": [
+    "caliente",
+    "boom town",
+    "saloons",
+    "post office"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.291111,
+    "lon": -118.627778,
+    "radiusMeters": 8000,
+    "name": "Caliente",
+    "source": "https://en.wikipedia.org/wiki/Caliente,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

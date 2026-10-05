@@ -1,0 +1,123 @@
+{
+  "id": "ca-sight-kern-national-wildlife-refuge-last-of-the-wetland-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.74579,
+    "lon": -119.6179,
+    "reachMeters": 25000,
+    "name": "Kern National Wildlife Refuge"
+  },
+  "title": "What is left of a drowned valley",
+  "text": "Of the natural land that once covered this valley floor, generally less than five percent is left, broken into scattered pieces. One of the surviving pieces is Kern National Wildlife Refuge, {distance} from here, about eleven thousand acres of desert upland, old riverside woodland and marsh. It sits on the southern edge of what was once the largest freshwater wetland in the western United States, Tulare Lake. It was set aside in November 1960 to give migratory birds, above all ducks and other water birds, somewhere to spend the winter.",
+  "sentences": [
+    {
+      "text": "Of the natural land that once covered this valley floor, generally less than five percent is left, broken into scattered pieces.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "One of the surviving pieces is Kern National Wildlife Refuge, {distance} from here, about eleven thousand acres of desert upland, old riverside woodland and marsh.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "It sits on the southern edge of what was once the largest freshwater wetland in the western United States, Tulare Lake.",
+      "sources": [
+        "s5",
+        "s6"
+      ]
+    },
+    {
+      "text": "It was set aside in November 1960 to give migratory birds, above all ducks and other water birds, somewhere to spend the winter.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Recovery Plan for Upland Species of the San Joaquin Valley, California: Executive Summary",
+      "url": "https://esrp.csustan.edu/publications/pubhtml.php?doc=sjvrp&file=execsum.html",
+      "publisher": "U.S. Fish and Wildlife Service, hosted by the Endangered Species Recovery Program",
+      "retrieved": "2026-10-04",
+      "quote": "The remaining natural communities (generally less than 5 percent of historical values) are highly fragmented"
+    },
+    "s2": {
+      "title": "Kern National Wildlife Refuge: About Us",
+      "url": "https://www.fws.gov/refuge/kern/about-us",
+      "publisher": "U.S. Fish and Wildlife Service",
+      "retrieved": "2026-10-04",
+      "quote": "Kern National Wildlife Refuge was established on November 18, 1960 and consists of 11,249-acres of natural desert uplands, a relict riparian ... corridor, and developed marsh."
+    },
+    "s3": {
+      "title": "Kern National Wildlife Refuge: About Us",
+      "url": "https://www.fws.gov/refuge/kern/about-us",
+      "publisher": "U.S. Fish and Wildlife Service",
+      "retrieved": "2026-10-04",
+      "quote": "Kern National Wildlife Refuge was established on November 18, 1960."
+    },
+    "s4": {
+      "title": "Kern National Wildlife Refuge: About Us",
+      "url": "https://www.fws.gov/refuge/kern/about-us",
+      "publisher": "U.S. Fish and Wildlife Service",
+      "retrieved": "2026-10-04",
+      "quote": "optimum wintering habitat for migratory birds with an emphasis on waterfowl and water birds"
+    },
+    "s5": {
+      "title": "Kern National Wildlife Refuge",
+      "url": "https://en.wikipedia.org/wiki/Kern_National_Wildlife_Refuge",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Situated on the southern margin of what was once the largest freshwater wetland complex known as Tulare Lake in the western United States."
+    },
+    "s6": {
+      "title": "Kern National Wildlife Refuge: About Us",
+      "url": "https://www.fws.gov/refuge/kern/about-us",
+      "publisher": "U.S. Fish and Wildlife Service",
+      "retrieved": "2026-10-05",
+      "quote": "The southern portion of the Central Valley, known as the San Joaquin Valley, once contained numerous lakes and marshes comprising over 800,000 acres of natural wetlands, the largest freshwater marsh in the western United States."
+    }
+  },
+  "topics": [
+    "wildlife",
+    "wetlands",
+    "conservation"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1960",
+  "themeKeys": [
+    "kern national wildlife refuge",
+    "tulare lake",
+    "pacific flyway",
+    "wetlands"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.61639,
+    "lon": -119.69417,
+    "source": "https://en.wikipedia.org/wiki/Lost_Hills,_California",
+    "radiusMeters": 20000,
+    "name": "Lost Hills"
+  },
+  "elsewhere": {
+    "name": "Kern National Wildlife Refuge",
+    "lat": 35.74579,
+    "lon": -119.6179,
+    "source": "https://en.wikipedia.org/wiki/Kern_National_Wildlife_Refuge"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "ca-person-bakersfield-earl-warren-01",
+  "level": "person",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "A Chief Justice grew up in Bakersfield",
+  "text": "Earl Warren, Chief Justice of the United States from 1953 to 1969, grew up in Bakersfield. Born in Los Angeles in 1891, he moved here with his family in 1896. Warren graduated from Kern County High School in 1908, and he went on to become the first Governor of California elected to three consecutive terms. As Chief Justice he helped arrange a unanimous decision in Brown versus Board of Education in 1954, and he led the commission that investigated the assassination of President Kennedy.",
+  "sentences": [
+    {
+      "text": "Earl Warren, Chief Justice of the United States from 1953 to 1969, grew up in Bakersfield.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Born in Los Angeles in 1891, he moved here with his family in 1896.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Warren graduated from Kern County High School in 1908, and he went on to become the first Governor of California elected to three consecutive terms.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "As Chief Justice he helped arrange a unanimous decision in Brown versus Board of Education in 1954, and he led the commission that investigated the assassination of President Kennedy.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Earl Warren",
+      "url": "https://en.wikipedia.org/wiki/Earl_Warren",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1378499611",
+      "quote": "Warren was born in Los Angeles, California, on March 19, 1891 ... In 1896, the family resettled in Bakersfield, California, where Warren grew up. Though not an exceptional student, Warren graduated from Kern County High School in 1908. ... He was the first Governor of California elected to three consecutive terms. ... chief justice of the United States from 1953 to 1969 ... Warren helped arrange a unanimous decision in Brown v. Board of Education (1954) ... Warren also led the Warren Commission, a presidential commission that investigated the 1963 assassination of President John F. Kennedy."
+    },
+    "s2": {
+      "title": "30. Earl Warren",
+      "url": "https://governors.library.ca.gov/30-Warren.html",
+      "publisher": "California State Library",
+      "retrieved": "2026-10-05",
+      "quote": "Earl Warren was born in Los Angeles, California, on March 19, 1891 and grew up in Bakersfield, California. ... Warren is California's only governor ever elected to three consecutive terms."
+    }
+  },
+  "topics": [
+    "people",
+    "law",
+    "history"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1969",
+  "themeKeys": [
+    "earl warren",
+    "supreme court",
+    "brown v board of education",
+    "bakersfield"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

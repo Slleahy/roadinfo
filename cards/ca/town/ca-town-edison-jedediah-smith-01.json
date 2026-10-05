@@ -1,0 +1,80 @@
+{
+  "id": "ca-town-edison-jedediah-smith-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Edison"
+  },
+  "title": "The first American overland came through here",
+  "text": "About February 1, 1827, Jedediah Strong Smith, the first American to reach Mexican California overland, passed near this spot with a party of fur trappers. They had come up from San Gabriel Mission, heading north to a land reported to be teeming with plenty of beaver.",
+  "sentences": [
+    {
+      "text": "About February 1, 1827, Jedediah Strong Smith, the first American to reach Mexican California overland, passed near this spot with a party of fur trappers.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "They had come up from San Gabriel Mission, heading north to a land reported to be teeming with plenty of beaver.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California Historical Landmarks in Kern County",
+      "url": "https://ohp.parks.ca.gov/?page_id=21423",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-04",
+      "quote": "NO. 660 POINT ON THE JEDEDIAH SMITH TRAIL - About February 1, 1827, Jedediah Strong Smith, first American to reach Mexican California overland, passed near this spot with his party of fur trappers. ... Location: SE corner of Old Bena and Tower Line Rds, 3.6 mi E of Edison"
+    },
+    "s2": {
+      "title": "California Historical Landmark #660: Jedediah Smith Trail in Kern County",
+      "url": "https://noehill.com/kern/cal0660.asp",
+      "publisher": "NoeHill",
+      "retrieved": "2026-10-04",
+      "quote": "About February 1, 1827, Jedediah Strong Smith, first American to reach Mexican California overland, passed near this spot with his party of fur trappers. From San Gabriel Mission, the group was en route north to a land reported teeming with 'plenty of Beaver.'"
+    },
+    "s3": {
+      "title": "Jedediah Smith",
+      "url": "https://en.wikipedia.org/wiki/Jedediah_Smith",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "quote": "Smith's party became the first United States citizens to cross the Mojave Desert into what is now the state of California but which at that time was part of Mexico."
+    }
+  },
+  "topics": [
+    "exploration",
+    "history",
+    "trails"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": "1827",
+  "themeKeys": [
+    "jedediah smith",
+    "edison",
+    "fur trappers"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.332133,
+    "lon": -118.806583,
+    "radiusMeters": 8000,
+    "name": "Point on the Jedediah Smith Trail, near Edison",
+    "source": "https://en.wikipedia.org/wiki/California_Historical_Landmarks_in_Kern_County"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

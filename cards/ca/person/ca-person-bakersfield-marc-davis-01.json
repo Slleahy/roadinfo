@@ -1,0 +1,78 @@
+{
+  "id": "ca-person-bakersfield-marc-davis-01",
+  "level": "person",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "The man who drew Tinker Bell",
+  "text": "Marc Davis, the Disney animator who drew Tinker Bell, Cruella de Vil and Maleficent, was born in Bakersfield on March 30, 1913. He was one of Disney's Nine Old Men, the core animators of the studio's animated films, and he also drew Aurora in Sleeping Beauty. Later he moved on to designing rides for Disneyland, among them Pirates of the Caribbean and the Haunted Mansion. Walt Disney called him his Renaissance man.",
+  "sentences": [
+    {
+      "text": "Marc Davis, the Disney animator who drew Tinker Bell, Cruella de Vil and Maleficent, was born in Bakersfield on March 30, 1913.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "He was one of Disney's Nine Old Men, the core animators of the studio's animated films, and he also drew Aurora in Sleeping Beauty.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Later he moved on to designing rides for Disneyland, among them Pirates of the Caribbean and the Haunted Mansion.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Walt Disney called him his Renaissance man.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Marc Davis (animator)",
+      "url": "https://en.wikipedia.org/wiki/Marc_Davis_(animator)",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1374059112",
+      "quote": "Marc Fraser Davis (March 30, 1913 – January 12, 2000) was an American artist and animator who was one of Disney's Nine Old Men, the core animators of Disney animated films. After his work on One Hundred and One Dalmatians he moved to Walt Disney Imagineering to work on rides for Disneyland ... Davis was born in Bakersfield, California, on March 30, 1913. ... Tinker Bell and Mrs. Darling from Peter Pan (1953) Aurora, Maleficent and Diablo the Raven from Sleeping Beauty (1959) Cruella de Vil and Anita from 101 Dalmatians (1961) ... Pirates of the Caribbean (1967) The Haunted Mansion (1969) ... He's my Renaissance man."
+    }
+  },
+  "topics": [
+    "people",
+    "art",
+    "film"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2000",
+  "themeKeys": [
+    "marc davis",
+    "disney",
+    "nine old men",
+    "bakersfield"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

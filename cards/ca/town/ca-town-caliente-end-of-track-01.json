@@ -1,0 +1,75 @@
+{
+  "id": "ca-town-caliente-end-of-track-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Caliente"
+  },
+  "title": "The end of the track",
+  "text": "Caliente was the end of the railroad for about sixteen months in the 1870s, while crews cut a line up over Tehachapi Pass. A force of up to three thousand men, most of them Chinese, did the heavy work on the mountain above the town.",
+  "sentences": [
+    {
+      "text": "Caliente was the end of the railroad for about sixteen months in the 1870s, while crews cut a line up over Tehachapi Pass.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A force of up to three thousand men, most of them Chinese, did the heavy work on the mountain above the town.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "#0757 Caliente, California State Historical Landmarks",
+      "url": "https://landmarkquest.com/omeka/items/show/439",
+      "publisher": "LandmarkQuest",
+      "retrieved": "2026-10-04",
+      "quote": "Originally known as Allen's Camp after Gabriel Allen, who in the 1870s had a cabin and stock pasture near here, the settlement was named Caliente when railroad construction reached this point in April 1875. The town became a railroad terminal for about 16 months while a force of up to three thousand men, most of them Chinese, labored on the heavy railroad construction on the mountain."
+    },
+    "s2": {
+      "title": "Tehachapi Pass Railroad Line, National Historic Civil Engineering Landmark",
+      "url": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/tehachapi-pass-railroad-line",
+      "publisher": "American Society of Civil Engineers",
+      "retrieved": "2026-10-04",
+      "quote": "The Tehachapi Pass Railroad Line was cut through solid and decomposed granite by about 3,000 Chinese laborers using nothing more than picks, shovels, horse drawn carts, and blasting powder."
+    }
+  },
+  "topics": [
+    "railroads",
+    "history",
+    "labor"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": "1875",
+  "themeKeys": [
+    "caliente",
+    "tehachapi grade",
+    "chinese railroad workers",
+    "southern pacific"
+  ],
+  "followOn": [
+    "ca-sight-tehachapi-loop-three-thousand-workers-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.291111,
+    "lon": -118.627778,
+    "radiusMeters": 8000,
+    "name": "Caliente",
+    "source": "https://en.wikipedia.org/wiki/Caliente,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 1
+  }
+}

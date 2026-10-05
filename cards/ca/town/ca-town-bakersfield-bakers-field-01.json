@@ -1,0 +1,85 @@
+{
+  "id": "ca-town-bakersfield-bakers-field-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "Named after a field",
+  "text": "Bakersfield is named after one man's field. Thomas Baker, a lawyer and a former colonel in the Ohio militia, moved to the banks of the Kern River in 1863, and the place became known as Baker's Field, a stopover for travelers. By 1870 it was becoming the principal town in Kern County. The memorial to Baker at city hall carries his motto: time will justify a man who means to do right.",
+  "sentences": [
+    {
+      "text": "Bakersfield is named after one man's field.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Thomas Baker, a lawyer and a former colonel in the Ohio militia, moved to the banks of the Kern River in 1863, and the place became known as Baker's Field, a stopover for travelers.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "By 1870 it was becoming the principal town in Kern County.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The memorial to Baker at city hall carries his motto: time will justify a man who means to do right.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Bakersfield, California",
+      "url": "https://en.wikipedia.org/wiki/Bakersfield,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1376434309",
+      "quote": "Thomas Baker, a lawyer and former colonel in the militia of Ohio, his home state. Baker moved to the banks of the Kern River in 1863, at what became known as Baker's Field, which became a stopover for travelers. By 1870, with a population of 600, what is now known as Bakersfield was becoming the principal town in Kern County."
+    },
+    "s2": {
+      "title": "California Historical Landmarks in Kern County",
+      "url": "https://ohp.parks.ca.gov/?page_id=21423",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-04",
+      "quote": "NO. 382 COLONEL THOMAS BAKER MEMORIAL - In 1863 Colonel Baker, friend to all travelers, came here to found 'Bakers Field.' His motto was, 'Time will justify a man who means to do right.' ... Location: City Hall, SW corner of Truxtun and Chester Aves, Bakersfield"
+    }
+  },
+  "topics": [
+    "names",
+    "history",
+    "people"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1870",
+  "themeKeys": [
+    "thomas baker",
+    "bakersfield",
+    "place names",
+    "kern river"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

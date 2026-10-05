@@ -1,0 +1,104 @@
+{
+  "id": "ca-town-bakersfield-okie-camp-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "Where the Dust Bowl ended up",
+  "text": "Bakersfield, a town known mainly for agriculture and oil, was the destination for many Dust Bowl migrants and others from Oklahoma, Texas, Arkansas and parts of the Midwest. A federal camp for them stood at Weedpatch, {distance} from here, with running water for showers, bathrooms and laundry rooms, and wooden platforms for tents. John Steinbeck put the Joad family there in The Grapes of Wrath, and dedicated the book to the camp's administrator, Tom Collins. Three buildings from the camp are still standing: the community hall, the post office and the library.",
+  "sentences": [
+    {
+      "text": "Bakersfield, a town known mainly for agriculture and oil, was the destination for many Dust Bowl migrants and others from Oklahoma, Texas, Arkansas and parts of the Midwest.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "A federal camp for them stood at Weedpatch, {distance} from here, with running water for showers, bathrooms and laundry rooms, and wooden platforms for tents.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "John Steinbeck put the Joad family there in The Grapes of Wrath, and dedicated the book to the camp's administrator, Tom Collins.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Three buildings from the camp are still standing: the community hall, the post office and the library.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Bakersfield sound",
+      "url": "https://en.wikipedia.org/wiki/Bakersfield_sound",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1367082682",
+      "quote": "The town, known mainly for agriculture and oil production, was the destination for many Dust Bowl migrants and others from Oklahoma, Texas, Arkansas, and parts of the Midwest."
+    },
+    "s2": {
+      "title": "Weedpatch Camp",
+      "url": "https://home.nps.gov/places/weedpatch-camp.htm",
+      "publisher": "National Park Service",
+      "retrieved": "2026-10-04",
+      "quote": "Arvin Federal Camp, near the town of Weedpatch, California, in 1935. With running water for showers, bathrooms, and laundry rooms, and wood platforms designated for tents ... John Steinbeck's The Grapes of Wrath, which features the Joad family's stay at Weedpatch Camp and is dedicated to the facility's administrator, Tom Collins."
+    },
+    "s3": {
+      "title": "Arvin Federal Government Camp",
+      "url": "https://en.wikipedia.org/wiki/Arvin_Federal_Government_Camp",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1372308346",
+      "quote": "Arvin Federal Government Camp, also known as the Weedpatch Camp or Sunset Labor Camp, was built by the Farm Security Administration south of Bakersfield, California ... There are three buildings remaining from the camp that make up this National Register of Historic Places property: the community hall, the post office, and the library."
+    }
+  },
+  "topics": [
+    "migration",
+    "history",
+    "agriculture",
+    "literature"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "dust bowl",
+    "weedpatch camp",
+    "grapes of wrath",
+    "okies",
+    "bakersfield"
+  ],
+  "followOn": [
+    "ca-sight-bakersfield-sound-the-sound-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "elsewhere": {
+    "name": "Weedpatch Camp",
+    "lat": 35.223056,
+    "lon": -118.905278,
+    "source": "https://en.wikipedia.org/wiki/Arvin_Federal_Government_Camp"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

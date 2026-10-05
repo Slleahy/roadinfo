@@ -1,0 +1,84 @@
+{
+  "id": "ca-town-bakersfield-dry-river-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "A river with no water in it",
+  "text": "The Kern River made Bakersfield, and for thirty miles through the city its bed is dry. The river built a broad plain here that once spread out into vast wetlands and seasonal lakes. Most of the flow is now taken off into canals for farms in the southern San Joaquin Valley, and it supplies the city's own water as well.",
+  "sentences": [
+    {
+      "text": "The Kern River made Bakersfield, and for thirty miles through the city its bed is dry.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The river built a broad plain here that once spread out into vast wetlands and seasonal lakes.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Most of the flow is now taken off into canals for farms in the southern San Joaquin Valley, and it supplies the city's own water as well.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Bakersfield, California",
+      "url": "https://en.wikipedia.org/wiki/Bakersfield,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1376434309",
+      "quote": "The Kern River created a fertile region consisting of a large alluvial plain, or inland delta, which once spread out into vast wetlands and seasonal lakes in the region. Most of the river's flow is now diverted into various canals for agricultural use in the southern San Joaquin Valley, and provides municipal water supplies to the City of Bakersfield and surrounding areas. Diverting the river's flow has left 30 miles (48 km) of the riverbed that runs through Bakersfield dry."
+    },
+    "s2": {
+      "title": "Kern River",
+      "url": "https://en.wikipedia.org/wiki/Kern_River",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1375917296",
+      "quote": "Diverting the river's flow has left 30 miles (48 km) of the riverbed that runs through Bakersfield dry. ... most of the river's flow is diverted into various canals for agricultural use in the southern San Joaquin Valley"
+    }
+  },
+  "topics": [
+    "water",
+    "rivers",
+    "agriculture"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "kern river",
+    "dry riverbed",
+    "canals",
+    "bakersfield water"
+  ],
+  "followOn": [
+    "ca-landscape-kern-river-valley-killer-kern-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

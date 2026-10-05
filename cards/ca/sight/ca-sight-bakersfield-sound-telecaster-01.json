@@ -1,0 +1,83 @@
+{
+  "id": "ca-sight-bakersfield-sound-telecaster-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.386,
+    "lon": -119.043,
+    "reachMeters": 10000,
+    "name": "The Bakersfield Sound"
+  },
+  "title": "Why it had to be a Telecaster",
+  "text": "The guitar behind the Bakersfield sound was the Fender Telecaster, and Buck Owens bought his first one in 1951, the year it came out. Its jangly treble could cut through the racket of booming bass drums. Nashville was going the other way at the time, toward warmer hollow-body guitars and syrupy strings.",
+  "sentences": [
+    {
+      "text": "The guitar behind the Bakersfield sound was the Fender Telecaster, and Buck Owens bought his first one in 1951, the year it came out.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Its jangly treble could cut through the racket of booming bass drums.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Nashville was going the other way at the time, toward warmer hollow-body guitars and syrupy strings.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "How Merle Haggard and Buck Owens Built the Bakersfield Sound",
+      "url": "https://www.altaonline.com/culture/music-podcasts/a69512114/bakersfield-sound-merle-haggard-buck-owens/",
+      "publisher": "Alta Journal",
+      "retrieved": "2026-10-04",
+      "quote": "the sacrosanct electric axe of Buck and Merle: the Fender Telecaster. ... the Telecaster possesses a jangly treble capable of cutting through the racket of booming bass drums and the chatter of hard-drinking dancers. For the most part, Nashville studio players kept to the warmer palette of hollow-body electrics. Owens bought his first Telecaster when it debuted in 1951. ... The city's \"countrypolitan\" aesthetic was all about bringing an easy-listening respectability to a rough rural genre through chaste background vocals, syrupy strings"
+    },
+    "s2": {
+      "title": "Bakersfield sound",
+      "url": "https://en.wikipedia.org/wiki/Bakersfield_sound",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "quote": "The music style features a raw set of twin Fender Telecasters",
+      "revision": "1367082682"
+    }
+  },
+  "topics": [
+    "music",
+    "instruments",
+    "culture"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1951",
+  "themeKeys": [
+    "fender telecaster",
+    "bakersfield sound",
+    "buck owens",
+    "nashville sound"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.386,
+    "lon": -119.043,
+    "radiusMeters": 10000,
+    "name": "Buck Owens Boulevard, Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Buck_Owens_Crystal_Palace"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

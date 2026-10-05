@@ -1,0 +1,81 @@
+{
+  "id": "ca-sight-lost-hills-oil-field-sinking-ground-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.615886,
+    "lon": -119.724706,
+    "reachMeters": 12000,
+    "name": "Lost Hills Oil Field"
+  },
+  "title": "The ground here is going down",
+  "text": "Taking the oil out from under this field has made the ground sink. The middle of the field has dropped as much as eight feet, and the field as a whole goes down about nine inches a year. Radar satellites watched parts of it fall more than an inch a month through 1995 and 1996.",
+  "sentences": [
+    {
+      "text": "Taking the oil out from under this field has made the ground sink.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The middle of the field has dropped as much as eight feet, and the field as a whole goes down about nine inches a year.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Radar satellites watched parts of it fall more than an inch a month through 1995 and 1996.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lost Hills, California Interferogram (PIA03458)",
+      "url": "https://www.jpl.nasa.gov/images/pia03458-lost-hills-california-interferogram/",
+      "publisher": "NASA Jet Propulsion Laboratory",
+      "retrieved": "2026-10-04",
+      "quote": "parts of the oil field were subsiding unusually rapidly, more than 3 centimeters (1.2 inches) a month, in 1995 and 1996"
+    },
+    "s2": {
+      "title": "Lost Hills Oil Field",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills_Oil_Field",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Portions of the hills overlying the oil field have subsided up to 8 feet (2.4 m) in the central region of operations, and subsidence occurs field-wide at a rate of about 9 inches (230 mm) per year."
+    }
+  },
+  "topics": [
+    "oil",
+    "geology",
+    "environment"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1996",
+  "themeKeys": [
+    "subsidence",
+    "lost hills oil field",
+    "interferometry",
+    "diatomite compaction"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.615886,
+    "lon": -119.724706,
+    "source": "https://en.wikipedia.org/wiki/Lost_Hills_Oil_Field",
+    "radiusMeters": 12000,
+    "name": "Lost Hills Oil Field"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

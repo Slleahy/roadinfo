@@ -1,0 +1,85 @@
+{
+  "id": "ca-landscape-southern-san-joaquin-valley-floor-endangered-animals-01",
+  "level": "landscape",
+  "anchor": {
+    "type": "unit",
+    "name": "Southern San Joaquin Valley floor"
+  },
+  "title": "The animals that had this floor first",
+  "text": "The San Joaquin kit fox, the blunt-nosed leopard lizard and three kinds of kangaroo rat live in this valley, and every one of them is listed as endangered. The natural land they depend on is generally down to less than five percent of what was once here, in scattered fragments. One federal recovery plan covers 34 species of plants and animals in this valley.",
+  "sentences": [
+    {
+      "text": "The San Joaquin kit fox, the blunt-nosed leopard lizard and three kinds of kangaroo rat live in this valley, and every one of them is listed as endangered.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The natural land they depend on is generally down to less than five percent of what was once here, in scattered fragments.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "One federal recovery plan covers 34 species of plants and animals in this valley.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Recovery Plan for Upland Species of the San Joaquin Valley, California: Executive Summary",
+      "url": "https://esrp.csustan.edu/publications/pubhtml.php?doc=sjvrp&file=execsum.html",
+      "publisher": "U.S. Fish and Wildlife Service, hosted by the Endangered Species Recovery Program",
+      "retrieved": "2026-10-04",
+      "quote": "This recovery plan covers 34 species of plants and animals that occur in the San Joaquin Valley of California."
+    },
+    "s2": {
+      "title": "Recovery Plan for Upland Species of the San Joaquin Valley, California: Executive Summary",
+      "url": "https://esrp.csustan.edu/publications/pubhtml.php?doc=sjvrp&file=execsum.html",
+      "publisher": "U.S. Fish and Wildlife Service, hosted by the Endangered Species Recovery Program",
+      "retrieved": "2026-10-04",
+      "quote": "five endangered animals (giant kangaroo rat, Fresno kangaroo rat, Tipton kangaroo rat, blunt-nosed leopard lizard, and San Joaquin kit fox)"
+    },
+    "s3": {
+      "title": "Recovery Plan for Upland Species of the San Joaquin Valley, California: Executive Summary",
+      "url": "https://esrp.csustan.edu/publications/pubhtml.php?doc=sjvrp&file=execsum.html",
+      "publisher": "U.S. Fish and Wildlife Service, hosted by the Endangered Species Recovery Program",
+      "retrieved": "2026-10-04",
+      "quote": "The remaining natural communities (generally less than 5 percent of historical values) are highly fragmented"
+    }
+  },
+  "topics": [
+    "wildlife",
+    "conservation",
+    "ecology"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "san joaquin kit fox",
+    "blunt-nosed leopard lizard",
+    "giant kangaroo rat",
+    "endangered species"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.40056,
+    "lon": -119.46944,
+    "source": "https://en.wikipedia.org/wiki/Buttonwillow,_California",
+    "radiusMeters": 45000,
+    "name": "Southern San Joaquin Valley floor"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

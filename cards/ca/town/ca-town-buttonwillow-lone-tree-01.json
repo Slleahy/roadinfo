@@ -1,0 +1,111 @@
+{
+  "id": "ca-town-buttonwillow-lone-tree-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Buttonwillow"
+  },
+  "title": "The one tree the town is named for",
+  "text": "Buttonwillow is named for a single buttonbush tree that stood as a landmark on an old trail across the valley. The tree was an ancient Yokuts meeting place, and later the spot where settlers held their stock rodeos. Miller and Lux, one of the largest landowners in California, put their headquarters and store here about 1885. The tree has been a California historical landmark since 1951.",
+  "sentences": [
+    {
+      "text": "Buttonwillow is named for a single buttonbush tree that stood as a landmark on an old trail across the valley.",
+      "sources": [
+        "s3",
+        "s1"
+      ]
+    },
+    {
+      "text": "The tree was an ancient Yokuts meeting place, and later the spot where settlers held their stock rodeos.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "Miller and Lux, one of the largest landowners in California, put their headquarters and store here about 1885.",
+      "sources": [
+        "s3",
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "The tree has been a California historical landmark since 1951.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Buttonwillow, California",
+      "url": "https://en.wikipedia.org/wiki/Buttonwillow,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Buttonwillow was named for the buttonbush (Cephalanthus occidentalis)."
+    },
+    "s2": {
+      "title": "Buttonwillow Tree, California Historical Landmark 492",
+      "url": "https://ohp.parks.ca.gov/ListedResources/Detail/492",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-04",
+      "quote": "Registration Date: 10/8/1951 Location: Buttonwillow County: Kern Directions: On Buttonwillow Dr, 0.5 mi N of State Hwy 58, Buttonwillow"
+    },
+    "s3": {
+      "title": "Buttonwillow Tree, California Historical Landmark 492",
+      "url": "https://ohp.parks.ca.gov/ListedResources/Detail/492",
+      "publisher": "California Office of Historic Preservation",
+      "retrieved": "2026-10-04",
+      "quote": "This lone tree, which gave the town of Buttonwillow its name, served as a landmark on an old trans-valley trail. An ancient Yokuts Indian meeting place, it later became the site of settlers' stock rodeos. Miller and Lux established their headquarters and store here about 1885."
+    },
+    "s4": {
+      "title": "Henry Miller (rancher)",
+      "url": "https://en.wikipedia.org/wiki/Henry_Miller_(rancher)",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The Miller and Lux company ... soon became the largest producer of cattle in California and one of the largest landowners in the United States"
+    },
+    "s5": {
+      "title": "Charles Lux",
+      "url": "https://en.wikipedia.org/wiki/Charles_Lux",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "quote": "Charles Lux (December 28, 1823 – March 15, 1887) was a businessman-rancher and (with his partner Henry Miller) one of the largest landowners in California."
+    }
+  },
+  "topics": [
+    "history",
+    "names",
+    "ranching"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1951",
+  "themeKeys": [
+    "buttonwillow",
+    "buttonbush",
+    "yokuts",
+    "miller and lux",
+    "california historical landmark 492"
+  ],
+  "followOn": [
+    "ca-sight-tule-elk-reserve-last-elk-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.40056,
+    "lon": -119.46944,
+    "source": "https://en.wikipedia.org/wiki/Buttonwillow,_California",
+    "radiusMeters": 10000,
+    "name": "Buttonwillow"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

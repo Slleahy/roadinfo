@@ -1,0 +1,110 @@
+{
+  "id": "ca-sight-california-aqueduct-canal-beside-the-road-01",
+  "level": "sight",
+  "anchor": {
+    "type": "point",
+    "lat": 35.61639,
+    "lon": -119.69417,
+    "reachMeters": 20000,
+    "name": "California Aqueduct"
+  },
+  "title": "The canal running beside the road",
+  "text": "The big concrete canal running beside Interstate 5 through this part of the valley is the California Aqueduct, and the town of Lost Hills stands on its east bank. It is the main work of the California State Water Project, and it serves about 35 million people and 5.7 million acres of farmland. A typical stretch is 40 feet across at the bottom, with the water about 30 feet deep. Altogether it runs 444 miles.",
+  "sentences": [
+    {
+      "text": "The big concrete canal running beside Interstate 5 through this part of the valley is the California Aqueduct, and the town of Lost Hills stands on its east bank.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "It is the main work of the California State Water Project, and it serves about 35 million people and 5.7 million acres of farmland.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "A typical stretch is 40 feet across at the bottom, with the water about 30 feet deep.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Altogether it runs 444 miles.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California Aqueduct",
+      "url": "https://en.wikipedia.org/wiki/California_Aqueduct",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Total: 444 mi (715 km)"
+    },
+    "s2": {
+      "title": "California Aqueduct",
+      "url": "https://en.wikipedia.org/wiki/California_Aqueduct",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "A typical section has a concrete-lined channel 40 feet (12 m) at the base and an average water depth of about 30 ft (9.1 m)."
+    },
+    "s3": {
+      "title": "California Aqueduct",
+      "url": "https://en.wikipedia.org/wiki/California_Aqueduct",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "the over 400-mile (640 km) aqueduct is the principal feature of the California State Water Project ... The aqueduct serves 35 million people and 5.7 million acres of farmland"
+    },
+    "s4": {
+      "title": "Interstate 5 in California",
+      "url": "https://en.wikipedia.org/wiki/Interstate_5_in_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "For most of this section, the Path 15 electrical transmission corridor follows the highway, forming an infrastructure corridor along with the California Aqueduct."
+    },
+    "s5": {
+      "title": "Lost Hills, California",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Lost Hills stands on the east bank of the California Aqueduct"
+    }
+  },
+  "topics": [
+    "water",
+    "engineering",
+    "infrastructure"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "california aqueduct",
+    "state water project",
+    "interstate 5"
+  ],
+  "followOn": [
+    "ca-sight-california-aqueduct-over-the-tehachapis-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.61639,
+    "lon": -119.69417,
+    "source": "https://en.wikipedia.org/wiki/Lost_Hills,_California",
+    "radiusMeters": 20000,
+    "name": "California Aqueduct near Lost Hills"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

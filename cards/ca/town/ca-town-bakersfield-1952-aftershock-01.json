@@ -1,0 +1,81 @@
+{
+  "id": "ca-town-bakersfield-1952-aftershock-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Bakersfield"
+  },
+  "title": "The aftershock that finished downtown",
+  "text": "The great earthquake of July 21, 1952 broke windows across Bakersfield, brought down plaster and damaged the county jail. Then on August 22 came the strongest aftershock, magnitude 5.8. Damage was especially heavy to brick buildings, and of 264 buildings that shock damaged, 90 had to be brought down completely. The city was still dealing with the unreinforced masonry left downtown well into the 1990s.",
+  "sentences": [
+    {
+      "text": "The great earthquake of July 21, 1952 broke windows across Bakersfield, brought down plaster and damaged the county jail.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Then on August 22 came the strongest aftershock, magnitude 5.8.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Damage was especially heavy to brick buildings, and of 264 buildings that shock damaged, 90 had to be brought down completely.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The city was still dealing with the unreinforced masonry left downtown well into the 1990s.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "1952 Kern County earthquake",
+      "url": "https://en.wikipedia.org/wiki/1952_Kern_County_earthquake",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "In Bakersfield, windows were broken and dislodged plaster littered residential and commercial districts, and the county jail was damaged. ... The strongest aftershock in the sequence came on August 22 as a magnitude 5.8 event ... Damage was especially heavy to brick buildings in Bakersfield, and although only a few buildings collapsed outright, 90 of 264 buildings that the shock damaged needed to be brought down completely. ... Repercussions of the sequence of earthquakes were still being felt in the heavily damaged downtown area of Bakersfield well into the 1990s as city leaders attempted to improve safety of the surviving unreinforced masonry buildings."
+    }
+  },
+  "topics": [
+    "earthquakes",
+    "disasters",
+    "history"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": "1952",
+  "themeKeys": [
+    "1952 kern county earthquake",
+    "aftershock",
+    "bakersfield downtown",
+    "unreinforced masonry"
+  ],
+  "followOn": [
+    "ca-town-tehachapi-1952-earthquake-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.373333,
+    "lon": -119.018889,
+    "radiusMeters": 15000,
+    "name": "Bakersfield",
+    "source": "https://en.wikipedia.org/wiki/Bakersfield,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

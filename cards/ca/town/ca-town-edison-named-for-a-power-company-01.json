@@ -1,0 +1,66 @@
+{
+  "id": "ca-town-edison-named-for-a-power-company-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Edison"
+  },
+  "title": "A town named after a power company",
+  "text": "Edison was called Wade until a power company turned up. The Edison Electric Company built a substation on the site in 1902, and when the Southern Pacific Railroad arrived at Wade in 1903 it changed the name to Edison.",
+  "sentences": [
+    {
+      "text": "Edison was called Wade until a power company turned up.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Edison Electric Company built a substation on the site in 1902, and when the Southern Pacific Railroad arrived at Wade in 1903 it changed the name to Edison.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Edison, California",
+      "url": "https://en.wikipedia.org/wiki/Edison,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1374307235",
+      "quote": "Edison (formerly, Wade) ... In 1902, the Edison Electric Company built a substation on the site. The Southern Pacific Railroad arrived at Wade in 1903, and changed the name to Edison."
+    }
+  },
+  "topics": [
+    "names",
+    "history",
+    "electricity"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1903",
+  "themeKeys": [
+    "edison",
+    "wade",
+    "edison electric company",
+    "place names"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.347306,
+    "lon": -118.869825,
+    "radiusMeters": 8000,
+    "name": "Edison",
+    "source": "https://en.wikipedia.org/wiki/Edison,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

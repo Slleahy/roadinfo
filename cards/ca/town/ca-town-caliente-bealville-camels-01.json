@@ -1,0 +1,92 @@
+{
+  "id": "ca-town-caliente-bealville-camels-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Caliente"
+  },
+  "title": "The man Bealville is named for kept camels",
+  "text": "Caliente still sits on the railroad, where trains climb toward the Tehachapi summit eastbound or run down toward Bakersfield westbound. Bealville, {distance} from here on the same line, is named for Edward Fitzgerald Beale, who served in the United States Army and as Superintendent of Indian Affairs for California and Nevada. In 1857 President Buchanan sent Beale to survey a wagon road to the Colorado River, and the trip doubled as an experiment with camels imported from Tunis as pack animals. The camels could travel for days without water and carried much heavier loads than mules, but they scared horses and mules, and the Army declined to continue.",
+  "sentences": [
+    {
+      "text": "Caliente still sits on the railroad, where trains climb toward the Tehachapi summit eastbound or run down toward Bakersfield westbound.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Bealville, {distance} from here on the same line, is named for Edward Fitzgerald Beale, who served in the United States Army and as Superintendent of Indian Affairs for California and Nevada.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 1857 President Buchanan sent Beale to survey a wagon road to the Colorado River, and the trip doubled as an experiment with camels imported from Tunis as pack animals.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The camels could travel for days without water and carried much heavier loads than mules, but they scared horses and mules, and the Army declined to continue.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Caliente, California",
+      "url": "https://en.wikipedia.org/wiki/Caliente,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1378562198",
+      "quote": "Trains climb toward the Tehachapi summit eastbound or descend toward Bakersfield if westbound. ... Bealville is a district about one mile (1.6 km) to the south toward SR58 and along Caliente-Bodfish Road. It is named for Edward Fitzgerald Beale who served in the US Army, and also as Superintendent of Indian Affairs for California and Nevada."
+    },
+    "s2": {
+      "title": "Edward Fitzgerald Beale",
+      "url": "https://en.wikipedia.org/wiki/Edward_Fitzgerald_Beale",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "revision": "1369776892",
+      "quote": "In 1857, President James Buchanan appointed Beale to survey and build a wagon road from Fort Defiance, Arizona to the Colorado River ... The survey also incorporated an experiment for the Army using camels ... Beale used camels from the Camel Corps imported from Tunis as pack animals ... The camels were capable of traveling for days without water, carried much heavier loads than mules, and could thrive on forage that mules wouldn't touch. But the camels scared horses and mules, and the Army declined to continue the experiment with camels."
+    }
+  },
+  "topics": [
+    "names",
+    "history",
+    "people"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 5,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "1857",
+  "themeKeys": [
+    "bealville",
+    "edward beale",
+    "us camel corps",
+    "caliente"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.291111,
+    "lon": -118.627778,
+    "radiusMeters": 8000,
+    "name": "Caliente",
+    "source": "https://en.wikipedia.org/wiki/Caliente,_California"
+  },
+  "elsewhere": {
+    "name": "Bealville",
+    "lat": 35.271917,
+    "lon": -118.626217,
+    "source": "https://en.wikipedia.org/wiki/California_Historical_Landmarks_in_Kern_County"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

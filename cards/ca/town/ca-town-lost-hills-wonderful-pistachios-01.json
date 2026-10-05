@@ -1,0 +1,88 @@
+{
+  "id": "ca-town-lost-hills-wonderful-pistachios-01",
+  "level": "town",
+  "anchor": {
+    "type": "place",
+    "name": "Lost Hills"
+  },
+  "title": "The town pistachios built",
+  "text": "The Wonderful Company, a major employer in Lost Hills, grew between 15 and 20 percent of the pistachio crop of the United States as of 2024, with most of it sold to China. Paramount Farms, which the same owners set up in 1989 to grow pistachios and almonds, built a new park and housing development in Lost Hills in the early 2000s.",
+  "sentences": [
+    {
+      "text": "The Wonderful Company, a major employer in Lost Hills, grew between 15 and 20 percent of the pistachio crop of the United States as of 2024, with most of it sold to China.",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    },
+    {
+      "text": "Paramount Farms, which the same owners set up in 1989 to grow pistachios and almonds, built a new park and housing development in Lost Hills in the early 2000s.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Lost Hills, California",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Paramount Farms built a new park and housing development in Lost Hills in the early 2000s."
+    },
+    "s2": {
+      "title": "Lost Hills, California",
+      "url": "https://en.wikipedia.org/wiki/Lost_Hills,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "The Wonderful Company is a major employer of Lost Hills residents."
+    },
+    "s3": {
+      "title": "The Wonderful Company",
+      "url": "https://en.wikipedia.org/wiki/The_Wonderful_Company",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "In 1989, the Resnicks formed Paramount Farms to begin growing and harvesting pistachios and almonds in California's Central Valley."
+    },
+    "s4": {
+      "title": "The Wonderful Company",
+      "url": "https://en.wikipedia.org/wiki/The_Wonderful_Company",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-04",
+      "quote": "Wonderful grows between 15% and 20% of the U.S. pistachio crop as of 2024, with most of it being exported to China."
+    }
+  },
+  "topics": [
+    "agriculture",
+    "business",
+    "water"
+  ],
+  "scores": {
+    "relevance": 5,
+    "interest": 4,
+    "confidence": 3
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "the wonderful company",
+    "paramount farms",
+    "pistachios",
+    "lost hills"
+  ],
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.61639,
+    "lon": -119.69417,
+    "source": "https://en.wikipedia.org/wiki/Lost_Hills,_California",
+    "radiusMeters": 8000,
+    "name": "Lost Hills"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}
