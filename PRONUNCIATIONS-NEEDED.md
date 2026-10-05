@@ -7,14 +7,8 @@ Workflow: add the ones you are sure of to the app's `RoadSavant/Resources/Pronun
 then hand what is left to the owner, who will find or phone someone who says the word.
 Never invent a pronunciation. If a word cannot be sourced, rewrite the sentence without it.
 
-7 words across 203 cards.
+1 words across 203 cards.
 
 | Word | Cards | Example card | Say it how? |
 |---|---|---|---|
-| Scodie | 3 | `ca-stretch-ca178-freeman-junction-walker-pass-kiavah-wilderness-01` |  |
-| Nüwa | 1 | `ca-kern-county-kawaiisu-01` |  |
-| Walong | 1 | `ca-sight-tehachapi-loop-still-working-track-01` |  |
-| Kiavah | 1 | `ca-stretch-ca178-freeman-junction-walker-pass-kiavah-wilderness-01` |  |
-| Tehichipa | 1 | `ca-town-tehachapi-railroad-moved-the-town-01` |  |
-| Errea | 1 | `ca-town-tehachapi-railroad-moved-the-town-01` |  |
 | Tomo-Kahni | 1 | `ca-town-tehachapi-tomo-kahni-01` |  |

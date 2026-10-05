@@ -174,6 +174,12 @@ warm, specific, and never padded.
   someone who says it. Never invent a pronunciation, and never spell a name with colons or
   other marks that a voice will read aloud ("A:shiwi"). If a term cannot be sourced, write the
   sentence without it.
+- **Leave the old spelling alone.** A place's archaic or historical name goes in only when it
+  carries the story. "Monolith was called Aqueduct until Mulholland renamed it" earns its place:
+  the old name is the point, and it ties the plant to the aqueduct. "Williams named it for
+  himself before it became Tehichipa" does not — the old spelling is decoration, and it hands
+  the voice a word nobody can pronounce in exchange for nothing. Ask what the sentence loses if
+  the old name comes out. If the answer is nothing, take it out.
 - **Plain words.** A passenger is not a geologist. Explain a technical term in a few plain
   words the first time ("rhyolite, a pale volcanic rock"), or say the idea without it. Leave
   out formation names, epoch names, and units like kilometers unless they carry the story;
