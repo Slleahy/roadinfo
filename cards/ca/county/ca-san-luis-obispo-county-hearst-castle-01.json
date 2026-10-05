@@ -1,0 +1,114 @@
+{
+  "id": "ca-san-luis-obispo-county-hearst-castle-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "The castle at the end of Highway 46",
+  "text": "Highway 46 crosses San Luis Obispo County all the way to the coast, ending at Highway 1 near Cambria, about a mile from the Pacific. On that coast, {distance} from here, Hearst Castle stands on a hill above San Simeon. The publisher William Randolph Hearst and the architect Julia Morgan began it in 1919, and work went on until 1947. Its main house alone has 115 rooms, and guests included Calvin Coolidge, Winston Churchill and Charlie Chaplin. The Hearst family gave the castle to the State of California in 1958, and it is now a state park open for tours.",
+  "sentences": [
+    {
+      "text": "Highway 46 crosses San Luis Obispo County all the way to the coast, ending at Highway 1 near Cambria, about a mile from the Pacific.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "On that coast, {distance} from here, Hearst Castle stands on a hill above San Simeon.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "The publisher William Randolph Hearst and the architect Julia Morgan began it in 1919, and work went on until 1947.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Its main house alone has 115 rooms, and guests included Calvin Coolidge, Winston Churchill and Charlie Chaplin.",
+      "sources": [
+        "s3",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Hearst family gave the castle to the State of California in 1958, and it is now a state park open for tours.",
+      "sources": [
+        "s2",
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "California State Route 46",
+      "url": "https://en.wikipedia.org/wiki/California_State_Route_46",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1374511198",
+      "quote": "State Route 46 begins at SR 1 southeast of Cambria, about one mile (1.6 km) from the Pacific Ocean."
+    },
+    "s2": {
+      "title": "Hearst Castle",
+      "url": "https://en.wikipedia.org/wiki/Hearst_Castle",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1371505759",
+      "quote": "Hearst Castle, known formally as La Cuesta Encantada (Spanish for 'The Enchanted Hill'), is a historic estate in San Simeon, located on the Central Coast of California. Conceived by William Randolph Hearst, the publishing tycoon, and his architect Julia Morgan, the castle was built between 1919 and 1947. Today, Hearst Castle is a museum open to the public as a California State Park ... Political luminaries encompassed Calvin Coolidge and Winston Churchill ... The following year, the Hearst family gave the castle and many of its contents to the State of California and the mansion was opened to the public in June 1958."
+    },
+    "s3": {
+      "title": "Hearst San Simeon State Historical Monument",
+      "url": "https://www.parks.ca.gov/?page_id=591",
+      "publisher": "California Department of Parks and Recreation",
+      "retrieved": "2026-10-05",
+      "quote": "La Cuesta Encantada, \"The Enchanted Hill\" high above the ocean at San Simeon, was conceived by two extraordinary individuals, William Randolph Hearst and architect Julia Morgan. Their collaboration, which began in 1919 and continued for nearly 30 years, transformed an informal hilltop campsite into the world-famous estate best known as Hearst Castle -- a magnificent 115-room main house plus guesthouses, pools, and 8 acres of cultivated gardens. ... Guests included President Calvin Coolidge, Winston Churchill, George Bernard Shaw, Charlie Chaplin"
+    },
+    "s4": {
+      "title": "San Luis Obispo County, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378174865",
+      "quote": "William Randolph Hearst and architect Julia Morgan developed Hearst Castle above San Simeon between 1919 and 1947. The estate was given to the state in 1958."
+    }
+  },
+  "topics": [
+    "history",
+    "architecture",
+    "coast"
+  ],
+  "scores": {
+    "relevance": 2,
+    "interest": 5,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "hearst castle",
+    "william randolph hearst",
+    "julia morgan",
+    "san simeon",
+    "highway 46"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "elsewhere": {
+    "name": "Hearst Castle",
+    "lat": 35.68527778,
+    "lon": -121.16777778,
+    "source": "https://en.wikipedia.org/wiki/Hearst_Castle"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ca-san-luis-obispo-county-land-ownership-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "Who owns the land",
+  "text": "Nearly three quarters of San Luis Obispo County is private land, or land not listed as protected, as of 2024. The Bureau of Land Management has the biggest public share, about 11 percent of the county, run from its Bakersfield Field Office. Los Padres National Forest covers about 8 percent. The state's Carrizo Plains Ecological Reserve covers nearly 2 percent, and Camp Roberts, the National Guard training post, about 1 percent.",
+  "sentences": [
+    {
+      "text": "Nearly three quarters of San Luis Obispo County is private land, or land not listed as protected, as of 2024.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Bureau of Land Management has the biggest public share, about 11 percent of the county, run from its Bakersfield Field Office.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Los Padres National Forest covers about 8 percent.",
+      "sources": [
+        "s3"
+      ]
+    },
+    {
+      "text": "The state's Carrizo Plains Ecological Reserve covers nearly 2 percent, and Camp Roberts, the National Guard training post, about 1 percent.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "Share of county area by manager, San Luis Obispo County: BLM 10.6, USFS 8.2, SFW 2.4, NGO 1.4, DOD 1.3, SPR 0.9, CNTY 0.8 percent; private or unlisted 73.9 percent",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s2": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "Bakersfield Field Office, BLM: 10.6 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s3": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "Los Padres National Forest, USFS: 8.1 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s4": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "Carrizo Plains Ecological Reserve, SFW: 1.7 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    },
+    "s5": {
+      "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+      "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+      "publisher": "U.S. Geological Survey",
+      "retrieved": "2026-10-05",
+      "quote": "National Guard Maneuver Training Center - Heavy Camp Roberts, DOD: 1.1 percent of county",
+      "table": "PAD-US 4.1 Fee Managers (2024)"
+    }
+  },
+  "topics": [
+    "land",
+    "public lands",
+    "geography"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "land ownership",
+    "blm",
+    "national forest",
+    "camp roberts"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "id": "ca-san-luis-obispo-county-crops-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "Strawberries first, wine grapes second",
+  "text": "In 2024, for the fourth year in a row, the farm products of San Luis Obispo County were worth more than a billion dollars. Strawberries were the most valuable crop, wine grapes came second, and cattle and calves third. It was a hard year for wine grapes: their value fell 40 percent, with sales down for every variety.",
+  "sentences": [
+    {
+      "text": "In 2024, for the fourth year in a row, the farm products of San Luis Obispo County were worth more than a billion dollars.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "Strawberries were the most valuable crop, wine grapes came second, and cattle and calves third.",
+      "sources": [
+        "s1",
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "It was a hard year for wine grapes: their value fell 40 percent, with sales down for every variety.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "2024 Annual Crop Statistics Released",
+      "url": "https://www.slocounty.ca.gov/departments/agriculture-weights-and-measures/department-news/2024-annual-crop-statistics-released",
+      "publisher": "County of San Luis Obispo, Department of Agriculture/Weights and Measures",
+      "retrieved": "2026-10-05",
+      "quote": "Total value for San Luis Obispo County agriculture exceeded $1 billion for the fourth consecutive year ... The top ten commodities by value in 2024 were: 1. Strawberries 2. Wine Grapes 3. Cattle and Calves ... winegrapes faced a 40% decline in value due to reduced sales across all varietals.",
+      "table": "San Luis Obispo County Annual Crop Report 2024"
+    },
+    "s2": {
+      "title": "San Luis Obispo County, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378174865",
+      "quote": "Strawberries and wine grapes were the county’s first- and second-largest agricultural crops by value in 2024."
+    },
+    "s3": {
+      "title": "Annual Crop Report 2024, County of San Luis Obispo",
+      "url": "https://www.slocounty.ca.gov/departments/agriculture-weights-and-measures/all-forms-documents/information/crop-report/crop-report-current/crop-report-2024",
+      "publisher": "County of San Luis Obispo, Department of Agriculture/Weights and Measures",
+      "retrieved": "2026-10-05",
+      "table": "San Luis Obispo County Annual Crop Report 2024, Top 10 Crops table",
+      "quote": "The overall crop value decreased by 8% to $1,015,871,000 compared to that of 2023. Despite the decrease, this is the fourth consecutive year where overall commodity values exceeded the billion-dollar mark ... 1 Strawberries $242,370,000 ... 2 Wine Grapes all $194,981,000 ... 3 Cattle and Calves $65,531,000 ... winegrapes experienced a decline from that of previous years, with a drop in gross value of 40% across all varietals."
+    }
+  },
+  "topics": [
+    "agriculture",
+    "economy",
+    "wine"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2024",
+  "themeKeys": [
+    "crop value",
+    "strawberries",
+    "wine grapes",
+    "cattle"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

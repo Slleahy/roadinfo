@@ -1,0 +1,101 @@
+{
+  "id": "ca-san-luis-obispo-county-mission-san-miguel-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "Murals never repainted",
+  "text": "Mission San Miguel Arcángel, on the Salinas River in the town of San Miguel, was founded on July 25, 1797, the sixteenth of California's missions. The Spanish built it beside a large Salinan village, on the road between Mission San Antonio and Mission San Luis Obispo. Its church was finished in 1818, and Salinan artists painted the walls inside under Esteban Munras, of Monterey. Those murals have never been retouched or repainted. The 2003 San Simeon earthquake closed the church for six years, and it reopened in 2009.",
+  "sentences": [
+    {
+      "text": "Mission San Miguel Arcángel, on the Salinas River in the town of San Miguel, was founded on July 25, 1797, the sixteenth of California's missions.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Spanish built it beside a large Salinan village, on the road between Mission San Antonio and Mission San Luis Obispo.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Its church was finished in 1818, and Salinan artists painted the walls inside under Esteban Munras, of Monterey.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Those murals have never been retouched or repainted.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The 2003 San Simeon earthquake closed the church for six years, and it reopened in 2009.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mission San Miguel Arcàngel: Home of Indigenous Salinan Art",
+      "url": "https://www.nps.gov/articles/000/mission-san-miguel-arc%C3%A0ngel-ca.htm",
+      "publisher": "U.S. National Park Service",
+      "retrieved": "2026-10-05",
+      "quote": "Mission San Miguel Arcàngel was the 16th mission founded in the 21 mission chain and is today a National Historic Landmark. A unique feature of this mission is that its interior wall murals, originally painted in the 1800s by Salinan Native Americans who converted to Catholicism, have never been retouched or repainted. ... Father Fermin Francisco de Lasuén founded Mission San Miguel Arcàngel on July 25, 1797. The Spanish selected Mission San Miguel’s location along the Salinas River to ease travel between Mission San Antonio and Mission San Luis Obispo. ... The road ran right next to a large Salinan Indian village. ... by 1818, the new church ... was finished. Monterey’s Esteban Munras designed and had completed the interior murals with the help of the Salinan people by 1821."
+    },
+    "s2": {
+      "title": "Mission San Miguel Arcángel",
+      "url": "https://en.wikipedia.org/wiki/Mission_San_Miguel_Arc%C3%A1ngel",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1367607146",
+      "quote": "Nicknames \"Mission on the Highway\" ... \"The Unretouched Mission\" ... After being closed to the public for six years due to the 2003 San Simeon earthquake, the church reopened on September 29, 2009. ... Father Fermín Lasuén and Father Buenaventura Sitjar founded the mission on July 25, 1797, making it the sixteenth California mission. Its location between Mission San Luis Obispo and Mission San Antonio de Padua provided a stop on the trip that had previously taken two days. ... The site was chosen as it was close to a Salinan Indian village called Vahca. ... The painted walls inside the church are the original artwork by artist Esteban Munras and other Salinan artists."
+    }
+  },
+  "topics": [
+    "history",
+    "missions",
+    "salinan",
+    "art"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "mission san miguel",
+    "salinan",
+    "murals",
+    "1797"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [
+    "ca-san-luis-obispo-county-salinan-01"
+  ],
+  "direction": null,
+  "near": {
+    "lat": 35.74472222,
+    "lon": -120.69805556,
+    "radiusMeters": 40000,
+    "name": "Mission San Miguel Arcángel",
+    "source": "https://en.wikipedia.org/wiki/Mission_San_Miguel_Arc%C3%A1ngel"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

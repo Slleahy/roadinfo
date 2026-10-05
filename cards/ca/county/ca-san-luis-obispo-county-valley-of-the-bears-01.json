@@ -1,0 +1,118 @@
+{
+  "id": "ca-san-luis-obispo-county-valley-of-the-bears-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "The bears that fed Monterey",
+  "text": "In 1769 the first Spanish land expedition through what is now San Luis Obispo County passed a valley its soldiers named for bears. In 1772, the story goes, the Spanish at Monterey were running out of food, and Pedro Fages led a bear hunt there that helped feed them. The hunt's success is said to have led Junípero Serra to choose the area for a mission. On September 1, 1772, he founded Mission San Luis Obispo de Tolosa, {distance} from here, and it still stands at the center of downtown San Luis Obispo.",
+  "sentences": [
+    {
+      "text": "In 1769 the first Spanish land expedition through what is now San Luis Obispo County passed a valley its soldiers named for bears.",
+      "sources": [
+        "s1",
+        "s2",
+        "s5"
+      ]
+    },
+    {
+      "text": "In 1772, the story goes, the Spanish at Monterey were running out of food, and Pedro Fages led a bear hunt there that helped feed them.",
+      "sources": [
+        "s2",
+        "s3",
+        "s5"
+      ]
+    },
+    {
+      "text": "The hunt's success is said to have led Junípero Serra to choose the area for a mission.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "On September 1, 1772, he founded Mission San Luis Obispo de Tolosa, {distance} from here, and it still stands at the center of downtown San Luis Obispo.",
+      "sources": [
+        "s1",
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Mission San Luis Obispo de Tolosa",
+      "url": "https://en.wikipedia.org/wiki/Mission_San_Luis_Obispo_de_Tolosa",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1367607125",
+      "quote": "Expedition diarist and Franciscan missionary Juan Crespí wrote that the soldiers called the place \"llano de los osos\", or the \"plain of the bears\". ... He decided to send a hunting expedition to San Luis Obispo to help feed the Spanish and neophytes (natives that converted to Christianity) in Monterey. The success of the hunting expedition caused Junípero Serra to consider building a mission in that area. ... on September 1, 1772, a cross was erected near San Luis Obispo Creek and Serra celebrated the first mass. ... The mission is the center of the busy downtown area"
+    },
+    "s2": {
+      "title": "San Luis Obispo, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378598760",
+      "quote": "On September 7, 1769, an expedition led by Gaspar de Portolá entered the San Luis Obispo area from coastal areas around today's Pismo Beach. One of the expedition's three diarists, padre Juan Crespí, recorded the name given to this area by the soldiers as Cañada de Los Osos ... In 1772, as the people of Presidio of Monterey and Mission San Carlos Borromeo de Carmelo faced starvation owing to a lack of supplies, Commander Pedro Fages, a member of the Portolá expedition, led a hunting expedition to la Cañada de los Osos (\"Bears Canyon\") to bring back food. Over twenty-five mule loads of dried bear meat and seed were sent north to relieve the missionaries, soldiers, and neophytes (baptized natives). After this, Junípero Serra decided that la Cañada de los Osos would be an ideal place for the fifth mission."
+    },
+    "s3": {
+      "title": "Pedro Fages, Social Studies Fact Cards: California Explorers",
+      "url": "https://factcards.califa.org/exp/fages.html",
+      "publisher": "Toucan Valley Publications, via California Library Association (califa)",
+      "retrieved": "2026-10-05",
+      "quote": "Indeed, one story tells that Fages organized a grizzly bear hunt near Mission San Luis Obispo, providing meat to feed those at the mission when they were facing starvation."
+    },
+    "s4": {
+      "title": "About the County",
+      "url": "https://slocounty.ca.gov/departments/board-of-supervisors/about-the-county",
+      "publisher": "County of San Luis Obispo",
+      "retrieved": "2026-10-05",
+      "quote": "the historic Mission San Luis Obispo Tolosa, founded in 1772, is another popular attraction."
+    },
+    "s5": {
+      "title": "Californians and the Military: Pedro Fages",
+      "url": "https://militarymuseum.org/Fages.html",
+      "publisher": "California State Military Museum",
+      "retrieved": "2026-10-05",
+      "quote": "In 1769 he accompanied the 1st land expedition from San Diego to Monterey. ... Pedro Fages gained the nickname, \"El Oso\" in 1772 while hunting bears for meat at San Luis Obispo."
+    }
+  },
+  "topics": [
+    "history",
+    "missions",
+    "wildlife"
+  ],
+  "scores": {
+    "relevance": 2,
+    "interest": 5,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "mission san luis obispo",
+    "grizzly bears",
+    "pedro fages",
+    "junipero serra",
+    "1772"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [
+    "ca-san-luis-obispo-county-formation-01"
+  ],
+  "direction": null,
+  "elsewhere": {
+    "name": "Mission San Luis Obispo de Tolosa",
+    "lat": 35.28055556,
+    "lon": -120.66444444,
+    "source": "https://en.wikipedia.org/wiki/Mission_San_Luis_Obispo_de_Tolosa"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

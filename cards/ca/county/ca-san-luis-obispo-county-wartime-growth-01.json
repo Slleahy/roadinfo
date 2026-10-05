@@ -1,0 +1,84 @@
+{
+  "id": "ca-san-luis-obispo-county-wartime-growth-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "The soldiers who stayed",
+  "text": "After World War II, veterans who had trained in San Luis Obispo County settled here. Camp San Luis Obispo, set up in 1927, expanded during the war, and Camp Roberts began training troops in March 1941. Cal Poly, which opened in 1903, drew others. To house them, farmland around the existing towns was turned into subdivisions.",
+  "sentences": [
+    {
+      "text": "After World War II, veterans who had trained in San Luis Obispo County settled here.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Camp San Luis Obispo, set up in 1927, expanded during the war, and Camp Roberts began training troops in March 1941.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Cal Poly, which opened in 1903, drew others.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "To house them, farmland around the existing towns was turned into subdivisions.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "San Luis Obispo County, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378174865",
+      "quote": "Camp San Luis Obispo, established in 1927, expanded during World War II. Camp Roberts began training troops in March 1941. ... After World War II, veterans who had trained locally settled in the county, and educational opportunities at Cal Poly attracted others. Housing demand led to the conversion of farmland around existing towns into residential subdivisions. ... The California Polytechnic School, now Cal Poly, was established by state legislation in 1901 and opened in 1903"
+    },
+    "s2": {
+      "title": "Historic California Posts: Camp Roberts",
+      "url": "https://www.militarymuseum.org/campbob.html",
+      "publisher": "California State Military Museum",
+      "retrieved": "2026-10-05",
+      "quote": "Camp Roberts officially began it mission as a replacement training center in March 1941."
+    }
+  },
+  "topics": [
+    "history",
+    "military",
+    "people"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "world war ii",
+    "veterans",
+    "cal poly",
+    "growth"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [
+    "ca-san-luis-obispo-county-camp-roberts-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

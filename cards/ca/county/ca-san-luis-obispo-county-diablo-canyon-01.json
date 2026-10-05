@@ -1,0 +1,99 @@
+{
+  "id": "ca-san-luis-obispo-county-diablo-canyon-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "California's last nuclear plant",
+  "text": "San Luis Obispo County is home to Diablo Canyon, California's only operating nuclear power plant, on the coast near Avila Beach, {distance} from here. Its two reactors, run by Pacific Gas and Electric, began commercial operation in 1985 and 1986. Its construction drew years of protest, through the 1970s and 1980s. In December 2023 state regulators approved keeping it running through 2030.",
+  "sentences": [
+    {
+      "text": "San Luis Obispo County is home to Diablo Canyon, California's only operating nuclear power plant, on the coast near Avila Beach, {distance} from here.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Its two reactors, run by Pacific Gas and Electric, began commercial operation in 1985 and 1986.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Its construction drew years of protest, through the 1970s and 1980s.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "In December 2023 state regulators approved keeping it running through 2030.",
+      "sources": [
+        "s3"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Diablo Canyon Power Plant",
+      "url": "https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378430788",
+      "quote": "The Diablo Canyon Power Plant is a nuclear power plant near Avila Beach in San Luis Obispo County, California. Following the permanent shutdown of the San Onofre Nuclear Generating Station in 2013, Diablo Canyon is now the only operational nuclear plant in California, as well as the state's largest single power station. It was the subject of controversy and protests during its construction"
+    },
+    "s2": {
+      "title": "Diablo Canyon Nuclear Power Plant: background paper, Senate Energy, Utilities and Communications Committee, August 25, 2022",
+      "url": "https://seuc.senate.ca.gov/sites/seuc.senate.ca.gov/files/08-25-2022_background.pdf",
+      "publisher": "California State Senate",
+      "retrieved": "2026-10-05",
+      "quote": "Pacific Gas & Electric’s (PG&E’s) Diablo Canyon Power Plant (DCPP) is California’s only remaining operating nuclear power plant. DCPP consists of two units; Unit 1 is a 1,073 megawatt (MW) Pressurized Water Reactor (PWR) which began commercial operation in May 1985, while Unit 2 is a 1,087 MW PWR, which began commercial operation in March 1986. ... The DCPP sits on approximately 900 acres adjacent to the Pacific Ocean between Avila Beach and Montaña de Oro State Park in San Luis Obispo County."
+    },
+    "s3": {
+      "title": "San Luis Obispo County, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378174865",
+      "quote": "Construction of Diablo Canyon Power Plant became a focus of environmental opposition during the 1970s and 1980s, including campaigns by San Luis Obispo Mothers for Peace and the Abalone Alliance. The plant’s two reactors began commercial operation in 1985 and 1986. ... Pacific Gas and Electric Company operates Diablo Canyon Power Plant. In December 2023, the California Public Utilities Commission approved continued operation through 2030, extending the previous closure schedule."
+    }
+  },
+  "topics": [
+    "energy",
+    "coast",
+    "industry"
+  ],
+  "scores": {
+    "relevance": 2,
+    "interest": 3,
+    "confidence": 5
+  },
+  "sensitive": [
+    "voting"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "diablo canyon",
+    "nuclear power",
+    "pg&e"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "elsewhere": {
+    "name": "Diablo Canyon Power Plant",
+    "lat": 35.21083333,
+    "lon": -120.85611111,
+    "source": "https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

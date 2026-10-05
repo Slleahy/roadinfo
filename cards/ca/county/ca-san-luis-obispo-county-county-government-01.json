@@ -1,0 +1,97 @@
+{
+  "id": "ca-san-luis-obispo-county-county-government-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "Five supervisors, one district for this drive",
+  "text": "Cholame, Shandon and Paso Robles all lie in District 1, one of San Luis Obispo County's five supervisor districts. Each district elects one member of the Board of Supervisors, for overlapping four-year terms. In 2022 the county government spent about 827 million dollars and had about 2,800 full-time employees. Property taxes brought in about 230 million dollars that year.",
+  "sentences": [
+    {
+      "text": "Cholame, Shandon and Paso Robles all lie in District 1, one of San Luis Obispo County's five supervisor districts.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Each district elects one member of the Board of Supervisors, for overlapping four-year terms.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "In 2022 the county government spent about 827 million dollars and had about 2,800 full-time employees.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "Property taxes brought in about 230 million dollars that year.",
+      "sources": [
+        "s4"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "About the County",
+      "url": "https://slocounty.ca.gov/departments/board-of-supervisors/about-the-county",
+      "publisher": "County of San Luis Obispo",
+      "retrieved": "2026-10-05",
+      "quote": "A five-member Board of Supervisors serves as the County’s legislative body, setting policies and priorities to best serve the needs of the community. Supervisors are elected by districts of approximately equal population to overlapping four-year terms. ... District 1 - Adelaide, Cholame, Lake Nacimiento, Oak Shores, Paso Robles, San Miguel, Shandon, Templeton (portion), Whitley Gardens"
+    },
+    "s2": {
+      "title": "Census of Governments 2022, Individual Unit File (finance)",
+      "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-05",
+      "quote": "Government ID 061079161113 (SAN LUIS OBISPO COUNTY): total expenditure $827,120,000",
+      "table": "Census of Governments 2022 finance, government ID 061079161113 (SAN LUIS OBISPO COUNTY)"
+    },
+    "s3": {
+      "title": "Census of Governments 2022: Employment, Individual Unit Files",
+      "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-05",
+      "quote": "Unit 05104003900000 (San Luis Obispo), item 000 (total): full-time employees 2,780",
+      "table": "Census of Governments 2022 employment, unit 05104003900000 (San Luis Obispo), item 000 (total)"
+    },
+    "s4": {
+      "title": "Census of Governments 2022, Individual Unit File (finance)",
+      "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+      "publisher": "U.S. Census Bureau",
+      "retrieved": "2026-10-05",
+      "quote": "Government ID 061079161113 (SAN LUIS OBISPO COUNTY), item T01 (property tax): $229,610,000",
+      "table": "Census of Governments 2022 finance, government ID 061079161113 (SAN LUIS OBISPO COUNTY)"
+    }
+  },
+  "topics": [
+    "government",
+    "economy"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "2022",
+  "themeKeys": [
+    "county government",
+    "supervisors",
+    "budget",
+    "employees"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

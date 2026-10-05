@@ -1,0 +1,98 @@
+{
+  "id": "ca-san-luis-obispo-county-carrizo-plain-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "The county's lost grassland",
+  "text": "In the far southeast of San Luis Obispo County, {distance} from here, lies the Carrizo Plain, a large, enclosed grassland plain. It is a remnant of the grassland that once covered California's Central Valley, where pronghorn and elk grazed. In 2001 much of it became the Carrizo Plain National Monument, run by the Bureau of Land Management. At its center, Soda Lake is usually a dry bed of white salts, and the San Andreas Fault runs along the plain's eastern edge. Painted Rock there holds Native paintings estimated to be between 200 and 3,000 years old, and outside guided tours it is closed to visitors from March through mid-July.",
+  "sentences": [
+    {
+      "text": "In the far southeast of San Luis Obispo County, {distance} from here, lies the Carrizo Plain, a large, enclosed grassland plain.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "It is a remnant of the grassland that once covered California's Central Valley, where pronghorn and elk grazed.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "In 2001 much of it became the Carrizo Plain National Monument, run by the Bureau of Land Management.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "At its center, Soda Lake is usually a dry bed of white salts, and the San Andreas Fault runs along the plain's eastern edge.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "Painted Rock there holds Native paintings estimated to be between 200 and 3,000 years old, and outside guided tours it is closed to visitors from March through mid-July.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Carrizo Plain",
+      "url": "https://en.wikipedia.org/wiki/Carrizo_Plain",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1376570656",
+      "quote": "The Carrizo Plain (Obispeño: tšɨłkukunɨtš, \"Place of the rabbits\") is a large enclosed grassland plain, approximately 50 miles (80 km) long and up to 15 miles (24 km) across, in southeastern San Luis Obispo County ... The San Andreas Fault occurs along the eastern edge of the Carrizo Plain at the western base of the Temblor Range. ... President Bill Clinton proclaimed the national monument on January 12, 2001. ... The pictographs at Painted Rock were made over a long period, some painted over earlier images, and are estimated to be between 200 and 3,000 years old"
+    },
+    "s2": {
+      "title": "Carrizo Plain National Monument",
+      "url": "https://www.blm.gov/programs/national-conservation-lands/california/carrizo-plain-national-monument",
+      "publisher": "Bureau of Land Management",
+      "retrieved": "2026-10-05",
+      "quote": "Three hundred years ago, California’s Central Valley was vast grassland where pronghorn and elk grazed and wildflowers swept the spring landscape. Today, amid urban and agriculture development, a remnant remains in the Carrizo Plain National Monument. ... Soda Lake, normally a dry lake bed, is one of the dominant geographic features of the Carrizo Plain. ... leaving white deposits of sulfates and carbonates that look like baking soda. ... All public lands within 1/4 mile of Painted Rock are closed to public access from March 1 through July 15 each year, except for tours authorized by the Bureau of Land Management ... Created: January 17, 2001"
+    }
+  },
+  "topics": [
+    "public lands",
+    "nature",
+    "geology",
+    "native history"
+  ],
+  "scores": {
+    "relevance": 2,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "carrizo plain",
+    "national monument",
+    "soda lake",
+    "painted rock",
+    "grassland"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "elsewhere": {
+    "name": "Carrizo Plain",
+    "lat": 35.1913582,
+    "lon": -119.792908,
+    "source": "https://en.wikipedia.org/wiki/Carrizo_Plain"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

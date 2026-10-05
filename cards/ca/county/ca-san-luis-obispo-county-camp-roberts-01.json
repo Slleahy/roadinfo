@@ -1,0 +1,94 @@
+{
+  "id": "ca-san-luis-obispo-county-camp-roberts-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "A camp named for a 19-year-old corporal",
+  "text": "Camp Roberts, the California National Guard post on the Salinas River north of Mission San Miguel, straddles the line between San Luis Obispo and Monterey Counties. It began training soldiers in March 1941, and during World War II some 436,000 infantry and field artillery troops trained there. It was first called Camp Nacimiento, then renamed for Corporal Harold W. Roberts, a 19-year-old tank driver in World War I. When his tank fell into a flooded shell crater in France, Roberts shoved his gunner out but could not get out himself, and he was awarded the Medal of Honor after his death.",
+  "sentences": [
+    {
+      "text": "Camp Roberts, the California National Guard post on the Salinas River north of Mission San Miguel, straddles the line between San Luis Obispo and Monterey Counties.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It began training soldiers in March 1941, and during World War II some 436,000 infantry and field artillery troops trained there.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It was first called Camp Nacimiento, then renamed for Corporal Harold W. Roberts, a 19-year-old tank driver in World War I.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "When his tank fell into a flooded shell crater in France, Roberts shoved his gunner out but could not get out himself, and he was awarded the Medal of Honor after his death.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Camp Roberts, California",
+      "url": "https://en.wikipedia.org/wiki/Camp_Roberts,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1377260646",
+      "quote": "Camp Roberts is a California National Guard post in central California, located on both sides of the Salinas River in Monterey and San Luis Obispo counties, now run by the California Army National Guard. ... The camp opened as the  Camp Nacimiento Replacement Training Center, but the name was changed, to honor Corporal Harold W. Roberts, a tank driver in World War I who was posthumously awarded the Medal of Honor. For World War II 436,000 Infantry and Field Artillery troops were trained at the camp."
+    },
+    "s2": {
+      "title": "Historic California Posts: Camp Roberts",
+      "url": "https://www.militarymuseum.org/campbob.html",
+      "publisher": "California State Military Museum",
+      "retrieved": "2026-10-05",
+      "quote": "Camp Roberts is located north of the historic Mission San Miguel ... the original name of Camp Nacimiento Replacement Training Center was changed to Camp Roberts, in honor of Corporal Harold W. Roberts, a tank driver in World War I. Corporal Roberts lost his life driving his tank in action in the Montrebeau Forest in northeastern France. The tank fell into a shell crater filled with rainwater while maneuvering to aid another tank. While the tank rapidly filled with water, Corporal Roberts shoved the gunner out, but was unable to get himself out and drowned. For his selfless act, he was awarded the Medal of Honor posthumously. ... Harold Roberts, who was only 19 years old when he laid his life down for his country. ... Camp Roberts officially began it mission as a replacement training center in March 1941. ... 436,000 World War II Infantry and Field Artillery troops passed through an intensive seventeen week training cycle."
+    }
+  },
+  "topics": [
+    "military",
+    "history",
+    "world war ii"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 5
+  },
+  "sensitive": [
+    "tragedy"
+  ],
+  "asOf": null,
+  "themeKeys": [
+    "camp roberts",
+    "national guard",
+    "medal of honor",
+    "world war ii"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "near": {
+    "lat": 35.78,
+    "lon": -120.78666667,
+    "radiusMeters": 40000,
+    "name": "Camp Roberts",
+    "source": "https://en.wikipedia.org/wiki/Camp_Roberts,_California"
+  },
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

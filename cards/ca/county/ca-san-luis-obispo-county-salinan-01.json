@@ -1,0 +1,98 @@
+{
+  "id": "ca-san-luis-obispo-county-salinan-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "The Salinan people",
+  "text": "The north end of San Luis Obispo County, along the upper Salinas River, is part of the homeland of the Salinan people. The Salinan Tribe says its people have lived in central California, from the Pacific east to the Temblor Mountains, for at least the last 10,000 years. Their 13 known villages stretched from Monterey County south to the Santa Maria River. The name Salinan was given by Spanish missionaries, and it comes from the Salinas River. Today the Salinan Tribe of San Luis Obispo and Monterey Counties says: we are still here, and we will remain.",
+  "sentences": [
+    {
+      "text": "The north end of San Luis Obispo County, along the upper Salinas River, is part of the homeland of the Salinan people.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "The Salinan Tribe says its people have lived in central California, from the Pacific east to the Temblor Mountains, for at least the last 10,000 years.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "Their 13 known villages stretched from Monterey County south to the Santa Maria River.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The name Salinan was given by Spanish missionaries, and it comes from the Salinas River.",
+      "sources": [
+        "s1",
+        "s3"
+      ]
+    },
+    {
+      "text": "Today the Salinan Tribe of San Luis Obispo and Monterey Counties says: we are still here, and we will remain.",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "Salinan Tribe of San Luis Obispo and Monterey Counties",
+      "url": "https://salinantribe.com/",
+      "publisher": "Salinan Tribe of San Luis Obispo and Monterey Counties",
+      "retrieved": "2026-10-05",
+      "quote": "For at least the last 10,000 years Salinan people have inhabited the Central part of California from the Pacific Ocean East to the Temblor Mountains. Today we are known as the Salinan People named by the California Spanish Missionaries who built Missions San Luis Obispo de Tolosa, San Miguel Arcangel and San Antonio de Padua. ... Our 13 known villages stretched from Monterey County to the Santa Maria River, inland along the Temblor Mountains, and all along the coast, from Big Sur to south San Luis Obispo County. We lived along the length of the River now known as the Salinas with which we share our name ... We are still here, and we will remain."
+    },
+    "s2": {
+      "title": "Salinan",
+      "url": "https://en.wikipedia.org/wiki/Salinan",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1374717392",
+      "quote": "The Miguelino lived on the upper course of the Salinas River"
+    },
+    "s3": {
+      "title": "Salinan",
+      "url": "https://en.wikipedia.org/wiki/Salinan",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1374717392",
+      "quote": "The tribe's name is taken from the Salinas River, as the Spanish did not understand if the people had a name for themselves."
+    }
+  },
+  "topics": [
+    "native history",
+    "people",
+    "salinan"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 4,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "salinan",
+    "native peoples",
+    "salinas river"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [
+    "ca-san-luis-obispo-county-mission-san-miguel-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

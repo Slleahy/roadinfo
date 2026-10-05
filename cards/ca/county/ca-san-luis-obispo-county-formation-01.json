@@ -1,0 +1,115 @@
+{
+  "id": "ca-san-luis-obispo-county-formation-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "One of California's first counties",
+  "text": "San Luis Obispo County was created in 1850 as one of California's original 27 counties. It shares its name with its county seat, the city of San Luis Obispo, and with the mission there, Mission San Luis Obispo de Tolosa. The mission was named for Saint Louis, bishop of Toulouse in France, and obispo is Spanish for bishop. When the county was new, the old mission served as its first courthouse and jail.",
+  "sentences": [
+    {
+      "text": "San Luis Obispo County was created in 1850 as one of California's original 27 counties.",
+      "sources": [
+        "s1",
+        "s2"
+      ]
+    },
+    {
+      "text": "It shares its name with its county seat, the city of San Luis Obispo, and with the mission there, Mission San Luis Obispo de Tolosa.",
+      "sources": [
+        "s3",
+        "s4"
+      ]
+    },
+    {
+      "text": "The mission was named for Saint Louis, bishop of Toulouse in France, and obispo is Spanish for bishop.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    },
+    {
+      "text": "When the county was new, the old mission served as its first courthouse and jail.",
+      "sources": [
+        "s6"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "About the County",
+      "url": "https://slocounty.ca.gov/departments/board-of-supervisors/about-the-county",
+      "publisher": "County of San Luis Obispo",
+      "retrieved": "2026-10-05",
+      "quote": "The County of San Luis Obispo government (The County) was established in 1850 as one of the original 27 counties in California."
+    },
+    "s2": {
+      "title": "San Luis Obispo County, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378174865",
+      "quote": "San Luis Obispo County was one of California’s original counties, established in 1850."
+    },
+    "s3": {
+      "title": "San Luis Obispo County, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378174865",
+      "quote": "San Luis Obispo is the county seat and its largest city by population."
+    },
+    "s4": {
+      "title": "Mission San Luis Obispo de Tolosa",
+      "url": "https://en.wikipedia.org/wiki/Mission_San_Luis_Obispo_de_Tolosa",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1367607125",
+      "quote": "The mission was named after San Luis, obispo de Tolosa (Saint Louis, bishop of Toulouse, France)."
+    },
+    "s5": {
+      "title": "San Luis Obispo, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378598760",
+      "quote": "Both the mission and town were named after Louis, bishop of Toulouse, France, known in Spanish as \"Luis, obispo de Tolosa\"."
+    },
+    "s6": {
+      "title": "Mission San Luis Obispo de Tolosa",
+      "url": "https://en.wikipedia.org/wiki/Mission_San_Luis_Obispo_de_Tolosa",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1367607125",
+      "quote": "The Mission San Luís Obispo de Tolosa became the first courthouse and jail in San Luis Obispo County, California."
+    }
+  },
+  "topics": [
+    "history",
+    "government"
+  ],
+  "scores": {
+    "relevance": 2,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "county formation",
+    "1850",
+    "county name",
+    "mission san luis obispo"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

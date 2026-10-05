@@ -1,0 +1,107 @@
+{
+  "id": "ca-san-luis-obispo-county-climate-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "Hot inland, cool on the coast",
+  "text": "San Luis Obispo County runs from a cool, damp northern coast to a hot, dry interior. For much of the summer, the Santa Lucia and Garcia ranges keep the ocean air on the coast, apart from the drier interior. At the Paso Robles airport, inland, July afternoons average a high of about 93 degrees, while at the San Luis Obispo County Regional Airport, nearer the sea, the July average high is about 78. January nights at Paso Robles average a low of about 35 degrees, and the normal snowfall there is zero.",
+  "sentences": [
+    {
+      "text": "San Luis Obispo County runs from a cool, damp northern coast to a hot, dry interior.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "For much of the summer, the Santa Lucia and Garcia ranges keep the ocean air on the coast, apart from the drier interior.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "At the Paso Robles airport, inland, July afternoons average a high of about 93 degrees, while at the San Luis Obispo County Regional Airport, nearer the sea, the July average high is about 78.",
+      "sources": [
+        "s2",
+        "s3"
+      ]
+    },
+    {
+      "text": "January nights at Paso Robles average a low of about 35 degrees, and the normal snowfall there is zero.",
+      "sources": [
+        "s4",
+        "s5"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "San Luis Obispo County, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378174865",
+      "quote": "Conditions range from a cool, damp northern coast to a hot, dry interior, including the Cuyama Valley. The Garcia and Santa Lucia ranges intercept Pacific rain-bearing clouds and separate coastal marine air from the drier interior during much of summer."
+    },
+    "s2": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, monthly, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00093209&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-05",
+      "quote": "MLY-TMAX-NORMAL, July (DATE 07), USW00093209: 93.2 degrees F",
+      "table": "NOAA Climate Normals 1991-2020, monthly, USW00093209"
+    },
+    "s3": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, monthly, station USW00093206 (SAN LUIS OBISPO AP, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00093206&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL,MLY-PRCP-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-05",
+      "quote": "MLY-TMAX-NORMAL, July (DATE 07), USW00093206: 78.0 degrees F",
+      "table": "NOAA Climate Normals 1991-2020, monthly, USW00093206"
+    },
+    "s4": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, monthly, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USW00093209&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-05",
+      "quote": "MLY-TMIN-NORMAL, January (DATE 01), USW00093209: 35.1 degrees F",
+      "table": "NOAA Climate Normals 1991-2020, monthly, USW00093209"
+    },
+    "s5": {
+      "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093209&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "retrieved": "2026-10-05",
+      "quote": "ANN-SNOW-NORMAL, 1991-2020, PASO ROBLES MUNI AP: 0.0 inches",
+      "table": "NOAA Climate Normals 1991-2020, USW00093209"
+    }
+  },
+  "topics": [
+    "climate",
+    "weather"
+  ],
+  "scores": {
+    "relevance": 4,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": "1991-2020",
+  "themeKeys": [
+    "climate",
+    "temperature",
+    "marine air",
+    "paso robles"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}

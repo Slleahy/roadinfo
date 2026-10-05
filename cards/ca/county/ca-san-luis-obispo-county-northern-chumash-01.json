@@ -1,0 +1,83 @@
+{
+  "id": "ca-san-luis-obispo-county-northern-chumash-01",
+  "level": "county",
+  "anchor": {
+    "type": "county",
+    "fips": "06079"
+  },
+  "title": "The Northern Chumash",
+  "text": "On the coast of San Luis Obispo County, around Morro Bay and Los Osos, lived Chumash communities, while Salinan communities lived near San Miguel. The Northern Chumash Tribe of San Luis Obispo County and Region says its families' ancestry here goes back well over 10,000 years. Its people built homes and boats of tule rushes, and were weavers of fine baskets, a craft the tribe still practices. The tribe is acknowledged by the California Native American Heritage Commission, which is not the same as federal recognition.",
+  "sentences": [
+    {
+      "text": "On the coast of San Luis Obispo County, around Morro Bay and Los Osos, lived Chumash communities, while Salinan communities lived near San Miguel.",
+      "sources": [
+        "s1"
+      ]
+    },
+    {
+      "text": "The Northern Chumash Tribe of San Luis Obispo County and Region says its families' ancestry here goes back well over 10,000 years.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "Its people built homes and boats of tule rushes, and were weavers of fine baskets, a craft the tribe still practices.",
+      "sources": [
+        "s2"
+      ]
+    },
+    {
+      "text": "The tribe is acknowledged by the California Native American Heritage Commission, which is not the same as federal recognition.",
+      "sources": [
+        "s2"
+      ]
+    }
+  ],
+  "sources": {
+    "s1": {
+      "title": "San Luis Obispo County, California",
+      "url": "https://en.wikipedia.org/wiki/San_Luis_Obispo_County,_California",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-10-05",
+      "revision": "1378174865",
+      "quote": "Chumash communities lived around Morro Bay and Los Osos, while Salinan communities inhabited the vicinity of present-day San Miguel."
+    },
+    "s2": {
+      "title": "YTT Northern Chumash Tribe",
+      "url": "https://yttnorthernchumashtribe.com/",
+      "publisher": "yak titʸu titʸu yak tiłhini Northern Chumash Tribe",
+      "retrieved": "2026-10-05",
+      "quote": "YAK TITʸU TITʸU YAK TIŁHINI (ytt) Northern Chumash Tribe of San Luis Obispo County and Region ... Our membership is comprised of families whose ancestry dates back to this one region for well over 10,000 years. ... the ability to make a great variety of tools, tule rush homes and watercraft. We were weavers of incredible baskets. ... We continue today to work with natural materials to make baskets and regalia. ... Currently our Tribe has status as an Acknowledged Tribe by the California Native American Heritage Commission. This is not the same as Federal Recognition"
+    }
+  },
+  "topics": [
+    "native history",
+    "people",
+    "chumash"
+  ],
+  "scores": {
+    "relevance": 3,
+    "interest": 3,
+    "confidence": 4
+  },
+  "sensitive": [],
+  "asOf": null,
+  "themeKeys": [
+    "chumash",
+    "northern chumash",
+    "native peoples",
+    "baskets"
+  ],
+  "pronunciations": {
+    "San Luis Obispo": "san-lu-is-o-bis-po (IPA: sæn ˌluːɪs oʊˈbɪspoʊ)"
+  },
+  "followOn": [
+    "ca-san-luis-obispo-county-salinan-01"
+  ],
+  "direction": null,
+  "checked": {
+    "by": "checker",
+    "date": "2026-10-05",
+    "removed": 0
+  }
+}
