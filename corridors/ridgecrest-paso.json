@@ -1,0 +1,24 @@
+{
+  "name": "Ridgecrest to Paso Robles (owner's route, 2026-10-04)",
+  "purpose": "Inyokern, CA-14 south to Mojave, CA-58 over Tehachapi Pass to Bakersfield, I-5 north to exit 278, CA-46 west through Cholame and Shandon to Paso Robles, then Nacimiento Lake Drive and Chimney Rock Road to Adelaide. Phases P1 to P7 in BUDGET.md.",
+  "routes": [
+    {"id": "ca58-mojave-bakersfield", "description": "CA-58 from Mojave over Tehachapi Pass, through Keene and Caliente country, down to Bakersfield.", "roads": ["CA-58"]},
+    {"id": "i5-bakersfield-lost-hills", "description": "I-5 north from the CA-58 junction near Buttonwillow to exit 278 at Lost Hills.", "roads": ["I-5"]},
+    {"id": "ca46-lost-hills-paso-robles", "description": "CA-46 west from Lost Hills past Cholame and Shandon to Paso Robles.", "roads": ["CA-46"]},
+    {"id": "paso-robles-adelaide", "description": "Nacimiento Lake Drive and Chimney Rock Road from Paso Robles to Adelaide.", "roads": ["Nacimiento Lake Drive", "Chimney Rock Road"]}
+  ],
+  "counties": [
+    {"name": "Kern County", "fips": "06029", "facts": "facts/ca/06029.json"},
+    {"name": "San Luis Obispo County", "fips": "06079", "facts": "facts/ca/06079.json", "cardTarget": 15, "focus": "The route crosses the county's north end: CA-46 from the Kern line past Cholame, the San Andreas Fault and Shandon, then Paso Robles and the hills west to Adelaide and Lake Nacimiento. Most cards about that side; a handful county-wide (how the county formed, its size, government, the missions, the coast a driver is heading toward)."}
+  ],
+  "leadsToResearch": [
+    "Cholame and James Dean's 1955 crash at the CA-46 and CA-41 junction; the memorial at Cholame",
+    "The San Andreas Fault crossing near Cholame; Parkfield",
+    "Antelope Grade on CA-46",
+    "Shandon",
+    "Estrella and the Estrella River",
+    "Paso Robles: the hot springs and the 1886 hotel, the 2003 San Simeon earthquake, the wine district",
+    "The Santa Lucia Range; Lake Nacimiento; Adelaide"
+  ],
+  "note": "Leads are things to research, not facts. Every card fact needs its own sources."
+}

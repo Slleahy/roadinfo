@@ -1,0 +1,303 @@
+{
+  "fips": "06079",
+  "built": "2026-10-05",
+  "facts": {
+    "population": {
+      "value": 281555.0,
+      "unit": "people",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B01003",
+        "url": "https://censusreporter.org/tables/B01003/?geo_ids=05000US06079",
+        "table": "Census ACS 5-year 2020-2024, B01003",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "median_household_income": {
+      "value": 97446.0,
+      "unit": "dollars",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B19013",
+        "url": "https://censusreporter.org/tables/B19013/?geo_ids=05000US06079",
+        "table": "Census ACS 5-year 2020-2024, B19013",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "median_age": {
+      "value": 40.4,
+      "unit": "years",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B01002",
+        "url": "https://censusreporter.org/tables/B01002/?geo_ids=05000US06079",
+        "table": "Census ACS 5-year 2020-2024, B01002",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "median_home_value": {
+      "value": 824700.0,
+      "unit": "dollars",
+      "year": "2024",
+      "source": {
+        "title": "American Community Survey 2020-2024 5-year estimates, table B25077",
+        "url": "https://censusreporter.org/tables/B25077/?geo_ids=05000US06079",
+        "table": "Census ACS 5-year 2020-2024, B25077",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "climate_station": {
+      "value": "PASO ROBLES MUNI AP, CA US",
+      "unit": "station",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093209&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093209",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "annual_precipitation": {
+      "value": 12.15,
+      "unit": "inches",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093209&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093209",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "annual_snowfall": {
+      "value": 0.0,
+      "unit": "inches",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093209&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093209",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "annual_mean_temperature": {
+      "value": 60.0,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093209&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093209",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "july_average_high": {
+      "value": 93.2,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093209&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093209",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "january_average_low": {
+      "value": 35.1,
+      "unit": "degrees F",
+      "year": "1991-2020",
+      "source": {
+        "title": "NOAA NCEI U.S. Climate Normals 1991-2020, station USW00093209 (PASO ROBLES MUNI AP, CA US)",
+        "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-annualseasonal-1991-2020&stations=USW00093209&dataTypes=ANN-PRCP-NORMAL,ANN-SNOW-NORMAL,ANN-TAVG-NORMAL&format=json",
+        "table": "NOAA Climate Normals 1991-2020, USW00093209",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "county_government_taxes": {
+      "value": 284169000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 061079161113 (SAN LUIS OBISPO COUNTY)",
+        "retrieved": "2026-10-05"
+      },
+      "note": "Sum of tax item codes (T*)."
+    },
+    "county_government_property_tax": {
+      "value": 229610000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 061079161113 (SAN LUIS OBISPO COUNTY)",
+        "retrieved": "2026-10-05"
+      },
+      "note": "Item T01."
+    },
+    "county_government_gross_receipts_and_sales_tax": {
+      "value": 18841000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 061079161113 (SAN LUIS OBISPO COUNTY)",
+        "retrieved": "2026-10-05"
+      },
+      "note": "Item T09, general sales or gross receipts."
+    },
+    "county_government_spending": {
+      "value": 827120000,
+      "unit": "dollars",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022, Individual Unit File (finance)",
+        "url": "https://www2.census.gov/programs-surveys/gov-finances/tables/2022/2022_Individual_Unit_File.zip",
+        "table": "Census of Governments 2022 finance, government ID 061079161113 (SAN LUIS OBISPO COUNTY)",
+        "retrieved": "2026-10-05"
+      },
+      "note": "Direct expenditure (E, F, G, I, J) plus intergovernmental expenditure (M), per the Census classification manual."
+    },
+    "county_government_full_time_employees": {
+      "value": 2780,
+      "unit": "people",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 05104003900000 (San Luis Obispo), item 000 (total)",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "county_government_part_time_employees": {
+      "value": 632,
+      "unit": "people",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 05104003900000 (San Luis Obispo), item 000 (total)",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "county_government_march_payroll_full_time": {
+      "value": 19913288,
+      "unit": "dollars per month",
+      "year": "2022",
+      "source": {
+        "title": "Census of Governments 2022: Employment, Individual Unit Files",
+        "url": "https://www2.census.gov/programs-surveys/apes/datasets/2022/2022%20COG-E%20Individual%20Unit%20Files.zip",
+        "table": "Census of Governments 2022 employment, unit 05104003900000 (San Luis Obispo), item 000 (total)",
+        "retrieved": "2026-10-05"
+      },
+      "note": "March, 31-day equivalent."
+    },
+    "land_area": {
+      "value": 3301,
+      "unit": "square miles",
+      "year": "2023",
+      "source": {
+        "title": "Census TIGERweb, State_County layer",
+        "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/State_County/MapServer/1/query?where=GEOID%3D%2706079%27&outFields=NAME%2CAREALAND%2CAREAWATER&returnGeometry=true&outSR=4326&maxAllowableOffset=0.001&f=json",
+        "table": "Census TIGER/Line county AREALAND",
+        "retrieved": "2026-10-05"
+      }
+    },
+    "land_share_by_manager_percent": {
+      "value": {
+        "BLM": 10.6,
+        "USFS": 8.2,
+        "SFW": 2.4,
+        "NGO": 1.4,
+        "DOD": 1.3,
+        "SPR": 0.9,
+        "CNTY": 0.8
+      },
+      "unit": "percent of county area",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-05"
+      },
+      "note": "Manager codes as in PAD-US (TRIB tribal, BLM, USFS, NPS, DOD, SLB state land board, CITY, CNTY…). Remainder is private or unlisted."
+    },
+    "land_share_unlisted_percent": {
+      "value": 73.9,
+      "unit": "percent of county area",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-05"
+      },
+      "note": "Private land or land not in PAD-US."
+    },
+    "largest_land_units": {
+      "value": [
+        {
+          "name": "Bakersfield Field Office",
+          "manager": "BLM",
+          "percent_of_county": 10.6
+        },
+        {
+          "name": "Los Padres National Forest",
+          "manager": "USFS",
+          "percent_of_county": 8.1
+        },
+        {
+          "name": "Carrizo Plains Ecological Reserve",
+          "manager": "SFW",
+          "percent_of_county": 1.7
+        },
+        {
+          "name": "National Guard Maneuver Training Center - Heavy Camp Roberts",
+          "manager": "DOD",
+          "percent_of_county": 1.1
+        },
+        {
+          "name": "Las Piletas Ranch",
+          "manager": "NGO",
+          "percent_of_county": 0.6
+        },
+        {
+          "name": "Montaña de Oro State Park",
+          "manager": "SPR",
+          "percent_of_county": 0.4
+        },
+        {
+          "name": "Unknown Site - Carrizo Plain Conservancy",
+          "manager": "NGO",
+          "percent_of_county": 0.4
+        },
+        {
+          "name": "California Valley",
+          "manager": "SFW",
+          "percent_of_county": 0.4
+        },
+        {
+          "name": "Nacimiento County Recreation Area",
+          "manager": "CNTY",
+          "percent_of_county": 0.3
+        },
+        {
+          "name": "Santa Margarita Lake Regional Park and Natural Area",
+          "manager": "CNTY",
+          "percent_of_county": 0.2
+        }
+      ],
+      "unit": "list",
+      "year": "2024",
+      "source": {
+        "title": "USGS Protected Areas Database of the United States (PAD-US) 4.1, Fee Managers, clipped to the Census county outline",
+        "url": "https://services.arcgis.com/v01gqwM5QqNysAAi/arcgis/rest/services/Fee_Managers_PADUS/FeatureServer/0/query",
+        "table": "PAD-US 4.1 Fee Managers",
+        "retrieved": "2026-10-05"
+      }
+    }
+  }
+}
